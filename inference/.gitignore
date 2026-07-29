@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# 회사 데이터는 커밋하지 않는다 (폴더 구조만 유지)
+data/**/*.xlsx
+data/**/*.xls
+data/**/*.csv
