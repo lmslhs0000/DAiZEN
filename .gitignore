@@ -1,0 +1,24 @@
+# Environment / Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Frontend
+node_modules/
+dist/
+build/
+
+# Uploaded files / Runtime data
+uploads/
+
+# Logs
+*.log
+
+# Docker
+.dockerignore
