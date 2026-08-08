@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware  # 🌟 신규 추가: CORS 미들웨어 임포트
+from fastapi.middleware.cors import CORSMiddleware  # 신규 추가: CORS 미들웨어 임포트
 
 from app.core.config import settings
 
@@ -18,7 +18,7 @@ from app.routers.root import router
 
 app = FastAPI(title=settings.app_name)
 
-# 🌟 신규 추가: CORS 미들웨어 등록 (가장 먼저 요청을 검사하는 문지기 역할)
+# 신규 추가: CORS 미들웨어 등록 (가장 먼저 요청을 검사하는 문지기 역할)
 app.add_middleware(
     CORSMiddleware,
     allow_origins=settings.BACKEND_CORS_ORIGINS, # 허용할 프론트엔드 주소
