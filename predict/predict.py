@@ -46,45 +46,50 @@ def recursive_forecast(model, data, steps=24, kernel_width=3):
     return np.array(predictions)
 
 
-future_24 = recursive_forecast(
-    model=cnn_model,
-    data=test_df,
-    steps=24,
-    kernel_width=kernel_width
-)
+def predict(data, steps=24):
 
+    future = recursive_forecast(
+        model=cnn_model,
+        data=data,
+        steps=steps,
+        kernel_width=kernel_width
+    )
 
-for i, value in enumerate(future_24, start=1):
-    print(f"{i:2d}시간 후 : {value:.6f}")
+    forecast_df = pd.DataFrame({
+        'hour_ahead': range(1, steps + 1),
+        'NO2_prediction_scaled': future
+    })
 
+    forecast_df.to_csv(
+        'future_24_no2.csv',
+        index=False
+    )
 
-forecast_df = pd.DataFrame({
-    'hour_ahead': range(1, 25),
-    'NO2_prediction_scaled': future_24
-})
+    plt.figure(figsize=(12, 5))
 
-forecast_df.to_csv(
-    'future_24_no2.csv',
-    index=False
-)
+    plt.plot(
+        range(1, steps + 1),
+        future,
+        marker='o'
+    )
 
-print("\nfuture_24_no2.csv 저장 완료")
+    plt.xlabel('Future Time (h)')
+    plt.ylabel('NO2 [scaled]')
+    plt.title('NO2 Future 24-Hour Forecast')
 
+    plt.xticks(range(1, steps + 1))
+    plt.grid(True)
+    plt.tight_layout()
 
-plt.figure(figsize=(12, 5))
+    plt.savefig('future_24_no2.png')
+    plt.close()
 
-plt.plot(
-    range(1, 25),
-    future_24,
-    marker='o'
-)
+    result = {
+        "predictions": future.tolist(),
+         "target": "NO2"
+    }
 
-plt.xlabel('Future Time (h)')
-plt.ylabel('NO2 [scaled]')
-plt.title('NO2 Future 24-Hour Forecast')
+    return result
 
-plt.xticks(range(1, 25))
-plt.grid(True)
-plt.tight_layout()
-
-plt.show()
+result = predict(test_df)
+print(result)
