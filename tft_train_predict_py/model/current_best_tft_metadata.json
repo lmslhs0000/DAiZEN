@@ -1,0 +1,2965 @@
+{
+  "data_path_at_training": "C:\\Users\\이원빈\\Desktop\\tft_train_predict_py\\raw\\korean.csv",
+  "base_period": "2016-01",
+  "trained_until": "2026-07",
+  "max_time_idx_at_training": 126,
+  "best_epochs": 16,
+  "calibration_best_val_mae": 218.0018,
+  "max_encoder_length": 24,
+  "max_prediction_length": 6,
+  "lags": [
+    1,
+    3,
+    6,
+    12
+  ],
+  "trained_groups": [
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "G4 렉스턴"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "뉴 코란도 C"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "뉴 토레스"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "렉스턴"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "렉스턴 W"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "렉스턴 뉴 아레나"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "렉스턴 스포츠"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "렉스턴 스포츠 칸"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "무쏘"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "무쏘 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "무쏘 스포츠"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "무쏘 칸"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "액티언"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "체어맨 W"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도 C"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도 스포츠"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도 이모션"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "코란도 투리스모"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "토레스"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "토레스 EVX"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "티볼리"
+    },
+    {
+      "market": "국산",
+      "brand": "KGM",
+      "model": "티볼리 에어"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "EV3"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "EV4"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "EV5"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "EV6"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "EV9"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K3"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K3 GT"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K3 쿱"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K5"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K5 플러그인 하이브리드"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K5 하이브리드"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K7"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K7 가솔린 2.4 / 버스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K7 하이브리드"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K7/기타"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K8"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "K9"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "PV5"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "니로"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "니로 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "니로 플러그인 하이브리드"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "니로 플러스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "레이"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "레이 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "레이EV/버스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "모닝"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "모하비"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스 (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스 / 트럭특장 (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스 / 특장 (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/레이EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/레이EV (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/레이전기"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/트럭특장 (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/특수"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/특수 (기아)"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/특수/쏘울EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "버스/특장"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "봉고 3"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "봉고 3 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "셀토스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "스토닉"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "스팅어"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "스포티지"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "쏘렌토"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "쏘울"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "쏘울 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "카니발"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "카렌스"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "타스만"
+    },
+    {
+      "market": "국산",
+      "brand": "기아",
+      "model": "프라이드"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "QM3"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "QM5 네오"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "QM6"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "SM3 Z.E."
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "SM3 네오"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "SM5 노바"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "SM6"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "SM7 노바"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "XM3"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "그랑 콜레오스"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "뉴 QM3"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "더 뉴 SM6"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "마스터"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "세닉 E-테크 일렉트릭"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "아르카나"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "조에"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "캡처"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "클리오"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "트위지"
+    },
+    {
+      "market": "국산",
+      "brand": "르노코리아",
+      "model": "필랑트"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "NEW MATIZ"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "다마스"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종모델 (기타)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종모델 (말리부 2.4)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종모델 (말리부/임팔라)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종차량 (쉐보레)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종차량 (올 뉴 말리부)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "단종차량 (크루즈, 캡티바, 올란도)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "더 넥스트 스파크"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "더 뉴 아베오"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "라보"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "말리부"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "말리부 1.5"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "말리부 2.4"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "볼트"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "볼트 EUV"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "볼트 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "볼트 PHEV"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "볼트/스파크"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "스파크"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "스파크 EV"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "아베오"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "알페온"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "어메이징 뉴 크루즈"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "올 뉴 말리부"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "올 뉴 말리부 (단종차량)"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "올 뉴 크루즈"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "올란도"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "이쿼녹스"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "임팔라"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "카마로"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "카마로 SS"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "캡티바"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "콜로라도"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "크루즈/기타"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "타호"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "트래버스"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "트랙스"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "트랙스 크로스오버"
+    },
+    {
+      "market": "국산",
+      "brand": "쉐보레",
+      "model": "트레일블레이저"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "EQ900"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "Electrified G80"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "Electrified GV70"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "G70"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "G80"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "G90"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "GV60"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "GV60 MAGMA"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "GV70"
+    },
+    {
+      "market": "국산",
+      "brand": "제네시스",
+      "model": "GV80"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "LF쏘나타"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "LF쏘나타 HEV"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "LF쏘나타 PHEV"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "ST1"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "YF 2.0 Lpi / 투싼 FCEV / 버스 / 트럭 / 트럭특장"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "i30"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "i40"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "그랜드 스타렉스"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "그랜저"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "그랜저 hybrid"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "그랜저HG"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "그랜저HG HEV"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "넥쏘"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "더 뉴 i30"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "더 뉴 그랜저"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "더 뉴 마이티"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "더 뉴 스타리아"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "더 뉴 아이오닉 6"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "디 올 뉴 넥쏘"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "디 올 뉴 팰리세이드"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "마이티"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "맥스크루즈"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭/YF쏘나타택시 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭/기타/택시 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭/투싼 수소차 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭/트럭특장/투싼FCEV (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "버스/트럭/특장 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "베뉴"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "벨로스터"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "벨로스터 N"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "스타렉스"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "스타리아"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "스타리아 일렉트릭"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "싼타페"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타 뉴 라이즈"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타 뉴 라이즈 hybrid"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타 뉴 라이즈 plug-in"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타 디 엣지"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏘나타(YF)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "쏠라티"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아반떼"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아반떼 N"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아슬란"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 5"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 5 N"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 6"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 9"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 electric"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 hybrid"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "아이오닉 plug-in"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "에쿠스"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "엑센트"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "제네시스 쿠페"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "제네시스(DH)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "카운티"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "카운티 일렉트릭"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "캐스퍼"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "캐스퍼 일렉트릭"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "코나"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "코나 N"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "코나 electric"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "코나 일렉트릭"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼 FCEV / 버스 / 트럭 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼 FCEV/버스/트럭 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼 FCEV/버스/트럭(현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼 FCEV/버스/트럭/트럭특장 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼(2017)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼ix FCEV / 버스 / 트럭 / 특장"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼ix FCEV/ 버스/트럭 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "투싼ix FCEV/버스/트럭 (현대)"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "팰리세이드"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "포터2"
+    },
+    {
+      "market": "국산",
+      "brand": "현대",
+      "model": "포터2 일렉트릭"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "1 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "2 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "2 Series Active Tourer"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "2 Series Gran Coupe"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "220d Coupe"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "3 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "4 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "5 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "6 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "7 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "8 Series"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "GT ED"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "Gran Turismo"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M2"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M235i xDrive Gran Coupe"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M3"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M4"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M5"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "M8"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "The New iX3"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X1"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X2"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X3"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X3 M"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X4"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X4 M"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X5"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X5 M"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X6"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X6 M"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "X7"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "XM"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "Z4"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "i3"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "i4"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "i5"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "i7"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "i8"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "iX"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "iX1"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "iX2"
+    },
+    {
+      "market": "수입",
+      "brand": "BMW",
+      "model": "iX3"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "ATTO 3"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "Dolphin"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "New ATTO 3"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "SEAL"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "SEALION 6 DM-i"
+    },
+    {
+      "market": "수입",
+      "brand": "BYD",
+      "model": "SEALION 7"
+    },
+    {
+      "market": "수입",
+      "brand": "DS",
+      "model": "DS3 Crossback"
+    },
+    {
+      "market": "수입",
+      "brand": "DS",
+      "model": "DS3 Crossback E-Tense"
+    },
+    {
+      "market": "수입",
+      "brand": "DS",
+      "model": "DS4"
+    },
+    {
+      "market": "수입",
+      "brand": "DS",
+      "model": "DS7 Crossback"
+    },
+    {
+      "market": "수입",
+      "brand": "GMC",
+      "model": "Acadia"
+    },
+    {
+      "market": "수입",
+      "brand": "GMC",
+      "model": "Canyon"
+    },
+    {
+      "market": "수입",
+      "brand": "GMC",
+      "model": "Hummer EV"
+    },
+    {
+      "market": "수입",
+      "brand": "GMC",
+      "model": "Sierra"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "370Z"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Altima"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Juke"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Leaf"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Maxima"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Murano"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "New  Leaf"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Pathfinder"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "Qashqai"
+    },
+    {
+      "market": "수입",
+      "brand": "닛산",
+      "model": "The New X-Trail"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Aventador"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Huracan"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Huracan EVO"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Revuelto"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Temerario"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Urus"
+    },
+    {
+      "market": "수입",
+      "brand": "람보르기니",
+      "model": "Urus S"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Defender"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Discovery"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Discovery 4"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Discovery Sport"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Range Rover"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Range Rover Evoque"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Range Rover Sport"
+    },
+    {
+      "market": "수입",
+      "brand": "랜드로버",
+      "model": "Range Rover Velar"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "CT"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "ES"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "GS"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "IS"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "LC"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "LM"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "LS"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "LX"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "NX"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "RC"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "RX"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "RZ"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "UX"
+    },
+    {
+      "market": "수입",
+      "brand": "렉서스",
+      "model": "UX 300e"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Cullinan"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Cullinan Series2"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Dawn"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Ghost"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Ghost Series II"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Phantom"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Phantom Series II"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Spectre"
+    },
+    {
+      "market": "수입",
+      "brand": "롤스로이스",
+      "model": "Wraith"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "All New Navigator"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "Aviator"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "Continental"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "Corsair"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "MKC"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "MKS"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "MKX"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "MKZ"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "Nautilus"
+    },
+    {
+      "market": "수입",
+      "brand": "링컨",
+      "model": "Navigator"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "Ghibli"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "GranCabrio"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "GranCabrio Folgore"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "GranTurismo"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "GranTurismo Folgore"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "Grecale"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "Grecale Folgore"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "Levante"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "MC20"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "MC20 Cielo"
+    },
+    {
+      "market": "수입",
+      "brand": "마세라티",
+      "model": "Quattroporte"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Aceman"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Clubman"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Convertible"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Cooper"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Countryman"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Countryman Electric"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Electric"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Hatch"
+    },
+    {
+      "market": "수입",
+      "brand": "미니",
+      "model": "Mini Electric"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "A-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "AMG GT"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "B-class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "C-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "CLA-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "CLE"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "CLS-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "E-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQA"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQB"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQC"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQE"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQE SUV"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQS"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "EQS SUV"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "Electric G-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "G-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "GLA-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "GLB-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "GLC-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "GLE-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "GLS-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "Maybach EQS SUV"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "Maybach GLS"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "Maybach S-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "Maybach SL"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "S-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "SL-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "SLC-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "SLK 200 / SLK 55 AMG"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "SLK-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "The New AMG GT"
+    },
+    {
+      "market": "수입",
+      "brand": "벤츠",
+      "model": "The New E-Class"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "Bentayga"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "Continental"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "Continental GT"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "Flying Spur"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "Mulsanne"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "New Continental"
+    },
+    {
+      "market": "수입",
+      "brand": "벤틀리",
+      "model": "The new Continental"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "C40 Recharge"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "EX30"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "EX30 CC"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "EX40"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "S60"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "S60 Cross Country"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "S80"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "S90"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "V40"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "V40 Cross Country"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "V60"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "V60 Cross Country"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "V90 Cross Country"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "XC40"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "XC40 Recharge"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "XC60"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "XC70"
+    },
+    {
+      "market": "수입",
+      "brand": "볼보",
+      "model": "XC90"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "C3 Aircross"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "C4 Cactus"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "C4 Picasso"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "C5 Aircross"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "DS3"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "DS4"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "DS4 Crossback"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "DS5"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "Grand C4 Picasso"
+    },
+    {
+      "market": "수입",
+      "brand": "시트로엥",
+      "model": "Grand C4 Spacetourer"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A3"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A3 e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A4"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A5"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A5 40 TDI quattro"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A6"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A6 e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A7"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "A8"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "New Q3"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q2"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q3"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q4 e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q5"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q6 e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q7"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q8"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "Q8 e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "R8"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "TT"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "The new A5"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "The new A6"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "The new Q3"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "The new Q5"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "The new e-tron GT"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "e-tron"
+    },
+    {
+      "market": "수입",
+      "brand": "아우디",
+      "model": "e-tron GT"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "Q30"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "Q50"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "Q60"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "Q70"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX30"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX50"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX50 2.0t"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX60"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX70"
+    },
+    {
+      "market": "수입",
+      "brand": "인피니티",
+      "model": "QX80"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "E-Pace"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "F-Pace"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "F-Type"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "I-Pace"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "XE"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "XF"
+    },
+    {
+      "market": "수입",
+      "brand": "재규어",
+      "model": "XJ"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Avenger"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Cherokee"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Compass"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Gladiator"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Grand Cherokee"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Renegade"
+    },
+    {
+      "market": "수입",
+      "brand": "지프",
+      "model": "Wrangler"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "ATS"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "CT4"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "CT5"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "CT6"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "CTS"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "Escalade"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "Escalade IQ"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "Lyriq"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "New XT4"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "SRX"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "XT4"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "XT5"
+    },
+    {
+      "market": "수입",
+      "brand": "캐딜락",
+      "model": "XT6"
+    },
+    {
+      "market": "수입",
+      "brand": "크라이슬러",
+      "model": "200"
+    },
+    {
+      "market": "수입",
+      "brand": "크라이슬러",
+      "model": "300C"
+    },
+    {
+      "market": "수입",
+      "brand": "크라이슬러",
+      "model": "Grand Voyager"
+    },
+    {
+      "market": "수입",
+      "brand": "테슬라",
+      "model": "Cybertruck"
+    },
+    {
+      "market": "수입",
+      "brand": "테슬라",
+      "model": "Model 3"
+    },
+    {
+      "market": "수입",
+      "brand": "테슬라",
+      "model": "Model S"
+    },
+    {
+      "market": "수입",
+      "brand": "테슬라",
+      "model": "Model X"
+    },
+    {
+      "market": "수입",
+      "brand": "테슬라",
+      "model": "Model Y"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "86"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "All New RAV4"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Alphard"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Avalon"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Camry"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Crown"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "GR 86"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "GR SUPRA"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Highlander"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Prius"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Prius C"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Prius C Crossover"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Prius Prime"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Prius V"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "RAV4"
+    },
+    {
+      "market": "수입",
+      "brand": "토요타",
+      "model": "Sienna"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "12Cilindri"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "12Cilindri Spider"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "296 GTB"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "296 GTS"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "Amalfi"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "Purosangue"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "Roma Spider"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "SF90 Spider"
+    },
+    {
+      "market": "수입",
+      "brand": "페라리",
+      "model": "SF90 Stradale"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "All New Aviator"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "All New Expedition"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Bronco"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Expedition"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Explorer"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Focus"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Kuga"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Mondeo"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Mustang"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Ranger"
+    },
+    {
+      "market": "수입",
+      "brand": "포드",
+      "model": "Taurus"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "718 Boxster"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "718 Cayman"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "911"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Boxster"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Cayenne"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Cayman"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Macan"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Macan Electric"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Panamera"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "Taycan"
+    },
+    {
+      "market": "수입",
+      "brand": "포르쉐",
+      "model": "The New 911"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Arteon"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Atlas"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Beetle"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "CC"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Golf"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "ID.4"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "ID.5"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Jetta"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Jetta 1.4 TSI"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "New Scirocco"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Passat"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Passat GT"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Polo"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "T-Roc"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Tiguan"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Touareg"
+    },
+    {
+      "market": "수입",
+      "brand": "폭스바겐",
+      "model": "Touareg 3.0 TDI (출시예정)"
+    },
+    {
+      "market": "수입",
+      "brand": "폴스타",
+      "model": "Polestar 2"
+    },
+    {
+      "market": "수입",
+      "brand": "폴스타",
+      "model": "Polestar 4"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "2008"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "208"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "208 1.6 BLUe-HDi"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "3008"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "308"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "408"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "5008"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "5008 Smart Hybrid"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "508"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "508 SW"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "e-2008"
+    },
+    {
+      "market": "수입",
+      "brand": "푸조",
+      "model": "e-208"
+    },
+    {
+      "market": "수입",
+      "brand": "피아트",
+      "model": "500"
+    },
+    {
+      "market": "수입",
+      "brand": "피아트",
+      "model": "500C"
+    },
+    {
+      "market": "수입",
+      "brand": "피아트",
+      "model": "500X"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Accord"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "CR-V"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "CR-V Turbo"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Civic"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Civic Sport"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "HR-V"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Legend"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "New Pilot"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Odyssey"
+    },
+    {
+      "market": "수입",
+      "brand": "혼다",
+      "model": "Pilot"
+    }
+  ],
+  "reference_backtest_aggregate_wape": 23.28,
+  "reference_active_vehicle_aggregate_wape": 23.24
+}
