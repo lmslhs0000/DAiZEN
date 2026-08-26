@@ -1,98 +1,93 @@
-import { useState } from 'react';
-import { PackageSearch, Sliders, ArrowRight, Activity } from 'lucide-react';
+import { useState, useEffect } from 'react';
+import { Package, AlertTriangle, CheckCircle } from 'lucide-react';
+
+// 1. 재고 데이터 도면(규격)
+interface InventoryData {
+  id: number;
+  client: string;
+  product: string;
+  currentStock: number;
+  safetyStock: number;
+  status: string;
+}
 
 function Inventory() {
-  // 사용자가 슬라이더로 조절할 수 있는 시뮬레이션 변수(상태)들입니다.
-  const [safetyMargin, setSafetyMargin] = useState(15); // 안전재고 여유율 (%)
-  const [demandVolatility, setDemandVolatility] = useState(10); // 수요 변동폭 (%)
+  const [inventory, setInventory] = useState<InventoryData[]>([]);
+  const [isLoading, setIsLoading] = useState(true);
 
-  // 가상의 기본 재고 데이터 (백엔드에서 가져올 기준값)
-  const baseStock = 2000;
-  
-  // 시뮬레이션 공식: 기본 재고 + (여유율 적용) + (수요 변동에 따른 추가 확보)
-  const calculatedOptimalStock = Math.round(baseStock * (1 + safetyMargin / 100) * (1 + demandVolatility / 100));
+  // 2. 화면이 켜지면 실행되는 스위치
+  useEffect(() => {
+    // 백엔드 AI 엔진이 완성되기 전, 화면 테스트용 임시 재고 현황을 가동합니다.
+    const dummyInventory: InventoryData[] = [
+      { id: 1, client: 'NSK', product: '단조품 A', currentStock: 250, safetyStock: 300, status: '위험 (재고부족)' },
+      { id: 2, client: 'SKC', product: '가공품 B', currentStock: 800, safetyStock: 500, status: '안정' },
+      { id: 3, client: '일진', product: '단조품 C', currentStock: 120, safetyStock: 150, status: '위험 (재고부족)' },
+      { id: 4, client: 'SKF', product: '가공품 A', currentStock: 650, safetyStock: 600, status: '안정' },
+    ];
+
+    setTimeout(() => {
+      setInventory(dummyInventory);
+      setIsLoading(false);
+    }, 800);
+  }, []);
 
   return (
     <div style={{ padding: '20px', maxWidth: '1200px' }}>
-      
-      {/* 헤더 영역 */}
       <div style={{ marginBottom: '25px' }}>
         <h2 style={{ color: '#0f172a', margin: '0 0 8px 0', display: 'flex', alignItems: 'center', gap: '8px' }}>
-          <PackageSearch size={24} color="#1e3a8a" />
+          <Package size={24} color="#f59e0b" />
           적정재고 및 안전재고 시뮬레이션
         </h2>
         <p style={{ color: '#64748b', margin: 0, fontSize: '14px' }}>
-          대명 창원/마산 공장의 현재 재고를 기준으로, 공급망 변동성에 대비한 최적의 안전재고를 산출합니다.
+          AI 수요예측 및 생산계획과 연동된 실시간 재고 현황 및 최적화 모니터링입니다.
         </p>
       </div>
 
-      <div style={{ display: 'flex', gap: '20px', alignItems: 'flex-start' }}>
-        
-        {/* 1. 좌측: 시뮬레이션 조건 설정 패널 */}
-        <div style={{ flex: 1, backgroundColor: 'white', padding: '25px', borderRadius: '8px', border: '1px solid #e2e8f0' }}>
-          <h3 style={{ marginTop: 0, display: 'flex', alignItems: 'center', gap: '8px', color: '#334155' }}>
-            <Sliders size={18} /> 시뮬레이션 파라미터 제어
-          </h3>
-          
-          <div style={{ marginTop: '20px' }}>
-            <label style={labelStyle}>
-              안전재고 여유율 (Safety Margin): <strong>{safetyMargin}%</strong>
-            </label>
-            <input 
-              type="range" 
-              min="0" max="50" 
-              value={safetyMargin} 
-              onChange={(e) => setSafetyMargin(Number(e.target.value))}
-              style={{ width: '100%', cursor: 'pointer' }}
-            />
-            <p style={helpTextStyle}>긴급 발주나 납기 지연을 대비하여 추가로 확보할 재고의 비율입니다.</p>
-          </div>
-
-          <div style={{ marginTop: '25px' }}>
-            <label style={labelStyle}>
-              시장 수요 변동폭 (Volatility): <strong>{demandVolatility}%</strong>
-            </label>
-            <input 
-              type="range" 
-              min="0" max="30" 
-              value={demandVolatility} 
-              onChange={(e) => setDemandVolatility(Number(e.target.value))}
-              style={{ width: '100%', cursor: 'pointer' }}
-            />
-            <p style={helpTextStyle}>고객사(NSK, SKC 등)의 갑작스러운 주문량 증가 예상 수치입니다.</p>
-          </div>
+      {isLoading ? (
+        <div style={{ padding: '50px', textAlign: 'center', color: '#64748b' }}>재고 현황 데이터를 불러오는 중...</div>
+      ) : (
+        <div style={{ backgroundColor: 'white', borderRadius: '8px', border: '1px solid #e2e8f0', overflow: 'hidden' }}>
+          <table style={{ width: '100%', borderCollapse: 'collapse', textAlign: 'left' }}>
+            <thead>
+              <tr style={{ backgroundColor: '#f8fafc', borderBottom: '2px solid #e2e8f0' }}>
+                <th style={thStyle}>고객사</th>
+                <th style={thStyle}>제품명</th>
+                <th style={thStyle}>현재 재고량</th>
+                <th style={thStyle}>안전 재고 기준</th>
+                <th style={thStyle}>재고 건전성 상태</th>
+              </tr>
+            </thead>
+            <tbody>
+              {inventory.map((item) => (
+                <tr key={item.id} style={{ borderBottom: '1px solid #e2e8f0' }}>
+                  <td style={{ ...tdStyle, fontWeight: 'bold' }}>{item.client}</td>
+                  <td style={tdStyle}>{item.product}</td>
+                  {/* 현재 재고가 안전 재고보다 적으면 빨간색으로 경고 표시를 합니다. */}
+                  <td style={{ ...tdStyle, fontWeight: 'bold', color: item.currentStock < item.safetyStock ? '#ef4444' : '#0f172a' }}>
+                    {item.currentStock.toLocaleString()} 개
+                  </td>
+                  <td style={{ ...tdStyle, color: '#64748b' }}>{item.safetyStock.toLocaleString()} 개</td>
+                  <td style={tdStyle}>
+                    <span style={{
+                      padding: '4px 8px', borderRadius: '4px', fontSize: '12px', fontWeight: 'bold', display: 'inline-flex', alignItems: 'center', gap: '4px',
+                      backgroundColor: item.status.includes('위험') ? '#fee2e2' : '#dcfce7',
+                      color: item.status.includes('위험') ? '#991b1b' : '#166534'
+                    }}>
+                      {item.status.includes('위험') ? <AlertTriangle size={14} /> : <CheckCircle size={14} />}
+                      {item.status}
+                    </span>
+                  </td>
+                </tr>
+              ))}
+            </tbody>
+          </table>
         </div>
-
-        {/* 화살표 아이콘 */}
-        <div style={{ display: 'flex', alignItems: 'center', justifyContent: 'center', paddingTop: '100px' }}>
-          <ArrowRight size={32} color="#94a3b8" />
-        </div>
-
-        {/* 2. 우측: 시뮬레이션 결과 표출 패널 */}
-        <div style={{ flex: 1, backgroundColor: '#1e3a8a', padding: '25px', borderRadius: '8px', color: 'white' }}>
-          <h3 style={{ marginTop: 0, display: 'flex', alignItems: 'center', gap: '8px', color: '#93c5fd' }}>
-            <Activity size={18} /> AI 추천 적정재고 산출 결과
-          </h3>
-          
-          <div style={{ marginTop: '30px', textAlign: 'center' }}>
-            <p style={{ color: '#cbd5e1', margin: '0 0 10px 0' }}>선택하신 부품의 현재 기준 재고: {baseStock.toLocaleString()} 개</p>
-            <div style={{ fontSize: '48px', fontWeight: '900', margin: '10px 0' }}>
-              {calculatedOptimalStock.toLocaleString()} <span style={{ fontSize: '20px', fontWeight: 'normal', color: '#93c5fd' }}>개</span>
-            </div>
-            
-            <div style={{ marginTop: '20px', backgroundColor: 'rgba(255,255,255,0.1)', padding: '15px', borderRadius: '6px', fontSize: '13px' }}>
-              현재 설정된 변동성({demandVolatility}%)과 여유율({safetyMargin}%)을 고려할 때, <br/>
-              결품 방지와 재고자산 최소화를 동시에 달성할 수 있는 최적 수량입니다.
-            </div>
-          </div>
-        </div>
-
-      </div>
+      )}
     </div>
   );
 }
 
-const labelStyle = { display: 'block', fontSize: '14px', fontWeight: 'bold', color: '#475569', marginBottom: '10px' };
-const helpTextStyle = { fontSize: '12px', color: '#94a3b8', marginTop: '5px' };
+const thStyle = { padding: '15px', fontSize: '14px', color: '#475569' };
+const tdStyle = { padding: '15px', fontSize: '14px', color: '#0f172a' };
 
 export default Inventory;
