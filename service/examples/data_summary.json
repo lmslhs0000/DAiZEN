@@ -1,0 +1,65 @@
+{
+  "input_csv": "raw/data.csv",
+  "sha256": "8cc9b0530148739b2eda18fcbc0811b0cfa5013d450f114820a2dccd051ce30e",
+  "columns": [
+    "Country",
+    "Month",
+    "Brand",
+    "Model",
+    "Sales"
+  ],
+  "rows": 187382,
+  "series": 2511,
+  "first_month": "2016-01",
+  "last_month": "2026-07",
+  "countries": [
+    {
+      "Country": "Canada",
+      "rows": 27575,
+      "series": 280
+    },
+    {
+      "Country": "China",
+      "rows": 34760,
+      "series": 676
+    },
+    {
+      "Country": "Europe",
+      "rows": 32577,
+      "series": 519
+    },
+    {
+      "Country": "Germany",
+      "rows": 31052,
+      "series": 383
+    },
+    {
+      "Country": "Japan",
+      "rows": 14413,
+      "series": 137
+    },
+    {
+      "Country": "South Korea",
+      "rows": 19020,
+      "series": 231
+    },
+    {
+      "Country": "United States",
+      "rows": 27985,
+      "series": 285
+    }
+  ],
+  "response_summary": {
+    "input_rows": 187382,
+    "history_rows": 187382,
+    "ignored_future_rows": 0,
+    "input_series": 2511,
+    "forecasted_series": 2223,
+    "excluded_series": 288,
+    "forecast_rows": 53352
+  },
+  "exclusions": {
+    "INSUFFICIENT_HISTORY": 260,
+    "UNSEEN_SERIES": 28
+  }
+}

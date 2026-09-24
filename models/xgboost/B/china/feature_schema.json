@@ -1,0 +1,3669 @@
+{
+  "country": "China",
+  "feature_columns": [
+    "lag_1",
+    "lag_2",
+    "lag_3",
+    "lag_6",
+    "lag_12",
+    "rolling_mean_3",
+    "rolling_mean_6",
+    "rolling_mean_12",
+    "month",
+    "Brand",
+    "Model"
+  ],
+  "categorical_levels": {
+    "Brand": [
+      "212",
+      "AION",
+      "AITO",
+      "Audi",
+      "Avatr",
+      "BAIC",
+      "BAIC BJ",
+      "BAIC BJEV",
+      "BAW",
+      "BMW",
+      "BYD",
+      "Baojun",
+      "Bestune",
+      "Buick",
+      "Cadillac",
+      "CaoCao",
+      "Changan",
+      "Changan Nevo",
+      "Chery",
+      "Chevrolet",
+      "Citroen",
+      "Cowin",
+      "DFSK",
+      "DS",
+      "Deepal",
+      "Denza",
+      "Dongfeng",
+      "Dongfeng Aeolus",
+      "Dongfeng PSA",
+      "Dongfeng ePi",
+      "Exeed",
+      "Fangchengbao",
+      "Ford",
+      "Forthing",
+      "GAC Trumpchi",
+      "Geely",
+      "Geometry",
+      "Haima",
+      "Haval",
+      "Honda",
+      "Hongqi",
+      "Hyptec",
+      "Hyundai",
+      "IM Motors",
+      "Infiniti",
+      "Isuzu",
+      "JAC",
+      "JMEV",
+      "Jaguar",
+      "Jemmell",
+      "Jetta",
+      "Kaicene",
+      "Karry",
+      "Kia",
+      "LEVC",
+      "Land Rover",
+      "Landian",
+      "Leapmotor",
+      "Li Auto",
+      "Lincoln",
+      "Livan",
+      "Luxeed",
+      "Lynk & Co",
+      "MG",
+      "Maxus",
+      "Mazda",
+      "Mercedes-Benz",
+      "NIO",
+      "Nissan",
+      "ORA",
+      "Peugeot",
+      "Polestar",
+      "ROX",
+      "Roewe",
+      "Ruichi",
+      "SAIC",
+      "SRM",
+      "SWM",
+      "Skyworth",
+      "Smart",
+      "Stelato",
+      "Tank",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo",
+      "Voyah",
+      "WEY",
+      "Wuling",
+      "Xiaomi",
+      "Xpeng",
+      "Yangwang",
+      "Zeekr"
+    ],
+    "Model": [
+      "001",
+      "007",
+      "009",
+      "01",
+      "03",
+      "05 EV",
+      "06",
+      "06 DM-i",
+      "06 EM-P",
+      "06GT",
+      "07",
+      "07 EM-P",
+      "08 EM-P",
+      "09",
+      "09 EM-P",
+      "11",
+      "12",
+      "2 Series",
+      "3 EV",
+      "3 Series",
+      "300",
+      "300 EV",
+      "4",
+      "400",
+      "400 EV",
+      "4008",
+      "408",
+      "408X",
+      "5 Series",
+      "500",
+      "500 EV",
+      "5008",
+      "508",
+      "60s",
+      "7",
+      "700 EV",
+      "7X",
+      "8",
+      "8S",
+      "9 C-DM",
+      "900",
+      "A",
+      "A-Class",
+      "A05",
+      "A06",
+      "A07",
+      "A3",
+      "A4L",
+      "A5L",
+      "A6L",
+      "A7 EM",
+      "A7L",
+      "A8",
+      "A9L",
+      "Accord",
+      "Aipao",
+      "Altima",
+      "Arcfox Alpha S",
+      "Arcfox Alpha T",
+      "Arcfox Kaola",
+      "Ariya",
+      "Arrizo 5",
+      "Arrizo 8",
+      "Atto 3",
+      "Avalon",
+      "Avancier",
+      "Aveo",
+      "Aviator",
+      "B01",
+      "B10",
+      "B70",
+      "BJ30",
+      "BJ40",
+      "BJ40 REEV",
+      "BJ60",
+      "BJ60 REEV",
+      "Ba Lei Mao",
+      "Big Dog",
+      "Bingo",
+      "Binrui",
+      "Binyue",
+      "Blazer",
+      "Bora",
+      "Box",
+      "Boyue",
+      "Boyue L",
+      "Breeze",
+      "Bronco",
+      "C-Class",
+      "C-DM",
+      "C10",
+      "C11",
+      "C16",
+      "C5 Aircross",
+      "C5 X",
+      "CC",
+      "CR-V",
+      "CR-V EV",
+      "CS35PLUS",
+      "CS55PLUS",
+      "CS75PLUS",
+      "CT5",
+      "CT6",
+      "CX-30",
+      "CX-5",
+      "CX-50",
+      "Camry",
+      "Cao Cao 60",
+      "Carnival",
+      "Century",
+      "Civic",
+      "Corolla",
+      "Corolla Cross",
+      "Corsair",
+      "Courage",
+      "Crown Kluger",
+      "Custo",
+      "Cyberster",
+      "D1",
+      "D5X DMH",
+      "D6",
+      "D60",
+      "D60EV",
+      "D7",
+      "D9",
+      "Destroyer 05",
+      "Discovery Sport",
+      "Dolphin",
+      "Dolphin Surf",
+      "Dreamer",
+      "E Firefly",
+      "E-Class",
+      "E-HS9",
+      "E-Pace",
+      "E-QM5",
+      "E07",
+      "E10X (Huaxianzi)",
+      "E70",
+      "E8",
+      "EC6",
+      "EC7",
+      "EC75",
+      "EH7",
+      "EL6",
+      "EL8",
+      "EM90",
+      "EQA",
+      "EQB",
+      "EQE",
+      "EQE SUV",
+      "ES",
+      "ES5",
+      "ES600",
+      "ES9",
+      "ET",
+      "ET5",
+      "ET5T",
+      "ET7",
+      "ET9",
+      "EV2",
+      "EV3",
+      "EV5",
+      "EV6",
+      "EVOS",
+      "EX2",
+      "EX30",
+      "EX5",
+      "Eado",
+      "Edge L",
+      "Elantra",
+      "Electra E5",
+      "Elysion",
+      "Emgrand",
+      "Empow",
+      "Envision Plus",
+      "Equator",
+      "Equinox",
+      "Escape",
+      "Explorer",
+      "F7",
+      "Fengguang 580",
+      "Fengon 330",
+      "Fengon 380",
+      "Fengon 500",
+      "Firefly",
+      "Forte",
+      "Free",
+      "Frigate 07",
+      "Frontlander",
+      "G05",
+      "G318",
+      "G50",
+      "G50 PHEV",
+      "G6",
+      "G7",
+      "G70",
+      "G9",
+      "G90",
+      "GL8",
+      "GL8 EV",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GS3",
+      "GS4",
+      "GS8",
+      "GT",
+      "GT4",
+      "Galaxy Starshine 8",
+      "Galaxy Starship 7",
+      "Gaoshan",
+      "Golf",
+      "Granvia",
+      "Guoli",
+      "Guoya",
+      "Guoyao",
+      "H5",
+      "H5 PHEV",
+      "H6",
+      "H9",
+      "HEDMOS 06",
+      "HL",
+      "HQ9",
+      "HQ9 PHEV",
+      "HR-V",
+      "HS3",
+      "HS3 PHEV",
+      "HS5",
+      "HS7 PHEV",
+      "HT",
+      "HT-i",
+      "Han",
+      "Haohan",
+      "Haoji",
+      "Haoyue L",
+      "Highlander",
+      "Hongguang",
+      "Hongguang EV",
+      "Hongguang MINIEV",
+      "Honor S",
+      "ICON",
+      "ID.3",
+      "ID.4 CROZZ",
+      "ID.4 X",
+      "Inspire",
+      "Inspire EV",
+      "Integra",
+      "Jetour Dasheng",
+      "Jetour Traveller",
+      "Jetour Ziyouzhe",
+      "Jiachen",
+      "Jiang Tun",
+      "Jinhaishi",
+      "K5",
+      "Kicks",
+      "Kunlun",
+      "Kunlun EV",
+      "L DM-i",
+      "L EV",
+      "L07",
+      "L380",
+      "L6",
+      "L60",
+      "L7",
+      "L8",
+      "L9",
+      "LS6",
+      "LS7",
+      "LX",
+      "LX C-DM",
+      "LaCrosse",
+      "Lamando L",
+      "Land Cruiser Prado",
+      "Lanshan",
+      "Lavida",
+      "Leiting",
+      "Leopard 5",
+      "Leopard 8",
+      "Levin",
+      "Levin GT",
+      "Lightning Cat",
+      "Lingxi L",
+      "Lingzhi",
+      "Lingzhi EV",
+      "Little Ant",
+      "Lumin",
+      "Lyriq",
+      "M3",
+      "M5",
+      "M6",
+      "M7",
+      "M8",
+      "M9",
+      "MAX",
+      "MEGA",
+      "MG4",
+      "MG5",
+      "MG6",
+      "MG7",
+      "MIFA 7",
+      "MIFA 9",
+      "MINIEV",
+      "MIX",
+      "MONA M03",
+      "Magotan",
+      "Malibu",
+      "Mazda3",
+      "Mazda6e",
+      "Menlo",
+      "Mocha PHEV",
+      "Model 3",
+      "Model Y",
+      "Mondeo",
+      "Monjaro",
+      "Monza",
+      "N7",
+      "N9",
+      "Nammi 01",
+      "Nammi 06",
+      "Nautilus",
+      "Odyssey",
+      "Onix",
+      "Optiq",
+      "Oshan 520",
+      "Oshan Z6",
+      "Oshan Z6 iDD",
+      "P7",
+      "P7+",
+      "Paladin",
+      "Panda",
+      "Passat NMS",
+      "Passion",
+      "Pathfinder",
+      "Pegas",
+      "Plus",
+      "Pony",
+      "Preface",
+      "Pro EV",
+      "Q05",
+      "Q07",
+      "Q2L",
+      "Q3",
+      "Q4 e-tron",
+      "Q5L",
+      "Q6",
+      "Q6L e-tron",
+      "QQ",
+      "QQ Duomi",
+      "QX PHEV",
+      "QX50",
+      "QX60",
+      "Qashqai",
+      "Qin EV",
+      "Qin L",
+      "Qin Plus",
+      "R7",
+      "RAV4",
+      "RF8",
+      "RF8 PHEV",
+      "RT",
+      "RX",
+      "RX C-DM",
+      "RX5",
+      "RX9",
+      "Range Rover Evoque",
+      "Raptor",
+      "Raptor PHEV",
+      "Regal",
+      "Rogue",
+      "Rongguang",
+      "S",
+      "S05",
+      "S07",
+      "S09",
+      "S5",
+      "S50EV",
+      "S560",
+      "S60",
+      "S7",
+      "S9",
+      "S90",
+      "S90 PHEV",
+      "SL03",
+      "SSR",
+      "SU7",
+      "SWM",
+      "Sagitar",
+      "Santa Fe",
+      "Seal",
+      "Seal 05 DM-i",
+      "Seal 06",
+      "Seal 07 DM-i",
+      "Sealion 05 DM-i",
+      "Sealion 06",
+      "Sealion 07 DM-i",
+      "Seltos",
+      "Sentra",
+      "Shiyue",
+      "Sienna",
+      "Sonata",
+      "Sonet",
+      "Song Pro NEV",
+      "Sportage",
+      "Sportage Ace",
+      "Starlight",
+      "Starlight S",
+      "Stonic",
+      "Sunshine",
+      "Sunshine EV",
+      "T-Roc",
+      "T01",
+      "T03",
+      "T1",
+      "T5",
+      "T5 Evo",
+      "T8",
+      "T9",
+      "TXL",
+      "Tai 3",
+      "Talagon",
+      "Tang",
+      "Tang L",
+      "Tavendor",
+      "Tayron",
+      "Tayron X",
+      "Teramont",
+      "Teramont X",
+      "Territory",
+      "Tharu",
+      "Tharu XR",
+      "Tiangong 05",
+      "Tiangong 06",
+      "Tiangong 08",
+      "Tiggo 3X",
+      "Tiggo 5X",
+      "Tiggo 7",
+      "Tiggo 8",
+      "Tiggo 9",
+      "Tiguan",
+      "Tiida",
+      "Touran",
+      "Tourneo",
+      "Tucson",
+      "U7",
+      "U8",
+      "U9",
+      "UNI-K",
+      "UNI-T",
+      "UNI-V",
+      "UNI-Z",
+      "UP",
+      "UR-V",
+      "UT",
+      "V",
+      "V DD-i",
+      "V-Class",
+      "V9",
+      "VA3",
+      "VA7",
+      "VS5",
+      "VS7",
+      "VS8",
+      "VX",
+      "VX C-DM",
+      "VX6",
+      "Velite 6",
+      "Venucia Star",
+      "Venucia V-Online",
+      "Venza",
+      "Verano",
+      "Vezel",
+      "Victory",
+      "Viloran",
+      "Vito",
+      "Wildlander",
+      "X",
+      "X1",
+      "X3",
+      "X5",
+      "X5 PLUS",
+      "X7",
+      "X7 PLUS",
+      "X70",
+      "X8 E",
+      "X9",
+      "X90",
+      "XC40",
+      "XC60",
+      "XC60 PHEV",
+      "XFL",
+      "XR-V",
+      "XT4",
+      "XT5",
+      "XT6",
+      "Xia",
+      "Xiangjing",
+      "Xingchen",
+      "Xingchi",
+      "Xuandu",
+      "Xuanjie",
+      "Y",
+      "YU7",
+      "Yep",
+      "Yi",
+      "Yi L",
+      "Yiwei 3",
+      "Yixuan",
+      "Yongshi",
+      "Yuanbao",
+      "Yueyi 03",
+      "Yueyi 07",
+      "Yunhai",
+      "Z20",
+      "Z9",
+      "Z9 GT",
+      "Zephyr",
+      "Zhengcheng",
+      "bZ3",
+      "bZ3X",
+      "bZ4X",
+      "bZ5",
+      "e2",
+      "e3",
+      "e5",
+      "e7",
+      "e9",
+      "e:NS2",
+      "ep007",
+      "ep008",
+      "i3",
+      "i5",
+      "iCAR ClassV23",
+      "iMAX8",
+      "iMAX8 EV",
+      "iX1",
+      "iX3",
+      "ix35",
+      "mu-X",
+      "smart#1",
+      "smart#3",
+      "smart#5",
+      "uni"
+    ]
+  },
+  "seen_series": [
+    [
+      "China",
+      "212",
+      "T01"
+    ],
+    [
+      "China",
+      "AION",
+      "LX"
+    ],
+    [
+      "China",
+      "AION",
+      "RT"
+    ],
+    [
+      "China",
+      "AION",
+      "S"
+    ],
+    [
+      "China",
+      "AION",
+      "UT"
+    ],
+    [
+      "China",
+      "AION",
+      "V"
+    ],
+    [
+      "China",
+      "AION",
+      "Y"
+    ],
+    [
+      "China",
+      "AITO",
+      "M5"
+    ],
+    [
+      "China",
+      "AITO",
+      "M7"
+    ],
+    [
+      "China",
+      "AITO",
+      "M8"
+    ],
+    [
+      "China",
+      "AITO",
+      "M9"
+    ],
+    [
+      "China",
+      "Audi",
+      "A3"
+    ],
+    [
+      "China",
+      "Audi",
+      "A4L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A5L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A6L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A7L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q2L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q4 e-tron"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q5L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q6"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q6L e-tron"
+    ],
+    [
+      "China",
+      "Avatr",
+      "06"
+    ],
+    [
+      "China",
+      "Avatr",
+      "07"
+    ],
+    [
+      "China",
+      "Avatr",
+      "11"
+    ],
+    [
+      "China",
+      "Avatr",
+      "12"
+    ],
+    [
+      "China",
+      "BAIC",
+      "X7"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ30"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ40"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ40 REEV"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ60"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ60 REEV"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Alpha S"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Alpha T"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Kaola"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "S5"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "T5"
+    ],
+    [
+      "China",
+      "BAW",
+      "Yongshi"
+    ],
+    [
+      "China",
+      "BAW",
+      "Yuanbao"
+    ],
+    [
+      "China",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "X1"
+    ],
+    [
+      "China",
+      "BMW",
+      "X3"
+    ],
+    [
+      "China",
+      "BMW",
+      "X5"
+    ],
+    [
+      "China",
+      "BMW",
+      "i3"
+    ],
+    [
+      "China",
+      "BMW",
+      "i5"
+    ],
+    [
+      "China",
+      "BMW",
+      "iX1"
+    ],
+    [
+      "China",
+      "BMW",
+      "iX3"
+    ],
+    [
+      "China",
+      "BYD",
+      "05 EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "06 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "06GT"
+    ],
+    [
+      "China",
+      "BYD",
+      "Atto 3"
+    ],
+    [
+      "China",
+      "BYD",
+      "D1"
+    ],
+    [
+      "China",
+      "BYD",
+      "Destroyer 05"
+    ],
+    [
+      "China",
+      "BYD",
+      "Dolphin"
+    ],
+    [
+      "China",
+      "BYD",
+      "Dolphin Surf"
+    ],
+    [
+      "China",
+      "BYD",
+      "Frigate 07"
+    ],
+    [
+      "China",
+      "BYD",
+      "Han"
+    ],
+    [
+      "China",
+      "BYD",
+      "L DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "L EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin L"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin Plus"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 05 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 06"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 07 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 05 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 06"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 07 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Song Pro NEV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Tang"
+    ],
+    [
+      "China",
+      "BYD",
+      "Tang L"
+    ],
+    [
+      "China",
+      "BYD",
+      "UP"
+    ],
+    [
+      "China",
+      "BYD",
+      "Xia"
+    ],
+    [
+      "China",
+      "BYD",
+      "Yi L"
+    ],
+    [
+      "China",
+      "BYD",
+      "e2"
+    ],
+    [
+      "China",
+      "BYD",
+      "e3"
+    ],
+    [
+      "China",
+      "BYD",
+      "e7"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Plus"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Xiangjing"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Yep"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Yunhai"
+    ],
+    [
+      "China",
+      "Bestune",
+      "B70"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Pony"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Yueyi 03"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Yueyi 07"
+    ],
+    [
+      "China",
+      "Buick",
+      "Century"
+    ],
+    [
+      "China",
+      "Buick",
+      "Electra E5"
+    ],
+    [
+      "China",
+      "Buick",
+      "Envision Plus"
+    ],
+    [
+      "China",
+      "Buick",
+      "GL8"
+    ],
+    [
+      "China",
+      "Buick",
+      "GL8 EV"
+    ],
+    [
+      "China",
+      "Buick",
+      "LaCrosse"
+    ],
+    [
+      "China",
+      "Buick",
+      "Regal"
+    ],
+    [
+      "China",
+      "Buick",
+      "Velite 6"
+    ],
+    [
+      "China",
+      "Buick",
+      "Verano"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "CT5"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "CT6"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "GT4"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "Lyriq"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "Optiq"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT4"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT5"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT6"
+    ],
+    [
+      "China",
+      "CaoCao",
+      "Cao Cao 60"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS35PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS55PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS75PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "Eado"
+    ],
+    [
+      "China",
+      "Changan",
+      "Lumin"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan 520"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan Z6"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan Z6 iDD"
+    ],
+    [
+      "China",
+      "Changan",
+      "Plus"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-K"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-T"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-V"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-Z"
+    ],
+    [
+      "China",
+      "Changan",
+      "X5 PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "X7 PLUS"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A05"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A06"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A07"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "E07"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "Q05"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "Q07"
+    ],
+    [
+      "China",
+      "Chery",
+      "9 C-DM"
+    ],
+    [
+      "China",
+      "Chery",
+      "A8"
+    ],
+    [
+      "China",
+      "Chery",
+      "A9L"
+    ],
+    [
+      "China",
+      "Chery",
+      "Arrizo 5"
+    ],
+    [
+      "China",
+      "Chery",
+      "Arrizo 8"
+    ],
+    [
+      "China",
+      "Chery",
+      "C-DM"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Dasheng"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Traveller"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Ziyouzhe"
+    ],
+    [
+      "China",
+      "Chery",
+      "L7"
+    ],
+    [
+      "China",
+      "Chery",
+      "L9"
+    ],
+    [
+      "China",
+      "Chery",
+      "Little Ant"
+    ],
+    [
+      "China",
+      "Chery",
+      "QQ"
+    ],
+    [
+      "China",
+      "Chery",
+      "QQ Duomi"
+    ],
+    [
+      "China",
+      "Chery",
+      "T1"
+    ],
+    [
+      "China",
+      "Chery",
+      "T8"
+    ],
+    [
+      "China",
+      "Chery",
+      "T9"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 3X"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 5X"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 7"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 8"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 9"
+    ],
+    [
+      "China",
+      "Chery",
+      "X70"
+    ],
+    [
+      "China",
+      "Chery",
+      "X90"
+    ],
+    [
+      "China",
+      "Chery",
+      "iCAR ClassV23"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Aveo"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Blazer"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Equinox"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Malibu"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Menlo"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Monza"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Onix"
+    ],
+    [
+      "China",
+      "Citroen",
+      "C5 Aircross"
+    ],
+    [
+      "China",
+      "Citroen",
+      "C5 X"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Kunlun"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Kunlun EV"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Pro EV"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Shiyue"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Xuandu"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Xuanjie"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengguang 580"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 330"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 380"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 500"
+    ],
+    [
+      "China",
+      "DFSK",
+      "MINIEV"
+    ],
+    [
+      "China",
+      "DFSK",
+      "S560"
+    ],
+    [
+      "China",
+      "DS",
+      "3 EV"
+    ],
+    [
+      "China",
+      "Deepal",
+      "G318"
+    ],
+    [
+      "China",
+      "Deepal",
+      "L07"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S05"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S07"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S09"
+    ],
+    [
+      "China",
+      "Deepal",
+      "SL03"
+    ],
+    [
+      "China",
+      "Denza",
+      "D9"
+    ],
+    [
+      "China",
+      "Denza",
+      "N7"
+    ],
+    [
+      "China",
+      "Denza",
+      "N9"
+    ],
+    [
+      "China",
+      "Denza",
+      "Z9"
+    ],
+    [
+      "China",
+      "Denza",
+      "Z9 GT"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "HEDMOS 06"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "Nammi 01"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "Nammi 06"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "E70"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Haohan"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Haoji"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "L7"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Yixuan"
+    ],
+    [
+      "China",
+      "Dongfeng PSA",
+      "ES600"
+    ],
+    [
+      "China",
+      "Dongfeng ePi",
+      "ep007"
+    ],
+    [
+      "China",
+      "Dongfeng ePi",
+      "ep008"
+    ],
+    [
+      "China",
+      "Exeed",
+      "ES"
+    ],
+    [
+      "China",
+      "Exeed",
+      "ET"
+    ],
+    [
+      "China",
+      "Exeed",
+      "LX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "LX C-DM"
+    ],
+    [
+      "China",
+      "Exeed",
+      "RX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "RX C-DM"
+    ],
+    [
+      "China",
+      "Exeed",
+      "TXL"
+    ],
+    [
+      "China",
+      "Exeed",
+      "VX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "VX C-DM"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Leopard 5"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Leopard 8"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Tai 3"
+    ],
+    [
+      "China",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "China",
+      "Ford",
+      "EVOS"
+    ],
+    [
+      "China",
+      "Ford",
+      "Edge L"
+    ],
+    [
+      "China",
+      "Ford",
+      "Equator"
+    ],
+    [
+      "China",
+      "Ford",
+      "Escape"
+    ],
+    [
+      "China",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "China",
+      "Ford",
+      "Mondeo"
+    ],
+    [
+      "China",
+      "Ford",
+      "Territory"
+    ],
+    [
+      "China",
+      "Ford",
+      "Tourneo"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Leiting"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Lingzhi"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Lingzhi EV"
+    ],
+    [
+      "China",
+      "Forthing",
+      "S50EV"
+    ],
+    [
+      "China",
+      "Forthing",
+      "S7"
+    ],
+    [
+      "China",
+      "Forthing",
+      "T5"
+    ],
+    [
+      "China",
+      "Forthing",
+      "T5 Evo"
+    ],
+    [
+      "China",
+      "Forthing",
+      "V9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "E8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "ES9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "Empow"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS3"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS4"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "M6"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "M8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "S7"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "S9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "e9"
+    ],
+    [
+      "China",
+      "Geely",
+      "A7 EM"
+    ],
+    [
+      "China",
+      "Geely",
+      "Binrui"
+    ],
+    [
+      "China",
+      "Geely",
+      "Binyue"
+    ],
+    [
+      "China",
+      "Geely",
+      "Boyue"
+    ],
+    [
+      "China",
+      "Geely",
+      "Boyue L"
+    ],
+    [
+      "China",
+      "Geely",
+      "E8"
+    ],
+    [
+      "China",
+      "Geely",
+      "EX2"
+    ],
+    [
+      "China",
+      "Geely",
+      "EX5"
+    ],
+    [
+      "China",
+      "Geely",
+      "Emgrand"
+    ],
+    [
+      "China",
+      "Geely",
+      "Galaxy Starshine 8"
+    ],
+    [
+      "China",
+      "Geely",
+      "Galaxy Starship 7"
+    ],
+    [
+      "China",
+      "Geely",
+      "Haoyue L"
+    ],
+    [
+      "China",
+      "Geely",
+      "ICON"
+    ],
+    [
+      "China",
+      "Geely",
+      "L6"
+    ],
+    [
+      "China",
+      "Geely",
+      "L7"
+    ],
+    [
+      "China",
+      "Geely",
+      "Monjaro"
+    ],
+    [
+      "China",
+      "Geely",
+      "Panda"
+    ],
+    [
+      "China",
+      "Geely",
+      "Preface"
+    ],
+    [
+      "China",
+      "Geometry",
+      "A"
+    ],
+    [
+      "China",
+      "Geometry",
+      "E Firefly"
+    ],
+    [
+      "China",
+      "Haima",
+      "8S"
+    ],
+    [
+      "China",
+      "Haval",
+      "Big Dog"
+    ],
+    [
+      "China",
+      "Haval",
+      "H5"
+    ],
+    [
+      "China",
+      "Haval",
+      "H6"
+    ],
+    [
+      "China",
+      "Haval",
+      "H9"
+    ],
+    [
+      "China",
+      "Haval",
+      "MAX"
+    ],
+    [
+      "China",
+      "Haval",
+      "Plus"
+    ],
+    [
+      "China",
+      "Haval",
+      "Raptor"
+    ],
+    [
+      "China",
+      "Haval",
+      "Raptor PHEV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "China",
+      "Honda",
+      "Avancier"
+    ],
+    [
+      "China",
+      "Honda",
+      "Breeze"
+    ],
+    [
+      "China",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "CR-V EV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "China",
+      "Honda",
+      "Elysion"
+    ],
+    [
+      "China",
+      "Honda",
+      "HR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "Inspire"
+    ],
+    [
+      "China",
+      "Honda",
+      "Inspire EV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Integra"
+    ],
+    [
+      "China",
+      "Honda",
+      "Lingxi L"
+    ],
+    [
+      "China",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "China",
+      "Honda",
+      "P7"
+    ],
+    [
+      "China",
+      "Honda",
+      "S7"
+    ],
+    [
+      "China",
+      "Honda",
+      "UR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "Vezel"
+    ],
+    [
+      "China",
+      "Honda",
+      "XR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "e:NS2"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "E-HS9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "E-QM5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "EH7"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoli"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoya"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoyao"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H5 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H6"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HQ9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HQ9 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS3"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS3 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS7 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 05"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 06"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 08"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "GT"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "HL"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "HT"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "SSR"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Custo"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Elantra"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Sonata"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "ix35"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "L6"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "L7"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "LS6"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "LS7"
+    ],
+    [
+      "China",
+      "Infiniti",
+      "QX50"
+    ],
+    [
+      "China",
+      "Infiniti",
+      "QX60"
+    ],
+    [
+      "China",
+      "Isuzu",
+      "mu-X"
+    ],
+    [
+      "China",
+      "JAC",
+      "Aipao"
+    ],
+    [
+      "China",
+      "JAC",
+      "E10X (Huaxianzi)"
+    ],
+    [
+      "China",
+      "JAC",
+      "M3"
+    ],
+    [
+      "China",
+      "JAC",
+      "QX PHEV"
+    ],
+    [
+      "China",
+      "JAC",
+      "RF8"
+    ],
+    [
+      "China",
+      "JAC",
+      "RF8 PHEV"
+    ],
+    [
+      "China",
+      "JAC",
+      "X8 E"
+    ],
+    [
+      "China",
+      "JAC",
+      "Yiwei 3"
+    ],
+    [
+      "China",
+      "JAC",
+      "e3"
+    ],
+    [
+      "China",
+      "JMEV",
+      "EV2"
+    ],
+    [
+      "China",
+      "JMEV",
+      "EV3"
+    ],
+    [
+      "China",
+      "JMEV",
+      "Yi"
+    ],
+    [
+      "China",
+      "Jaguar",
+      "E-Pace"
+    ],
+    [
+      "China",
+      "Jaguar",
+      "XFL"
+    ],
+    [
+      "China",
+      "Jemmell",
+      "Box"
+    ],
+    [
+      "China",
+      "Jemmell",
+      "uni"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VA3"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VA7"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS5"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS7"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS8"
+    ],
+    [
+      "China",
+      "Kaicene",
+      "Honor S"
+    ],
+    [
+      "China",
+      "Karry",
+      "Jiang Tun"
+    ],
+    [
+      "China",
+      "Kia",
+      "Carnival"
+    ],
+    [
+      "China",
+      "Kia",
+      "EV5"
+    ],
+    [
+      "China",
+      "Kia",
+      "Forte"
+    ],
+    [
+      "China",
+      "Kia",
+      "K5"
+    ],
+    [
+      "China",
+      "Kia",
+      "Pegas"
+    ],
+    [
+      "China",
+      "Kia",
+      "Seltos"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sonet"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sportage Ace"
+    ],
+    [
+      "China",
+      "Kia",
+      "Stonic"
+    ],
+    [
+      "China",
+      "LEVC",
+      "L380"
+    ],
+    [
+      "China",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "China",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "China",
+      "Landian",
+      "e5"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "B01"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "B10"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C10"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C11"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C16"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "T03"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L6"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L8"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L9"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "MEGA"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Aviator"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Corsair"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Nautilus"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Zephyr"
+    ],
+    [
+      "China",
+      "Livan",
+      "60s"
+    ],
+    [
+      "China",
+      "Livan",
+      "7"
+    ],
+    [
+      "China",
+      "Livan",
+      "8"
+    ],
+    [
+      "China",
+      "Luxeed",
+      "R7"
+    ],
+    [
+      "China",
+      "Luxeed",
+      "S7"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "01"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "03"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "06"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "06 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "07 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "08 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "09"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "09 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "900"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "Z20"
+    ],
+    [
+      "China",
+      "MG",
+      "Cyberster"
+    ],
+    [
+      "China",
+      "MG",
+      "ES5"
+    ],
+    [
+      "China",
+      "MG",
+      "MG4"
+    ],
+    [
+      "China",
+      "MG",
+      "MG5"
+    ],
+    [
+      "China",
+      "MG",
+      "MG6"
+    ],
+    [
+      "China",
+      "MG",
+      "MG7"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G50"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G50 PHEV"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G70"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G90"
+    ],
+    [
+      "China",
+      "Maxus",
+      "MIFA 7"
+    ],
+    [
+      "China",
+      "Maxus",
+      "MIFA 9"
+    ],
+    [
+      "China",
+      "Maxus",
+      "Territory"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-50"
+    ],
+    [
+      "China",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "China",
+      "Mazda",
+      "Mazda6e"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "A-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "E-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQA"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQE"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "V-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "Vito"
+    ],
+    [
+      "China",
+      "NIO",
+      "EC6"
+    ],
+    [
+      "China",
+      "NIO",
+      "EC7"
+    ],
+    [
+      "China",
+      "NIO",
+      "EL6"
+    ],
+    [
+      "China",
+      "NIO",
+      "EL8"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET5"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET5T"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET7"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET9"
+    ],
+    [
+      "China",
+      "NIO",
+      "Firefly"
+    ],
+    [
+      "China",
+      "NIO",
+      "L60"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Altima"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "China",
+      "Nissan",
+      "D60"
+    ],
+    [
+      "China",
+      "Nissan",
+      "D60EV"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Kicks"
+    ],
+    [
+      "China",
+      "Nissan",
+      "N7"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Paladin"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Pathfinder"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Qashqai"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Sentra"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Tiida"
+    ],
+    [
+      "China",
+      "Nissan",
+      "V DD-i"
+    ],
+    [
+      "China",
+      "Nissan",
+      "VX6"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Venucia Star"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Venucia V-Online"
+    ],
+    [
+      "China",
+      "ORA",
+      "03"
+    ],
+    [
+      "China",
+      "ORA",
+      "Ba Lei Mao"
+    ],
+    [
+      "China",
+      "ORA",
+      "Lightning Cat"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "4008"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "408"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "408X"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "5008"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "508"
+    ],
+    [
+      "China",
+      "Polestar",
+      "4"
+    ],
+    [
+      "China",
+      "ROX",
+      "01"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D5X DMH"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D6"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D7"
+    ],
+    [
+      "China",
+      "Roewe",
+      "RX5"
+    ],
+    [
+      "China",
+      "Roewe",
+      "RX9"
+    ],
+    [
+      "China",
+      "Roewe",
+      "iMAX8"
+    ],
+    [
+      "China",
+      "Roewe",
+      "iMAX8 EV"
+    ],
+    [
+      "China",
+      "Ruichi",
+      "EC75"
+    ],
+    [
+      "China",
+      "SAIC",
+      "F7"
+    ],
+    [
+      "China",
+      "SAIC",
+      "R7"
+    ],
+    [
+      "China",
+      "SRM",
+      "Jinhaishi"
+    ],
+    [
+      "China",
+      "SWM",
+      "G05"
+    ],
+    [
+      "China",
+      "SWM",
+      "SWM"
+    ],
+    [
+      "China",
+      "Skyworth",
+      "EV6"
+    ],
+    [
+      "China",
+      "Skyworth",
+      "HT-i"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#1"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#3"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#5"
+    ],
+    [
+      "China",
+      "Stelato",
+      "S9"
+    ],
+    [
+      "China",
+      "Tank",
+      "300"
+    ],
+    [
+      "China",
+      "Tank",
+      "300 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "400"
+    ],
+    [
+      "China",
+      "Tank",
+      "400 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "500"
+    ],
+    [
+      "China",
+      "Tank",
+      "500 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "700 EV"
+    ],
+    [
+      "China",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "China",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Avalon"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Crown Kluger"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Frontlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Granvia"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Land Cruiser Prado"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Levin"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Levin GT"
+    ],
+    [
+      "China",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Sienna"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Venza"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Wildlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ3"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ3X"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ4X"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ5"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Bora"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "CC"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.3"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.4 CROZZ"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.4 X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Lamando L"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Lavida"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Magotan"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Passat NMS"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Sagitar"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "T-Roc"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Talagon"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tavendor"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tayron"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tayron X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Teramont"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Teramont X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tharu"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tharu XR"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Touran"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Viloran"
+    ],
+    [
+      "China",
+      "Volvo",
+      "EM90"
+    ],
+    [
+      "China",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S60"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S90"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S90 PHEV"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC60 PHEV"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Courage"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Dreamer"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Free"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Passion"
+    ],
+    [
+      "China",
+      "WEY",
+      "Gaoshan"
+    ],
+    [
+      "China",
+      "WEY",
+      "Lanshan"
+    ],
+    [
+      "China",
+      "WEY",
+      "Mocha PHEV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Bingo"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang EV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang MINIEV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Jiachen"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Plus"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Rongguang"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Starlight"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Starlight S"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Sunshine"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Sunshine EV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Victory"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Xingchen"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Xingchi"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Zhengcheng"
+    ],
+    [
+      "China",
+      "Xiaomi",
+      "SU7"
+    ],
+    [
+      "China",
+      "Xiaomi",
+      "YU7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G6"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G9"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "MONA M03"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "P7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "P7+"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "X9"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U7"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U8"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U9"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "001"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "007"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "009"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "7X"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "MIX"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "X"
+    ]
+  ],
+  "train_end": "2026-07",
+  "feature_dtypes": {
+    "lag_1": "float64",
+    "lag_2": "float64",
+    "lag_3": "float64",
+    "lag_6": "float64",
+    "lag_12": "float64",
+    "rolling_mean_3": "float64",
+    "rolling_mean_6": "float64",
+    "rolling_mean_12": "float64",
+    "month": "int32",
+    "Brand": "category",
+    "Model": "category"
+  },
+  "training_rows": 27182,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "parameters": {
+    "objective": "reg:squarederror",
+    "base_score": null,
+    "booster": null,
+    "callbacks": null,
+    "colsample_bylevel": null,
+    "colsample_bynode": null,
+    "colsample_bytree": 1.0,
+    "device": "cpu",
+    "early_stopping_rounds": null,
+    "enable_categorical": true,
+    "eval_metric": null,
+    "feature_types": null,
+    "feature_weights": null,
+    "gamma": null,
+    "grow_policy": null,
+    "importance_type": null,
+    "interaction_constraints": null,
+    "learning_rate": 0.1,
+    "max_bin": null,
+    "max_cat_threshold": null,
+    "max_cat_to_onehot": null,
+    "max_delta_step": null,
+    "max_depth": 5,
+    "max_leaves": null,
+    "min_child_weight": null,
+    "missing": "NaN",
+    "monotone_constraints": null,
+    "multi_strategy": null,
+    "n_estimators": 500,
+    "n_jobs": 4,
+    "num_parallel_tree": null,
+    "random_state": 42,
+    "reg_alpha": null,
+    "reg_lambda": null,
+    "sampling_method": null,
+    "scale_pos_weight": null,
+    "subsample": 1.0,
+    "tree_method": "hist",
+    "validate_parameters": null,
+    "verbosity": null
+  },
+  "booster_config": {
+    "learner": {
+      "generic_param": {
+        "device": "cpu",
+        "fail_on_invalid_gpu_id": "0",
+        "n_jobs": "4",
+        "nthread": "4",
+        "random_state": "42",
+        "rng_state": "2a b93c8a93 71014437 e87acf51 b4a4ad5e f342a151 a2dc8760 5122dbb1 ec21dc78 33b6cf90 a923f3da c395cc43 ea27d54c dc076f38 b8127555 6974da62 e0ae241f a2cb3b1d aeaaea4d 1cfbb83e 569ade8a c5ff2fec d1ddd061 8bb5a8c1 3750f007 a79371dc ca2dbab0 dbd973ba 51c7a919 dceb8e95 6657874c 670b9680 64a46a05 47b5f7b5 62460e26 1a477486 5336af02 2550a754 e5a9f84a 27ed05f4 b25eed6c 12858a8f e3bf3195 cf11d659 1235bbae 7a6529d3 2a08e208 e4af7557 c44f3e54 44012784 a33dc4ab 223c07e0 5905fb94 1011fefe 1981886c ad109ed3 b04381ad ad1d144 f6a0f40e 98763e5c ca98e952 50676632 5de19d5d e4bd518b 2a0af2e8 f6a7fdc9 5f9e3af4 5fad5fec 2337adc5 8d58fbfe 96d946b2 f95d13b7 ab301a4c e8301f0f 44edac06 b059e0e 952ed9d2 a2bc3f5d c1c7d7c9 84d93d01 9a70ad7f b5b757a2 b49a3272 66e3d683 3b3d339e 3116ebab 37d67dcd bd8d5738 4707743a 14c16ea0 3ae4457a c393b37d 44c63f12 f77d0ddc 5dbd059 30a7d47c 2251314c 667e1f5d 9a0e9bae 6ac6773f c0cf39da 18a5f402 d1c5730 f9271657 43aac38c e9e09c0a 895d60f7 2d6d5e14 760ad250 49095362 da02e17d e0416525 44f83e6e 9863093c 87b6d3e8 e5efd5c5 71704d92 fdd74674 7be57c69 f7f5bd7f d4bf1e64 7f7d1e1c 504566eb 57dad4cd a6cb20f8 e19fcd1f f493e88a cd8b0f8c 4419aaeb fefda8d3 b71aea92 cf159b53 42d41714 5b9a58ce 7f14d131 3f793877 a94bf67b 3b2dff46 79ac2d28 ad37c2b8 f94b5dee 3d7ae40e 29e97814 32eb1473 f7d59cef f2b535ad 9afa4c38 a5211d75 e1164f87 9af703a9 9217f60d 848b1b82 7d195a18 eee6ed76 b0624cc3 b72291c0 94f25426 ef9e76d1 2ed94378 391ad6f7 f961ff13 8e9931f1 1fd0c081 f3e7fc88 ec7a067b 66e2c5fd ad4ff912 bc46d3f7 5712bd51 4ee48139 91d5f3c2 b31aeb6b cd791219 522a0eef bd174294 26e98bdd 650873e1 d789811 2e6c1867 4885c056 27147207 6e47bc78 19791d73 2fb02a16 85a06166 6620f12d 1443b316 67266e69 281737c4 745ce511 a2abf00e d1a0217b f05e6d18 bd617f68 188cff94 91730a27 d5d3ce5d 292b9db 256872d e8b56a88 73646c9f e511691f 60e274d6 4fc0289e 7ce61e87 cac9c1ab 25d45016 4395f7d b7279221 32c663a0 6cf5eef2 a68c51b2 48e36b44 8104400e fd47b192 5246a80c 5a2a42f9 a54b24b1 f22e4679 b54f18fd 1f8e5477 219c02d0 93be6cee bcdf45fb f657dd1d e9d14bb7 430232e6 756cb506 67f52ba7 71a00f63 400f8490 6007e71c ab97b459 34dbdbd0 461009fa 638843f2 90c4dacb 3e3ee33a e4ffb0d0 846af2e 49e4bc16 68878504 82ca28eb 3405d5e0 fee24254 2925bc48 f39dd15e 87d95fa8 429ab90a c75ee550 ba6ee5b9 12ceb6c2 e2a9ed86 f7c9e376 61935b27 e0f44cfd c0884f36 6e9d9dea 731f11b9 27c5769b ff9dbf2b 5ea0d3cd 415fbc82 723c7bb6 612bf3b 8c590650 c7bf6164 57728dae 81cd8e17 f5b54c56 e8b39b97 9e2a9673 fa66d4a5 aae8bc8f 9e94d9b3 d9109ce8 f5f4accb 137733fd a0c4e8e7 c8957070 b347e977 f581b942 c518e0bf 88394747 74a00c55 7009d241 3524345e 6de0f835 7801c1a4 30d5b43a 7592604 55a024b7 44cde2f2 c539604 625e54ba 7fac81ee 12212b73 9b7bb088 950c819c b29eb281 8bb989db bbe784ca 9de6c16 29326bdd 6ba8d461 21e32b11 4a2317e7 b6ec84f1 e51b8013 5bd21785 fd14ec4a 4db34b04 c4054731 338cd9f3 30da0919 c092f918 d508bbe3 5c1d009d b108baca ffdeba27 6b78b574 51ee356a 677e5779 75efbb9b ec306f06 3fa87b3e ce1ecebc a04c9a2 5f394032 7a56a068 4ee47bb7 90533619 5785ccf3 d5155ec7 c88148a2 3346d1d4 4e073df4 b6b68ffa 58da862a cf30f34a 63810e21 3559b3f5 55651dff c7e3c48d 8ee8b5e a6444b6f 314a185b 27c15042 2d05fd66 edc2909b 14c6556 72b9024d 654c955c 44b0b412 9a9a37e1 d1f588f2 a6bf0179 ef8369ec 8c12b3b1 b370b206 a8d660fc 256e339f 3b737625 15ca6b04 893d5e00 66932a37 29208ebc dd5eed9b c2c21668 757f1ca8 761bc11f 631e4049 6d4de5dc 54c9f6a6 bb3eb059 a299485e f8b6c9c4 6a8a1bfc 7162714b bb7d4dad facb4e87 94d69f91 f517a17d ea312635 8650face 3fbe1ffd 810c0553 a9cd7378 9130daa6 97c40839 e65bd3cd b935cfcd e119c533 3e017d79 bd0b4347 8f5478c4 965f9daa aeb01cd5 a8cb7161 55a6b89e 23ecef4b 27968d28 ec081a5a b9bb07b0 abc64cce de97a11 f1e7434b 6a3714ff 1ce937ce a58243df 19c10ccb 768fb0b2 525833b 95a45ae4 82c6f45c 67d6b8b5 dd7b34a4 355a2684 8c9d7b6 2a0c8271 85d4f139 3eb8c0ec 74966ac2 adcf7b96 6d09f70c 977f6eca 5f07be92 dd0fdcaa 8f78159 134daaca 11907d60 2eb9d88f 241ff91b 90a9bc58 7397b34 eb087137 47557f38 6c5fb432 6a9664d5 bb173d5b 796ed6d5 897e375d 6206b135 9e4bf3f 20512c97 1d046850 68bff94e 3551a4ea f4dd4c12 497b1d76 e29850b5 e6433f91 2a8b385e 7ca98cdb bd3b3dc8 44f67c79 25235520 635eb769 c85d05d2 29872640 c18a590c 28a72bb8 5261b966 52974672 fb87582f a3c9572d 94608e5d 2ee2044e 799b729a b0e62bfc 544c4b0c 9f9e92f8 530dc87a 8416ed60 37c31b84 da4f80ef c3d02af8 b8fe49e4 1f293f9c eb94966b 72f500e8 ca850ece ff058dc3 764caea3 d42399ce 6ff564c6 34304369 8efccb54 89e740d6 5fba098d a655b226 8b208e1f 6eb0985d 27b95a39 60f81b6b 80748cc1 2aa4e5df 6f2c09ec af2ac173 f37acc88 2b617cb cf20080c 685c36e1 85df8857 7794881 422da5de 26dfc9f5 fb11cca4 a11c1edf b0a7742e c70635a bcf85e81 522666af 2cdba2a7 23438ce5 8650255c 8f300e1a b828697d bedf9821 e396c2d6 a891dd11 a0606588 db24eb7c 3c10e226 f2b9910a d5130b9a 1ee7766b 709dfd46 dbd0ee13 cb447e61 a65650bc 2e758b09 d506ada1 b5fc34ff f3c74ee7 2f16260b 1c65e76f e517b7e4 8f172f3d bb275cf6 61f24260 6c11b62 198541c8 8e3efe07 e2ede719 223f1963 bd300131 e0f9c642 456b02c9 1b2d230d 51ebcb47 98b9aac5 3d15e1ab 1f138da0 18e1824a 47b8035d ace99178 a956b14f 89312a8f 160640d0 8ed6e440 70bd623b fbdecd14 ea493b46 5a7f516d a0c1edd1 b98dc175 8fb7052a a90f7300 f4b27403 367bc63a 9f80411d 6c4c4a77 5f2c88cb 574c13f0 5f46d954 4e953dc9 ef696a29 7d8d5ed4 a459694c 79c34c0a 460be59c 83dd9e37 4f8cca30 ee17009d eab9ce9f 812401d6 b4fb2eef 17b15acd 3a2b8a2e 6f622474 d26e0178 d28e6ad7 a5279bf5 d2d8b9c5 c7564371 bf3ea04e 6991ec51 f4390de6 e0350ab0 a68c05f7 2a217902 b004d224 cd674159 d2bf4de 12746bf3 d58a43d ed887370 68c319bf 99f1d857 ef82d8eb 530bbdeb f5aa29b6 7c6753ce ff46da11 3025ad81 533e7f4d d4dbe765 561e3a8 9c0bbbb3 a5e9c841 4f3cdfdc 31dc999f 197b52a",
+        "seed": "42",
+        "seed_per_iteration": "0",
+        "validate_parameters": "1"
+      },
+      "gradient_booster": {
+        "dart_train_param": {
+          "normalize_type": "tree",
+          "one_drop": "0",
+          "rate_drop": "0",
+          "sample_type": "uniform",
+          "skip_drop": "0"
+        },
+        "gbtree_model_param": {
+          "num_parallel_tree": "1",
+          "num_trees": "500"
+        },
+        "gbtree_train_param": {
+          "process_type": "default",
+          "tree_method": "hist",
+          "updater": "grow_quantile_histmaker",
+          "updater_seq": "grow_quantile_histmaker"
+        },
+        "name": "gbtree",
+        "specified_updater": false,
+        "tree_train_param": {
+          "alpha": "0",
+          "colsample_bylevel": "1",
+          "colsample_bynode": "1",
+          "colsample_bytree": "1",
+          "eta": "0.100000001",
+          "gamma": "0",
+          "grow_policy": "depthwise",
+          "interaction_constraints": "",
+          "lambda": "1",
+          "learning_rate": "0.100000001",
+          "max_bin": "256",
+          "max_cat_threshold": "64",
+          "max_cat_to_onehot": "4",
+          "max_delta_step": "0",
+          "max_depth": "5",
+          "max_leaves": "0",
+          "min_child_weight": "1",
+          "min_split_loss": "0",
+          "monotone_constraints": "()",
+          "refresh_leaf": "1",
+          "reg_alpha": "0",
+          "reg_lambda": "1",
+          "sampling_method": "uniform",
+          "sparse_threshold": "0.20000000000000001",
+          "subsample": "1"
+        },
+        "updater": [
+          {
+            "hist_train_param": {
+              "debug_synchronize": "0",
+              "max_cached_hist_node": "18446744073709551615"
+            },
+            "name": "grow_quantile_histmaker"
+          }
+        ]
+      },
+      "learner_model_param": {
+        "base_score": "[4.9993486E3]",
+        "boost_from_average": "1",
+        "num_class": "0",
+        "num_feature": "11",
+        "num_target": "1"
+      },
+      "learner_train_param": {
+        "booster": "gbtree",
+        "disable_default_eval_metric": "0",
+        "multi_strategy": "one_output_per_tree",
+        "objective": "reg:squarederror"
+      },
+      "metrics": [
+        {
+          "name": "rmse"
+        }
+      ],
+      "objective": {
+        "name": "reg:squarederror",
+        "reg_loss_param": {
+          "scale_pos_weight": "1"
+        }
+      }
+    },
+    "version": [
+      3,
+      4,
+      1
+    ]
+  }
+}

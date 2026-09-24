@@ -1,0 +1,4451 @@
+{
+  "country": "Canada",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "Canada",
+      "Acura",
+      "ADX"
+    ],
+    [
+      "Canada",
+      "Acura",
+      "Integra"
+    ],
+    [
+      "Canada",
+      "Acura",
+      "MDX"
+    ],
+    [
+      "Canada",
+      "Acura",
+      "RDX"
+    ],
+    [
+      "Canada",
+      "Acura",
+      "TLX"
+    ],
+    [
+      "Canada",
+      "Alfa Romeo",
+      "Giulia"
+    ],
+    [
+      "Canada",
+      "Alfa Romeo",
+      "Stelvio"
+    ],
+    [
+      "Canada",
+      "Alfa Romeo",
+      "Tonale"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "A3"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "A5"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "A6"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "A8"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q4 e-tron"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q5"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q6 e-tron"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q7"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "Q8"
+    ],
+    [
+      "Canada",
+      "Audi",
+      "e-tron GT"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "4 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "7 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "8 Series"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X1"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X2"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X3"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X4"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X5"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X6"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "X7"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "XM"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "Z4"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "i4"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "i5"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "i7"
+    ],
+    [
+      "Canada",
+      "BMW",
+      "iX"
+    ],
+    [
+      "Canada",
+      "Bentley",
+      "Bentayga"
+    ],
+    [
+      "Canada",
+      "Buick",
+      "Enclave"
+    ],
+    [
+      "Canada",
+      "Buick",
+      "Encore GX"
+    ],
+    [
+      "Canada",
+      "Buick",
+      "Envision"
+    ],
+    [
+      "Canada",
+      "Buick",
+      "Envista"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "CT4"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "CT5"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "Escalade"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "Lyriq"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "Optiq"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "Vistiq"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "XT5"
+    ],
+    [
+      "Canada",
+      "Cadillac",
+      "XT6"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Blazer"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Bolt"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "BrightDrop 400/600"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Camaro"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Colorado"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Corvette"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Equinox"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Express"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Malibu"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Silverado"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Suburban"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Tahoe"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "TrailBlazer"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Traverse"
+    ],
+    [
+      "Canada",
+      "Chevrolet",
+      "Trax"
+    ],
+    [
+      "Canada",
+      "Chrysler",
+      "Grand Caravan"
+    ],
+    [
+      "Canada",
+      "Chrysler",
+      "Pacifica"
+    ],
+    [
+      "Canada",
+      "Dodge",
+      "Challenger"
+    ],
+    [
+      "Canada",
+      "Dodge",
+      "Charger"
+    ],
+    [
+      "Canada",
+      "Dodge",
+      "Durango"
+    ],
+    [
+      "Canada",
+      "Dodge",
+      "Hornet"
+    ],
+    [
+      "Canada",
+      "Ferrari",
+      "Purosangue"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Bronco Sport"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "E-Series"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Escape"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Expedition"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "F-Series"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Maverick"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Mustang"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Mustang Mach-E"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Ranger"
+    ],
+    [
+      "Canada",
+      "Ford",
+      "Transit"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Acadia"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Canyon"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Hummer EV"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Savana"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Sierra"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Terrain"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Yukon"
+    ],
+    [
+      "Canada",
+      "GMC",
+      "Yukon XL"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "G70"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "G80"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "G90"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "GV60"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "GV70"
+    ],
+    [
+      "Canada",
+      "Genesis",
+      "GV80"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "HR-V"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Passport"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Pilot"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Prologue"
+    ],
+    [
+      "Canada",
+      "Honda",
+      "Ridgeline"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Elantra"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Ioniq 5"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Ioniq 6"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Ioniq 9"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Kona"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Palisade"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Santa Cruz"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Sonata"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "Canada",
+      "Hyundai",
+      "Venue"
+    ],
+    [
+      "Canada",
+      "Infiniti",
+      "QX50"
+    ],
+    [
+      "Canada",
+      "Infiniti",
+      "QX55"
+    ],
+    [
+      "Canada",
+      "Infiniti",
+      "QX60"
+    ],
+    [
+      "Canada",
+      "Infiniti",
+      "QX80"
+    ],
+    [
+      "Canada",
+      "Jaguar",
+      "F-Pace"
+    ],
+    [
+      "Canada",
+      "Jaguar",
+      "F-Type"
+    ],
+    [
+      "Canada",
+      "Jaguar",
+      "I-Pace"
+    ],
+    [
+      "Canada",
+      "Jaguar",
+      "XF"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Cherokee"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Compass"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Gladiator"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Grand Cherokee"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Grand Wagoneer"
+    ],
+    [
+      "Canada",
+      "Jeep",
+      "Wrangler"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Carnival"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "EV6"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "EV9"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "K4"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Niro"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Seltos"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Sorento"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "Canada",
+      "Kia",
+      "Telluride"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Defender"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Range Rover"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Range Rover Sport"
+    ],
+    [
+      "Canada",
+      "Land Rover",
+      "Range Rover Velar"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "ES"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "GX"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "IS"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "LC"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "LS"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "LX"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "NX"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "RX"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "RZ"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "TX"
+    ],
+    [
+      "Canada",
+      "Lexus",
+      "UX"
+    ],
+    [
+      "Canada",
+      "Lincoln",
+      "Aviator"
+    ],
+    [
+      "Canada",
+      "Lincoln",
+      "Corsair"
+    ],
+    [
+      "Canada",
+      "Lincoln",
+      "Nautilus"
+    ],
+    [
+      "Canada",
+      "Lincoln",
+      "Navigator"
+    ],
+    [
+      "Canada",
+      "Lucid",
+      "Air"
+    ],
+    [
+      "Canada",
+      "Lucid",
+      "Gravity"
+    ],
+    [
+      "Canada",
+      "Maserati",
+      "GranTurismo"
+    ],
+    [
+      "Canada",
+      "Maserati",
+      "Grecale"
+    ],
+    [
+      "Canada",
+      "Maserati",
+      "MC20"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "CX-50"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "CX-70"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "CX-90"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "MX-5 Miata"
+    ],
+    [
+      "Canada",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "A-Class"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "AMG GT"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "CLE"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "E-Class"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "EQE"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "EQS"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "EQS SUV"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "G-Class"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "GLE"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "GLS"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "S-Class"
+    ],
+    [
+      "Canada",
+      "Mercedes-Benz",
+      "Sprinter"
+    ],
+    [
+      "Canada",
+      "Mini",
+      "Cooper"
+    ],
+    [
+      "Canada",
+      "Mini",
+      "Countryman"
+    ],
+    [
+      "Canada",
+      "Mitsubishi",
+      "Eclipse Cross"
+    ],
+    [
+      "Canada",
+      "Mitsubishi",
+      "Outlander"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Armada"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Frontier"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Kicks"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Leaf"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Murano"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Pathfinder"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Sentra"
+    ],
+    [
+      "Canada",
+      "Nissan",
+      "Z"
+    ],
+    [
+      "Canada",
+      "Polestar",
+      "2"
+    ],
+    [
+      "Canada",
+      "Polestar",
+      "3"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "911"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Boxster"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Cayenne"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Cayman"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Macan"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Panamera"
+    ],
+    [
+      "Canada",
+      "Porsche",
+      "Taycan"
+    ],
+    [
+      "Canada",
+      "Ram",
+      "Pickup"
+    ],
+    [
+      "Canada",
+      "Ram",
+      "ProMaster"
+    ],
+    [
+      "Canada",
+      "Rivian",
+      "R1S"
+    ],
+    [
+      "Canada",
+      "Rivian",
+      "R1T"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Ascent"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "BRZ"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Crosstrek"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Forester"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Impreza"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Outback"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "Solterra"
+    ],
+    [
+      "Canada",
+      "Subaru",
+      "WRX"
+    ],
+    [
+      "Canada",
+      "Tesla",
+      "Cybertruck"
+    ],
+    [
+      "Canada",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "Canada",
+      "Tesla",
+      "Model S"
+    ],
+    [
+      "Canada",
+      "Tesla",
+      "Model X"
+    ],
+    [
+      "Canada",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "4Runner"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Crown"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Crown Signia"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "GR86"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Grand Highlander"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Land Cruiser"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Mirai"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Prius"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Sequoia"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Sienna"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Supra"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Tacoma"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "Tundra"
+    ],
+    [
+      "Canada",
+      "Toyota",
+      "bZ4X"
+    ],
+    [
+      "Canada",
+      "VinFast",
+      "VF8"
+    ],
+    [
+      "Canada",
+      "VinFast",
+      "VF9"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "Atlas"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "ID. Buzz"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "ID.4"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "Jetta"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "Taos"
+    ],
+    [
+      "Canada",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "60-Series"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "90-Series"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "C40"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "EX90"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "Canada",
+      "Volvo",
+      "XC90"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "Acura",
+      "Alfa Romeo",
+      "Audi",
+      "BMW",
+      "Bentley",
+      "Buick",
+      "Cadillac",
+      "Chevrolet",
+      "Chrysler",
+      "Dodge",
+      "Ferrari",
+      "Ford",
+      "GMC",
+      "Genesis",
+      "Honda",
+      "Hyundai",
+      "Infiniti",
+      "Jaguar",
+      "Jeep",
+      "Kia",
+      "Land Rover",
+      "Lexus",
+      "Lincoln",
+      "Lucid",
+      "Maserati",
+      "Mazda",
+      "Mercedes-Benz",
+      "Mini",
+      "Mitsubishi",
+      "Nissan",
+      "Polestar",
+      "Porsche",
+      "Ram",
+      "Rivian",
+      "Subaru",
+      "Tesla",
+      "Toyota",
+      "VinFast",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "Model": [
+      "2",
+      "2 Series",
+      "3",
+      "3 Series",
+      "4 Series",
+      "4Runner",
+      "5 Series",
+      "60-Series",
+      "7 Series",
+      "8 Series",
+      "90-Series",
+      "911",
+      "A-Class",
+      "A3",
+      "A5",
+      "A6",
+      "A8",
+      "ADX",
+      "AMG GT",
+      "Acadia",
+      "Accord",
+      "Air",
+      "Ariya",
+      "Armada",
+      "Ascent",
+      "Atlas",
+      "Aviator",
+      "BRZ",
+      "Bentayga",
+      "Blazer",
+      "Bolt",
+      "Boxster",
+      "BrightDrop 400/600",
+      "Bronco",
+      "Bronco Sport",
+      "C-Class",
+      "C40",
+      "CLE",
+      "CR-V",
+      "CT4",
+      "CT5",
+      "CX-30",
+      "CX-5",
+      "CX-50",
+      "CX-70",
+      "CX-90",
+      "Camaro",
+      "Camry",
+      "Canyon",
+      "Carnival",
+      "Cayenne",
+      "Cayman",
+      "Challenger",
+      "Charger",
+      "Cherokee",
+      "Civic",
+      "Colorado",
+      "Compass",
+      "Cooper",
+      "Corolla",
+      "Corolla Cross",
+      "Corsair",
+      "Corvette",
+      "Countryman",
+      "Crosstrek",
+      "Crown",
+      "Crown Signia",
+      "Cybertruck",
+      "Defender",
+      "Discovery Sport",
+      "Durango",
+      "E-Class",
+      "E-Series",
+      "EQB",
+      "EQE",
+      "EQE SUV",
+      "EQS",
+      "EQS SUV",
+      "ES",
+      "EV6",
+      "EV9",
+      "EX30",
+      "EX90",
+      "Eclipse Cross",
+      "Elantra",
+      "Enclave",
+      "Encore GX",
+      "Envision",
+      "Envista",
+      "Equinox",
+      "Escalade",
+      "Escape",
+      "Expedition",
+      "Explorer",
+      "Express",
+      "F-Pace",
+      "F-Series",
+      "F-Type",
+      "Forester",
+      "Frontier",
+      "G-Class",
+      "G70",
+      "G80",
+      "G90",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLE",
+      "GLS",
+      "GR86",
+      "GV60",
+      "GV70",
+      "GV80",
+      "GX",
+      "Giulia",
+      "Gladiator",
+      "Golf",
+      "GranTurismo",
+      "Grand Caravan",
+      "Grand Cherokee",
+      "Grand Highlander",
+      "Grand Wagoneer",
+      "Gravity",
+      "Grecale",
+      "HR-V",
+      "Highlander",
+      "Hornet",
+      "Hummer EV",
+      "I-Pace",
+      "ID. Buzz",
+      "ID.4",
+      "IS",
+      "Impreza",
+      "Integra",
+      "Ioniq 5",
+      "Ioniq 6",
+      "Ioniq 9",
+      "Jetta",
+      "K4",
+      "Kicks",
+      "Kona",
+      "LC",
+      "LS",
+      "LX",
+      "Land Cruiser",
+      "Leaf",
+      "Lyriq",
+      "MC20",
+      "MDX",
+      "MX-5 Miata",
+      "Macan",
+      "Malibu",
+      "Maverick",
+      "Mazda3",
+      "Mirai",
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y",
+      "Murano",
+      "Mustang",
+      "Mustang Mach-E",
+      "NX",
+      "Nautilus",
+      "Navigator",
+      "Niro",
+      "Odyssey",
+      "Optiq",
+      "Outback",
+      "Outlander",
+      "Pacifica",
+      "Palisade",
+      "Panamera",
+      "Passport",
+      "Pathfinder",
+      "Pickup",
+      "Pilot",
+      "Prius",
+      "ProMaster",
+      "Prologue",
+      "Purosangue",
+      "Q3",
+      "Q4 e-tron",
+      "Q5",
+      "Q6 e-tron",
+      "Q7",
+      "Q8",
+      "QX50",
+      "QX55",
+      "QX60",
+      "QX80",
+      "R1S",
+      "R1T",
+      "RAV4",
+      "RDX",
+      "RX",
+      "RZ",
+      "Range Rover",
+      "Range Rover Evoque",
+      "Range Rover Sport",
+      "Range Rover Velar",
+      "Ranger",
+      "Ridgeline",
+      "Rogue",
+      "S-Class",
+      "Santa Cruz",
+      "Santa Fe",
+      "Savana",
+      "Seltos",
+      "Sentra",
+      "Sequoia",
+      "Sienna",
+      "Sierra",
+      "Silverado",
+      "Solterra",
+      "Sonata",
+      "Sorento",
+      "Sportage",
+      "Sprinter",
+      "Stelvio",
+      "Suburban",
+      "Supra",
+      "TLX",
+      "TX",
+      "Tacoma",
+      "Tahoe",
+      "Taos",
+      "Taycan",
+      "Telluride",
+      "Terrain",
+      "Tiguan",
+      "Tonale",
+      "TrailBlazer",
+      "Transit",
+      "Traverse",
+      "Trax",
+      "Tucson",
+      "Tundra",
+      "UX",
+      "VF8",
+      "VF9",
+      "Venue",
+      "Vistiq",
+      "WRX",
+      "Wrangler",
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X6",
+      "X7",
+      "XC40",
+      "XC60",
+      "XC90",
+      "XF",
+      "XM",
+      "XT5",
+      "XT6",
+      "Yukon",
+      "Yukon XL",
+      "Z",
+      "Z4",
+      "bZ4X",
+      "e-tron GT",
+      "i4",
+      "i5",
+      "i7",
+      "iX"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 24280,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 27508,
+  "normalization": [
+    {
+      "Country": "Canada",
+      "Brand": "Acura",
+      "Model": "ADX",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 276.7647058823529,
+      "scale": 116.65834313860006
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Acura",
+      "Model": "Integra",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 81.57692307692308,
+      "scale": 40.538224577398815
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Acura",
+      "Model": "MDX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 382.88188976377955,
+      "scale": 109.31889171906631
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Acura",
+      "Model": "RDX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 582.8425196850394,
+      "scale": 201.9849231663435
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Acura",
+      "Model": "TLX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 193.43307086614172,
+      "scale": 131.52776124194844
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Alfa Romeo",
+      "Model": "Giulia",
+      "observations": 114,
+      "first_month": "2017-02",
+      "last_month": "2026-07",
+      "center": 21.0,
+      "scale": 20.573748326486918
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Alfa Romeo",
+      "Model": "Stelvio",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 43.4537037037037,
+      "scale": 26.99124281045848
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Alfa Romeo",
+      "Model": "Tonale",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 34.225,
+      "scale": 24.726637996187335
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "A3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 208.62992125984252,
+      "scale": 130.63282342639883
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "A5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 257.54330708661416,
+      "scale": 118.82776499547009
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "A6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 56.653543307086615,
+      "scale": 24.655857257957372
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "A8",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9.385826771653543,
+      "scale": 8.305734468334204
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 463.7007874015748,
+      "scale": 207.34331731618295
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q4 e-tron",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 208.66,
+      "scale": 168.6288859865769
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 903.7952755905512,
+      "scale": 270.24949060574534
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q6 e-tron",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 80.4,
+      "scale": 39.79314497120408
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q7",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 247.98425196850394,
+      "scale": 107.16780869241511
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "Q8",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 124.70212765957447,
+      "scale": 37.19700762237497
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Audi",
+      "Model": "e-tron GT",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 20.931818181818183,
+      "scale": 20.79708332377464
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "2 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 120.7007874015748,
+      "scale": 56.29700745823164
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "3 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 381.68503937007875,
+      "scale": 192.15962880471918
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "4 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 200.81102362204723,
+      "scale": 110.72462313025599
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "5 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 111.25196850393701,
+      "scale": 77.46125501641296
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "7 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 23.251968503937007,
+      "scale": 17.670773456768888
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "8 Series",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 26.23404255319149,
+      "scale": 14.772662302830147
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X1",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 351.7165354330709,
+      "scale": 160.78234727706348
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X2",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 87.7864077669903,
+      "scale": 69.67495832763645
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 575.8818897637796,
+      "scale": 171.42959626628019
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 92.77165354330708,
+      "scale": 38.753178543228856
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 473.93700787401576,
+      "scale": 133.97904560600773
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 82.68503937007874,
+      "scale": 25.38616809233435
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "X7",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 91.08791208791209,
+      "scale": 35.711120888929266
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "XM",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 6.744186046511628,
+      "scale": 2.602194438948077
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "Z4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13.62992125984252,
+      "scale": 12.306481298964393
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "i4",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 145.29090909090908,
+      "scale": 69.18368493711583
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "i5",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 26.264705882352942,
+      "scale": 15.462186722375685
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "i7",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 7.869565217391305,
+      "scale": 4.778743105571838
+    },
+    {
+      "Country": "Canada",
+      "Brand": "BMW",
+      "Model": "iX",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 107.72727272727273,
+      "scale": 47.8752155741309
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Bentley",
+      "Model": "Bentayga",
+      "observations": 120,
+      "first_month": "2016-08",
+      "last_month": "2026-07",
+      "center": 9.125,
+      "scale": 3.0290316556346735
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Buick",
+      "Model": "Enclave",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 227.39370078740157,
+      "scale": 108.36266936923639
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Buick",
+      "Model": "Encore GX",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 548.7341772151899,
+      "scale": 167.30215660192343
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Buick",
+      "Model": "Envision",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 384.2903225806452,
+      "scale": 276.8405965415395
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Buick",
+      "Model": "Envista",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 527.8378378378378,
+      "scale": 204.1525424684755
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "CT4",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 43.06578947368421,
+      "scale": 18.171528215337105
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "CT5",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 78.16455696202532,
+      "scale": 19.962112121731625
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "Escalade",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 69.96062992125984,
+      "scale": 36.94116880312936
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "Lyriq",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 191.7674418604651,
+      "scale": 109.20542379648889
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "Optiq",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 408.42105263157896,
+      "scale": 206.429418775258
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "Vistiq",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 84.1875,
+      "scale": 24.439249141933
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "XT5",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 354.9837398373984,
+      "scale": 137.1945686164042
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Cadillac",
+      "Model": "XT6",
+      "observations": 86,
+      "first_month": "2019-06",
+      "last_month": "2026-07",
+      "center": 106.44186046511628,
+      "scale": 45.22840308047828
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Blazer",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 372.7362637362637,
+      "scale": 210.24833538669998
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Bolt",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 378.62608695652176,
+      "scale": 381.13086326986826
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "BrightDrop 400/600",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 64.75,
+      "scale": 34.44322559647742
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Camaro",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 134.31496062992127,
+      "scale": 105.73091861970097
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Colorado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 621.7401574803149,
+      "scale": 185.81724580246922
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Corvette",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 179.4488188976378,
+      "scale": 90.50018366780652
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Equinox",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1572.0708661417323,
+      "scale": 724.1425392936009
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Express",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 329.755905511811,
+      "scale": 138.87311808497608
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Malibu",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 415.00787401574803,
+      "scale": 322.28847259087223
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Silverado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4461.228346456693,
+      "scale": 786.7037117019017
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Suburban",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 202.8740157480315,
+      "scale": 77.77037440056343
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Tahoe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 331.3307086614173,
+      "scale": 97.14904348426987
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "TrailBlazer",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 682.0526315789474,
+      "scale": 319.7658441235187
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Traverse",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 482.01574803149606,
+      "scale": 189.14134537653874
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chevrolet",
+      "Model": "Trax",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 696.4094488188977,
+      "scale": 630.0018502622054
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chrysler",
+      "Model": "Grand Caravan",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 314.7142857142857,
+      "scale": 174.35993853190269
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Chrysler",
+      "Model": "Pacifica",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 498.54330708661416,
+      "scale": 311.1612669020844
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Dodge",
+      "Model": "Challenger",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 155.3779527559055,
+      "scale": 124.50066924611755
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Dodge",
+      "Model": "Charger",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 231.98425196850394,
+      "scale": 221.77059047476064
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Dodge",
+      "Model": "Durango",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 625.2440944881889,
+      "scale": 246.0969933299731
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Dodge",
+      "Model": "Hornet",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 143.86046511627907,
+      "scale": 96.92426026454984
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ferrari",
+      "Model": "Purosangue",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 3.92,
+      "scale": 0.863144372925171
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Bronco",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 734.421875,
+      "scale": 266.4707732182597
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Bronco Sport",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 1344.8285714285714,
+      "scale": 569.9950515743847
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "E-Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 299.40157480314963,
+      "scale": 112.12896889343835
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Escape",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2721.433070866142,
+      "scale": 1074.7844511797532
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Expedition",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 309.93700787401576,
+      "scale": 123.21763617819133
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Explorer",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1233.4409448818897,
+      "scale": 361.60120424414504
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "F-Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11244.141732283464,
+      "scale": 2336.6395088447566
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Maverick",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 835.4166666666666,
+      "scale": 522.421655536073
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Mustang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 446.23622047244095,
+      "scale": 318.31567202020597
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Mustang Mach-E",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 565.3142857142857,
+      "scale": 252.54688530949343
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Ranger",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 594.065934065934,
+      "scale": 315.1801778714203
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ford",
+      "Model": "Transit",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1249.992125984252,
+      "scale": 376.21765880957923
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Acadia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 358.73228346456693,
+      "scale": 114.35120777379986
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Canyon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 477.86614173228344,
+      "scale": 153.98573988856072
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Hummer EV",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 33.4,
+      "scale": 25.622281799573347
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Savana",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 387.1968503937008,
+      "scale": 182.10307767090703
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Sierra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4700.48031496063,
+      "scale": 820.0942141033404
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Terrain",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1059.0,
+      "scale": 311.3245972940417
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Yukon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 342.81889763779526,
+      "scale": 110.28188896371746
+    },
+    {
+      "Country": "Canada",
+      "Brand": "GMC",
+      "Model": "Yukon XL",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 242.07874015748033,
+      "scale": 87.66253773007624
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "G70",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 79.8252427184466,
+      "scale": 28.144316660154992
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "G80",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 37.22834645669291,
+      "scale": 48.84803118871867
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "G90",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 5.256410256410256,
+      "scale": 4.578194973496232
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "GV60",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 27.653846153846153,
+      "scale": 19.15554353482897
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "GV70",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 324.625,
+      "scale": 125.60472486366173
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Genesis",
+      "Model": "GV80",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 119.05714285714286,
+      "scale": 39.248568832151435
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Accord",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 641.5590551181102,
+      "scale": 419.934449251704
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4184.881889763779,
+      "scale": 1042.0556137536785
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3853.8267716535433,
+      "scale": 1719.6314005637166
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "HR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1043.4409448818897,
+      "scale": 307.20414736560394
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Odyssey",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 571.3858267716536,
+      "scale": 339.67530815609734
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Passport",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 273.9010989010989,
+      "scale": 132.14904628776057
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Pilot",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 630.496062992126,
+      "scale": 146.47465229568306
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Prologue",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 68.32142857142857,
+      "scale": 41.22489408208292
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Honda",
+      "Model": "Ridgeline",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 282.29133858267716,
+      "scale": 109.20205149152389
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Elantra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2593.1732283464567,
+      "scale": 1128.1439449203974
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 525.8965517241379,
+      "scale": 413.2941561198241
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 6",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 206.65,
+      "scale": 114.11125835277697
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 9",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 153.8125,
+      "scale": 63.22883830081912
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Kona",
+      "observations": 102,
+      "first_month": "2018-02",
+      "last_month": "2026-07",
+      "center": 2193.656862745098,
+      "scale": 640.7519823268921
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Palisade",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 629.3636363636364,
+      "scale": 235.9823308725963
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Santa Cruz",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 202.9344262295082,
+      "scale": 118.9870918382552
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Santa Fe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1459.0944881889764,
+      "scale": 723.4810081324733
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Sonata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 355.76377952755905,
+      "scale": 259.27812975909154
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Tucson",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2449.5905511811025,
+      "scale": 824.7962215175662
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Hyundai",
+      "Model": "Venue",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 996.7926829268292,
+      "scale": 334.32146809257443
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Infiniti",
+      "Model": "QX50",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 168.29133858267716,
+      "scale": 90.98528623688361
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Infiniti",
+      "Model": "QX55",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 38.671875,
+      "scale": 19.76390055371495
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Infiniti",
+      "Model": "QX60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 245.5748031496063,
+      "scale": 125.8534676733642
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Infiniti",
+      "Model": "QX80",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 75.44094488188976,
+      "scale": 20.61945091960019
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jaguar",
+      "Model": "F-Pace",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 123.39024390243902,
+      "scale": 67.91807092994974
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jaguar",
+      "Model": "F-Type",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 19.299212598425196,
+      "scale": 16.109889091505213
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jaguar",
+      "Model": "I-Pace",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 8.627659574468085,
+      "scale": 9.665215088709218
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jaguar",
+      "Model": "XF",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12.952755905511811,
+      "scale": 20.228200974763578
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 991.6220472440945,
+      "scale": 902.2390221683329
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Compass",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 587.9448818897638,
+      "scale": 259.8211618520854
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Gladiator",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 268.0989010989011,
+      "scale": 140.58081192266152
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Grand Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1250.2992125984251,
+      "scale": 379.53892277924217
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Grand Wagoneer",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 78.265625,
+      "scale": 73.56085222538896
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Jeep",
+      "Model": "Wrangler",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1608.7952755905512,
+      "scale": 552.085832281266
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Carnival",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 413.18110236220474,
+      "scale": 226.03884448573774
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "EV6",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 227.72727272727272,
+      "scale": 197.5536375723023
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "EV9",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 314.3235294117647,
+      "scale": 146.3440190901743
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "K4",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1066.590909090909,
+      "scale": 305.4804060142747
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Niro",
+      "observations": 114,
+      "first_month": "2017-02",
+      "last_month": "2026-07",
+      "center": 404.3421052631579,
+      "scale": 289.46776830413023
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Seltos",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 1434.253164556962,
+      "scale": 430.2945992815427
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Sorento",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 972.0393700787401,
+      "scale": 427.6793789842412
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Sportage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1283.0944881889764,
+      "scale": 567.4837423041772
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Kia",
+      "Model": "Telluride",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 266.9230769230769,
+      "scale": 136.7005035688532
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Defender",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 203.78947368421052,
+      "scale": 112.45011360255303
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Discovery Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 75.8740157480315,
+      "scale": 74.48086541358239
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Range Rover",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 124.93700787401575,
+      "scale": 40.611935289842386
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Evoque",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 97.64566929133858,
+      "scale": 52.31694692438502
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 205.09448818897638,
+      "scale": 79.68222976697696
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Velar",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 101.26851851851852,
+      "scale": 44.58683964228962
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "ES",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 126.02362204724409,
+      "scale": 55.53152936645796
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "GX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 50.330708661417326,
+      "scale": 34.250540368808316
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "IS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 180.11023622047244,
+      "scale": 79.92377943000288
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "LC",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 12.306306306306306,
+      "scale": 8.796422484104484
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "LS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5.299212598425197,
+      "scale": 7.284699403375889
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "LX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 60.89763779527559,
+      "scale": 28.715177088302912
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "NX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 714.3779527559055,
+      "scale": 220.63548469014518
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "RX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 804.7480314960629,
+      "scale": 172.53898564869397
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "RZ",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 49.093023255813954,
+      "scale": 28.236224673334767
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "TX",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 203.58823529411765,
+      "scale": 70.84357530641567
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lexus",
+      "Model": "UX",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 226.62637362637363,
+      "scale": 70.66192733002056
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lincoln",
+      "Model": "Aviator",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 162.01176470588234,
+      "scale": 46.21077095761949
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lincoln",
+      "Model": "Corsair",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 203.35433070866142,
+      "scale": 46.00400054161574
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lincoln",
+      "Model": "Nautilus",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 246.76377952755905,
+      "scale": 90.11461352469448
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lincoln",
+      "Model": "Navigator",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 89.91338582677166,
+      "scale": 35.080483450775375
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lucid",
+      "Model": "Air",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 39.795918367346935,
+      "scale": 22.579524264390187
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Lucid",
+      "Model": "Gravity",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 34.61538461538461,
+      "scale": 49.784739748131884
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Maserati",
+      "Model": "GranTurismo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2.141732283464567,
+      "scale": 2.51987153768515
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Maserati",
+      "Model": "Grecale",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 33.78260869565217,
+      "scale": 16.12399398546572
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Maserati",
+      "Model": "MC20",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 2.6964285714285716,
+      "scale": 2.1577388063793244
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "CX-30",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 994.8227848101266,
+      "scale": 356.2285313027924
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "CX-5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2143.448818897638,
+      "scale": 449.12617048956355
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "CX-50",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 520.1346153846154,
+      "scale": 365.8321831584615
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "CX-70",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 408.64285714285717,
+      "scale": 104.78972853370412
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "CX-90",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 664.0,
+      "scale": 197.59379798302393
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "MX-5 Miata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 77.08661417322834,
+      "scale": 56.20398495823367
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mazda",
+      "Model": "Mazda3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1401.3622047244094,
+      "scale": 714.5320989843203
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "A-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 70.88976377952756,
+      "scale": 112.72639294036397
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "AMG GT",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 24.070866141732285,
+      "scale": 15.136963901815134
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "C-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 429.90551181102364,
+      "scale": 321.6016960069013
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 22.88976377952756,
+      "scale": 50.067952077757
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "E-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 183.4251968503937,
+      "scale": 102.97743555246402
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQB",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 19.874015748031496,
+      "scale": 41.20796320349932
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6.84251968503937,
+      "scale": 13.918776742656636
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE SUV",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 19.866141732283463,
+      "scale": 59.39879628154842
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10.062992125984252,
+      "scale": 34.46599172775429
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS SUV",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8.133858267716535,
+      "scale": 18.37122606384475
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "G-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 106.95275590551181,
+      "scale": 88.82288311496346
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 238.29133858267716,
+      "scale": 122.88265343780168
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLB",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 94.75590551181102,
+      "scale": 105.69923806518233
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 651.5748031496063,
+      "scale": 238.36449512003347
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 514.5984251968504,
+      "scale": 173.6566411368817
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 116.96062992125984,
+      "scale": 110.73198206932462
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "S-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 64.07086614173228,
+      "scale": 55.091116420384786
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mercedes-Benz",
+      "Model": "Sprinter",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 407.6456692913386,
+      "scale": 161.0969514838432
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mini",
+      "Model": "Cooper",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 278.4803149606299,
+      "scale": 130.49782018994335
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mini",
+      "Model": "Countryman",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 156.33070866141733,
+      "scale": 65.92072757312911
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mitsubishi",
+      "Model": "Eclipse Cross",
+      "observations": 102,
+      "first_month": "2018-02",
+      "last_month": "2026-07",
+      "center": 396.5980392156863,
+      "scale": 114.90647021430404
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1681.023622047244,
+      "scale": 643.6275377229458
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Ariya",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 196.88636363636363,
+      "scale": 129.57976033929734
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Armada",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 67.01574803149606,
+      "scale": 38.84845697189373
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Frontier",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 255.03937007874015,
+      "scale": 151.1947658852059
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Kicks",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 1696.6464646464647,
+      "scale": 960.0571219565088
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Leaf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 178.5748031496063,
+      "scale": 165.35406292499826
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Murano",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 663.0866141732283,
+      "scale": 426.9909029077824
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Pathfinder",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 483.40157480314963,
+      "scale": 248.91829118988767
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Rogue",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2812.952755905512,
+      "scale": 795.0552909521813
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Sentra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 848.1889763779527,
+      "scale": 349.78344257288893
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Nissan",
+      "Model": "Z",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 37.77952755905512,
+      "scale": 35.6894241588654
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Polestar",
+      "Model": "2",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 132.45454545454547,
+      "scale": 105.6264186052863
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Polestar",
+      "Model": "3",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 100.0,
+      "scale": 16.116629999897004
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "911",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 130.44094488188978,
+      "scale": 66.62818554560157
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Boxster",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 26.52755905511811,
+      "scale": 18.82928468754521
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Cayenne",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 213.09448818897638,
+      "scale": 63.29575593934084
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Cayman",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 26.125984251968504,
+      "scale": 17.475217071455727
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Macan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 293.9763779527559,
+      "scale": 85.02771974732346
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Panamera",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 32.84251968503937,
+      "scale": 22.157141348970708
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Porsche",
+      "Model": "Taycan",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 46.9873417721519,
+      "scale": 34.55843286982933
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ram",
+      "Model": "Pickup",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6354.078740157481,
+      "scale": 1950.723393035879
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Ram",
+      "Model": "ProMaster",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 347.31496062992125,
+      "scale": 145.7162730537952
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Rivian",
+      "Model": "R1S",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 60.76086956521739,
+      "scale": 61.410054712453146
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Rivian",
+      "Model": "R1T",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 42.28260869565217,
+      "scale": 45.020805795345716
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Ascent",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 246.2577319587629,
+      "scale": 107.56271061463589
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "BRZ",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 58.56692913385827,
+      "scale": 33.164733446388595
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Crosstrek",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1224.0472440944882,
+      "scale": 785.4418582987781
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Forester",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1096.8976377952756,
+      "scale": 411.7366722334167
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Impreza",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 468.59842519685037,
+      "scale": 276.07789418138515
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Outback",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 889.007874015748,
+      "scale": 241.51450755360938
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "Solterra",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 152.19565217391303,
+      "scale": 111.45492710615474
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Subaru",
+      "Model": "WRX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 272.20472440944883,
+      "scale": 111.47838110501054
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Tesla",
+      "Model": "Cybertruck",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 180.86363636363637,
+      "scale": 59.97422095773048
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Tesla",
+      "Model": "Model 3",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 1164.121212121212,
+      "scale": 589.9292197382907
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Tesla",
+      "Model": "Model S",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 87.96850393700787,
+      "scale": 42.05157665784885
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Tesla",
+      "Model": "Model X",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 112.35483870967742,
+      "scale": 44.1102631514759
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 1121.092105263158,
+      "scale": 720.5068946993154
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "4Runner",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 585.1023622047244,
+      "scale": 200.81265627426725
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 965.4803149606299,
+      "scale": 381.27223879330944
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Corolla",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3115.511811023622,
+      "scale": 1150.6164837995236
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Corolla Cross",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 1215.2758620689656,
+      "scale": 469.279063164712
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Crown",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 55.13953488372093,
+      "scale": 33.38872837670707
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Crown Signia",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 201.24,
+      "scale": 80.37058109887514
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "GR86",
+      "observations": 121,
+      "first_month": "2016-07",
+      "last_month": "2026-07",
+      "center": 42.62809917355372,
+      "scale": 32.445578638296055
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Grand Highlander",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 651.5405405405405,
+      "scale": 256.83367119663933
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Highlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1103.3149606299212,
+      "scale": 369.09570137648905
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Land Cruiser",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 81.75806451612904,
+      "scale": 121.01420374840322
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Mirai",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 3.901098901098901,
+      "scale": 4.636719209596569
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Prius",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 612.0787401574803,
+      "scale": 302.1663524507738
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5183.818897637795,
+      "scale": 1449.0733805578964
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Sequoia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 54.31496062992126,
+      "scale": 28.15381926409902
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Sienna",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 983.9448818897638,
+      "scale": 396.8274011155997
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Supra",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 31.75294117647059,
+      "scale": 18.043192851732623
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Tacoma",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1165.2204724409448,
+      "scale": 338.0137713185901
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "Tundra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 952.3070866141733,
+      "scale": 263.0777506729589
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Toyota",
+      "Model": "bZ4X",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 526.1521739130435,
+      "scale": 437.2114759480326
+    },
+    {
+      "Country": "Canada",
+      "Brand": "VinFast",
+      "Model": "VF8",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 71.575,
+      "scale": 22.125203334444148
+    },
+    {
+      "Country": "Canada",
+      "Brand": "VinFast",
+      "Model": "VF9",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 4.526315789473684,
+      "scale": 2.0111844304864475
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "Atlas",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 799.4803149606299,
+      "scale": 439.0473611097673
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "Golf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 860.0708661417323,
+      "scale": 684.5140137741632
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "ID. Buzz",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15.488188976377952,
+      "scale": 40.609026851592496
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "ID.4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 188.46456692913387,
+      "scale": 298.5167971869765
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "Jetta",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1150.9606299212599,
+      "scale": 586.3612374777094
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "Taos",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 709.5275590551181,
+      "scale": 905.0011153572948
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volkswagen",
+      "Model": "Tiguan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1501.007874015748,
+      "scale": 652.8954294445676
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "60-Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 95.58267716535433,
+      "scale": 45.07453917678818
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "90-Series",
+      "observations": 120,
+      "first_month": "2016-08",
+      "last_month": "2026-07",
+      "center": 28.816666666666666,
+      "scale": 25.94823507066682
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "C40",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 34.72727272727273,
+      "scale": 27.051994579528046
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "EX30",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 101.56,
+      "scale": 52.599360568094696
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "EX90",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 10.04,
+      "scale": 4.996641349759717
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "XC40",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 244.70873786407768,
+      "scale": 92.21871028599419
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 286.6692913385827,
+      "scale": 120.69415012559722
+    },
+    {
+      "Country": "Canada",
+      "Brand": "Volvo",
+      "Model": "XC90",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 239.6771653543307,
+      "scale": 73.47993174963554
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 32,
+    "epochs": 100,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 100,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 38000,
+  "training_seconds": 1503.2787083999938
+}

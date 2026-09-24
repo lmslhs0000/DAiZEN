@@ -1,0 +1,4645 @@
+{
+  "country": "United States",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "United States",
+      "Acura",
+      "ADX"
+    ],
+    [
+      "United States",
+      "Acura",
+      "Integra"
+    ],
+    [
+      "United States",
+      "Acura",
+      "MDX"
+    ],
+    [
+      "United States",
+      "Acura",
+      "RDX"
+    ],
+    [
+      "United States",
+      "Acura",
+      "TLX"
+    ],
+    [
+      "United States",
+      "Acura",
+      "ZDX"
+    ],
+    [
+      "United States",
+      "Alfa Romeo",
+      "Giulia"
+    ],
+    [
+      "United States",
+      "Alfa Romeo",
+      "Stelvio"
+    ],
+    [
+      "United States",
+      "Alfa Romeo",
+      "Tonale"
+    ],
+    [
+      "United States",
+      "Aston Martin",
+      "DBX"
+    ],
+    [
+      "United States",
+      "Audi",
+      "A3"
+    ],
+    [
+      "United States",
+      "Audi",
+      "A5"
+    ],
+    [
+      "United States",
+      "Audi",
+      "A6"
+    ],
+    [
+      "United States",
+      "Audi",
+      "A7"
+    ],
+    [
+      "United States",
+      "Audi",
+      "A8"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q4 e-tron"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q5"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q6 e-tron"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q7"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q8"
+    ],
+    [
+      "United States",
+      "Audi",
+      "Q8 e-tron"
+    ],
+    [
+      "United States",
+      "Audi",
+      "e-tron GT"
+    ],
+    [
+      "United States",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "4 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "7 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "8 Series"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X1"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X2"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X3"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X4"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X5"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X6"
+    ],
+    [
+      "United States",
+      "BMW",
+      "X7"
+    ],
+    [
+      "United States",
+      "BMW",
+      "XM"
+    ],
+    [
+      "United States",
+      "BMW",
+      "Z4"
+    ],
+    [
+      "United States",
+      "BMW",
+      "iX"
+    ],
+    [
+      "United States",
+      "Buick",
+      "Enclave"
+    ],
+    [
+      "United States",
+      "Buick",
+      "Encore GX"
+    ],
+    [
+      "United States",
+      "Buick",
+      "Envision"
+    ],
+    [
+      "United States",
+      "Buick",
+      "Envista"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "CT4"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "CT5"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "Escalade"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "Escalade IQ EV"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "Lyriq"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "Optiq"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "Vistiq"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "XT4"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "XT5"
+    ],
+    [
+      "United States",
+      "Cadillac",
+      "XT6"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Blazer"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Blazer EV"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Bolt"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Colorado"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Corvette"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Equinox"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Equinox EV"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Express"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Malibu"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Silverado"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Suburban"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Tahoe"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "TrailBlazer"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Traverse"
+    ],
+    [
+      "United States",
+      "Chevrolet",
+      "Trax"
+    ],
+    [
+      "United States",
+      "Chrysler",
+      "300"
+    ],
+    [
+      "United States",
+      "Chrysler",
+      "Pacifica"
+    ],
+    [
+      "United States",
+      "Chrysler",
+      "Voyager"
+    ],
+    [
+      "United States",
+      "Dodge",
+      "Challenger"
+    ],
+    [
+      "United States",
+      "Dodge",
+      "Charger"
+    ],
+    [
+      "United States",
+      "Dodge",
+      "Charger BEV"
+    ],
+    [
+      "United States",
+      "Dodge",
+      "Durango"
+    ],
+    [
+      "United States",
+      "Dodge",
+      "Hornet"
+    ],
+    [
+      "United States",
+      "Ferrari",
+      "Purosangue"
+    ],
+    [
+      "United States",
+      "Fiat",
+      "500"
+    ],
+    [
+      "United States",
+      "Fiat",
+      "500X"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Bronco Sport"
+    ],
+    [
+      "United States",
+      "Ford",
+      "E-Series Van"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Escape"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Expedition"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "United States",
+      "Ford",
+      "F-Series"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Maverick"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Mustang"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Mustang Mach-E"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Ranger"
+    ],
+    [
+      "United States",
+      "Ford",
+      "Transit"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Acadia"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Canyon"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Hummer EV"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Savana"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Sierra"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Terrain"
+    ],
+    [
+      "United States",
+      "GMC",
+      "Yukon / Yukon XL"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "G70"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "G80"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "G90"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "GV60"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "GV70"
+    ],
+    [
+      "United States",
+      "Genesis",
+      "GV80"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "United States",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "United States",
+      "Honda",
+      "HR-V"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Passport"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Pilot"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Prologue"
+    ],
+    [
+      "United States",
+      "Honda",
+      "Ridgeline"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Elantra"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Ioniq 5"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Ioniq 6"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Ioniq 9"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Kona"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Palisade"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Santa Cruz"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Sonata"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "United States",
+      "Hyundai",
+      "Venue"
+    ],
+    [
+      "United States",
+      "Ineos",
+      "Grenadier"
+    ],
+    [
+      "United States",
+      "Infiniti",
+      "QX50"
+    ],
+    [
+      "United States",
+      "Infiniti",
+      "QX55"
+    ],
+    [
+      "United States",
+      "Infiniti",
+      "QX60"
+    ],
+    [
+      "United States",
+      "Infiniti",
+      "QX80"
+    ],
+    [
+      "United States",
+      "Jaguar",
+      "E-Pace"
+    ],
+    [
+      "United States",
+      "Jaguar",
+      "F-Pace"
+    ],
+    [
+      "United States",
+      "Jaguar",
+      "F-Type"
+    ],
+    [
+      "United States",
+      "Jaguar",
+      "I-Pace"
+    ],
+    [
+      "United States",
+      "Jaguar",
+      "XF"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Cherokee"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Compass"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Gladiator"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Grand Cherokee"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Grand Wagoneer"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Renegade"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Wagoneer"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Wagoneer S"
+    ],
+    [
+      "United States",
+      "Jeep",
+      "Wrangler"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Carnival"
+    ],
+    [
+      "United States",
+      "Kia",
+      "EV6"
+    ],
+    [
+      "United States",
+      "Kia",
+      "EV9"
+    ],
+    [
+      "United States",
+      "Kia",
+      "K4"
+    ],
+    [
+      "United States",
+      "Kia",
+      "K5"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Niro"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Seltos"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Sorento"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Soul"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "United States",
+      "Kia",
+      "Telluride"
+    ],
+    [
+      "United States",
+      "Lamborghini",
+      "Urus"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Defender"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Discovery"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Range Rover"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Range Rover Sport"
+    ],
+    [
+      "United States",
+      "Land Rover",
+      "Range Rover Velar"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "ES"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "GX"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "IS"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "LC"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "LS"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "LX"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "NX"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "RC"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "RX"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "RZ"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "TX"
+    ],
+    [
+      "United States",
+      "Lexus",
+      "UX"
+    ],
+    [
+      "United States",
+      "Lincoln",
+      "Aviator"
+    ],
+    [
+      "United States",
+      "Lincoln",
+      "Corsair"
+    ],
+    [
+      "United States",
+      "Lincoln",
+      "Nautilus"
+    ],
+    [
+      "United States",
+      "Lincoln",
+      "Navigator"
+    ],
+    [
+      "United States",
+      "Lotus",
+      "Emira"
+    ],
+    [
+      "United States",
+      "Lucid",
+      "Air"
+    ],
+    [
+      "United States",
+      "Lucid",
+      "Gravity"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "CX-50"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "CX-70"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "CX-90"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "MX-5 Miata"
+    ],
+    [
+      "United States",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "CLA"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "CLE"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "E-Class / CLS"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "EQE Sedan"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "EQS SUV"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "EQS Sedan"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "G-Class"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "GLE"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "GLS"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "S-Class"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "SL"
+    ],
+    [
+      "United States",
+      "Mercedes-Benz",
+      "Sprinter"
+    ],
+    [
+      "United States",
+      "Mini",
+      "Cooper"
+    ],
+    [
+      "United States",
+      "Mini",
+      "Countryman"
+    ],
+    [
+      "United States",
+      "Mitsubishi",
+      "Eclipse Cross"
+    ],
+    [
+      "United States",
+      "Mitsubishi",
+      "Mirage"
+    ],
+    [
+      "United States",
+      "Mitsubishi",
+      "Outlander"
+    ],
+    [
+      "United States",
+      "Mitsubishi",
+      "Outlander PHEV"
+    ],
+    [
+      "United States",
+      "Mitsubishi",
+      "Outlander Sport"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Altima"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Armada"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Frontier"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Kicks"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Leaf"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Murano"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Pathfinder"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Sentra"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Versa"
+    ],
+    [
+      "United States",
+      "Nissan",
+      "Z"
+    ],
+    [
+      "United States",
+      "Ram",
+      "Pickup"
+    ],
+    [
+      "United States",
+      "Ram",
+      "ProMaster"
+    ],
+    [
+      "United States",
+      "Rivian",
+      "EDV"
+    ],
+    [
+      "United States",
+      "Rivian",
+      "R1S"
+    ],
+    [
+      "United States",
+      "Rivian",
+      "R1T"
+    ],
+    [
+      "United States",
+      "Rolls-Royce",
+      "Cullinan"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Ascent"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "BRZ"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Crosstrek"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Forester"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Impreza"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Legacy"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Outback"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "Solterra"
+    ],
+    [
+      "United States",
+      "Subaru",
+      "WRX"
+    ],
+    [
+      "United States",
+      "Tesla",
+      "Cybertruck"
+    ],
+    [
+      "United States",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "United States",
+      "Tesla",
+      "Model S"
+    ],
+    [
+      "United States",
+      "Tesla",
+      "Model X"
+    ],
+    [
+      "United States",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "4Runner"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Crown"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Crown Signia"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "GR86"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Grand Highlander"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Land Cruiser"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Mirai"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Prius"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Sequoia"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Sienna"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Supra"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Tacoma"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Tundra"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "Venza"
+    ],
+    [
+      "United States",
+      "Toyota",
+      "bZ4X"
+    ],
+    [
+      "United States",
+      "VinFast",
+      "VF8"
+    ],
+    [
+      "United States",
+      "VinFast",
+      "VF9"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "Atlas"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "ID. Buzz"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "ID.4"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "Jetta"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "Taos"
+    ],
+    [
+      "United States",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "60-Series"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "90-Series"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "EX90"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "United States",
+      "Volvo",
+      "XC90"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "Acura",
+      "Alfa Romeo",
+      "Aston Martin",
+      "Audi",
+      "BMW",
+      "Buick",
+      "Cadillac",
+      "Chevrolet",
+      "Chrysler",
+      "Dodge",
+      "Ferrari",
+      "Fiat",
+      "Ford",
+      "GMC",
+      "Genesis",
+      "Honda",
+      "Hyundai",
+      "Ineos",
+      "Infiniti",
+      "Jaguar",
+      "Jeep",
+      "Kia",
+      "Lamborghini",
+      "Land Rover",
+      "Lexus",
+      "Lincoln",
+      "Lotus",
+      "Lucid",
+      "Mazda",
+      "Mercedes-Benz",
+      "Mini",
+      "Mitsubishi",
+      "Nissan",
+      "Ram",
+      "Rivian",
+      "Rolls-Royce",
+      "Subaru",
+      "Tesla",
+      "Toyota",
+      "VinFast",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "Model": [
+      "2 Series",
+      "3 Series",
+      "300",
+      "4 Series",
+      "4Runner",
+      "5 Series",
+      "500",
+      "500X",
+      "60-Series",
+      "7 Series",
+      "8 Series",
+      "90-Series",
+      "A3",
+      "A5",
+      "A6",
+      "A7",
+      "A8",
+      "ADX",
+      "Acadia",
+      "Accord",
+      "Air",
+      "Altima",
+      "Ariya",
+      "Armada",
+      "Ascent",
+      "Atlas",
+      "Aviator",
+      "BRZ",
+      "Blazer",
+      "Blazer EV",
+      "Bolt",
+      "Bronco",
+      "Bronco Sport",
+      "C-Class",
+      "CLA",
+      "CLE",
+      "CR-V",
+      "CT4",
+      "CT5",
+      "CX-30",
+      "CX-5",
+      "CX-50",
+      "CX-70",
+      "CX-90",
+      "Camry",
+      "Canyon",
+      "Carnival",
+      "Challenger",
+      "Charger",
+      "Charger BEV",
+      "Cherokee",
+      "Civic",
+      "Colorado",
+      "Compass",
+      "Cooper",
+      "Corolla",
+      "Corolla Cross",
+      "Corsair",
+      "Corvette",
+      "Countryman",
+      "Crosstrek",
+      "Crown",
+      "Crown Signia",
+      "Cullinan",
+      "Cybertruck",
+      "DBX",
+      "Defender",
+      "Discovery",
+      "Discovery Sport",
+      "Durango",
+      "E-Class / CLS",
+      "E-Pace",
+      "E-Series Van",
+      "EDV",
+      "EQB",
+      "EQE SUV",
+      "EQE Sedan",
+      "EQS SUV",
+      "EQS Sedan",
+      "ES",
+      "EV6",
+      "EV9",
+      "EX30",
+      "EX90",
+      "Eclipse Cross",
+      "Elantra",
+      "Emira",
+      "Enclave",
+      "Encore GX",
+      "Envision",
+      "Envista",
+      "Equinox",
+      "Equinox EV",
+      "Escalade",
+      "Escalade IQ EV",
+      "Escape",
+      "Expedition",
+      "Explorer",
+      "Express",
+      "F-Pace",
+      "F-Series",
+      "F-Type",
+      "Forester",
+      "Frontier",
+      "G-Class",
+      "G70",
+      "G80",
+      "G90",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLE",
+      "GLS",
+      "GR86",
+      "GV60",
+      "GV70",
+      "GV80",
+      "GX",
+      "Giulia",
+      "Gladiator",
+      "Golf",
+      "Grand Cherokee",
+      "Grand Highlander",
+      "Grand Wagoneer",
+      "Gravity",
+      "Grenadier",
+      "HR-V",
+      "Highlander",
+      "Hornet",
+      "Hummer EV",
+      "I-Pace",
+      "ID. Buzz",
+      "ID.4",
+      "IS",
+      "Impreza",
+      "Integra",
+      "Ioniq 5",
+      "Ioniq 6",
+      "Ioniq 9",
+      "Jetta",
+      "K4",
+      "K5",
+      "Kicks",
+      "Kona",
+      "LC",
+      "LS",
+      "LX",
+      "Land Cruiser",
+      "Leaf",
+      "Legacy",
+      "Lyriq",
+      "MDX",
+      "MX-5 Miata",
+      "Malibu",
+      "Maverick",
+      "Mazda3",
+      "Mirage",
+      "Mirai",
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y",
+      "Murano",
+      "Mustang",
+      "Mustang Mach-E",
+      "NX",
+      "Nautilus",
+      "Navigator",
+      "Niro",
+      "Odyssey",
+      "Optiq",
+      "Outback",
+      "Outlander",
+      "Outlander PHEV",
+      "Outlander Sport",
+      "Pacifica",
+      "Palisade",
+      "Passport",
+      "Pathfinder",
+      "Pickup",
+      "Pilot",
+      "Prius",
+      "ProMaster",
+      "Prologue",
+      "Purosangue",
+      "Q3",
+      "Q4 e-tron",
+      "Q5",
+      "Q6 e-tron",
+      "Q7",
+      "Q8",
+      "Q8 e-tron",
+      "QX50",
+      "QX55",
+      "QX60",
+      "QX80",
+      "R1S",
+      "R1T",
+      "RAV4",
+      "RC",
+      "RDX",
+      "RX",
+      "RZ",
+      "Range Rover",
+      "Range Rover Evoque",
+      "Range Rover Sport",
+      "Range Rover Velar",
+      "Ranger",
+      "Renegade",
+      "Ridgeline",
+      "Rogue",
+      "S-Class",
+      "SL",
+      "Santa Cruz",
+      "Santa Fe",
+      "Savana",
+      "Seltos",
+      "Sentra",
+      "Sequoia",
+      "Sienna",
+      "Sierra",
+      "Silverado",
+      "Solterra",
+      "Sonata",
+      "Sorento",
+      "Soul",
+      "Sportage",
+      "Sprinter",
+      "Stelvio",
+      "Suburban",
+      "Supra",
+      "TLX",
+      "TX",
+      "Tacoma",
+      "Tahoe",
+      "Taos",
+      "Telluride",
+      "Terrain",
+      "Tiguan",
+      "Tonale",
+      "TrailBlazer",
+      "Transit",
+      "Traverse",
+      "Trax",
+      "Tucson",
+      "Tundra",
+      "UX",
+      "Urus",
+      "VF8",
+      "VF9",
+      "Venue",
+      "Venza",
+      "Versa",
+      "Vistiq",
+      "Voyager",
+      "WRX",
+      "Wagoneer",
+      "Wagoneer S",
+      "Wrangler",
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X6",
+      "X7",
+      "XC40",
+      "XC60",
+      "XC90",
+      "XF",
+      "XM",
+      "XT4",
+      "XT5",
+      "XT6",
+      "Yukon / Yukon XL",
+      "Z",
+      "Z4",
+      "ZDX",
+      "bZ4X",
+      "e-tron GT",
+      "iX"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 24579,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 27951,
+  "normalization": [
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "ADX",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 2331.0588235294117,
+      "scale": 790.8200512082306
+    },
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "Integra",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 2081.372549019608,
+      "scale": 597.4072691568888
+    },
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "MDX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4301.322834645669,
+      "scale": 1105.7412793338392
+    },
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "RDX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3901.472440944882,
+      "scale": 1344.3181563195797
+    },
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "TLX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1745.244094488189,
+      "scale": 1051.48753359856
+    },
+    {
+      "Country": "United States",
+      "Brand": "Acura",
+      "Model": "ZDX",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 722.3703703703703,
+      "scale": 746.602309174189
+    },
+    {
+      "Country": "United States",
+      "Brand": "Alfa Romeo",
+      "Model": "Giulia",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 485.78991596638656,
+      "scale": 319.4260128319753
+    },
+    {
+      "Country": "United States",
+      "Brand": "Alfa Romeo",
+      "Model": "Stelvio",
+      "observations": 110,
+      "first_month": "2017-06",
+      "last_month": "2026-07",
+      "center": 581.4363636363636,
+      "scale": 337.86945776807227
+    },
+    {
+      "Country": "United States",
+      "Brand": "Alfa Romeo",
+      "Model": "Tonale",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 210.975,
+      "scale": 115.46802980547223
+    },
+    {
+      "Country": "United States",
+      "Brand": "Aston Martin",
+      "Model": "DBX",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 7.123287671232877,
+      "scale": 18.054096641773043
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "A3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1132.3779527559054,
+      "scale": 731.499719947308
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "A5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1645.0,
+      "scale": 602.6293992850065
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "A6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 965.9842519685039,
+      "scale": 511.4834621701349
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "A7",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 265.78740157480314,
+      "scale": 187.72018725294114
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "A8",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 187.71653543307087,
+      "scale": 97.15344204745965
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1968.3385826771653,
+      "scale": 781.4786084969326
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q4 e-tron",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 562.051724137931,
+      "scale": 454.53344977811247
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4894.543307086614,
+      "scale": 1337.4358630113927
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q6 e-tron",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 855.6521739130435,
+      "scale": 1114.7832467307258
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q7",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2269.6771653543306,
+      "scale": 817.500405054993
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q8",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 987.8404255319149,
+      "scale": 338.8500819142278
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "Q8 e-tron",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 197.17045454545453,
+      "scale": 377.35447166551035
+    },
+    {
+      "Country": "United States",
+      "Brand": "Audi",
+      "Model": "e-tron GT",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 182.70491803278688,
+      "scale": 121.31768937958536
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "2 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1137.8425196850394,
+      "scale": 431.4960780667606
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "3 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3648.0629921259842,
+      "scale": 1322.5892503772368
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "4 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2722.6141732283463,
+      "scale": 1129.6346301095678
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "5 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2487.031496062992,
+      "scale": 981.1114418169844
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "7 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 770.9685039370079,
+      "scale": 247.53314336774488
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "8 Series",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 490.6521739130435,
+      "scale": 170.23181110251272
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X1",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1875.7874015748032,
+      "scale": 837.1270942908128
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X2",
+      "observations": 101,
+      "first_month": "2018-03",
+      "last_month": "2026-07",
+      "center": 586.8613861386139,
+      "scale": 477.34125413611844
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5273.992125984252,
+      "scale": 1578.259829816305
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 607.2362204724409,
+      "scale": 284.178834370144
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5207.1968503937005,
+      "scale": 1643.7056194366014
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 747.8188976377953,
+      "scale": 310.25052837837256
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "X7",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 2270.2696629213483,
+      "scale": 571.6571980334779
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "XM",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 166.9,
+      "scale": 45.8305381788707
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "Z4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 149.46456692913387,
+      "scale": 100.35272264039537
+    },
+    {
+      "Country": "United States",
+      "Brand": "BMW",
+      "Model": "iX",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 1037.433962264151,
+      "scale": 431.349778374193
+    },
+    {
+      "Country": "United States",
+      "Brand": "Buick",
+      "Model": "Enclave",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3489.464566929134,
+      "scale": 980.2228723618003
+    },
+    {
+      "Country": "United States",
+      "Brand": "Buick",
+      "Model": "Encore GX",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 4550.632911392405,
+      "scale": 1687.952171151138
+    },
+    {
+      "Country": "United States",
+      "Brand": "Buick",
+      "Model": "Envision",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 3061.4065040650407,
+      "scale": 1109.1043571406178
+    },
+    {
+      "Country": "United States",
+      "Brand": "Buick",
+      "Model": "Envista",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 4314.108108108108,
+      "scale": 1179.006696645311
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "CT4",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 579.3037974683544,
+      "scale": 227.8820946038009
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "CT5",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 1239.8125,
+      "scale": 381.961710635281
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "Escalade",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3045.582677165354,
+      "scale": 944.1025940497193
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "Escalade IQ EV",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 570.5454545454545,
+      "scale": 202.6728265759609
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "Lyriq",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1434.127659574468,
+      "scale": 807.7962212017557
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "Optiq",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 1085.578947368421,
+      "scale": 368.28820079402794
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "Vistiq",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 761.1875,
+      "scale": 261.27509028217185
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "XT4",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 1566.1958762886597,
+      "scale": 854.1190480156322
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "XT5",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 3223.9919354838707,
+      "scale": 1517.8287702586583
+    },
+    {
+      "Country": "United States",
+      "Brand": "Cadillac",
+      "Model": "XT6",
+      "observations": 86,
+      "first_month": "2019-06",
+      "last_month": "2026-07",
+      "center": 1560.2906976744187,
+      "scale": 546.5595115317592
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Blazer",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 5182.510638297872,
+      "scale": 2065.7299230922163
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Blazer EV",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 1348.054054054054,
+      "scale": 1098.4671785901257
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Bolt",
+      "observations": 116,
+      "first_month": "2016-12",
+      "last_month": "2026-07",
+      "center": 1912.6120689655172,
+      "scale": 1725.2918620381192
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Colorado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8415.8031496063,
+      "scale": 2166.4677074086067
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Corvette",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2295.4409448818897,
+      "scale": 733.9411978809266
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Equinox",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 21477.464566929135,
+      "scale": 6005.977490472564
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Equinox EV",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 3692.464285714286,
+      "scale": 2447.195734619658
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Express",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4888.346456692913,
+      "scale": 1469.7614655157652
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Malibu",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9492.582677165354,
+      "scale": 6026.1347596840205
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Silverado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 47166.96062992126,
+      "scale": 6513.796722688348
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Suburban",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4328.755905511811,
+      "scale": 1036.580874298054
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Tahoe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8658.251968503937,
+      "scale": 1465.7428709925416
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "TrailBlazer",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 7254.93670886076,
+      "scale": 2819.703262819395
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Traverse",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10578.72440944882,
+      "scale": 2725.810894579777
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chevrolet",
+      "Model": "Trax",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9337.83464566929,
+      "scale": 5628.945520505898
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chrysler",
+      "Model": "300",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1939.9212598425197,
+      "scale": 1690.3001170187008
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chrysler",
+      "Model": "Pacifica",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 8962.459677419354,
+      "scale": 2957.2187758092864
+    },
+    {
+      "Country": "United States",
+      "Brand": "Chrysler",
+      "Model": "Voyager",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1153.2272727272727,
+      "scale": 681.4024687141489
+    },
+    {
+      "Country": "United States",
+      "Brand": "Dodge",
+      "Model": "Challenger",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3883.015748031496,
+      "scale": 2045.913777789919
+    },
+    {
+      "Country": "United States",
+      "Brand": "Dodge",
+      "Model": "Charger",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5672.685039370079,
+      "scale": 2845.8644762305107
+    },
+    {
+      "Country": "United States",
+      "Brand": "Dodge",
+      "Model": "Charger BEV",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 365.72727272727275,
+      "scale": 367.4665799826972
+    },
+    {
+      "Country": "United States",
+      "Brand": "Dodge",
+      "Model": "Durango",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5544.503937007874,
+      "scale": 1192.6595572400306
+    },
+    {
+      "Country": "United States",
+      "Brand": "Dodge",
+      "Model": "Hornet",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 998.2,
+      "scale": 694.0187920435784
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ferrari",
+      "Model": "Purosangue",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 15.486486486486486,
+      "scale": 27.542482231844488
+    },
+    {
+      "Country": "United States",
+      "Brand": "Fiat",
+      "Model": "500",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 317.0236220472441,
+      "scale": 452.8295377054306
+    },
+    {
+      "Country": "United States",
+      "Brand": "Fiat",
+      "Model": "500X",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 255.55905511811022,
+      "scale": 332.3545522354453
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Bronco",
+      "observations": 62,
+      "first_month": "2021-06",
+      "last_month": "2026-07",
+      "center": 9757.016129032258,
+      "scale": 3171.2016980762037
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Bronco Sport",
+      "observations": 69,
+      "first_month": "2020-11",
+      "last_month": "2026-07",
+      "center": 9899.826086956522,
+      "scale": 2819.5318040152733
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "E-Series Van",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3565.0866141732286,
+      "scale": 852.7528713277641
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Escape",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 16096.212598425196,
+      "scale": 6968.144719077279
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Expedition",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5970.03937007874,
+      "scale": 1833.8891021491872
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Explorer",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 18673.36220472441,
+      "scale": 4155.692231248592
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "F-Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 66634.54330708661,
+      "scale": 10930.718152496216
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Maverick",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 9802.949152542373,
+      "scale": 4659.56237157831
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Mustang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5289.724409448819,
+      "scale": 2133.09868556354
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Mustang Mach-E",
+      "observations": 68,
+      "first_month": "2020-12",
+      "last_month": "2026-07",
+      "center": 3297.529411764706,
+      "scale": 1592.9486195036884
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Ranger",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 5848.2307692307695,
+      "scale": 2824.5261129622186
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ford",
+      "Model": "Transit",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11246.937007874016,
+      "scale": 2793.5236112096964
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Acadia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6099.44094488189,
+      "scale": 2355.23370072733
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Canyon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2638.259842519685,
+      "scale": 721.1307803085169
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Hummer EV",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 705.2321428571429,
+      "scale": 671.8217857633797
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Savana",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1732.3149606299212,
+      "scale": 809.6009826480781
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Sierra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 22116.622047244095,
+      "scale": 5205.938455117265
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Terrain",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6967.653543307087,
+      "scale": 1958.2389372713499
+    },
+    {
+      "Country": "United States",
+      "Brand": "GMC",
+      "Model": "Yukon / Yukon XL",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6882.629921259842,
+      "scale": 1596.3856012351582
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "G70",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 935.4,
+      "scale": 286.6199838162913
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "G80",
+      "observations": 120,
+      "first_month": "2016-08",
+      "last_month": "2026-07",
+      "center": 549.075,
+      "scale": 368.7812090505626
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "G90",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 167.42857142857142,
+      "scale": 92.96539215570402
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "GV60",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 203.47058823529412,
+      "scale": 102.14388682869057
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "GV70",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 2244.4444444444443,
+      "scale": 764.5913112701231
+    },
+    {
+      "Country": "United States",
+      "Brand": "Genesis",
+      "Model": "GV80",
+      "observations": 69,
+      "first_month": "2020-11",
+      "last_month": "2026-07",
+      "center": 1780.0,
+      "scale": 484.9693503039346
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Accord",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 18931.992125984252,
+      "scale": 6393.482060678834
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 30368.937007874014,
+      "scale": 6731.367177602854
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 22764.165354330707,
+      "scale": 7096.053302701169
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "HR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9459.007874015748,
+      "scale": 2845.7635420803244
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Odyssey",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7301.291338582677,
+      "scale": 2189.560122993131
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Passport",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 3709.3626373626375,
+      "scale": 1041.2131389160556
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Pilot",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10695.874015748032,
+      "scale": 2247.6074529926786
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Prologue",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 2934.714285714286,
+      "scale": 2384.57202824645
+    },
+    {
+      "Country": "United States",
+      "Brand": "Honda",
+      "Model": "Ridgeline",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3248.503937007874,
+      "scale": 1073.0069446372634
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Elantra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12976.779527559054,
+      "scale": 4052.184677316566
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 3086.75,
+      "scale": 1519.740179667607
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 6",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 903.8536585365854,
+      "scale": 511.19612330078894
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 9",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 716.4666666666667,
+      "scale": 301.9070325909717
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Kona",
+      "observations": 102,
+      "first_month": "2018-02",
+      "last_month": "2026-07",
+      "center": 6162.558823529412,
+      "scale": 1592.4940439800193
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Palisade",
+      "observations": 86,
+      "first_month": "2019-06",
+      "last_month": "2026-07",
+      "center": 7892.116279069767,
+      "scale": 2492.7148362584157
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Santa Cruz",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 2489.4754098360654,
+      "scale": 739.7854182876415
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Santa Fe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10259.748031496063,
+      "scale": 2351.732557349621
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Sonata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7614.740157480315,
+      "scale": 4130.073481042714
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Tucson",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13654.291338582678,
+      "scale": 4628.839939478246
+    },
+    {
+      "Country": "United States",
+      "Brand": "Hyundai",
+      "Model": "Venue",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 2169.938271604938,
+      "scale": 697.8158579185624
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ineos",
+      "Model": "Grenadier",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 445.3333333333333,
+      "scale": 173.72429585690753
+    },
+    {
+      "Country": "United States",
+      "Brand": "Infiniti",
+      "Model": "QX50",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1227.4488188976377,
+      "scale": 663.8234416967014
+    },
+    {
+      "Country": "United States",
+      "Brand": "Infiniti",
+      "Model": "QX55",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 327.40625,
+      "scale": 159.6163593941931
+    },
+    {
+      "Country": "United States",
+      "Brand": "Infiniti",
+      "Model": "QX60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2564.0078740157483,
+      "scale": 1185.005159101921
+    },
+    {
+      "Country": "United States",
+      "Brand": "Infiniti",
+      "Model": "QX80",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1203.4251968503936,
+      "scale": 450.5720343216939
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jaguar",
+      "Model": "E-Pace",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 177.89320388349515,
+      "scale": 173.22269284708037
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jaguar",
+      "Model": "F-Pace",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 827.9837398373984,
+      "scale": 498.41394944414424
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jaguar",
+      "Model": "F-Type",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 162.24409448818898,
+      "scale": 109.34728216164432
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jaguar",
+      "Model": "I-Pace",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 127.08510638297872,
+      "scale": 105.59653890556301
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jaguar",
+      "Model": "XF",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 160.0,
+      "scale": 183.77304898694268
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8731.606299212599,
+      "scale": 7466.983546577806
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Compass",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8736.322834645669,
+      "scale": 2976.2609415315587
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Gladiator",
+      "observations": 90,
+      "first_month": "2019-02",
+      "last_month": "2026-07",
+      "center": 5122.522222222222,
+      "scale": 1932.5544147978976
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Grand Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 18843.826771653545,
+      "scale": 2984.4612188856813
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Grand Wagoneer",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 1276.1016949152543,
+      "scale": 1322.5990427384074
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Renegade",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4383.716535433071,
+      "scale": 3381.8019617088935
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Wagoneer",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 2698.1525423728813,
+      "scale": 1634.3247301382855
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Wagoneer S",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 411.60714285714283,
+      "scale": 540.1789540426054
+    },
+    {
+      "Country": "United States",
+      "Brand": "Jeep",
+      "Model": "Wrangler",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15819.574803149606,
+      "scale": 3841.5199356476783
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Carnival",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2935.8425196850394,
+      "scale": 1928.4599856177351
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "EV6",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 1455.888888888889,
+      "scale": 650.6730142504052
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "EV9",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 1420.3333333333333,
+      "scale": 703.6320796034804
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "K4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9551.055118110236,
+      "scale": 2103.475310780929
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "K5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7063.488188976378,
+      "scale": 2285.4692584943523
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Niro",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 2310.9304347826087,
+      "scale": 805.7836267410433
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Seltos",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 4565.379746835443,
+      "scale": 1376.7687102071634
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Sorento",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7868.976377952756,
+      "scale": 1711.6979414010702
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Soul",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6644.992125984252,
+      "scale": 3325.7320944058342
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Sportage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9648.72440944882,
+      "scale": 3748.267798638913
+    },
+    {
+      "Country": "United States",
+      "Brand": "Kia",
+      "Model": "Telluride",
+      "observations": 90,
+      "first_month": "2019-02",
+      "last_month": "2026-07",
+      "center": 8469.866666666667,
+      "scale": 2433.884802139326
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lamborghini",
+      "Model": "Urus",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 18.84536082474227,
+      "scale": 50.9082329636805
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Defender",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 1829.472972972973,
+      "scale": 696.1068026962437
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Discovery",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 464.07086614173227,
+      "scale": 319.8219627283564
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Discovery Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 671.3070866141733,
+      "scale": 424.8602905658691
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Range Rover",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1516.236220472441,
+      "scale": 498.6905841436198
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Evoque",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 663.0629921259842,
+      "scale": 337.97246376109496
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1663.9212598425197,
+      "scale": 598.8582429430732
+    },
+    {
+      "Country": "United States",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Velar",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 934.0654205607476,
+      "scale": 433.32730074203107
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "ES",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3670.472440944882,
+      "scale": 1179.9162602229087
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "GX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2470.740157480315,
+      "scale": 707.5650205828636
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "IS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1864.6692913385828,
+      "scale": 691.7485111938433
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "LC",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 148.81981981981983,
+      "scale": 75.10299181184398
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "LS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 316.00787401574803,
+      "scale": 218.1980804112542
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "LX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 461.1496062992126,
+      "scale": 171.96300073580483
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "NX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5207.8031496062995,
+      "scale": 1386.4396198987401
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "RC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 323.7244094488189,
+      "scale": 257.6076866805843
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "RX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9204.385826771653,
+      "scale": 1968.8278009028147
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "RZ",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 735.9024390243902,
+      "scale": 434.5516528292646
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "TX",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 3746.676470588235,
+      "scale": 1760.2686166911637
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lexus",
+      "Model": "UX",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 1055.9347826086957,
+      "scale": 421.10243139303344
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lincoln",
+      "Model": "Aviator",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 1815.4823529411765,
+      "scale": 662.1358285261116
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lincoln",
+      "Model": "Corsair",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2100.9055118110236,
+      "scale": 539.7458374094086
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lincoln",
+      "Model": "Nautilus",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2403.9370078740158,
+      "scale": 621.3936360543396
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lincoln",
+      "Model": "Navigator",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1329.4724409448818,
+      "scale": 447.61008938893053
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lotus",
+      "Model": "Emira",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 10.517241379310345,
+      "scale": 20.986721196239166
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lucid",
+      "Model": "Air",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 392.37931034482756,
+      "scale": 291.8377987637063
+    },
+    {
+      "Country": "United States",
+      "Brand": "Lucid",
+      "Model": "Gravity",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 245.3,
+      "scale": 271.2295847415357
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "CX-30",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 5041.62962962963,
+      "scale": 2086.9111114535813
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "CX-5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11857.51968503937,
+      "scale": 2811.5272322667192
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "CX-50",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 6306.037735849057,
+      "scale": 3468.2575711991954
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "CX-70",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 1055.7333333333333,
+      "scale": 638.703105254273
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "CX-90",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 3929.8809523809523,
+      "scale": 1537.9628715261063
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "MX-5 Miata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 745.8188976377953,
+      "scale": 278.83432889002137
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mazda",
+      "Model": "Mazda3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4033.1732283464567,
+      "scale": 1963.4733828847025
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "C-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3608.7952755905512,
+      "scale": 1777.9430557991561
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1101.3149606299212,
+      "scale": 645.9701966851244
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLE",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 1193.5806451612902,
+      "scale": 431.9504932264691
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "E-Class / CLS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2465.968503937008,
+      "scale": 1326.7719041299597
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQB",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 599.4897959183673,
+      "scale": 458.40264370101966
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE SUV",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 644.675,
+      "scale": 511.16457561861426
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE Sedan",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 230.95744680851064,
+      "scale": 178.34065702683776
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS SUV",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 390.3061224489796,
+      "scale": 290.39117411871
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS Sedan",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 461.89285714285717,
+      "scale": 427.71560864036854
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "G-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 643.2598425196851,
+      "scale": 300.819468812129
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1607.4960629921259,
+      "scale": 647.2555801071746
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLB",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 1562.9625,
+      "scale": 655.5323089104459
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4922.188976377953,
+      "scale": 1441.5377377468164
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4808.645669291339,
+      "scale": 1138.1694755921806
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2086.9763779527557,
+      "scale": 556.8696519786995
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "S-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1057.8425196850394,
+      "scale": 502.9071249149968
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "SL",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 176.75590551181102,
+      "scale": 104.36144135484143
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mercedes-Benz",
+      "Model": "Sprinter",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3088.1338582677167,
+      "scale": 967.5235562769046
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mini",
+      "Model": "Cooper",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1874.0,
+      "scale": 694.4182153946741
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mini",
+      "Model": "Countryman",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1046.708661417323,
+      "scale": 340.06180469350716
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mitsubishi",
+      "Model": "Eclipse Cross",
+      "observations": 102,
+      "first_month": "2018-02",
+      "last_month": "2026-07",
+      "center": 1097.8529411764705,
+      "scale": 584.3172037948997
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mitsubishi",
+      "Model": "Mirage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1662.251968503937,
+      "scale": 821.4010392555376
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3045.3779527559054,
+      "scale": 1088.0325538436257
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander PHEV",
+      "observations": 104,
+      "first_month": "2017-12",
+      "last_month": "2026-07",
+      "center": 339.0576923076923,
+      "scale": 197.76772290695348
+    },
+    {
+      "Country": "United States",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2296.8897637795276,
+      "scale": 1081.897945429496
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Altima",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13730.015748031496,
+      "scale": 6685.127514268941
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Ariya",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 1098.9772727272727,
+      "scale": 742.7041000943841
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Armada",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1847.6929133858268,
+      "scale": 919.5634977355885
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Frontier",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5770.110236220473,
+      "scale": 1616.158835760285
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Kicks",
+      "observations": 98,
+      "first_month": "2018-06",
+      "last_month": "2026-07",
+      "center": 6022.897959183673,
+      "scale": 2070.5376393517754
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Leaf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 893.7401574803149,
+      "scale": 472.82829180691857
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Murano",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4454.716535433071,
+      "scale": 2201.7233539177
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Pathfinder",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6058.771653543307,
+      "scale": 2133.0606174471754
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Rogue",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 24332.259842519685,
+      "scale": 7949.105332832244
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Sentra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12842.236220472441,
+      "scale": 4942.087708016872
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Versa",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5019.118110236221,
+      "scale": 3304.682179192888
+    },
+    {
+      "Country": "United States",
+      "Brand": "Nissan",
+      "Model": "Z",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 256.18367346938777,
+      "scale": 169.28533711565666
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ram",
+      "Model": "Pickup",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 40904.15748031496,
+      "scale": 8991.039926738089
+    },
+    {
+      "Country": "United States",
+      "Brand": "Ram",
+      "Model": "ProMaster",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4739.937007874016,
+      "scale": 1622.2647962793806
+    },
+    {
+      "Country": "United States",
+      "Brand": "Rivian",
+      "Model": "EDV",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 719.9629629629629,
+      "scale": 668.5816179768876
+    },
+    {
+      "Country": "United States",
+      "Brand": "Rivian",
+      "Model": "R1S",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 1497.7592592592594,
+      "scale": 1021.9010184782273
+    },
+    {
+      "Country": "United States",
+      "Brand": "Rivian",
+      "Model": "R1T",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 1135.1509433962265,
+      "scale": 877.5398513583341
+    },
+    {
+      "Country": "United States",
+      "Brand": "Rolls-Royce",
+      "Model": "Cullinan",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 7.795698924731183,
+      "scale": 24.109679275774806
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Ascent",
+      "observations": 98,
+      "first_month": "2018-06",
+      "last_month": "2026-07",
+      "center": 5045.663265306122,
+      "scale": 1249.164655089078
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "BRZ",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 272.2204724409449,
+      "scale": 128.23835029573448
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Crosstrek",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11967.047244094489,
+      "scale": 3267.6186001926285
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Forester",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14020.842519685038,
+      "scale": 3332.115264187817
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Impreza",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3933.5748031496064,
+      "scale": 1920.6068602955268
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Legacy",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2617.6299212598424,
+      "scale": 1335.3485907977017
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Outback",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13796.574803149606,
+      "scale": 2804.9943402184153
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "Solterra",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 849.5111111111111,
+      "scale": 440.7399026968966
+    },
+    {
+      "Country": "United States",
+      "Brand": "Subaru",
+      "Model": "WRX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1928.5826771653544,
+      "scale": 715.8122760841932
+    },
+    {
+      "Country": "United States",
+      "Brand": "Tesla",
+      "Model": "Cybertruck",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 2103.3939393939395,
+      "scale": 1357.955894338536
+    },
+    {
+      "Country": "United States",
+      "Brand": "Tesla",
+      "Model": "Model 3",
+      "observations": 109,
+      "first_month": "2017-07",
+      "last_month": "2026-07",
+      "center": 13766.926605504586,
+      "scale": 6393.375332974773
+    },
+    {
+      "Country": "United States",
+      "Brand": "Tesla",
+      "Model": "Model S",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1587.7007874015749,
+      "scale": 835.4872081035188
+    },
+    {
+      "Country": "United States",
+      "Brand": "Tesla",
+      "Model": "Model X",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1566.0393700787401,
+      "scale": 864.1928864805772
+    },
+    {
+      "Country": "United States",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 77,
+      "first_month": "2020-03",
+      "last_month": "2026-07",
+      "center": 22923.896103896102,
+      "scale": 10337.432034799378
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "4Runner",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10255.527559055117,
+      "scale": 2746.116954722256
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 27454.700787401576,
+      "scale": 5163.810929225514
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Corolla",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 22593.984251968504,
+      "scale": 5484.388756179323
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Corolla Cross",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 6891.982758620689,
+      "scale": 2454.738919422912
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Crown",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 1351.2380952380952,
+      "scale": 679.337590187084
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Crown Signia",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 1843.625,
+      "scale": 607.1883491541759
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "GR86",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 587.1889763779527,
+      "scale": 383.22192763098315
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Grand Highlander",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 9038.921052631578,
+      "scale": 4275.9708041655695
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Highlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15300.149606299212,
+      "scale": 6796.286269207863
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Land Cruiser",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 890.3622047244095,
+      "scale": 1456.552964362233
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Mirai",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 117.18897637795276,
+      "scale": 118.50680203604414
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Prius",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5535.314960629921,
+      "scale": 3007.9659103457443
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 35021.259842519685,
+      "scale": 6637.048789411317
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Sequoia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1244.4881889763778,
+      "scale": 725.5445808240146
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Sienna",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7315.685039370079,
+      "scale": 2387.896067119152
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Supra",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 366.2470588235294,
+      "scale": 191.85080038822264
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Tacoma",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 19559.43307086614,
+      "scale": 3938.6771311407956
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Tundra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10038.740157480315,
+      "scale": 2373.303913140846
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "Venza",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1351.1338582677165,
+      "scale": 1929.8445155869363
+    },
+    {
+      "Country": "United States",
+      "Brand": "Toyota",
+      "Model": "bZ4X",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 1284.4313725490197,
+      "scale": 1069.6501948560856
+    },
+    {
+      "Country": "United States",
+      "Brand": "VinFast",
+      "Model": "VF8",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 239.9268292682927,
+      "scale": 151.82561063811738
+    },
+    {
+      "Country": "United States",
+      "Brand": "VinFast",
+      "Model": "VF9",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 39.57142857142857,
+      "scale": 29.416230137085126
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "Atlas",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 7463.981981981982,
+      "scale": 2556.3535414556977
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "Golf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2279.181102362205,
+      "scale": 1918.0916708170964
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "ID. Buzz",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 453.0,
+      "scale": 189.36230916690022
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "ID.4",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 1741.1791044776119,
+      "scale": 1254.1045429852807
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "Jetta",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6402.685039370079,
+      "scale": 2782.5174027345465
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "Taos",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 4405.84375,
+      "scale": 1447.2354187846192
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volkswagen",
+      "Model": "Tiguan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7059.417322834645,
+      "scale": 2534.428395198208
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "60-Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1120.4566929133857,
+      "scale": 651.4511751232567
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "90-Series",
+      "observations": 122,
+      "first_month": "2016-06",
+      "last_month": "2026-07",
+      "center": 326.2704918032787,
+      "scale": 343.76975905486813
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "EX30",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 337.5652173913044,
+      "scale": 198.80463166127427
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "EX90",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 250.0,
+      "scale": 144.39175068665904
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "XC40",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 1819.7669902912621,
+      "scale": 657.7185869228335
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2851.3700787401576,
+      "scale": 932.0353345635547
+    },
+    {
+      "Country": "United States",
+      "Brand": "Volvo",
+      "Model": "XC90",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3040.4094488188975,
+      "scale": 821.3420243224474
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 32,
+    "epochs": 100,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 100,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 38500,
+  "training_seconds": 1777.618861899995
+}

@@ -1,0 +1,9 @@
+{
+  "format_version": 1,
+  "algorithm": "TFT",
+  "files": {
+    "model.ckpt": "f07ad1adbf34cefe3118bcc418d247527966525b959656054e2784a25349c969",
+    "dataset_parameters.pt": "6aee63de4b345409cd61bc6efb4989982dbdc80e73720d1519b7512e4c83479c",
+    "feature_schema.json": "d3a5ee14c47623f689873a4daa4bb446dba881ee22f28609ceea8760ae1c0e1a"
+  }
+}

@@ -1,0 +1,3545 @@
+{
+  "country": "South Korea",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "South Korea",
+      "Audi",
+      "A3"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A4"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A5"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A6"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A6 e-tron"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A7"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "A8"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q4 e-tron"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q5"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q6 e-tron"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q7"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q8"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "Q8 e-tron"
+    ],
+    [
+      "South Korea",
+      "Audi",
+      "e-tron GT"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "1 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "2 Series Active Tourer"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "2 Series Gran Coupe"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "4 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "7 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "8 Series"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "M2"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "M3"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "M4"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "M5"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "M8"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X1"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X2"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X3"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X4"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X5"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X5 M"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X6"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X6 M"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "X7"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "XM"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "Z4"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "i4"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "i5"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "i7"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "iX"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "iX1"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "iX2"
+    ],
+    [
+      "South Korea",
+      "BMW",
+      "iX3"
+    ],
+    [
+      "South Korea",
+      "BYD",
+      "Atto 3"
+    ],
+    [
+      "South Korea",
+      "BYD",
+      "Seal"
+    ],
+    [
+      "South Korea",
+      "Bentley",
+      "Bentayga"
+    ],
+    [
+      "South Korea",
+      "Bentley",
+      "Continental"
+    ],
+    [
+      "South Korea",
+      "Bentley",
+      "Flying Spur"
+    ],
+    [
+      "South Korea",
+      "Cadillac",
+      "Escalade"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "Colorado"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "Equinox"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "Tahoe"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "TrailBlazer"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "Traverse"
+    ],
+    [
+      "South Korea",
+      "Chevrolet",
+      "Trax"
+    ],
+    [
+      "South Korea",
+      "Ferrari",
+      "296 GTS"
+    ],
+    [
+      "South Korea",
+      "Ferrari",
+      "Purosangue"
+    ],
+    [
+      "South Korea",
+      "Ferrari",
+      "Roma Spider"
+    ],
+    [
+      "South Korea",
+      "Ferrari",
+      "SF90 Stradale"
+    ],
+    [
+      "South Korea",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "South Korea",
+      "Ford",
+      "Expedition"
+    ],
+    [
+      "South Korea",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "South Korea",
+      "Ford",
+      "Mustang"
+    ],
+    [
+      "South Korea",
+      "Ford",
+      "Ranger"
+    ],
+    [
+      "South Korea",
+      "GMC",
+      "Sierra"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "G70"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "G80"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "G90"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "GV60"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "GV70"
+    ],
+    [
+      "South Korea",
+      "Genesis",
+      "GV80"
+    ],
+    [
+      "South Korea",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "South Korea",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "South Korea",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "South Korea",
+      "Honda",
+      "Pilot"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Casper"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "County Electric"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Elantra"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Elantra N"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Grandeur"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Inster"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Ioniq 5"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Ioniq 5 N"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Ioniq 6"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Ioniq 9"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Kona"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Nexo"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Palisade"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Porter II"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "ST1"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Solati"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Sonata"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Staria"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "South Korea",
+      "Hyundai",
+      "Venue"
+    ],
+    [
+      "South Korea",
+      "Jeep",
+      "Gladiator"
+    ],
+    [
+      "South Korea",
+      "Jeep",
+      "Grand Cherokee"
+    ],
+    [
+      "South Korea",
+      "Jeep",
+      "Wrangler"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Actyon"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Musso"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Rexton"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Tivoli"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Torres"
+    ],
+    [
+      "South Korea",
+      "KG Mobility",
+      "Torres EVX"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Bongo 3"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Carnival"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "EV3"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "EV4"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "EV6"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "EV9"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "K5"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "K8"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "K900"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Niro"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Picanto"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Ray"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Seltos"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Sorento"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "South Korea",
+      "Kia",
+      "Tasman"
+    ],
+    [
+      "South Korea",
+      "Lamborghini",
+      "Revuelto"
+    ],
+    [
+      "South Korea",
+      "Lamborghini",
+      "Urus"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Defender"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Discovery"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Range Rover"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Range Rover Sport"
+    ],
+    [
+      "South Korea",
+      "Land Rover",
+      "Range Rover Velar"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "ES"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "LM"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "LS"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "LX"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "NX"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "RX"
+    ],
+    [
+      "South Korea",
+      "Lexus",
+      "UX"
+    ],
+    [
+      "South Korea",
+      "Lincoln",
+      "Aviator"
+    ],
+    [
+      "South Korea",
+      "Lincoln",
+      "Nautilus"
+    ],
+    [
+      "South Korea",
+      "Lincoln",
+      "Navigator"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "A-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "AMG GT"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "CLA"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "CLE"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "E-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQA"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQE"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQS"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "EQS SUV"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "G-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "GLE"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "GLS"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "Maybach EQS SUV"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "Maybach GLS"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "Maybach S-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "S-Class"
+    ],
+    [
+      "South Korea",
+      "Mercedes-Benz",
+      "SL"
+    ],
+    [
+      "South Korea",
+      "Mini",
+      "Aceman"
+    ],
+    [
+      "South Korea",
+      "Mini",
+      "Convertible"
+    ],
+    [
+      "South Korea",
+      "Mini",
+      "Cooper"
+    ],
+    [
+      "South Korea",
+      "Mini",
+      "Countryman"
+    ],
+    [
+      "South Korea",
+      "Mini",
+      "Electric"
+    ],
+    [
+      "South Korea",
+      "Peugeot",
+      "3008"
+    ],
+    [
+      "South Korea",
+      "Peugeot",
+      "308"
+    ],
+    [
+      "South Korea",
+      "Peugeot",
+      "408"
+    ],
+    [
+      "South Korea",
+      "Peugeot",
+      "5008"
+    ],
+    [
+      "South Korea",
+      "Polestar",
+      "2"
+    ],
+    [
+      "South Korea",
+      "Polestar",
+      "4"
+    ],
+    [
+      "South Korea",
+      "Porsche",
+      "911"
+    ],
+    [
+      "South Korea",
+      "Porsche",
+      "Cayenne"
+    ],
+    [
+      "South Korea",
+      "Porsche",
+      "Macan"
+    ],
+    [
+      "South Korea",
+      "Porsche",
+      "Panamera"
+    ],
+    [
+      "South Korea",
+      "Porsche",
+      "Taycan"
+    ],
+    [
+      "South Korea",
+      "Renault Korea",
+      "Arkana"
+    ],
+    [
+      "South Korea",
+      "Renault Korea",
+      "Grand Koleos"
+    ],
+    [
+      "South Korea",
+      "Renault Korea",
+      "Scenic E-Tech Electric"
+    ],
+    [
+      "South Korea",
+      "Rolls-Royce",
+      "Cullinan Series2"
+    ],
+    [
+      "South Korea",
+      "Rolls-Royce",
+      "Ghost Series II"
+    ],
+    [
+      "South Korea",
+      "Rolls-Royce",
+      "Phantom Series II"
+    ],
+    [
+      "South Korea",
+      "Rolls-Royce",
+      "Spectre"
+    ],
+    [
+      "South Korea",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "South Korea",
+      "Tesla",
+      "Model S"
+    ],
+    [
+      "South Korea",
+      "Tesla",
+      "Model X"
+    ],
+    [
+      "South Korea",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Alphard"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Crown"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "GR86"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Prius"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "South Korea",
+      "Toyota",
+      "Sienna"
+    ],
+    [
+      "South Korea",
+      "Volkswagen",
+      "Atlas"
+    ],
+    [
+      "South Korea",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "South Korea",
+      "Volkswagen",
+      "ID.4"
+    ],
+    [
+      "South Korea",
+      "Volkswagen",
+      "ID.5"
+    ],
+    [
+      "South Korea",
+      "Volkswagen",
+      "Touareg"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "S90"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "V60 Cross Country"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "South Korea",
+      "Volvo",
+      "XC90"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "Audi",
+      "BMW",
+      "BYD",
+      "Bentley",
+      "Cadillac",
+      "Chevrolet",
+      "Ferrari",
+      "Ford",
+      "GMC",
+      "Genesis",
+      "Honda",
+      "Hyundai",
+      "Jeep",
+      "KG Mobility",
+      "Kia",
+      "Lamborghini",
+      "Land Rover",
+      "Lexus",
+      "Lincoln",
+      "Mercedes-Benz",
+      "Mini",
+      "Peugeot",
+      "Polestar",
+      "Porsche",
+      "Renault Korea",
+      "Rolls-Royce",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "Model": [
+      "1 Series",
+      "2",
+      "2 Series",
+      "2 Series Active Tourer",
+      "2 Series Gran Coupe",
+      "296 GTS",
+      "3 Series",
+      "3008",
+      "308",
+      "4",
+      "4 Series",
+      "408",
+      "5 Series",
+      "5008",
+      "7 Series",
+      "8 Series",
+      "911",
+      "A-Class",
+      "A3",
+      "A4",
+      "A5",
+      "A6",
+      "A6 e-tron",
+      "A7",
+      "A8",
+      "AMG GT",
+      "Accord",
+      "Aceman",
+      "Actyon",
+      "Alphard",
+      "Arkana",
+      "Atlas",
+      "Atto 3",
+      "Aviator",
+      "Bentayga",
+      "Bongo 3",
+      "Bronco",
+      "C-Class",
+      "CLA",
+      "CLE",
+      "CR-V",
+      "Camry",
+      "Carnival",
+      "Casper",
+      "Cayenne",
+      "Colorado",
+      "Continental",
+      "Convertible",
+      "Cooper",
+      "Countryman",
+      "County Electric",
+      "Crown",
+      "Cullinan Series2",
+      "Defender",
+      "Discovery",
+      "Discovery Sport",
+      "E-Class",
+      "EQA",
+      "EQB",
+      "EQE",
+      "EQE SUV",
+      "EQS",
+      "EQS SUV",
+      "ES",
+      "EV3",
+      "EV4",
+      "EV6",
+      "EV9",
+      "EX30",
+      "Elantra",
+      "Elantra N",
+      "Electric",
+      "Equinox",
+      "Escalade",
+      "Expedition",
+      "Explorer",
+      "Flying Spur",
+      "G-Class",
+      "G70",
+      "G80",
+      "G90",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLE",
+      "GLS",
+      "GR86",
+      "GV60",
+      "GV70",
+      "GV80",
+      "Ghost Series II",
+      "Gladiator",
+      "Golf",
+      "Grand Cherokee",
+      "Grand Koleos",
+      "Grandeur",
+      "Highlander",
+      "ID.4",
+      "ID.5",
+      "Inster",
+      "Ioniq 5",
+      "Ioniq 5 N",
+      "Ioniq 6",
+      "Ioniq 9",
+      "K5",
+      "K8",
+      "K900",
+      "Kona",
+      "LM",
+      "LS",
+      "LX",
+      "M2",
+      "M3",
+      "M4",
+      "M5",
+      "M8",
+      "Macan",
+      "Maybach EQS SUV",
+      "Maybach GLS",
+      "Maybach S-Class",
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y",
+      "Musso",
+      "Mustang",
+      "NX",
+      "Nautilus",
+      "Navigator",
+      "Nexo",
+      "Niro",
+      "Odyssey",
+      "Palisade",
+      "Panamera",
+      "Phantom Series II",
+      "Picanto",
+      "Pilot",
+      "Porter II",
+      "Prius",
+      "Purosangue",
+      "Q3",
+      "Q4 e-tron",
+      "Q5",
+      "Q6 e-tron",
+      "Q7",
+      "Q8",
+      "Q8 e-tron",
+      "RAV4",
+      "RX",
+      "Range Rover",
+      "Range Rover Evoque",
+      "Range Rover Sport",
+      "Range Rover Velar",
+      "Ranger",
+      "Ray",
+      "Revuelto",
+      "Rexton",
+      "Roma Spider",
+      "S-Class",
+      "S90",
+      "SF90 Stradale",
+      "SL",
+      "ST1",
+      "Santa Fe",
+      "Scenic E-Tech Electric",
+      "Seal",
+      "Seltos",
+      "Sienna",
+      "Sierra",
+      "Solati",
+      "Sonata",
+      "Sorento",
+      "Spectre",
+      "Sportage",
+      "Staria",
+      "Tahoe",
+      "Tasman",
+      "Taycan",
+      "Tivoli",
+      "Torres",
+      "Torres EVX",
+      "Touareg",
+      "TrailBlazer",
+      "Traverse",
+      "Trax",
+      "Tucson",
+      "UX",
+      "Urus",
+      "V60 Cross Country",
+      "Venue",
+      "Wrangler",
+      "X1",
+      "X2",
+      "X3",
+      "X4",
+      "X5",
+      "X5 M",
+      "X6",
+      "X6 M",
+      "X7",
+      "XC40",
+      "XC60",
+      "XC90",
+      "XM",
+      "Z4",
+      "e-tron GT",
+      "i4",
+      "i5",
+      "i7",
+      "iX",
+      "iX1",
+      "iX2",
+      "iX3"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 16302,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 18882,
+  "normalization": [
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 71.92913385826772,
+      "scale": 212.02610164981476
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 83.5748031496063,
+      "scale": 129.38324023774564
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 56.28346456692913,
+      "scale": 73.43909408577143
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 521.1574803149606,
+      "scale": 558.1382758396534
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A6 e-tron",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 13.4,
+      "scale": 14.912646312626649
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A7",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 69.13385826771653,
+      "scale": 83.666159835702
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "A8",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 35.574803149606296,
+      "scale": 41.85475067785353
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 56.59055118110236,
+      "scale": 84.73008311575497
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q4 e-tron",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 225.51063829787233,
+      "scale": 234.99920711461965
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 101.55118110236221,
+      "scale": 112.32044078061634
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q6 e-tron",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 60.75,
+      "scale": 89.31171440928325
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q7",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 86.51587301587301,
+      "scale": 208.4938823075917
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q8",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 82.96052631578948,
+      "scale": 74.31875205656307
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "Q8 e-tron",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 45.0945945945946,
+      "scale": 85.88033905366073
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Audi",
+      "Model": "e-tron GT",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 9.160714285714286,
+      "scale": 13.632193123580121
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "1 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 153.82677165354332,
+      "scale": 128.22938725738598
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "2 Series",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 43.20634920634921,
+      "scale": 61.233819705417005
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "2 Series Active Tourer",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 66.74803149606299,
+      "scale": 59.76173882681267
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "2 Series Gran Coupe",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 71.86486486486487,
+      "scale": 62.55447680387131
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "3 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 653.4330708661417,
+      "scale": 354.2600197657591
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "4 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 149.30708661417322,
+      "scale": 77.76797815496796
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "5 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1752.1496062992126,
+      "scale": 668.116296409997
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "7 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 274.3937007874016,
+      "scale": 125.13710291590426
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "8 Series",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 45.3780487804878,
+      "scale": 22.910697526847372
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "M2",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 18.1875,
+      "scale": 16.859091897008152
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "M3",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 13.260416666666666,
+      "scale": 11.353921732590786
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "M4",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 17.625,
+      "scale": 10.785224334134329
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "M5",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 16.572916666666668,
+      "scale": 12.455309811079255
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "M8",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 2.1728395061728394,
+      "scale": 2.355706501669194
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X1",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 141.97619047619048,
+      "scale": 100.884391594761
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X2",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 47.03225806451613,
+      "scale": 27.871972712036193
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 345.48818897637796,
+      "scale": 214.50971269057848
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 253.5748031496063,
+      "scale": 165.2591449452545
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 370.9527559055118,
+      "scale": 187.1327889584651
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X5 M",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 7.068493150684931,
+      "scale": 4.0981597653686626
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 239.62992125984252,
+      "scale": 120.2596133938454
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X6 M",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 7.826666666666667,
+      "scale": 5.869751777357231
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "X7",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 312.46590909090907,
+      "scale": 150.44835147331344
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "XM",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 33.68292682926829,
+      "scale": 27.130701058327674
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "Z4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 27.826771653543307,
+      "scale": 24.287982196576557
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "i4",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 133.45283018867926,
+      "scale": 110.79297954343859
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "i5",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 172.54285714285714,
+      "scale": 108.90064513465889
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "i7",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 66.68888888888888,
+      "scale": 43.2958546042091
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "iX",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 58.0,
+      "scale": 37.13201863936994
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "iX1",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 64.26190476190476,
+      "scale": 38.75791741928169
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "iX2",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 39.529411764705884,
+      "scale": 39.27583755375435
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BMW",
+      "Model": "iX3",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 135.68421052631578,
+      "scale": 116.46298108002752
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BYD",
+      "Model": "Atto 3",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 305.29411764705884,
+      "scale": 190.7549951000797
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "BYD",
+      "Model": "Seal",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 100.5,
+      "scale": 67.31167979185848
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Bentley",
+      "Model": "Bentayga",
+      "observations": 112,
+      "first_month": "2017-04",
+      "last_month": "2026-07",
+      "center": 11.901785714285714,
+      "scale": 10.24745239825773
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Bentley",
+      "Model": "Continental",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9.622047244094489,
+      "scale": 10.554640737636511
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Bentley",
+      "Model": "Flying Spur",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12.921259842519685,
+      "scale": 14.762900072049398
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Cadillac",
+      "Model": "Escalade",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 33.77477477477478,
+      "scale": 21.54951993646664
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "Colorado",
+      "observations": 83,
+      "first_month": "2019-09",
+      "last_month": "2026-07",
+      "center": 182.15662650602408,
+      "scale": 197.2644182157141
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "Equinox",
+      "observations": 98,
+      "first_month": "2018-06",
+      "last_month": "2026-07",
+      "center": 77.9795918367347,
+      "scale": 96.14766213316042
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "Tahoe",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 15.807692307692308,
+      "scale": 18.995339463664028
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "TrailBlazer",
+      "observations": 78,
+      "first_month": "2020-02",
+      "last_month": "2026-07",
+      "center": 885.974358974359,
+      "scale": 766.2374694094295
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "Traverse",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 153.26829268292684,
+      "scale": 141.62611633931417
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Chevrolet",
+      "Model": "Trax",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 989.7007874015748,
+      "scale": 731.9014632816251
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ferrari",
+      "Model": "296 GTS",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 3.5789473684210527,
+      "scale": 4.414538861113524
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ferrari",
+      "Model": "Purosangue",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 9.421052631578947,
+      "scale": 3.67242480042229
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ferrari",
+      "Model": "Roma Spider",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 9.105263157894736,
+      "scale": 4.7019780733143035
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ferrari",
+      "Model": "SF90 Stradale",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 0.8947368421052632,
+      "scale": 0.9951114092724344
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ford",
+      "Model": "Bronco",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 48.22222222222222,
+      "scale": 48.41065385274758
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ford",
+      "Model": "Expedition",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 11.0,
+      "scale": 17.955780933475474
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ford",
+      "Model": "Explorer",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 332.93700787401576,
+      "scale": 221.23179576628837
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ford",
+      "Model": "Mustang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 55.36220472440945,
+      "scale": 32.35484075882043
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Ford",
+      "Model": "Ranger",
+      "observations": 66,
+      "first_month": "2021-02",
+      "last_month": "2026-07",
+      "center": 58.57575757575758,
+      "scale": 44.30727429372574
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "GMC",
+      "Model": "Sierra",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 26.88095238095238,
+      "scale": 12.828542879125813
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "G70",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 624.1682242990654,
+      "scale": 477.95620234071424
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "G80",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3587.3858267716537,
+      "scale": 1321.0775700381666
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "G90",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1039.251968503937,
+      "scale": 694.7705394621771
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "GV60",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 208.0,
+      "scale": 229.6528106772762
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "GV70",
+      "observations": 69,
+      "first_month": "2020-11",
+      "last_month": "2026-07",
+      "center": 2755.391304347826,
+      "scale": 918.6165464378375
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Genesis",
+      "Model": "GV80",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 2479.53164556962,
+      "scale": 918.6697854354123
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Honda",
+      "Model": "Accord",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 219.33858267716536,
+      "scale": 235.83267672418282
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 88.85039370078741,
+      "scale": 77.56181584061964
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Honda",
+      "Model": "Odyssey",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 34.70866141732284,
+      "scale": 40.278015244848206
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Honda",
+      "Model": "Pilot",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 41.57142857142857,
+      "scale": 74.00037424344642
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Casper",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 2586.0508474576272,
+      "scale": 1535.2451717149422
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "County Electric",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 14.55813953488372,
+      "scale": 7.851673606413015
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Elantra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5962.811023622047,
+      "scale": 1756.2581246913567
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Elantra N",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 142.85245901639345,
+      "scale": 107.88344904460645
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Grandeur",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8049.251968503937,
+      "scale": 3064.3764844708116
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Inster",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 888.0,
+      "scale": 554.4566046142503
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 1677.09375,
+      "scale": 997.4352202279697
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5 N",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 42.628571428571426,
+      "scale": 38.70048690617665
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 6",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 753.6875,
+      "scale": 836.3404209410396
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 9",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 926.7222222222222,
+      "scale": 458.48194743653175
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Kona",
+      "observations": 109,
+      "first_month": "2017-07",
+      "last_month": "2026-07",
+      "center": 2802.862385321101,
+      "scale": 1480.3742557396356
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Nexo",
+      "observations": 101,
+      "first_month": "2018-03",
+      "last_month": "2026-07",
+      "center": 454.5049504950495,
+      "scale": 346.66091436213605
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Palisade",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 3981.021739130435,
+      "scale": 1519.6497646325126
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Porter II",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7317.527559055118,
+      "scale": 1905.3967352568313
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "ST1",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 125.22222222222223,
+      "scale": 69.96103842932698
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Santa Fe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5201.488188976378,
+      "scale": 2311.0306854445785
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Solati",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 84.25984251968504,
+      "scale": 41.51693497790462
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Sonata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5449.811023622047,
+      "scale": 1874.9296513213753
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Staria",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 3053.1875,
+      "scale": 692.0671233919063
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Tucson",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3743.748031496063,
+      "scale": 1206.4746981038788
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Hyundai",
+      "Model": "Venue",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 1036.894117647059,
+      "scale": 682.4896128455243
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Jeep",
+      "Model": "Gladiator",
+      "observations": 72,
+      "first_month": "2020-08",
+      "last_month": "2026-07",
+      "center": 37.72222222222222,
+      "scale": 33.04052700713717
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Jeep",
+      "Model": "Grand Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 104.25196850393701,
+      "scale": 77.46975865228885
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Jeep",
+      "Model": "Wrangler",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 147.29133858267716,
+      "scale": 97.90853826572173
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Actyon",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 671.5416666666666,
+      "scale": 386.437087392768
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Musso",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 1214.5882352941176,
+      "scale": 740.2711180331264
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Rexton",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 658.5585585585585,
+      "scale": 613.1077992982903
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Tivoli",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1987.5354330708662,
+      "scale": 1720.301203199199
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Torres",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 1640.72,
+      "scale": 1530.4936282059807
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "KG Mobility",
+      "Model": "Torres EVX",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 314.2647058823529,
+      "scale": 381.64060578798467
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Bongo 3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4652.937007874016,
+      "scale": 1242.7334801068384
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Carnival",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5819.51968503937,
+      "scale": 1649.1009516349716
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "EV3",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 2238.44,
+      "scale": 1169.4110514863196
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "EV4",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1042.8125,
+      "scale": 506.68894349415444
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "EV6",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1298.1833333333334,
+      "scale": 843.4820904874193
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "EV9",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 359.2631578947368,
+      "scale": 504.1241213321693
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "K5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3698.1259842519685,
+      "scale": 1554.8308197108931
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "K8",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 3121.84375,
+      "scale": 1200.4710857842663
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "K900",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 440.34645669291336,
+      "scale": 361.8624421608203
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Niro",
+      "observations": 125,
+      "first_month": "2016-03",
+      "last_month": "2026-07",
+      "center": 1863.536,
+      "scale": 731.7341659061958
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Picanto",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3362.732283464567,
+      "scale": 1793.4861951651878
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Ray",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3010.4015748031497,
+      "scale": 1081.0015291066118
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Seltos",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 4285.764705882353,
+      "scale": 1131.1740575787016
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Sorento",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6627.858267716535,
+      "scale": 1941.7615249750945
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Sportage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4145.645669291339,
+      "scale": 1829.9180252833844
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Kia",
+      "Model": "Tasman",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 641.2941176470588,
+      "scale": 418.4576297396663
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lamborghini",
+      "Model": "Revuelto",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 3.75,
+      "scale": 4.633527297871332
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lamborghini",
+      "Model": "Urus",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 17.11764705882353,
+      "scale": 13.403545403607149
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Defender",
+      "observations": 72,
+      "first_month": "2020-08",
+      "last_month": "2026-07",
+      "center": 85.98611111111111,
+      "scale": 36.15966166867052
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Discovery",
+      "observations": 110,
+      "first_month": "2017-06",
+      "last_month": "2026-07",
+      "center": 65.21818181818182,
+      "scale": 82.35592347564882
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Discovery Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 143.2755905511811,
+      "scale": 163.90235405002215
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Range Rover",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 90.66929133858268,
+      "scale": 58.94890288521113
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Evoque",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 73.46456692913385,
+      "scale": 67.06453268600131
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 74.99212598425197,
+      "scale": 49.18470984950753
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Velar",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 45.02777777777778,
+      "scale": 39.1244232536708
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "ES",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 571.2440944881889,
+      "scale": 231.27476869886348
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "LM",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 51.44,
+      "scale": 27.661236864962813
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "LS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 18.165354330708663,
+      "scale": 16.968154859364216
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "LX",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 31.94736842105263,
+      "scale": 12.021670220662651
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "NX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 200.15748031496062,
+      "scale": 152.14817060142488
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "RX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 115.90551181102362,
+      "scale": 70.67622683531374
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lexus",
+      "Model": "UX",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 75.68539325842697,
+      "scale": 47.47551411724373
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lincoln",
+      "Model": "Aviator",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 83.275,
+      "scale": 75.04458835515078
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lincoln",
+      "Model": "Nautilus",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 56.93700787401575,
+      "scale": 47.68358262734147
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Lincoln",
+      "Model": "Navigator",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 9.015384615384615,
+      "scale": 13.09378507005042
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "A-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 193.51181102362204,
+      "scale": 192.49553909719694
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "AMG GT",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 59.41732283464567,
+      "scale": 75.50336178130146
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "C-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 473.18110236220474,
+      "scale": 365.6664151445162
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 143.10236220472441,
+      "scale": 124.26578818298294
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLE",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 265.1333333333333,
+      "scale": 80.71790780065935
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "E-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2445.1889763779527,
+      "scale": 1026.2248972703887
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQA",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 91.78688524590164,
+      "scale": 88.64410277732058
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQB",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 102.34,
+      "scale": 83.43092028898276
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 95.60416666666667,
+      "scale": 108.69236861207196
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE SUV",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 65.23684210526316,
+      "scale": 67.00296693653668
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 53.89473684210526,
+      "scale": 76.4654137236793
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS SUV",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 42.644444444444446,
+      "scale": 53.832851015009155
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "G-Class",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 120.2936507936508,
+      "scale": 138.2986883272471
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 132.29133858267716,
+      "scale": 154.5797236507352
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLB",
+      "observations": 71,
+      "first_month": "2020-09",
+      "last_month": "2026-07",
+      "center": 215.1549295774648,
+      "scale": 198.00996971232956
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 577.6850393700787,
+      "scale": 315.14165315669095
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 420.2283464566929,
+      "scale": 272.52300680570625
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLS",
+      "observations": 118,
+      "first_month": "2016-10",
+      "last_month": "2026-07",
+      "center": 83.63559322033899,
+      "scale": 73.34452657974596
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "Maybach EQS SUV",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 9.666666666666666,
+      "scale": 13.468059351306925
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "Maybach GLS",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 39.23809523809524,
+      "scale": 41.44106712696164
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "Maybach S-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 65.30708661417323,
+      "scale": 53.81436838886157
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "S-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 589.6062992125984,
+      "scale": 343.3926996944947
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mercedes-Benz",
+      "Model": "SL",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7.299212598425197,
+      "scale": 11.796398704248988
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mini",
+      "Model": "Aceman",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 57.55555555555556,
+      "scale": 23.73038800316286
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mini",
+      "Model": "Convertible",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 41.86290322580645,
+      "scale": 26.397371573022447
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mini",
+      "Model": "Cooper",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 371.9527559055118,
+      "scale": 115.70879538898555
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mini",
+      "Model": "Countryman",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 196.40944881889763,
+      "scale": 82.14065186754122
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Mini",
+      "Model": "Electric",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 59.666666666666664,
+      "scale": 66.98900703373488
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Peugeot",
+      "Model": "3008",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 64.40944881889764,
+      "scale": 61.52105385448044
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Peugeot",
+      "Model": "308",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 16.062992125984252,
+      "scale": 19.23336823355398
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Peugeot",
+      "Model": "408",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 24.46153846153846,
+      "scale": 19.915063290302236
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Peugeot",
+      "Model": "5008",
+      "observations": 105,
+      "first_month": "2017-11",
+      "last_month": "2026-07",
+      "center": 47.96190476190476,
+      "scale": 39.448342617088336
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Polestar",
+      "Model": "2",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 94.65454545454546,
+      "scale": 130.5451677721661
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Polestar",
+      "Model": "4",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 257.22727272727275,
+      "scale": 182.8823932075833
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Porsche",
+      "Model": "911",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 70.13385826771653,
+      "scale": 54.884165969093985
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Porsche",
+      "Model": "Cayenne",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 230.45669291338584,
+      "scale": 184.38453795772276
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Porsche",
+      "Model": "Macan",
+      "observations": 122,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 65.23770491803279,
+      "scale": 62.923866966849886
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Porsche",
+      "Model": "Panamera",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 113.25196850393701,
+      "scale": 89.75336685687911
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Porsche",
+      "Model": "Taycan",
+      "observations": 69,
+      "first_month": "2020-11",
+      "last_month": "2026-07",
+      "center": 127.82608695652173,
+      "scale": 72.84346507704983
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Renault Korea",
+      "Model": "Arkana",
+      "observations": 78,
+      "first_month": "2020-02",
+      "last_month": "2026-07",
+      "center": 1237.4615384615386,
+      "scale": 1171.7105910060363
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Renault Korea",
+      "Model": "Grand Koleos",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 3006.5833333333335,
+      "scale": 1730.042240625967
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Renault Korea",
+      "Model": "Scenic E-Tech Electric",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 71.42857142857143,
+      "scale": 142.98118728881227
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Rolls-Royce",
+      "Model": "Cullinan Series2",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 6.956521739130435,
+      "scale": 4.558094032665197
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Rolls-Royce",
+      "Model": "Ghost Series II",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5.05511811023622,
+      "scale": 3.743285260443177
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Rolls-Royce",
+      "Model": "Phantom Series II",
+      "observations": 125,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1.32,
+      "scale": 1.4689134513604918
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Rolls-Royce",
+      "Model": "Spectre",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 2.911764705882353,
+      "scale": 2.5399771659207873
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Tesla",
+      "Model": "Model 3",
+      "observations": 83,
+      "first_month": "2019-09",
+      "last_month": "2026-07",
+      "center": 712.0361445783133,
+      "scale": 928.627229793493
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Tesla",
+      "Model": "Model S",
+      "observations": 112,
+      "first_month": "2017-04",
+      "last_month": "2026-07",
+      "center": 30.178571428571427,
+      "scale": 59.430882930538054
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Tesla",
+      "Model": "Model X",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 60.97872340425532,
+      "scale": 158.2413666271581
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 2256.865671641791,
+      "scale": 2841.940321316053
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Alphard",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 109.5945945945946,
+      "scale": 48.48835147108342
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 291.3622047244094,
+      "scale": 234.0260962727953
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Crown",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 92.46153846153847,
+      "scale": 42.492985813680725
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "GR86",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9.346456692913385,
+      "scale": 12.362192119383735
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Highlander",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 33.89473684210526,
+      "scale": 19.617281795901047
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Prius",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 106.68503937007874,
+      "scale": 85.05517970858736
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 196.96062992125985,
+      "scale": 112.06901156553434
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Toyota",
+      "Model": "Sienna",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 73.7244094488189,
+      "scale": 54.8630948090432
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volkswagen",
+      "Model": "Atlas",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 84.06666666666666,
+      "scale": 63.136281001986674
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volkswagen",
+      "Model": "Golf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 80.98425196850394,
+      "scale": 187.78360943984765
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volkswagen",
+      "Model": "ID.4",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 162.54166666666666,
+      "scale": 197.782067491532
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volkswagen",
+      "Model": "ID.5",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 49.1,
+      "scale": 84.98945875428383
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volkswagen",
+      "Model": "Touareg",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 28.77952755905512,
+      "scale": 44.809548833677944
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "EX30",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 137.31578947368422,
+      "scale": 164.39178890092282
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "S90",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 183.30769230769232,
+      "scale": 148.50997208352268
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "V60 Cross Country",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 74.58267716535433,
+      "scale": 57.617172607919
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "XC40",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 187.50515463917526,
+      "scale": 120.71414586886132
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 292.4409448818898,
+      "scale": 183.41237351599756
+    },
+    {
+      "Country": "South Korea",
+      "Brand": "Volvo",
+      "Model": "XC90",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 138.1048387096774,
+      "scale": 74.022157726741
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 32,
+    "epochs": 50,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 50,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 12750,
+  "training_seconds": 518.1824299000073
+}

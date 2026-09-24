@@ -1,0 +1,2216 @@
+{
+  "country": "Japan",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "Japan",
+      "Daihatsu",
+      "Copen"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Hijet"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Mira (Mira)"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Move"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Rocky (Rugger)"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "THOR"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Taft"
+    ],
+    [
+      "Japan",
+      "Daihatsu",
+      "Tanto"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Fit"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Freed"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "N BOX"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "N ONE"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "N-VAN"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "N-WGN"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Step Wgn"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "Vezel"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "WR-V"
+    ],
+    [
+      "Japan",
+      "Honda",
+      "ZR-V"
+    ],
+    [
+      "Japan",
+      "Hyundai",
+      "Ioniq 5"
+    ],
+    [
+      "Japan",
+      "Isuzu",
+      "Como"
+    ],
+    [
+      "Japan",
+      "Isuzu",
+      "N-Series (ELF)"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Bongo (E-Series)"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "CX-3"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "CX-60"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "CX-80"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Carol"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Familia (Mazda 323)"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Flair"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Flair Crossover"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Flair Wagon"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "MX-30"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "MX-5 Miata"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Mazda2"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Scrum"
+    ],
+    [
+      "Japan",
+      "Mazda",
+      "Titan"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Delica"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Delica D2"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Eclipse Cross"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Minicab"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Minicab-MiEV"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Outlander"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "Town BOX"
+    ],
+    [
+      "Japan",
+      "Mitsubishi",
+      "eK/Delica Mini"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "AD"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Atlas 2t+"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Caravan/Homy Coach"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Clipper Rio"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Clipper Truck"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Clipper Van"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "DAYZ"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Kicks"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Leaf"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Note"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Note AURA"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Roox"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Sakura"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Serena"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Skyline"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Vanette"
+    ],
+    [
+      "Japan",
+      "Nissan",
+      "Z"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "BRZ"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Chiffon"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Crosstrek"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Forester"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Impreza"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Justy"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Levorg"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Pleo"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "REX"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Sambar"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Solterra"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "Stella"
+    ],
+    [
+      "Japan",
+      "Subaru",
+      "WRX"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Alto"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Carry"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Every"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Every Wagon"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Fronx"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "HUSTLER"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Jimny"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Jimny Wagon"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Landy"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Solio/Wagon R+"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Spacia"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Swift"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "Wagon R"
+    ],
+    [
+      "Japan",
+      "Suzuki",
+      "XBEE"
+    ],
+    [
+      "Japan",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "86"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Alphard"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Aqua (Prius C)"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Century"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Copen GR SPORT"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Crown"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Crown Crossover"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Crown Estate"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Crown Sport"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Dyna Toyoace"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Harrier"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Hiace / Regius Ace"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Hiace Wagon"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "JPN TAXI"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Land Cruiser"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Mirai"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Noah"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Prius"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Probox"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "ROOMY"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Raize"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Sienta"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Supra"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Vellfire"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Voxy"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Yaris"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "Yaris Cross"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "bZ4X/bZ"
+    ],
+    [
+      "Japan",
+      "Toyota",
+      "pixis"
+    ],
+    [
+      "Japan",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "Japan",
+      "Volvo",
+      "XC60"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "Daihatsu",
+      "Honda",
+      "Hyundai",
+      "Isuzu",
+      "Mazda",
+      "Mitsubishi",
+      "Nissan",
+      "Subaru",
+      "Suzuki",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo"
+    ],
+    "Model": [
+      "86",
+      "AD",
+      "Accord",
+      "Alphard",
+      "Alto",
+      "Aqua (Prius C)",
+      "Ariya",
+      "Atlas 2t+",
+      "BRZ",
+      "Bongo (E-Series)",
+      "CR-V",
+      "CX-3",
+      "CX-30",
+      "CX-5",
+      "CX-60",
+      "CX-80",
+      "Caravan/Homy Coach",
+      "Carol",
+      "Carry",
+      "Century",
+      "Chiffon",
+      "Civic",
+      "Clipper Rio",
+      "Clipper Truck",
+      "Clipper Van",
+      "Como",
+      "Copen",
+      "Copen GR SPORT",
+      "Corolla",
+      "Corolla Cross",
+      "Crosstrek",
+      "Crown",
+      "Crown Crossover",
+      "Crown Estate",
+      "Crown Sport",
+      "DAYZ",
+      "Delica",
+      "Delica D2",
+      "Dyna Toyoace",
+      "Eclipse Cross",
+      "Every",
+      "Every Wagon",
+      "Familia (Mazda 323)",
+      "Fit",
+      "Flair",
+      "Flair Crossover",
+      "Flair Wagon",
+      "Forester",
+      "Freed",
+      "Fronx",
+      "HUSTLER",
+      "Harrier",
+      "Hiace / Regius Ace",
+      "Hiace Wagon",
+      "Hijet",
+      "Impreza",
+      "Ioniq 5",
+      "JPN TAXI",
+      "Jimny",
+      "Jimny Wagon",
+      "Justy",
+      "Kicks",
+      "Land Cruiser",
+      "Landy",
+      "Leaf",
+      "Levorg",
+      "MX-30",
+      "MX-5 Miata",
+      "Mazda2",
+      "Mazda3",
+      "Minicab",
+      "Minicab-MiEV",
+      "Mira (Mira)",
+      "Mirai",
+      "Model Y",
+      "Move",
+      "N BOX",
+      "N ONE",
+      "N-Series (ELF)",
+      "N-VAN",
+      "N-WGN",
+      "Noah",
+      "Note",
+      "Note AURA",
+      "Odyssey",
+      "Outlander",
+      "Pleo",
+      "Prius",
+      "Probox",
+      "RAV4",
+      "REX",
+      "ROOMY",
+      "Raize",
+      "Rocky (Rugger)",
+      "Rogue",
+      "Roox",
+      "Sakura",
+      "Sambar",
+      "Scrum",
+      "Serena",
+      "Sienta",
+      "Skyline",
+      "Solio/Wagon R+",
+      "Solterra",
+      "Spacia",
+      "Stella",
+      "Step Wgn",
+      "Supra",
+      "Swift",
+      "THOR",
+      "Taft",
+      "Tanto",
+      "Tiguan",
+      "Titan",
+      "Town BOX",
+      "Vanette",
+      "Vellfire",
+      "Vezel",
+      "Voxy",
+      "WR-V",
+      "WRX",
+      "Wagon R",
+      "XBEE",
+      "XC60",
+      "Yaris",
+      "Yaris Cross",
+      "Z",
+      "ZR-V",
+      "bZ4X/bZ",
+      "eK/Delica Mini",
+      "pixis"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 12804,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 14376,
+  "normalization": [
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Copen",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 333.748031496063,
+      "scale": 136.57132406708394
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Hijet",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 9979.563106796117,
+      "scale": 3400.3556831750925
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Mira (Mira)",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6165.322834645669,
+      "scale": 2160.7355477243823
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Move",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8957.669291338583,
+      "scale": 3256.3765181027484
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Rocky (Rugger)",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 1699.2592592592594,
+      "scale": 890.7632453213672
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "THOR",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 1472.017094017094,
+      "scale": 1108.1189911205317
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Taft",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 4512.4324324324325,
+      "scale": 1587.188055686825
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Daihatsu",
+      "Model": "Tanto",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11133.748031496063,
+      "scale": 3685.1041453461685
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Accord",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 178.8503937007874,
+      "scale": 171.50418485958394
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 316.3622047244094,
+      "scale": 494.1362750014545
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 646.7480314960629,
+      "scale": 668.6777671674329
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Fit",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6166.937007874016,
+      "scale": 2542.350092586209
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Freed",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6775.133858267716,
+      "scale": 2164.443924664979
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "N BOX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 17726.55118110236,
+      "scale": 4097.440031008506
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "N ONE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1390.5590551181103,
+      "scale": 650.302758198611
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "N-VAN",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 2753.9484536082473,
+      "scale": 893.57526431476
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "N-WGN",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4190.007874015748,
+      "scale": 2386.758525031888
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Odyssey",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1142.8897637795276,
+      "scale": 838.7067749942024
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Step Wgn",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4060.7952755905512,
+      "scale": 1438.550810395846
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "Vezel",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5004.897637795276,
+      "scale": 1789.4576105702588
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "WR-V",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 2247.7586206896553,
+      "scale": 1053.505287190755
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Honda",
+      "Model": "ZR-V",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 2143.9565217391305,
+      "scale": 1301.5177149450128
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 29.963636363636365,
+      "scale": 26.2962821823839
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Isuzu",
+      "Model": "Como",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10.921259842519685,
+      "scale": 9.809141527849103
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Isuzu",
+      "Model": "N-Series (ELF)",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 986.0787401574803,
+      "scale": 446.2639178856621
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Bongo (E-Series)",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 426.1496062992126,
+      "scale": 416.1203138170252
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "CX-3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 880.9291338582677,
+      "scale": 587.7378410879948
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "CX-30",
+      "observations": 83,
+      "first_month": "2019-09",
+      "last_month": "2026-07",
+      "center": 1489.686746987952,
+      "scale": 851.7388259566126
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "CX-5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2367.0629921259842,
+      "scale": 1433.6009226856538
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "CX-60",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 1079.5833333333333,
+      "scale": 919.0115183336619
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "CX-80",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 849.7826086956521,
+      "scale": 507.63863872659783
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Carol",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 391.13385826771656,
+      "scale": 139.33119766038706
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Familia (Mazda 323)",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 130.28346456692913,
+      "scale": 36.98786777053268
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Flair",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 469.12598425196853,
+      "scale": 250.61292576158525
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Flair Crossover",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 436.38582677165357,
+      "scale": 171.96004548538903
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Flair Wagon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 970.8425196850394,
+      "scale": 330.97741616893654
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "MX-30",
+      "observations": 71,
+      "first_month": "2020-09",
+      "last_month": "2026-07",
+      "center": 185.0281690140845,
+      "scale": 218.73505985811042
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "MX-5 Miata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 585.8110236220473,
+      "scale": 337.3950218304585
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Mazda2",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2721.6929133858266,
+      "scale": 1493.2432224654817
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Mazda3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1532.3228346456692,
+      "scale": 1021.557149270712
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Scrum",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 732.8818897637796,
+      "scale": 206.2504253995983
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mazda",
+      "Model": "Titan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 67.37795275590551,
+      "scale": 37.04447933103998
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Delica",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1445.4803149606298,
+      "scale": 769.7723077948352
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Delica D2",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 448.74015748031496,
+      "scale": 212.5982264886584
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Eclipse Cross",
+      "observations": 101,
+      "first_month": "2018-03",
+      "last_month": "2026-07",
+      "center": 685.0,
+      "scale": 535.6551560477347
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Minicab",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 764.7952755905512,
+      "scale": 282.26164463265036
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Minicab-MiEV",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 147.70866141732284,
+      "scale": 230.68870303837187
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 703.8661417322835,
+      "scale": 504.8754126606964
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "Town BOX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 49.874015748031496,
+      "scale": 16.68144329019435
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Mitsubishi",
+      "Model": "eK/Delica Mini",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 4868.488372093023,
+      "scale": 1308.770052415529
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "AD",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1176.5669291338584,
+      "scale": 607.2878206165519
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Ariya",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 276.23214285714283,
+      "scale": 310.75203103720787
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Atlas 2t+",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 67.88976377952756,
+      "scale": 36.354231988974355
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Caravan/Homy Coach",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1712.0314960629921,
+      "scale": 658.9538368006189
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Clipper Rio",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 389.6456692913386,
+      "scale": 121.67941875579972
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Clipper Truck",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 782.4094488188977,
+      "scale": 224.50075046314296
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Clipper Van",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2277.8425196850394,
+      "scale": 644.9338071390694
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "DAYZ",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6963.708661417323,
+      "scale": 4633.675690108559
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Kicks",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 1611.162162162162,
+      "scale": 1111.1207255683746
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Leaf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1124.992125984252,
+      "scale": 809.0500116693646
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Note",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7109.685039370079,
+      "scale": 3891.69937288627
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Note AURA",
+      "observations": 62,
+      "first_month": "2021-06",
+      "last_month": "2026-07",
+      "center": 3048.3387096774195,
+      "scale": 1218.6732040909394
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Rogue",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2631.4015748031497,
+      "scale": 1654.6210176338514
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Roox",
+      "observations": 77,
+      "first_month": "2020-03",
+      "last_month": "2026-07",
+      "center": 6534.38961038961,
+      "scale": 2495.146928183494
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Sakura",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 2001.9803921568628,
+      "scale": 1127.1351742549682
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Serena",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6359.393700787402,
+      "scale": 2373.997206074625
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Skyline",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 224.11811023622047,
+      "scale": 167.03726262002857
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Vanette",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1123.5433070866143,
+      "scale": 440.05032004219765
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Nissan",
+      "Model": "Z",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 127.01574803149606,
+      "scale": 213.50927476382265
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "BRZ",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 224.60629921259843,
+      "scale": 179.0897706018848
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Chiffon",
+      "observations": 116,
+      "first_month": "2016-12",
+      "last_month": "2026-07",
+      "center": 393.17241379310343,
+      "scale": 217.3375528820345
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Crosstrek",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1839.740157480315,
+      "scale": 773.8777172155475
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Forester",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 2130.0434782608695,
+      "scale": 904.3260558178812
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Impreza",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1415.4881889763778,
+      "scale": 879.8651604012613
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Justy",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 162.72649572649573,
+      "scale": 116.4465109619768
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Levorg",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1485.716535433071,
+      "scale": 885.9645887863469
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Pleo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 329.1732283464567,
+      "scale": 175.90883007786732
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "REX",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 266.0888888888889,
+      "scale": 176.45839123221344
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Sambar",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 642.1417322834645,
+      "scale": 311.0626691219147
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Solterra",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 43.80769230769231,
+      "scale": 53.07326853262592
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "Stella",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 387.5748031496063,
+      "scale": 301.34820337255667
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Subaru",
+      "Model": "WRX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 443.74015748031496,
+      "scale": 424.07943988870807
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Alto",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6239.811023622047,
+      "scale": 1996.0784742320957
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Carry",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 4702.295652173913,
+      "scale": 997.752149476421
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Every",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5510.669291338582,
+      "scale": 1427.1322263252869
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Every Wagon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1485.5826771653544,
+      "scale": 386.40048280920394
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Fronx",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1481.3636363636363,
+      "scale": 471.27549422250564
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "HUSTLER",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6553.078740157481,
+      "scale": 1562.6805972542734
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Jimny",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2734.4251968503936,
+      "scale": 1230.4566446408394
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Jimny Wagon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1542.4488188976377,
+      "scale": 1425.7705415758776
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Landy",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 94.99212598425197,
+      "scale": 54.314805381686305
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Solio/Wagon R+",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3960.685039370079,
+      "scale": 943.8164321989358
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Spacia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11461.393700787401,
+      "scale": 3329.0133024621427
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Swift",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2369.6771653543306,
+      "scale": 848.2721865798401
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "Wagon R",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6872.889763779527,
+      "scale": 2153.333076032685
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Suzuki",
+      "Model": "XBEE",
+      "observations": 104,
+      "first_month": "2017-12",
+      "last_month": "2026-07",
+      "center": 1474.576923076923,
+      "scale": 682.4608433338345
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 554.2708333333334,
+      "scale": 543.3167516616878
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "86",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 577.7795275590552,
+      "scale": 340.02212234251294
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Alphard",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5676.330708661418,
+      "scale": 2177.3372953978187
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Aqua (Prius C)",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7429.913385826771,
+      "scale": 3428.197600972052
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Century",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 17.543307086614174,
+      "scale": 15.553119223796882
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Copen GR SPORT",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 122.58536585365853,
+      "scale": 50.97033342280762
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Corolla",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7294.4488188976375,
+      "scale": 2009.4615363663804
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Corolla Cross",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 5368.0,
+      "scale": 1859.1236376490444
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Crown",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1785.716535433071,
+      "scale": 1608.005852461478
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Crown Crossover",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1722.404255319149,
+      "scale": 1176.5638531611937
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Crown Estate",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 1507.4117647058824,
+      "scale": 832.7122904960512
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Crown Sport",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 2154.6969696969695,
+      "scale": 835.5507762770535
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Dyna Toyoace",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1436.244094488189,
+      "scale": 369.47550081551384
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Harrier",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4547.251968503937,
+      "scale": 2037.4699322847237
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Hiace / Regius Ace",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5140.0157480314965,
+      "scale": 1359.5120171911892
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Hiace Wagon",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 805.4945054945055,
+      "scale": 322.0552981925413
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "JPN TAXI",
+      "observations": 106,
+      "first_month": "2017-10",
+      "last_month": "2026-07",
+      "center": 524.2358490566038,
+      "scale": 222.39396000298078
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Land Cruiser",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2997.818897637795,
+      "scale": 1429.9181814989877
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Mirai",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 99.28346456692914,
+      "scale": 148.02241954138844
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Noah",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5235.141732283465,
+      "scale": 1751.0673533577963
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Prius",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8046.070866141732,
+      "scale": 4954.91867674411
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Probox",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3684.2913385826773,
+      "scale": 1258.7914145739849
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2582.1102362204724,
+      "scale": 2258.7271038099498
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "ROOMY",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 7887.863247863248,
+      "scale": 2832.295583371319
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Raize",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 7410.172839506173,
+      "scale": 2959.6743191381784
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Sienta",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8218.606299212599,
+      "scale": 2704.6627227388767
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Supra",
+      "observations": 86,
+      "first_month": "2019-06",
+      "last_month": "2026-07",
+      "center": 117.34883720930233,
+      "scale": 88.15535551240681
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Vellfire",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2352.8267716535433,
+      "scale": 1493.3101871164333
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Voxy",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6648.173228346457,
+      "scale": 1821.6530964647209
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Yaris",
+      "observations": 78,
+      "first_month": "2020-02",
+      "last_month": "2026-07",
+      "center": 7810.0,
+      "scale": 2453.0619162918765
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "Yaris Cross",
+      "observations": 72,
+      "first_month": "2020-08",
+      "last_month": "2026-07",
+      "center": 7416.222222222223,
+      "scale": 2288.778516206336
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "bZ4X/bZ",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 433.03846153846155,
+      "scale": 842.8965684858777
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Toyota",
+      "Model": "pixis",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2386.9055118110236,
+      "scale": 784.9441191103352
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Volkswagen",
+      "Model": "Tiguan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 218.36220472440945,
+      "scale": 160.9588074440222
+    },
+    {
+      "Country": "Japan",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 222.6771653543307,
+      "scale": 94.03211644760127
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 32,
+    "epochs": 50,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 50,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 10050,
+  "training_seconds": 465.6784417000017
+}

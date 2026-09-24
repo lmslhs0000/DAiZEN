@@ -1,0 +1,484 @@
+{
+  "format_version": 2,
+  "api_version": "4.0.0",
+  "created_utc": "2026-09-24T04:34:15.457540+00:00",
+  "entrypoint": "predict.py",
+  "files": {
+    ".gitignore": {
+      "sha256": "81e0ea690d7bd730ab61222802aea4dc37d77ef9a75c66b3edfdac0791e48086",
+      "bytes": 152
+    },
+    ".python-version": {
+      "sha256": "8dfda54ba2f66ab3a8ebab460f4338bbeea1fb1e0f85ce06fe3530aa3c64679b",
+      "bytes": 6
+    },
+    "README.md": {
+      "sha256": "1fc42fcf3740d606594898af06bc5bc92afad5286e27b68393970bbe00456243",
+      "bytes": 2063
+    },
+    "baseline.py": {
+      "sha256": "ca709b55cb26a281b856b64fa91b6425b3ca4fb27637c0881e266e78e366e627",
+      "bytes": 20724
+    },
+    "baseline_outputs.py": {
+      "sha256": "e01bda88828a61f4cb49140892d7b094f094a0c5eca2da04ca9779a746f188d0",
+      "bytes": 5676
+    },
+    "model_info/tft.json": {
+      "sha256": "2b7ef458e373c4f1767894d13f0179183445f54eb7213e2d216aedb5a8a72c73",
+      "bytes": 490740
+    },
+    "model_info/xgboost.json": {
+      "sha256": "9585c69e85be2309ddca8239233b81956acf7e706c057a91b3f68c76733df6b3",
+      "bytes": 2611819
+    },
+    "models/tft/A/canada/artifact_manifest.json": {
+      "sha256": "00be2ae551618f2ad020ca5125001e2f8da1b20bed212c6c05b956e499f6ae38",
+      "bytes": 352
+    },
+    "models/tft/A/canada/dataset_parameters.pt": {
+      "sha256": "b5bab9b572f69ee9c18ff7150983650c058506c9bf7aa27fa6d2de94b26a55a4",
+      "bytes": 64877
+    },
+    "models/tft/A/canada/feature_schema.json": {
+      "sha256": "94f77bf42619a4e1758636c893e3115317cc5963125420b027e547b2b80b3282",
+      "bytes": 94719
+    },
+    "models/tft/A/canada/model.ckpt": {
+      "sha256": "f755774ed1c5e23d9f3aa9b96a0425cce0bb57c2843962340ec19aed77eaaf4b",
+      "bytes": 383603
+    },
+    "models/tft/A/china/artifact_manifest.json": {
+      "sha256": "d253641f172fa1bd7b924419a2a52cca549ffd582b3abaa4bfeb8464a408122c",
+      "bytes": 352
+    },
+    "models/tft/A/china/dataset_parameters.pt": {
+      "sha256": "6aee63de4b345409cd61bc6efb4989982dbdc80e73720d1519b7512e4c83479c",
+      "bytes": 130605
+    },
+    "models/tft/A/china/feature_schema.json": {
+      "sha256": "087e70e0ea16106e6ad23d16594abfa35e22c160b00d870b9fb87d5267b28f19",
+      "bytes": 194407
+    },
+    "models/tft/A/china/model.ckpt": {
+      "sha256": "e74f8f238da5a8fa88392acd370a92d44f9ca28df8f8ccfcfaf7c47fa839d709",
+      "bytes": 289843
+    },
+    "models/tft/A/europe/artifact_manifest.json": {
+      "sha256": "5d673ee13dd0a005b6e8c510f9292131e6f5e7fd36744a81fe51e84502e7fa14",
+      "bytes": 352
+    },
+    "models/tft/A/europe/dataset_parameters.pt": {
+      "sha256": "324b180a8d0e69b967c5c24185954811c0b1bed9c8667a1fdc02bfd878c823ad",
+      "bytes": 111725
+    },
+    "models/tft/A/europe/feature_schema.json": {
+      "sha256": "e1bf46e2334301e467ac8a00ecc9d46f7f6fb89fce19cb7b4e1154c2f6eb5572",
+      "bytes": 144697
+    },
+    "models/tft/A/europe/model.ckpt": {
+      "sha256": "f7b3afac12e4643aa1e7f4553a09b0a5376a7d55266cd9303a241b3bb43f262e",
+      "bytes": 261363
+    },
+    "models/tft/A/germany/artifact_manifest.json": {
+      "sha256": "9f90ddfdb127cfb05337b8db834dc9eadeac262ee83511de9caa8a2974925e15",
+      "bytes": 352
+    },
+    "models/tft/A/germany/dataset_parameters.pt": {
+      "sha256": "18728775a6e65b162ed1d8aa3671e2fea44316905893fbbcaea5331a5e285525",
+      "bytes": 95021
+    },
+    "models/tft/A/germany/feature_schema.json": {
+      "sha256": "a2f37b883606a7e4bf00f022c9039ffe94614b36767fb4066d8353e0d26375d0",
+      "bytes": 120020
+    },
+    "models/tft/A/germany/model.ckpt": {
+      "sha256": "5121ca3bdf7f4e231575497f8d3838ac2526a984c1c16988753147c89c9d007a",
+      "bytes": 238771
+    },
+    "models/tft/A/japan/artifact_manifest.json": {
+      "sha256": "44ca478b9864f6d17fb4ef2e808bc4897697a17856f664395fd4396260158ee7",
+      "bytes": 352
+    },
+    "models/tft/A/japan/dataset_parameters.pt": {
+      "sha256": "1b6afe54d7fa8fc4a3e071d691aa8c28bb82409b52d62b5c359d28005d467dfc",
+      "bytes": 33965
+    },
+    "models/tft/A/japan/feature_schema.json": {
+      "sha256": "74749e310b2fcd6d792d796513fe2a44ebd77717c1b6cb0612f70adb7caf79e1",
+      "bytes": 47510
+    },
+    "models/tft/A/japan/model.ckpt": {
+      "sha256": "389b14b155160496d986108a8bbd2efc6cf1620c230810d119610f520e2bb1af",
+      "bytes": 329523
+    },
+    "models/tft/A/south_korea/artifact_manifest.json": {
+      "sha256": "af302ddbcf7901e7272339069f87742cd399f5350b0b10b6f28e7ad21fa6d8cc",
+      "bytes": 352
+    },
+    "models/tft/A/south_korea/dataset_parameters.pt": {
+      "sha256": "05737efc46453f2113e3964522eae70adeac3e9626bfb3b68e06b4d8001a0de1",
+      "bytes": 58925
+    },
+    "models/tft/A/south_korea/feature_schema.json": {
+      "sha256": "cd611ce9037ef4490863899546529c4b71ac7e8eb1e423c00c05c701a9fba8a4",
+      "bytes": 77734
+    },
+    "models/tft/A/south_korea/model.ckpt": {
+      "sha256": "f19ae4bea124dd52527db053bea380f5fa089a26e85a31a3dc325c8fe8d7e803",
+      "bytes": 369651
+    },
+    "models/tft/A/united_states/artifact_manifest.json": {
+      "sha256": "30ed4359460cfc645992cf251e026b054a4562333affb9a86a1d335e5c5a2a4f",
+      "bytes": 352
+    },
+    "models/tft/A/united_states/dataset_parameters.pt": {
+      "sha256": "030396ab31bb744602e05edd1f49ac5d4cdc8420b8abb81a53dc44542c92b685",
+      "bytes": 67949
+    },
+    "models/tft/A/united_states/feature_schema.json": {
+      "sha256": "8498191d1ab811fd6a2a7a489af0f2d8d47489d04b66e944506f3540ae47bc27",
+      "bytes": 102952
+    },
+    "models/tft/A/united_states/model.ckpt": {
+      "sha256": "cc49788d3e0c186c8d22346b3bb6d9ed70d9bb7369690fa46e386ffa84e60812",
+      "bytes": 206835
+    },
+    "models/tft/B/canada/artifact_manifest.json": {
+      "sha256": "2f18c42005011d6b3b005dbc8b4cf24485e8c9b99cb8a2ac37077cbf19bf6f46",
+      "bytes": 352
+    },
+    "models/tft/B/canada/dataset_parameters.pt": {
+      "sha256": "b5bab9b572f69ee9c18ff7150983650c058506c9bf7aa27fa6d2de94b26a55a4",
+      "bytes": 64877
+    },
+    "models/tft/B/canada/feature_schema.json": {
+      "sha256": "aa1c6fd059ab1c9baf9903de33e7a24c85eab4cb28adc504913ebc32581ac3d7",
+      "bytes": 94719
+    },
+    "models/tft/B/canada/model.ckpt": {
+      "sha256": "f755774ed1c5e23d9f3aa9b96a0425cce0bb57c2843962340ec19aed77eaaf4b",
+      "bytes": 383603
+    },
+    "models/tft/B/china/artifact_manifest.json": {
+      "sha256": "0538255069d3d24cc06ec12a7190f2a784b682cd5a9e46da223283c54bc29962",
+      "bytes": 352
+    },
+    "models/tft/B/china/dataset_parameters.pt": {
+      "sha256": "6aee63de4b345409cd61bc6efb4989982dbdc80e73720d1519b7512e4c83479c",
+      "bytes": 130605
+    },
+    "models/tft/B/china/feature_schema.json": {
+      "sha256": "d3a5ee14c47623f689873a4daa4bb446dba881ee22f28609ceea8760ae1c0e1a",
+      "bytes": 194404
+    },
+    "models/tft/B/china/model.ckpt": {
+      "sha256": "f07ad1adbf34cefe3118bcc418d247527966525b959656054e2784a25349c969",
+      "bytes": 489779
+    },
+    "models/tft/B/europe/artifact_manifest.json": {
+      "sha256": "61336c877beaa1d5850b8b83951cfd772f9c613c566cb70c8dc2e9e591e6352d",
+      "bytes": 352
+    },
+    "models/tft/B/europe/dataset_parameters.pt": {
+      "sha256": "324b180a8d0e69b967c5c24185954811c0b1bed9c8667a1fdc02bfd878c823ad",
+      "bytes": 111725
+    },
+    "models/tft/B/europe/feature_schema.json": {
+      "sha256": "1c4c67d82d6af1a7d8381cf36d236713cb225ee00ae9cccd3fdcd4e793df7619",
+      "bytes": 144697
+    },
+    "models/tft/B/europe/model.ckpt": {
+      "sha256": "aa278e5e05066af1b2baf277ff486aa119766009ce89521a07ab19757e0665db",
+      "bytes": 451699
+    },
+    "models/tft/B/germany/artifact_manifest.json": {
+      "sha256": "49737464516d94e777f12bd67222d668fcb045af17eee8c94ee6a26d2ad155e8",
+      "bytes": 352
+    },
+    "models/tft/B/germany/dataset_parameters.pt": {
+      "sha256": "18728775a6e65b162ed1d8aa3671e2fea44316905893fbbcaea5331a5e285525",
+      "bytes": 95021
+    },
+    "models/tft/B/germany/feature_schema.json": {
+      "sha256": "fc2abfeab3c754103626d2f84ee5cb50963354681f04eb88d0d8127575b56ec2",
+      "bytes": 120017
+    },
+    "models/tft/B/germany/model.ckpt": {
+      "sha256": "0476874df4fda8fa4d828a97f6357896825a7b9f87439cef6a3edb6fd04647cf",
+      "bytes": 424051
+    },
+    "models/tft/B/japan/artifact_manifest.json": {
+      "sha256": "ba9eb87153be25976595aeee9d5f13cadb44d634aa0758dddd0ab47630ddf30c",
+      "bytes": 352
+    },
+    "models/tft/B/japan/dataset_parameters.pt": {
+      "sha256": "1b6afe54d7fa8fc4a3e071d691aa8c28bb82409b52d62b5c359d28005d467dfc",
+      "bytes": 33965
+    },
+    "models/tft/B/japan/feature_schema.json": {
+      "sha256": "3e286261f91bbb129cbe1ecc76e56177e132c3521ee1de60a0e2030bb768e029",
+      "bytes": 47511
+    },
+    "models/tft/B/japan/model.ckpt": {
+      "sha256": "389b14b155160496d986108a8bbd2efc6cf1620c230810d119610f520e2bb1af",
+      "bytes": 329523
+    },
+    "models/tft/B/south_korea/artifact_manifest.json": {
+      "sha256": "4b99afe5018cd7555dab8830c7ed0004350c6c87e7a3fb222838e91ec865d13c",
+      "bytes": 352
+    },
+    "models/tft/B/south_korea/dataset_parameters.pt": {
+      "sha256": "05737efc46453f2113e3964522eae70adeac3e9626bfb3b68e06b4d8001a0de1",
+      "bytes": 58925
+    },
+    "models/tft/B/south_korea/feature_schema.json": {
+      "sha256": "6c3a73ea18f9e48029fd3310089985e85116d87fb09a9036c4bdf1eb60adbb5d",
+      "bytes": 77731
+    },
+    "models/tft/B/south_korea/model.ckpt": {
+      "sha256": "56ee99548f512584f84d8544ba1c9e9c763c85f67b3e16637fa35b7d7224d9ea",
+      "bytes": 369651
+    },
+    "models/tft/B/united_states/artifact_manifest.json": {
+      "sha256": "c364423ab09186ba2cc1ab7cea18877ed85890264bcd910c1b326997171f3b32",
+      "bytes": 352
+    },
+    "models/tft/B/united_states/dataset_parameters.pt": {
+      "sha256": "030396ab31bb744602e05edd1f49ac5d4cdc8420b8abb81a53dc44542c92b685",
+      "bytes": 67949
+    },
+    "models/tft/B/united_states/feature_schema.json": {
+      "sha256": "d9d4a8402432169e46fb07d28001a8a4e0ca7b40c3de519d6c94a998aa785105",
+      "bytes": 102955
+    },
+    "models/tft/B/united_states/model.ckpt": {
+      "sha256": "b520134b6d43c92b271ad4b0c6b217f6e17a4ad99663e5d9d6ec5542716b4d87",
+      "bytes": 388339
+    },
+    "models/xgboost/A/canada/feature_schema.json": {
+      "sha256": "a574600a6972401b0fe4bc7060e27b45681a8a65d24a91c59ddf5d1f7caa9744",
+      "bytes": 33232
+    },
+    "models/xgboost/A/canada/model.ubj": {
+      "sha256": "c5215ab34b12c5247c480928a22fec5960a2f997a5194578dd219a45c70784af",
+      "bytes": 1113766
+    },
+    "models/xgboost/A/china/feature_schema.json": {
+      "sha256": "8c71aa41b1c9292807d207fd3a0593e7a3ba0ac4573ba6d0c11cd9c579b3b38b",
+      "bytes": 57049
+    },
+    "models/xgboost/A/china/model.ubj": {
+      "sha256": "77d9ee3c8404f8512077570a3502af7441e130b35b4835be43bf1cc5ed996d69",
+      "bytes": 2593228
+    },
+    "models/xgboost/A/europe/feature_schema.json": {
+      "sha256": "11fd39114f45fa2479584e0cd2de129073c158a6fbee622705db1b13603985bf",
+      "bytes": 45682
+    },
+    "models/xgboost/A/europe/model.ubj": {
+      "sha256": "e9b770a35a54a5db25eced483fd9b212d6be8e1a36824fa2b338534916a7fb87",
+      "bytes": 5030661
+    },
+    "models/xgboost/A/germany/feature_schema.json": {
+      "sha256": "5af948b865503af0cfa379609cddc619b08165582cafab44494aaa5bf52a6388",
+      "bytes": 39445
+    },
+    "models/xgboost/A/germany/model.ubj": {
+      "sha256": "e60b87430a85718c59c4cc2a0d181eb9a8c57df85f54cc8ce79d114c7294b71c",
+      "bytes": 1791364
+    },
+    "models/xgboost/A/japan/feature_schema.json": {
+      "sha256": "600acd9b6271088471e2a36635373f68d591214064d38696cfbb6d65e5657b56",
+      "bytes": 21524
+    },
+    "models/xgboost/A/japan/model.ubj": {
+      "sha256": "45accb8e2a05022fcc316d1baad361cc00640cf3135e9b7207c7537da21b3aef",
+      "bytes": 2235638
+    },
+    "models/xgboost/A/south_korea/feature_schema.json": {
+      "sha256": "7ca8e7a6d8c2cd90dab8cbf0619d8c5276d411c4e819bd281a037be0c56dbb29",
+      "bytes": 29649
+    },
+    "models/xgboost/A/south_korea/model.ubj": {
+      "sha256": "8dc06c2bb05df28e261b4c2e7a34d4a4aed88a3c6bec69a051671afd2c711271",
+      "bytes": 924859
+    },
+    "models/xgboost/A/united_states/feature_schema.json": {
+      "sha256": "cd3f9fe1c75b1b76bc21f2188686580ecbf1b7c19307bcb599c68cd9a5331793",
+      "bytes": 36324
+    },
+    "models/xgboost/A/united_states/model.ubj": {
+      "sha256": "00f3f23ceb598a2d6b8456615a7363662ff700e2447722ec9a1f9f4917072c45",
+      "bytes": 3449142
+    },
+    "models/xgboost/B/canada/feature_schema.json": {
+      "sha256": "21a835c0cdbacea49fef7a37a346f99060eaf9a3126a173496bdb96ada1a6089",
+      "bytes": 33235
+    },
+    "models/xgboost/B/canada/model.ubj": {
+      "sha256": "2887c158a4a81419ff4756e72d6d4e8712a75d2e2859a2a0766b9a50f826e8ba",
+      "bytes": 2892422
+    },
+    "models/xgboost/B/china/feature_schema.json": {
+      "sha256": "2f9463ad4108e1f9fff2ae590a59982f61bb1d3436d8a69fe270863c311a2c04",
+      "bytes": 57049
+    },
+    "models/xgboost/B/china/model.ubj": {
+      "sha256": "221b635d40a909d23ad3c5e262721e7896402bb6ec4d1d62938d33f63dacf2c8",
+      "bytes": 5955316
+    },
+    "models/xgboost/B/europe/feature_schema.json": {
+      "sha256": "11fd39114f45fa2479584e0cd2de129073c158a6fbee622705db1b13603985bf",
+      "bytes": 45682
+    },
+    "models/xgboost/B/europe/model.ubj": {
+      "sha256": "e9b770a35a54a5db25eced483fd9b212d6be8e1a36824fa2b338534916a7fb87",
+      "bytes": 5030661
+    },
+    "models/xgboost/B/germany/feature_schema.json": {
+      "sha256": "5af948b865503af0cfa379609cddc619b08165582cafab44494aaa5bf52a6388",
+      "bytes": 39445
+    },
+    "models/xgboost/B/germany/model.ubj": {
+      "sha256": "e60b87430a85718c59c4cc2a0d181eb9a8c57df85f54cc8ce79d114c7294b71c",
+      "bytes": 1791364
+    },
+    "models/xgboost/B/japan/feature_schema.json": {
+      "sha256": "55433843c8a10dc7109a5f882b1abda9cba7ab47dc191527fe4cdd6ada1157cf",
+      "bytes": 21521
+    },
+    "models/xgboost/B/japan/model.ubj": {
+      "sha256": "d284ac38942d85a2eddb6d8073bae2574982e1a2818fcd3ab4fe7c68bdaa7000",
+      "bytes": 2218870
+    },
+    "models/xgboost/B/south_korea/feature_schema.json": {
+      "sha256": "5c1fcbd45325a3494f1312fcacc46014ba310044dcbf14c003bff73fa84968e7",
+      "bytes": 29649
+    },
+    "models/xgboost/B/south_korea/model.ubj": {
+      "sha256": "0797ea9e2e0dd85953856584da22c8b41cdb7495c37ce5d445b71d3e69a66886",
+      "bytes": 2503967
+    },
+    "models/xgboost/B/united_states/feature_schema.json": {
+      "sha256": "cd3f9fe1c75b1b76bc21f2188686580ecbf1b7c19307bcb599c68cd9a5331793",
+      "bytes": 36324
+    },
+    "models/xgboost/B/united_states/model.ubj": {
+      "sha256": "00f3f23ceb598a2d6b8456615a7363662ff700e2447722ec9a1f9f4917072c45",
+      "bytes": 3449142
+    },
+    "predict.py": {
+      "sha256": "2a7a3ca2d4b65fa33f64f054e8c4b004e5575f70a344056e5358294c2a310cf2",
+      "bytes": 1095
+    },
+    "pyproject.toml": {
+      "sha256": "4d21545027051d691074258355d4c72bca92d4308fa612ba8f3e1aba4cae88aa",
+      "bytes": 625
+    },
+    "raw/data.csv": {
+      "sha256": "8cc9b0530148739b2eda18fcbc0811b0cfa5013d450f114820a2dccd051ce30e",
+      "bytes": 7029976
+    },
+    "service/.python-version": {
+      "sha256": "8dfda54ba2f66ab3a8ebab460f4338bbeea1fb1e0f85ce06fe3530aa3c64679b",
+      "bytes": 6
+    },
+    "service/PREDICT_API_CONTRACT.md": {
+      "sha256": "d4edd17930edfdc1ddefbe238e2851b1c3760c6e06988ac918290560bf063579",
+      "bytes": 8594
+    },
+    "service/README.md": {
+      "sha256": "69876b23e2b3cc87cb16a1b505425ba6577218540321943a9340c4aa29b2f48e",
+      "bytes": 6260
+    },
+    "service/__init__.py": {
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
+      "bytes": 1
+    },
+    "service/api.py": {
+      "sha256": "b828a372054f817e94e9a9fe06238fe0656868d26052714a705441e79926f1f0",
+      "bytes": 9618
+    },
+    "service/client.py": {
+      "sha256": "6b0e90a133588af8a14d56fc6058b3c00d486068606264028e399ac5e7fbb513",
+      "bytes": 3844
+    },
+    "service/configs/tft_a.json": {
+      "sha256": "d5942a98ea5661bb008ae76b89eef0b551dd241c042e5f585aaeb8b8d0541eb4",
+      "bytes": 1460
+    },
+    "service/configs/tft_b.json": {
+      "sha256": "e7e0a2df275d33fd10be06096507f4f76b0c37afff3210107c5cd432012c3b24",
+      "bytes": 1460
+    },
+    "service/configs/xgboost_a.json": {
+      "sha256": "5f0c80a32885abcdb3411883f6aaf1a2ea35ac010223e5378e47c59a963d6542",
+      "bytes": 1520
+    },
+    "service/configs/xgboost_b.json": {
+      "sha256": "7db4491d50ddd5dee68f304634af444f2a83c273298b2231f3bd156ed478d71d",
+      "bytes": 1520
+    },
+    "service/console.py": {
+      "sha256": "76aeae9fb61a8b908dce504484cc39f8c31103335ab5090cfe34df649530e12a",
+      "bytes": 201
+    },
+    "service/errors.py": {
+      "sha256": "18811b16dd71a426ebfdb40dcc3e7ee21d9232d0e0378cea9af1dafec6294979",
+      "bytes": 326
+    },
+    "service/examples/data_summary.json": {
+      "sha256": "3e729b13d0fdb0451c9a8322a29a595ca7cb392a651ad6b51d126cde54d341d4",
+      "bytes": 1260
+    },
+    "service/examples/excluded_vehicles.csv": {
+      "sha256": "fb944373f2183d48e8bf2fce2dc1160fd6c7cb22938fbd9bafd0176b27fe5e3e",
+      "bytes": 53101
+    },
+    "service/examples/forecasft_data.csv": {
+      "sha256": "6ee7098c41e7fe5b6351fa31cc6a960d8ab7ac89e44eeaa5d23153e2935a7615",
+      "bytes": 2024576
+    },
+    "service/examples/openapi.json": {
+      "sha256": "23fe5303cc7848576e29c0002861418eb560ecda22879639af1b7e3cb2c9a83f",
+      "bytes": 2720
+    },
+    "service/examples/response_tft_a.json": {
+      "sha256": "e72a4c4bae749cf0e296e2104642646cfe3072507dee8d1093f176c28fc6e6db",
+      "bytes": 9899274
+    },
+    "service/inference.py": {
+      "sha256": "efd32bced900409cdcd7e028cd47558197fbb478f3ab5add1bf56fa42992f9bb",
+      "bytes": 12633
+    },
+    "service/pyproject.toml": {
+      "sha256": "4d21545027051d691074258355d4c72bca92d4308fa612ba8f3e1aba4cae88aa",
+      "bytes": 625
+    },
+    "service/registry.py": {
+      "sha256": "e3ecf8256e29ad16a577fa2fdb7d5797dde6b27a359e7a024cf4ef66a8c5a683",
+      "bytes": 8812
+    },
+    "service/uv.lock": {
+      "sha256": "f59fa763a801ddfe428b079a308e64b4e33f988040504a0f3d4e459b03edf488",
+      "bytes": 170522
+    },
+    "tft_core.py": {
+      "sha256": "eab345c3aed2952c7e577737ddb7ba209f2961beafa1f831cd006c64ec5e8c02",
+      "bytes": 17414
+    },
+    "tft_data.py": {
+      "sha256": "63a76acf4809be3fedf12fa57f11399bec80189519da265e8e9d7c7b02474896",
+      "bytes": 10890
+    },
+    "uv.lock": {
+      "sha256": "f59fa763a801ddfe428b079a308e64b4e33f988040504a0f3d4e459b03edf488",
+      "bytes": 170522
+    },
+    "xgboost_core.py": {
+      "sha256": "cded0b4fdc91f87a7395abb710556d966282deb4864cb7e36048a574d4c68f70",
+      "bytes": 16500
+    }
+  }
+}

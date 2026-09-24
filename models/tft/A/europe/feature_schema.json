@@ -1,0 +1,6832 @@
+{
+  "country": "Europe",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "Europe",
+      "Abarth",
+      "500"
+    ],
+    [
+      "Europe",
+      "Abarth",
+      "600"
+    ],
+    [
+      "Europe",
+      "Alfa Romeo",
+      "Giulia"
+    ],
+    [
+      "Europe",
+      "Alfa Romeo",
+      "Junior"
+    ],
+    [
+      "Europe",
+      "Alfa Romeo",
+      "Stelvio"
+    ],
+    [
+      "Europe",
+      "Alfa Romeo",
+      "Tonale"
+    ],
+    [
+      "Europe",
+      "Alpine",
+      "A290"
+    ],
+    [
+      "Europe",
+      "Aston Martin",
+      "DB12"
+    ],
+    [
+      "Europe",
+      "Aston Martin",
+      "DBX"
+    ],
+    [
+      "Europe",
+      "Aston Martin",
+      "Vanquish"
+    ],
+    [
+      "Europe",
+      "Aston Martin",
+      "Vantage"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "A3"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "A5"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "A6"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "A6 e-tron"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "A8"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q3 Sportback"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q4"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q4 Sportback"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q5"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q5 Sportback"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q6 Sportback e-tron"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q6 e-tron"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q7"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "Q8"
+    ],
+    [
+      "Europe",
+      "Audi",
+      "e-tron GT"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "1 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "2 Series Active Tourer"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "4 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "7 Series"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X1"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X2"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X3"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X5"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X6"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "X7"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "XM"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "i4"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "i5"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "i7"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "iX"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "iX1"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "iX2"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "iX3"
+    ],
+    [
+      "Europe",
+      "BMW",
+      "iX5"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Atto 2"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Atto 3"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Dolphin"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Dolphin Surf"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Han"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Seal"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Seal 5 DM-i"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Seal U"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Sealion 7"
+    ],
+    [
+      "Europe",
+      "BYD",
+      "Tang"
+    ],
+    [
+      "Europe",
+      "Beijing",
+      "BJ30"
+    ],
+    [
+      "Europe",
+      "Beijing",
+      "BJ60"
+    ],
+    [
+      "Europe",
+      "Beijing",
+      "X55"
+    ],
+    [
+      "Europe",
+      "Beijing",
+      "X7"
+    ],
+    [
+      "Europe",
+      "Bentley",
+      "Bentayga"
+    ],
+    [
+      "Europe",
+      "Bentley",
+      "Continental"
+    ],
+    [
+      "Europe",
+      "Bentley",
+      "Flying Spur"
+    ],
+    [
+      "Europe",
+      "Cadillac",
+      "Lyriq"
+    ],
+    [
+      "Europe",
+      "Chery",
+      "Tiggo 7"
+    ],
+    [
+      "Europe",
+      "Chery",
+      "Tiggo 8"
+    ],
+    [
+      "Europe",
+      "Chrysler",
+      "Pacifica"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "Berlingo"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C3"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C3 Aircross"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C4"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C4 X"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C5 Aircross"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "C5 X"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "Jumper"
+    ],
+    [
+      "Europe",
+      "Citroen",
+      "Jumpy"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Ateca"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Born"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Formentor"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Leon"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Raval"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Tavascan"
+    ],
+    [
+      "Europe",
+      "Cupra",
+      "Terramar"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Fengon 5"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Fengon 580"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Fengon 600"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Fengon E5"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Forthing 3"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Forthing 4"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Forthing 5"
+    ],
+    [
+      "Europe",
+      "DFSK",
+      "Forthing 9"
+    ],
+    [
+      "Europe",
+      "DR Motor",
+      "DR 1.0"
+    ],
+    [
+      "Europe",
+      "DR Motor",
+      "DR 4.0/EVO 4"
+    ],
+    [
+      "Europe",
+      "DR Motor",
+      "DR 5.0"
+    ],
+    [
+      "Europe",
+      "DS",
+      "3"
+    ],
+    [
+      "Europe",
+      "DS",
+      "4"
+    ],
+    [
+      "Europe",
+      "DS",
+      "7"
+    ],
+    [
+      "Europe",
+      "DS",
+      "N°8"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Bigster"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Duster"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Jogger"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Logan"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Sandero"
+    ],
+    [
+      "Europe",
+      "Dacia",
+      "Spring"
+    ],
+    [
+      "Europe",
+      "Dodge",
+      "Charger"
+    ],
+    [
+      "Europe",
+      "Dodge",
+      "Durango"
+    ],
+    [
+      "Europe",
+      "Dongfeng",
+      "Nammi 01"
+    ],
+    [
+      "Europe",
+      "Dongfeng",
+      "Shine"
+    ],
+    [
+      "Europe",
+      "EVO",
+      "Cuatro"
+    ],
+    [
+      "Europe",
+      "Ebro",
+      "S400"
+    ],
+    [
+      "Europe",
+      "Ebro",
+      "S700"
+    ],
+    [
+      "Europe",
+      "Ebro",
+      "S800"
+    ],
+    [
+      "Europe",
+      "Ferrari",
+      "12Cilindri"
+    ],
+    [
+      "Europe",
+      "Ferrari",
+      "296"
+    ],
+    [
+      "Europe",
+      "Ferrari",
+      "Purosangue"
+    ],
+    [
+      "Europe",
+      "Ferrari",
+      "Roma"
+    ],
+    [
+      "Europe",
+      "Ferrari",
+      "SF90"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "500"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "600"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "Doblo"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "Ducato"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "Grande Panda"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "Panda"
+    ],
+    [
+      "Europe",
+      "Fiat",
+      "Scudo"
+    ],
+    [
+      "Europe",
+      "Firefly",
+      "Firefly"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Capri"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Escape"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "F-150"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Mustang"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Mustang Mach-E"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Puma"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Transit"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Transit Courier"
+    ],
+    [
+      "Europe",
+      "Ford",
+      "Transit Custom"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Haval Chitu"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Haval H6"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Ora 03"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Ora 07"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Wey 03"
+    ],
+    [
+      "Europe",
+      "GWM",
+      "Wey 05"
+    ],
+    [
+      "Europe",
+      "Geely",
+      "Binyue"
+    ],
+    [
+      "Europe",
+      "Geely",
+      "Cityray"
+    ],
+    [
+      "Europe",
+      "Geely",
+      "EX5"
+    ],
+    [
+      "Europe",
+      "Genesis",
+      "G80"
+    ],
+    [
+      "Europe",
+      "Genesis",
+      "GV60"
+    ],
+    [
+      "Europe",
+      "Genesis",
+      "GV70"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "Fit"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "HR-V"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "ZR-V"
+    ],
+    [
+      "Europe",
+      "Honda",
+      "e:Ny1"
+    ],
+    [
+      "Europe",
+      "Hongqi",
+      "EH7"
+    ],
+    [
+      "Europe",
+      "Hongqi",
+      "EHS7"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Bayon"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Inster"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Ioniq 5"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Ioniq 6"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Ioniq 9"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Kona"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Staria"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "i10"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "i20"
+    ],
+    [
+      "Europe",
+      "Hyundai",
+      "i30"
+    ],
+    [
+      "Europe",
+      "ICH-X",
+      "K2"
+    ],
+    [
+      "Europe",
+      "ICH-X",
+      "K3"
+    ],
+    [
+      "Europe",
+      "Ineos",
+      "Grenadier"
+    ],
+    [
+      "Europe",
+      "JAC",
+      "E-JS4"
+    ],
+    [
+      "Europe",
+      "JAC",
+      "E30X"
+    ],
+    [
+      "Europe",
+      "Jaecoo",
+      "7"
+    ],
+    [
+      "Europe",
+      "Jeep",
+      "Avenger"
+    ],
+    [
+      "Europe",
+      "Jeep",
+      "Compass"
+    ],
+    [
+      "Europe",
+      "Jeep",
+      "Grand Cherokee"
+    ],
+    [
+      "Europe",
+      "Jeep",
+      "Wrangler"
+    ],
+    [
+      "Europe",
+      "KG Mobility",
+      "Actyon"
+    ],
+    [
+      "Europe",
+      "KG Mobility",
+      "Korando"
+    ],
+    [
+      "Europe",
+      "KG Mobility",
+      "Rexton"
+    ],
+    [
+      "Europe",
+      "KG Mobility",
+      "Tivoli"
+    ],
+    [
+      "Europe",
+      "KG Mobility",
+      "Torres"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "EV3"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "EV6"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "EV9"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "K4"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "Niro"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "Picanto"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "Sorento"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "Stonic"
+    ],
+    [
+      "Europe",
+      "Kia",
+      "XCeed"
+    ],
+    [
+      "Europe",
+      "Lada",
+      "Niva"
+    ],
+    [
+      "Europe",
+      "Lamborghini",
+      "Revuelto"
+    ],
+    [
+      "Europe",
+      "Lamborghini",
+      "Temerario"
+    ],
+    [
+      "Europe",
+      "Lamborghini",
+      "Urus"
+    ],
+    [
+      "Europe",
+      "Lancia",
+      "Ypsilon"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Defender"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Discovery"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Range Rover"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Range Rover Sport"
+    ],
+    [
+      "Europe",
+      "Land Rover",
+      "Range Rover Velar"
+    ],
+    [
+      "Europe",
+      "Leapmotor",
+      "C10"
+    ],
+    [
+      "Europe",
+      "Leapmotor",
+      "T03"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "ES"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "LBX"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "LM"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "NX"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "RX"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "RZ"
+    ],
+    [
+      "Europe",
+      "Lexus",
+      "UX"
+    ],
+    [
+      "Europe",
+      "Lotus",
+      "Eletre"
+    ],
+    [
+      "Europe",
+      "Lotus",
+      "Emeya"
+    ],
+    [
+      "Europe",
+      "Lotus",
+      "Emira"
+    ],
+    [
+      "Europe",
+      "Lynk & Co",
+      "01"
+    ],
+    [
+      "Europe",
+      "Lynk & Co",
+      "02"
+    ],
+    [
+      "Europe",
+      "Lynk & Co",
+      "08"
+    ],
+    [
+      "Europe",
+      "MG",
+      "Cyberster"
+    ],
+    [
+      "Europe",
+      "MG",
+      "IM5"
+    ],
+    [
+      "Europe",
+      "MG",
+      "IM6"
+    ],
+    [
+      "Europe",
+      "MG",
+      "MG3"
+    ],
+    [
+      "Europe",
+      "MG",
+      "MG4"
+    ],
+    [
+      "Europe",
+      "MG",
+      "S5"
+    ],
+    [
+      "Europe",
+      "MG",
+      "ZS"
+    ],
+    [
+      "Europe",
+      "MINI",
+      "Aceman"
+    ],
+    [
+      "Europe",
+      "MINI",
+      "Cooper"
+    ],
+    [
+      "Europe",
+      "MINI",
+      "Countryman"
+    ],
+    [
+      "Europe",
+      "Maserati",
+      "GranCabrio"
+    ],
+    [
+      "Europe",
+      "Maserati",
+      "GranTurismo"
+    ],
+    [
+      "Europe",
+      "Maserati",
+      "Grecale"
+    ],
+    [
+      "Europe",
+      "Maserati",
+      "MC20"
+    ],
+    [
+      "Europe",
+      "Maxus",
+      "Euniq 6"
+    ],
+    [
+      "Europe",
+      "Maxus",
+      "Mifa 9"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "CX-60"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "CX-80"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "MX-5 Miata"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "Mazda2"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "Europe",
+      "Mazda",
+      "Mazda6e"
+    ],
+    [
+      "Europe",
+      "McLaren",
+      "750S"
+    ],
+    [
+      "Europe",
+      "McLaren",
+      "Artura"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "A-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "AMG GT"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "AMG GT 4 Door"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "B-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "CLA"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "CLE"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "Citan"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "E-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQA"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQE"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQS"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQS SUV"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQT"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "EQV"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "G-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "GLE"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "GLS"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "S-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "SL"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "Sprinter"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "V-Class"
+    ],
+    [
+      "Europe",
+      "Mercedes-Benz",
+      "Vito"
+    ],
+    [
+      "Europe",
+      "Mitsubishi",
+      "ASX"
+    ],
+    [
+      "Europe",
+      "Mitsubishi",
+      "Colt"
+    ],
+    [
+      "Europe",
+      "Mitsubishi",
+      "Eclipse Cross"
+    ],
+    [
+      "Europe",
+      "Mitsubishi",
+      "Outlander"
+    ],
+    [
+      "Europe",
+      "Nio",
+      "EL6"
+    ],
+    [
+      "Europe",
+      "Nio",
+      "EL8"
+    ],
+    [
+      "Europe",
+      "Nio",
+      "ET5"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Interstar"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Juke"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Leaf"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Primastar"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Qashqai"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "Europe",
+      "Nissan",
+      "Townstar"
+    ],
+    [
+      "Europe",
+      "Omoda",
+      "5"
+    ],
+    [
+      "Europe",
+      "Omoda",
+      "9"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Astra"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Combo"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Corsa"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Frontera"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Grandland"
+    ],
+    [
+      "Europe",
+      "Opel/Vauxhall",
+      "Mokka"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "2008"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "208"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "3008"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "308"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "408"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "5008"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "Boxer"
+    ],
+    [
+      "Europe",
+      "Peugeot",
+      "Expert"
+    ],
+    [
+      "Europe",
+      "Polestar",
+      "2"
+    ],
+    [
+      "Europe",
+      "Polestar",
+      "3"
+    ],
+    [
+      "Europe",
+      "Polestar",
+      "4"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "718"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "911"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "Cayenne"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "Macan"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "Panamera"
+    ],
+    [
+      "Europe",
+      "Porsche",
+      "Taycan"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "4"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "5"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Arkana"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Austral"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Captur"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Clio"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Espace"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Kangoo"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Master"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Megane E-Tech"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Rafale"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Scenic E-Tech"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Symbioz"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Trafic"
+    ],
+    [
+      "Europe",
+      "Renault",
+      "Twingo E-Tech"
+    ],
+    [
+      "Europe",
+      "Rolls-Royce",
+      "Cullinan"
+    ],
+    [
+      "Europe",
+      "Rolls-Royce",
+      "Ghost"
+    ],
+    [
+      "Europe",
+      "Rolls-Royce",
+      "Phantom"
+    ],
+    [
+      "Europe",
+      "Rolls-Royce",
+      "Spectre"
+    ],
+    [
+      "Europe",
+      "Seat",
+      "Arona"
+    ],
+    [
+      "Europe",
+      "Seat",
+      "Ibiza"
+    ],
+    [
+      "Europe",
+      "Seat",
+      "Leon"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Elroq"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Enyaq"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Enyaq Coupe"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Fabia"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Kamiq"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Karoq"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Kodiaq"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Octavia"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Scala"
+    ],
+    [
+      "Europe",
+      "Skoda",
+      "Superb"
+    ],
+    [
+      "Europe",
+      "Smart",
+      "#1"
+    ],
+    [
+      "Europe",
+      "Smart",
+      "#3"
+    ],
+    [
+      "Europe",
+      "Smart",
+      "#5"
+    ],
+    [
+      "Europe",
+      "Sportequipe",
+      "6 GT"
+    ],
+    [
+      "Europe",
+      "Sportequipe",
+      "7 GTW"
+    ],
+    [
+      "Europe",
+      "Sportequipe",
+      "8"
+    ],
+    [
+      "Europe",
+      "Subaru",
+      "Crosstrek"
+    ],
+    [
+      "Europe",
+      "Subaru",
+      "Forester"
+    ],
+    [
+      "Europe",
+      "Subaru",
+      "Legacy/Outback"
+    ],
+    [
+      "Europe",
+      "Subaru",
+      "Solterra"
+    ],
+    [
+      "Europe",
+      "Suzuki",
+      "Across"
+    ],
+    [
+      "Europe",
+      "Suzuki",
+      "S-Cross"
+    ],
+    [
+      "Europe",
+      "Suzuki",
+      "Swift"
+    ],
+    [
+      "Europe",
+      "Suzuki",
+      "Vitara/Grand Vitara"
+    ],
+    [
+      "Europe",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "Europe",
+      "Tesla",
+      "Model S"
+    ],
+    [
+      "Europe",
+      "Tesla",
+      "Model X"
+    ],
+    [
+      "Europe",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "Europe",
+      "Tiger",
+      "Six"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Aygo X"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "C-HR"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Land Cruiser"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Prius"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Proace"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Proace City"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Yaris"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "Yaris Cross"
+    ],
+    [
+      "Europe",
+      "Toyota",
+      "bZ4X"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Caddy"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Crafter"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "ID. Buzz"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "ID.3"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "ID.4"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "ID.5"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "ID.7"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Passat"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Polo"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "T-Cross"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "T-Roc"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Taigo"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Tayron"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Touareg"
+    ],
+    [
+      "Europe",
+      "Volkswagen",
+      "Touran"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "C40"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "EX40"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "EX90"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "S60/V60"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "S90/V90"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "Europe",
+      "Volvo",
+      "XC90"
+    ],
+    [
+      "Europe",
+      "Voyah",
+      "Courage"
+    ],
+    [
+      "Europe",
+      "Xpeng",
+      "G6"
+    ],
+    [
+      "Europe",
+      "Xpeng",
+      "G9"
+    ],
+    [
+      "Europe",
+      "Xpeng",
+      "P7"
+    ],
+    [
+      "Europe",
+      "Zeekr",
+      "001"
+    ],
+    [
+      "Europe",
+      "Zeekr",
+      "007"
+    ],
+    [
+      "Europe",
+      "Zeekr",
+      "7X"
+    ],
+    [
+      "Europe",
+      "Zeekr",
+      "X"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "Abarth",
+      "Alfa Romeo",
+      "Alpine",
+      "Aston Martin",
+      "Audi",
+      "BMW",
+      "BYD",
+      "Beijing",
+      "Bentley",
+      "Cadillac",
+      "Chery",
+      "Chrysler",
+      "Citroen",
+      "Cupra",
+      "DFSK",
+      "DR Motor",
+      "DS",
+      "Dacia",
+      "Dodge",
+      "Dongfeng",
+      "EVO",
+      "Ebro",
+      "Ferrari",
+      "Fiat",
+      "Firefly",
+      "Ford",
+      "GWM",
+      "Geely",
+      "Genesis",
+      "Honda",
+      "Hongqi",
+      "Hyundai",
+      "ICH-X",
+      "Ineos",
+      "JAC",
+      "Jaecoo",
+      "Jeep",
+      "KG Mobility",
+      "Kia",
+      "Lada",
+      "Lamborghini",
+      "Lancia",
+      "Land Rover",
+      "Leapmotor",
+      "Lexus",
+      "Lotus",
+      "Lynk & Co",
+      "MG",
+      "MINI",
+      "Maserati",
+      "Maxus",
+      "Mazda",
+      "McLaren",
+      "Mercedes-Benz",
+      "Mitsubishi",
+      "Nio",
+      "Nissan",
+      "Omoda",
+      "Opel/Vauxhall",
+      "Peugeot",
+      "Polestar",
+      "Porsche",
+      "Renault",
+      "Rolls-Royce",
+      "Seat",
+      "Skoda",
+      "Smart",
+      "Sportequipe",
+      "Subaru",
+      "Suzuki",
+      "Tesla",
+      "Tiger",
+      "Toyota",
+      "Volkswagen",
+      "Volvo",
+      "Voyah",
+      "Xpeng",
+      "Zeekr"
+    ],
+    "Model": [
+      "#1",
+      "#3",
+      "#5",
+      "001",
+      "007",
+      "01",
+      "02",
+      "08",
+      "1 Series",
+      "12Cilindri",
+      "2",
+      "2 Series",
+      "2 Series Active Tourer",
+      "2008",
+      "208",
+      "296",
+      "3",
+      "3 Series",
+      "3008",
+      "308",
+      "4",
+      "4 Series",
+      "408",
+      "5",
+      "5 Series",
+      "500",
+      "5008",
+      "6 GT",
+      "600",
+      "7",
+      "7 GTW",
+      "7 Series",
+      "718",
+      "750S",
+      "7X",
+      "8",
+      "9",
+      "911",
+      "A-Class",
+      "A290",
+      "A3",
+      "A5",
+      "A6",
+      "A6 e-tron",
+      "A8",
+      "AMG GT",
+      "AMG GT 4 Door",
+      "ASX",
+      "Aceman",
+      "Across",
+      "Actyon",
+      "Ariya",
+      "Arkana",
+      "Arona",
+      "Artura",
+      "Astra",
+      "Ateca",
+      "Atto 2",
+      "Atto 3",
+      "Austral",
+      "Avenger",
+      "Aygo X",
+      "B-Class",
+      "BJ30",
+      "BJ60",
+      "Bayon",
+      "Bentayga",
+      "Berlingo",
+      "Bigster",
+      "Binyue",
+      "Born",
+      "Boxer",
+      "Bronco",
+      "C-Class",
+      "C-HR",
+      "C10",
+      "C3",
+      "C3 Aircross",
+      "C4",
+      "C4 X",
+      "C40",
+      "C5 Aircross",
+      "C5 X",
+      "CLA",
+      "CLE",
+      "CR-V",
+      "CX-30",
+      "CX-5",
+      "CX-60",
+      "CX-80",
+      "Caddy",
+      "Camry",
+      "Capri",
+      "Captur",
+      "Cayenne",
+      "Charger",
+      "Citan",
+      "Cityray",
+      "Civic",
+      "Clio",
+      "Colt",
+      "Combo",
+      "Compass",
+      "Continental",
+      "Cooper",
+      "Corolla",
+      "Corolla Cross",
+      "Corsa",
+      "Countryman",
+      "Courage",
+      "Crafter",
+      "Crosstrek",
+      "Cuatro",
+      "Cullinan",
+      "Cyberster",
+      "DB12",
+      "DBX",
+      "DR 1.0",
+      "DR 4.0/EVO 4",
+      "DR 5.0",
+      "Defender",
+      "Discovery",
+      "Discovery Sport",
+      "Doblo",
+      "Dolphin",
+      "Dolphin Surf",
+      "Ducato",
+      "Durango",
+      "Duster",
+      "E-Class",
+      "E-JS4",
+      "E30X",
+      "EH7",
+      "EHS7",
+      "EL6",
+      "EL8",
+      "EQA",
+      "EQB",
+      "EQE",
+      "EQE SUV",
+      "EQS",
+      "EQS SUV",
+      "EQT",
+      "EQV",
+      "ES",
+      "ET5",
+      "EV3",
+      "EV6",
+      "EV9",
+      "EX30",
+      "EX40",
+      "EX5",
+      "EX90",
+      "Eclipse Cross",
+      "Eletre",
+      "Elroq",
+      "Emeya",
+      "Emira",
+      "Enyaq",
+      "Enyaq Coupe",
+      "Escape",
+      "Espace",
+      "Euniq 6",
+      "Expert",
+      "Explorer",
+      "F-150",
+      "Fabia",
+      "Fengon 5",
+      "Fengon 580",
+      "Fengon 600",
+      "Fengon E5",
+      "Firefly",
+      "Fit",
+      "Flying Spur",
+      "Forester",
+      "Formentor",
+      "Forthing 3",
+      "Forthing 4",
+      "Forthing 5",
+      "Forthing 9",
+      "Frontera",
+      "G-Class",
+      "G6",
+      "G80",
+      "G9",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GLE",
+      "GLS",
+      "GV60",
+      "GV70",
+      "Ghost",
+      "Giulia",
+      "Golf",
+      "GranCabrio",
+      "GranTurismo",
+      "Grand Cherokee",
+      "Grande Panda",
+      "Grandland",
+      "Grecale",
+      "Grenadier",
+      "HR-V",
+      "Han",
+      "Haval Chitu",
+      "Haval H6",
+      "Highlander",
+      "ID. Buzz",
+      "ID.3",
+      "ID.4",
+      "ID.5",
+      "ID.7",
+      "IM5",
+      "IM6",
+      "Ibiza",
+      "Inster",
+      "Interstar",
+      "Ioniq 5",
+      "Ioniq 6",
+      "Ioniq 9",
+      "Jogger",
+      "Juke",
+      "Jumper",
+      "Jumpy",
+      "Junior",
+      "K2",
+      "K3",
+      "K4",
+      "Kamiq",
+      "Kangoo",
+      "Karoq",
+      "Kodiaq",
+      "Kona",
+      "Korando",
+      "LBX",
+      "LM",
+      "Land Cruiser",
+      "Leaf",
+      "Legacy/Outback",
+      "Leon",
+      "Logan",
+      "Lyriq",
+      "MC20",
+      "MG3",
+      "MG4",
+      "MX-5 Miata",
+      "Macan",
+      "Master",
+      "Mazda2",
+      "Mazda3",
+      "Mazda6e",
+      "Megane E-Tech",
+      "Mifa 9",
+      "Model 3",
+      "Model S",
+      "Model X",
+      "Model Y",
+      "Mokka",
+      "Mustang",
+      "Mustang Mach-E",
+      "NX",
+      "Nammi 01",
+      "Niro",
+      "Niva",
+      "N°8",
+      "Octavia",
+      "Ora 03",
+      "Ora 07",
+      "Outlander",
+      "P7",
+      "Pacifica",
+      "Panamera",
+      "Panda",
+      "Passat",
+      "Phantom",
+      "Picanto",
+      "Polo",
+      "Primastar",
+      "Prius",
+      "Proace",
+      "Proace City",
+      "Puma",
+      "Purosangue",
+      "Q3",
+      "Q3 Sportback",
+      "Q4",
+      "Q4 Sportback",
+      "Q5",
+      "Q5 Sportback",
+      "Q6 Sportback e-tron",
+      "Q6 e-tron",
+      "Q7",
+      "Q8",
+      "Qashqai",
+      "RAV4",
+      "RX",
+      "RZ",
+      "Rafale",
+      "Range Rover",
+      "Range Rover Evoque",
+      "Range Rover Sport",
+      "Range Rover Velar",
+      "Raval",
+      "Revuelto",
+      "Rexton",
+      "Rogue",
+      "Roma",
+      "S-Class",
+      "S-Cross",
+      "S400",
+      "S5",
+      "S60/V60",
+      "S700",
+      "S800",
+      "S90/V90",
+      "SF90",
+      "SL",
+      "Sandero",
+      "Santa Fe",
+      "Scala",
+      "Scenic E-Tech",
+      "Scudo",
+      "Seal",
+      "Seal 5 DM-i",
+      "Seal U",
+      "Sealion 7",
+      "Shine",
+      "Six",
+      "Solterra",
+      "Sorento",
+      "Spectre",
+      "Sportage",
+      "Spring",
+      "Sprinter",
+      "Staria",
+      "Stelvio",
+      "Stonic",
+      "Superb",
+      "Swift",
+      "Symbioz",
+      "T-Cross",
+      "T-Roc",
+      "T03",
+      "Taigo",
+      "Tang",
+      "Tavascan",
+      "Taycan",
+      "Tayron",
+      "Temerario",
+      "Terramar",
+      "Tiggo 7",
+      "Tiggo 8",
+      "Tiguan",
+      "Tivoli",
+      "Tonale",
+      "Torres",
+      "Touareg",
+      "Touran",
+      "Townstar",
+      "Trafic",
+      "Transit",
+      "Transit Courier",
+      "Transit Custom",
+      "Tucson",
+      "Twingo E-Tech",
+      "UX",
+      "Urus",
+      "V-Class",
+      "Vanquish",
+      "Vantage",
+      "Vitara/Grand Vitara",
+      "Vito",
+      "Wey 03",
+      "Wey 05",
+      "Wrangler",
+      "X",
+      "X1",
+      "X2",
+      "X3",
+      "X5",
+      "X55",
+      "X6",
+      "X7",
+      "XC40",
+      "XC60",
+      "XC90",
+      "XCeed",
+      "XM",
+      "Yaris",
+      "Yaris Cross",
+      "Ypsilon",
+      "ZR-V",
+      "ZS",
+      "bZ4X",
+      "e-tron GT",
+      "e:Ny1",
+      "i10",
+      "i20",
+      "i30",
+      "i4",
+      "i5",
+      "i7",
+      "iX",
+      "iX1",
+      "iX2",
+      "iX3",
+      "iX5"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 26932,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 31924,
+  "normalization": [
+    {
+      "Country": "Europe",
+      "Brand": "Abarth",
+      "Model": "500",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 869.5876288659794,
+      "scale": 614.6879014915196
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Abarth",
+      "Model": "600",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 63.27272727272727,
+      "scale": 41.12006240811701
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Alfa Romeo",
+      "Model": "Giulia",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 779.0081300813008,
+      "scale": 628.2093122665991
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Alfa Romeo",
+      "Model": "Junior",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 2310.24,
+      "scale": 991.3690666279407
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Alfa Romeo",
+      "Model": "Stelvio",
+      "observations": 113,
+      "first_month": "2017-03",
+      "last_month": "2026-07",
+      "center": 1387.0973451327434,
+      "scale": 738.1311790311842
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Alfa Romeo",
+      "Model": "Tonale",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 1793.450980392157,
+      "scale": 868.5937307050957
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Alpine",
+      "Model": "A290",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 646.6521739130435,
+      "scale": 385.2586953449054
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Aston Martin",
+      "Model": "DB12",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 61.08571428571429,
+      "scale": 28.888559309673393
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Aston Martin",
+      "Model": "DBX",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 63.6,
+      "scale": 21.529117902736907
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Aston Martin",
+      "Model": "Vanquish",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 21.35,
+      "scale": 16.282302643239507
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Aston Martin",
+      "Model": "Vantage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 50.43307086614173,
+      "scale": 30.364015536440554
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "A3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10639.700787401574,
+      "scale": 3469.631445690443
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "A5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10112.496062992126,
+      "scale": 5170.255905455878
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "A6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5522.055118110236,
+      "scale": 2093.582241479365
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "A6 e-tron",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 2722.5263157894738,
+      "scale": 977.4413622650447
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "A8",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 322.37007874015745,
+      "scale": 162.83860155588357
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5129.685039370079,
+      "scale": 2104.194264280145
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q3 Sportback",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 3881.4556962025317,
+      "scale": 1008.7903855721097
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q4",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 3405.633333333333,
+      "scale": 1058.206412492957
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q4 Sportback",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1488.8666666666666,
+      "scale": 550.0705397031861
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4359.4094488188975,
+      "scale": 1549.123074870302
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q5 Sportback",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 2100.1,
+      "scale": 551.7064586659958
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q6 Sportback e-tron",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 854.4,
+      "scale": 564.7776347949473
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q6 e-tron",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 2723.935483870968,
+      "scale": 1673.027235282186
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q7",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1590.9448818897638,
+      "scale": 737.4779205882968
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "Q8",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 1351.8453608247423,
+      "scale": 451.67304003439784
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Audi",
+      "Model": "e-tron GT",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 357.25,
+      "scale": 214.28691138885952
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "1 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8622.984251968504,
+      "scale": 2946.5321897394815
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "2 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2584.566929133858,
+      "scale": 901.0749705869432
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "2 Series Active Tourer",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3841.740157480315,
+      "scale": 2504.797778550157
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "3 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8722.71653543307,
+      "scale": 2927.075435346235
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "4 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3257.031496062992,
+      "scale": 1704.0552780717526
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "5 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5719.976377952756,
+      "scale": 2401.6008119386693
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "7 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 600.2677165354331,
+      "scale": 305.94947437640616
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X1",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8488.590551181102,
+      "scale": 2295.240139514393
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X2",
+      "observations": 105,
+      "first_month": "2017-11",
+      "last_month": "2026-07",
+      "center": 2486.8571428571427,
+      "scale": 1045.5574940777808
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5359.9842519685035,
+      "scale": 1605.3978714848183
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3466.1338582677167,
+      "scale": 959.3897565396825
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 813.1496062992126,
+      "scale": 232.19667531612683
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "X7",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 566.0227272727273,
+      "scale": 180.24066227327836
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "XM",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 285.54545454545456,
+      "scale": 106.20294618148296
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "i4",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 3130.7833333333333,
+      "scale": 1606.7663354004299
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "i5",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 1773.8918918918919,
+      "scale": 709.8096668987603
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "i7",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 206.36,
+      "scale": 78.95220408006689
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "iX",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1433.25,
+      "scale": 746.7558458106105
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "iX1",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 4668.311111111111,
+      "scale": 1797.1538362297294
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "iX2",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 1592.6363636363637,
+      "scale": 712.2111728082177
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "iX3",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 1801.357142857143,
+      "scale": 1549.7110893791628
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BMW",
+      "Model": "iX5",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 7.7368421052631575,
+      "scale": 8.103391190684462
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Atto 2",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 2658.3333333333335,
+      "scale": 3673.905947207948
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Atto 3",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1102.872340425532,
+      "scale": 557.6754810128724
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Dolphin",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 784.3684210526316,
+      "scale": 469.6573443897475
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Dolphin Surf",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 2859.266666666667,
+      "scale": 1323.516234538485
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Han",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 47.888888888888886,
+      "scale": 57.13328799920813
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Seal",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 1267.9166666666667,
+      "scale": 892.0110461725433
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Seal 5 DM-i",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 90.0,
+      "scale": 55.8028237886103
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Seal U",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 5120.206896551724,
+      "scale": 3557.2639430590566
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Sealion 7",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1925.6363636363637,
+      "scale": 1229.2530738211212
+    },
+    {
+      "Country": "Europe",
+      "Brand": "BYD",
+      "Model": "Tang",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 110.58333333333333,
+      "scale": 77.64778484306098
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Beijing",
+      "Model": "BJ30",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 67.05555555555556,
+      "scale": 88.64466000570471
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Beijing",
+      "Model": "BJ60",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 7.823529411764706,
+      "scale": 5.823726064642942
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Beijing",
+      "Model": "X55",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 164.875,
+      "scale": 163.27975146399578
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Beijing",
+      "Model": "X7",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 92.19354838709677,
+      "scale": 77.34799518844693
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Bentley",
+      "Model": "Bentayga",
+      "observations": 125,
+      "first_month": "2016-03",
+      "last_month": "2026-07",
+      "center": 95.376,
+      "scale": 40.34519388007529
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Bentley",
+      "Model": "Continental",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 123.96062992125984,
+      "scale": 56.49025094476633
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Bentley",
+      "Model": "Flying Spur",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 37.74803149606299,
+      "scale": 23.63709652177332
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cadillac",
+      "Model": "Lyriq",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 28.225806451612904,
+      "scale": 43.720316049291085
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Chery",
+      "Model": "Tiggo 7",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 1128.5,
+      "scale": 667.1977241564913
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Chery",
+      "Model": "Tiggo 8",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 1278.9285714285713,
+      "scale": 933.4565471162367
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Chrysler",
+      "Model": "Pacifica",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 8.0,
+      "scale": 3.9183040373806164
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "Berlingo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2284.6141732283463,
+      "scale": 1154.9961393864537
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13929.992125984252,
+      "scale": 3868.5883966580623
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C3 Aircross",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 6217.861111111111,
+      "scale": 2772.2860708630483
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C4",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 4876.805970149254,
+      "scale": 1352.8100992357838
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C4 X",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 640.3265306122449,
+      "scale": 411.6334171651116
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C5 Aircross",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 4293.656565656565,
+      "scale": 2035.8782640798252
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "C5 X",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 476.5344827586207,
+      "scale": 478.45522066778466
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "Jumper",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 889.4757281553398,
+      "scale": 442.1995577332401
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Citroen",
+      "Model": "Jumpy",
+      "observations": 121,
+      "first_month": "2016-07",
+      "last_month": "2026-07",
+      "center": 704.0826446280992,
+      "scale": 350.76594029122583
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Ateca",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 887.5666666666667,
+      "scale": 512.1822000075981
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Born",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 3278.3859649122805,
+      "scale": 1192.0553969762957
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Formentor",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 6780.914285714286,
+      "scale": 2297.4976655753144
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Leon",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 3715.233333333333,
+      "scale": 1931.9034670542853
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Raval",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 476.53846153846155,
+      "scale": 1106.4607676217004
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Tavascan",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 1569.7631578947369,
+      "scale": 1483.2498108960788
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Cupra",
+      "Model": "Terramar",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 4027.375,
+      "scale": 1971.7330293636608
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Fengon 5",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 16.616666666666667,
+      "scale": 9.656205525485996
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Fengon 580",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 20.75,
+      "scale": 19.001980104240115
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Fengon 600",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 32.08,
+      "scale": 55.248088100872145
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Fengon E5",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 129.04,
+      "scale": 98.48087298811572
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Forthing 3",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 10.105263157894736,
+      "scale": 9.06184932425305
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Forthing 4",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 74.52941176470588,
+      "scale": 91.26690013589129
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Forthing 5",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 144.33333333333334,
+      "scale": 174.51155749426715
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DFSK",
+      "Model": "Forthing 9",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 10.0,
+      "scale": 11.260540398536357
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DR Motor",
+      "Model": "DR 1.0",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 55.17948717948718,
+      "scale": 39.24439491437935
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DR Motor",
+      "Model": "DR 4.0/EVO 4",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 285.34343434343435,
+      "scale": 419.808176275585
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DR Motor",
+      "Model": "DR 5.0",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 608.875,
+      "scale": 409.548445783657
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DS",
+      "Model": "3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1426.291338582677,
+      "scale": 1028.8471256903363
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DS",
+      "Model": "4",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 1047.1754385964912,
+      "scale": 460.09708930134235
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DS",
+      "Model": "7",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 1604.9351851851852,
+      "scale": 675.2647917183574
+    },
+    {
+      "Country": "Europe",
+      "Brand": "DS",
+      "Model": "N°8",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 153.0,
+      "scale": 115.62918399019118
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Bigster",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 6205.421052631579,
+      "scale": 3027.779559318978
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Duster",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13431.236220472441,
+      "scale": 3206.068882884434
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Jogger",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 5907.285714285715,
+      "scale": 2122.87370185533
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Logan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2769.5905511811025,
+      "scale": 1900.0750952268086
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Sandero",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 17631.84251968504,
+      "scale": 4046.427388245015
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dacia",
+      "Model": "Spring",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 3424.9666666666667,
+      "scale": 1872.7348067877297
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dodge",
+      "Model": "Charger",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 10.631067961165048,
+      "scale": 4.083436151921257
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dodge",
+      "Model": "Durango",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 31.941747572815533,
+      "scale": 22.707469217261853
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dongfeng",
+      "Model": "Nammi 01",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 209.86363636363637,
+      "scale": 230.71153434402302
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Dongfeng",
+      "Model": "Shine",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 44.17857142857143,
+      "scale": 66.27764335290642
+    },
+    {
+      "Country": "Europe",
+      "Brand": "EVO",
+      "Model": "Cuatro",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 48.421052631578945,
+      "scale": 88.55247808027569
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ebro",
+      "Model": "S400",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 700.2142857142857,
+      "scale": 385.29830003169764
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ebro",
+      "Model": "S700",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 635.4,
+      "scale": 317.4228940228583
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ebro",
+      "Model": "S800",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 259.94736842105266,
+      "scale": 118.2119337930238
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ferrari",
+      "Model": "12Cilindri",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 69.52,
+      "scale": 45.20525364627457
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ferrari",
+      "Model": "296",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 108.61818181818182,
+      "scale": 56.35649188925491
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ferrari",
+      "Model": "Purosangue",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 76.16279069767442,
+      "scale": 44.28250567564159
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ferrari",
+      "Model": "Roma",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 77.02985074626865,
+      "scale": 29.395353549642188
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ferrari",
+      "Model": "SF90",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 52.80597014925373,
+      "scale": 21.679927955827285
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "500",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12014.322834645669,
+      "scale": 5840.555402139343
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "600",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 3011.5405405405404,
+      "scale": 1973.8795695108354
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "Doblo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 296.31496062992125,
+      "scale": 279.2392744312297
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "Ducato",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3041.181102362205,
+      "scale": 1823.9626878065956
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "Grande Panda",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 3338.095238095238,
+      "scale": 2699.014442715678
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "Panda",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12395.259842519685,
+      "scale": 3981.2566913925125
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Fiat",
+      "Model": "Scudo",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 131.18867924528303,
+      "scale": 233.98364000672362
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Firefly",
+      "Model": "Firefly",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 24.57894736842105,
+      "scale": 22.187849031181123
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Bronco",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 65.66666666666667,
+      "scale": 34.4747143420218
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Capri",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 1181.12,
+      "scale": 666.6525797256515
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Escape",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10103.047244094489,
+      "scale": 3393.365607951206
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Explorer",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 1359.2837837837837,
+      "scale": 1700.136591783942
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "F-150",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 17.157894736842106,
+      "scale": 19.054302775161183
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Mustang",
+      "observations": 126,
+      "first_month": "2016-02",
+      "last_month": "2026-07",
+      "center": 605.0873015873016,
+      "scale": 479.22763725393145
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Mustang Mach-E",
+      "observations": 62,
+      "first_month": "2021-06",
+      "last_month": "2026-07",
+      "center": 1470.9516129032259,
+      "scale": 957.0474479733602
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Puma",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 11874.253164556962,
+      "scale": 3466.0319345535963
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Transit",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 828.8346456692914,
+      "scale": 423.1917805362265
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Transit Courier",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 1460.2121212121212,
+      "scale": 613.9719020536709
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ford",
+      "Model": "Transit Custom",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1652.9166666666667,
+      "scale": 1188.1919144181377
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Haval Chitu",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 17.157894736842106,
+      "scale": 19.865135123124645
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Haval H6",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 33.1578947368421,
+      "scale": 41.0351942051438
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Ora 03",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 265.3333333333333,
+      "scale": 386.4942435860609
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Ora 07",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 6.074074074074074,
+      "scale": 6.765851488434165
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Wey 03",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 21.555555555555557,
+      "scale": 16.442793169351365
+    },
+    {
+      "Country": "Europe",
+      "Brand": "GWM",
+      "Model": "Wey 05",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 39.627906976744185,
+      "scale": 47.30496977751705
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Geely",
+      "Model": "Binyue",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 74.32142857142857,
+      "scale": 55.094871883009894
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Geely",
+      "Model": "Cityray",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 102.10526315789474,
+      "scale": 54.72847801473769
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Geely",
+      "Model": "EX5",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 284.57894736842104,
+      "scale": 355.53708440052003
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Genesis",
+      "Model": "G80",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 12.883333333333333,
+      "scale": 10.098957006110892
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Genesis",
+      "Model": "GV60",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 92.03703703703704,
+      "scale": 63.433889560663374
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Genesis",
+      "Model": "GV70",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 87.48333333333333,
+      "scale": 48.94352041618681
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1833.6850393700788,
+      "scale": 1097.5076725017757
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1859.8740157480315,
+      "scale": 1520.5847459994277
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "Fit",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2182.314960629921,
+      "scale": 1252.6608304479466
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "HR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1782.755905511811,
+      "scale": 838.3120689166776
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "ZR-V",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 692.3947368421053,
+      "scale": 386.7220884117613
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Honda",
+      "Model": "e:Ny1",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 370.81081081081084,
+      "scale": 459.626720319662
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hongqi",
+      "Model": "EH7",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 5.555555555555555,
+      "scale": 8.536178563777671
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hongqi",
+      "Model": "EHS7",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 30.157894736842106,
+      "scale": 30.92429239357323
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Bayon",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 2469.95,
+      "scale": 710.0789007895362
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Inster",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 2807.75,
+      "scale": 946.2037408010281
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 5",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 2410.85,
+      "scale": 836.4008652095591
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 6",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 689.9772727272727,
+      "scale": 355.1216889993998
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Ioniq 9",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 389.14285714285717,
+      "scale": 129.1686416892093
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Kona",
+      "observations": 106,
+      "first_month": "2017-10",
+      "last_month": "2026-07",
+      "center": 8204.094339622641,
+      "scale": 2366.0508674678827
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Santa Fe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 924.5354330708661,
+      "scale": 334.35096891381875
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Staria",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 198.75590551181102,
+      "scale": 160.90796520073758
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "Tucson",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12010.370078740158,
+      "scale": 2552.8474264837228
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "i10",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5581.755905511811,
+      "scale": 1951.8801676122284
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "i20",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6395.291338582677,
+      "scale": 1700.5618882761012
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Hyundai",
+      "Model": "i30",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4903.6614173228345,
+      "scale": 1678.693514944736
+    },
+    {
+      "Country": "Europe",
+      "Brand": "ICH-X",
+      "Model": "K2",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 9.527777777777779,
+      "scale": 6.444073027980869
+    },
+    {
+      "Country": "Europe",
+      "Brand": "ICH-X",
+      "Model": "K3",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 83.83333333333333,
+      "scale": 85.21506680860065
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Ineos",
+      "Model": "Grenadier",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 121.52272727272727,
+      "scale": 91.6997982019487
+    },
+    {
+      "Country": "Europe",
+      "Brand": "JAC",
+      "Model": "E-JS4",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 18.25,
+      "scale": 21.91956270770223
+    },
+    {
+      "Country": "Europe",
+      "Brand": "JAC",
+      "Model": "E30X",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 42.857142857142854,
+      "scale": 33.96755677641868
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Jaecoo",
+      "Model": "7",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 4336.0,
+      "scale": 3038.3727373122833
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Jeep",
+      "Model": "Avenger",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 6580.121951219512,
+      "scale": 2128.856293336305
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Jeep",
+      "Model": "Compass",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3203.771653543307,
+      "scale": 2131.777548393135
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Jeep",
+      "Model": "Grand Cherokee",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 376.01574803149606,
+      "scale": 391.7598711597547
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Jeep",
+      "Model": "Wrangler",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 464.81102362204723,
+      "scale": 256.9885845734041
+    },
+    {
+      "Country": "Europe",
+      "Brand": "KG Mobility",
+      "Model": "Actyon",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 166.9,
+      "scale": 102.29976494859555
+    },
+    {
+      "Country": "Europe",
+      "Brand": "KG Mobility",
+      "Model": "Korando",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 499.9685039370079,
+      "scale": 264.37273672525555
+    },
+    {
+      "Country": "Europe",
+      "Brand": "KG Mobility",
+      "Model": "Rexton",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 167.07874015748033,
+      "scale": 79.31065754037874
+    },
+    {
+      "Country": "Europe",
+      "Brand": "KG Mobility",
+      "Model": "Tivoli",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 603.4724409448819,
+      "scale": 263.87374613182294
+    },
+    {
+      "Country": "Europe",
+      "Brand": "KG Mobility",
+      "Model": "Torres",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 386.1081081081081,
+      "scale": 147.94180253014144
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "EV3",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 4695.090909090909,
+      "scale": 1533.4563933097606
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "EV6",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 2011.6949152542372,
+      "scale": 881.0969291875932
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "EV9",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 816.5588235294117,
+      "scale": 197.26901313487386
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "K4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5583.0157480314965,
+      "scale": 1537.0278064976533
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "Niro",
+      "observations": 122,
+      "first_month": "2016-06",
+      "last_month": "2026-07",
+      "center": 4934.295081967213,
+      "scale": 2082.79103033047
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "Picanto",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5209.4488188976375,
+      "scale": 1266.8096760470999
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "Sorento",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1034.2992125984251,
+      "scale": 408.13580323795895
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "Sportage",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10642.157480314962,
+      "scale": 3325.127312449049
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "Stonic",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 4665.6355140186915,
+      "scale": 1077.9286388580501
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Kia",
+      "Model": "XCeed",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 3245.609756097561,
+      "scale": 1176.3669622358882
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lada",
+      "Model": "Niva",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 104.49606299212599,
+      "scale": 86.9487691461568
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lamborghini",
+      "Model": "Revuelto",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 36.48275862068966,
+      "scale": 14.217718930102995
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lamborghini",
+      "Model": "Temerario",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 39.46153846153846,
+      "scale": 39.38924762681428
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lamborghini",
+      "Model": "Urus",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 133.010101010101,
+      "scale": 72.41820516846977
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lancia",
+      "Model": "Ypsilon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3617.763779527559,
+      "scale": 1791.3674960802387
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Defender",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 1680.2151898734178,
+      "scale": 890.6549810242468
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Discovery",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 684.4173228346457,
+      "scale": 601.5304087541227
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Discovery Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1862.5354330708662,
+      "scale": 1593.835694424273
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Range Rover",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 969.0708661417323,
+      "scale": 450.992919986516
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Evoque",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2995.771653543307,
+      "scale": 1771.442821317452
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Sport",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1932.015748031496,
+      "scale": 872.8325934830048
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Velar",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 1142.7027027027027,
+      "scale": 735.0505307929932
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Leapmotor",
+      "Model": "C10",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1014.6363636363636,
+      "scale": 755.8127788780503
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Leapmotor",
+      "Model": "T03",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 1389.4878048780488,
+      "scale": 2024.6599246566134
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "ES",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 354.78494623655916,
+      "scale": 142.4454622755364
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "LBX",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 2015.4516129032259,
+      "scale": 709.0750600784459
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "LM",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 39.17142857142857,
+      "scale": 29.79190067814075
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "NX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1576.4803149606298,
+      "scale": 544.672493274509
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "RX",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 623.5196850393701,
+      "scale": 216.50164008997407
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "RZ",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 342.075,
+      "scale": 169.69805018155745
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lexus",
+      "Model": "UX",
+      "observations": 87,
+      "first_month": "2019-05",
+      "last_month": "2026-07",
+      "center": 1240.103448275862,
+      "scale": 528.4523127850634
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lotus",
+      "Model": "Eletre",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 128.16666666666666,
+      "scale": 93.16014187274101
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lotus",
+      "Model": "Emeya",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 34.111111111111114,
+      "scale": 18.594468669093335
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lotus",
+      "Model": "Emira",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 75.31111111111112,
+      "scale": 55.09998753457652
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lynk & Co",
+      "Model": "01",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1195.3666666666666,
+      "scale": 1043.7889764458887
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lynk & Co",
+      "Model": "02",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 124.0,
+      "scale": 79.27145987003082
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Lynk & Co",
+      "Model": "08",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 374.7857142857143,
+      "scale": 192.499199759666
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "Cyberster",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 129.12,
+      "scale": 56.542495230938094
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "IM5",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 221.53846153846155,
+      "scale": 193.37135320820695
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "IM6",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 162.53846153846155,
+      "scale": 122.64111095619089
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "MG3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1336.8267716535433,
+      "scale": 2232.783855046701
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "MG4",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 3465.4166666666665,
+      "scale": 2335.543793174293
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "S5",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 1365.4117647058824,
+      "scale": 706.1650030839176
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MG",
+      "Model": "ZS",
+      "observations": 100,
+      "first_month": "2018-04",
+      "last_month": "2026-07",
+      "center": 4908.24,
+      "scale": 4170.132556784356
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MINI",
+      "Model": "Aceman",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 1719.68,
+      "scale": 854.0513614930379
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MINI",
+      "Model": "Cooper",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9876.92125984252,
+      "scale": 3059.432450894247
+    },
+    {
+      "Country": "Europe",
+      "Brand": "MINI",
+      "Model": "Countryman",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4070.818897637795,
+      "scale": 1253.070809662065
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maserati",
+      "Model": "GranCabrio",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 9.620689655172415,
+      "scale": 5.766723900402695
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maserati",
+      "Model": "GranTurismo",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 22.30952380952381,
+      "scale": 14.059197133446043
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maserati",
+      "Model": "Grecale",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 336.08,
+      "scale": 155.6550724000988
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maserati",
+      "Model": "MC20",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 16.88135593220339,
+      "scale": 10.624770199106322
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maxus",
+      "Model": "Euniq 6",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 48.43636363636364,
+      "scale": 53.69964322515374
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Maxus",
+      "Model": "Mifa 9",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 9.431818181818182,
+      "scale": 10.86032625238031
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "CX-30",
+      "observations": 83,
+      "first_month": "2019-09",
+      "last_month": "2026-07",
+      "center": 3666.4939759036147,
+      "scale": 1223.5265439241543
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "CX-5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3563.3228346456694,
+      "scale": 1763.2478368145537
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "CX-60",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 1756.6153846153845,
+      "scale": 817.0604856114433
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "CX-80",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 665.8695652173913,
+      "scale": 222.7079394180601
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "MX-5 Miata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 765.5354330708661,
+      "scale": 511.544451654438
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "Mazda2",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2309.3858267716537,
+      "scale": 966.0869191001987
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "Mazda3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2415.503937007874,
+      "scale": 1143.113220034178
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mazda",
+      "Model": "Mazda6e",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 886.7222222222222,
+      "scale": 744.7630629763272
+    },
+    {
+      "Country": "Europe",
+      "Brand": "McLaren",
+      "Model": "750S",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 16.05,
+      "scale": 10.635948663025104
+    },
+    {
+      "Country": "Europe",
+      "Brand": "McLaren",
+      "Model": "Artura",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 15.903846153846153,
+      "scale": 12.385754720185464
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "A-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9945.188976377953,
+      "scale": 4534.360838861687
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "AMG GT",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 240.91338582677164,
+      "scale": 119.33510954878375
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "AMG GT 4 Door",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 48.36842105263158,
+      "scale": 27.35505512557881
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "B-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3271.3307086614172,
+      "scale": 2188.2946259873174
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "C-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8391.787401574804,
+      "scale": 4574.340305439734
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5157.653543307087,
+      "scale": 1567.363534157784
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "CLE",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 1347.6486486486488,
+      "scale": 654.8754860092511
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "Citan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 471.9448818897638,
+      "scale": 245.58118707431146
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "E-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6073.8740157480315,
+      "scale": 3151.9503129133636
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQA",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 2882.96875,
+      "scale": 1003.7180993117335
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQB",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 1857.1864406779662,
+      "scale": 1064.0029935844454
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 960.2641509433962,
+      "scale": 495.5544026562034
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE SUV",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 815.6,
+      "scale": 367.8961539411407
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 292.93333333333334,
+      "scale": 204.85246196948043
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQS SUV",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 191.5,
+      "scale": 115.0820400038442
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQT",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 69.52777777777777,
+      "scale": 58.819091416009506
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQV",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 242.625,
+      "scale": 82.24729452374258
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "G-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 692.0944881889764,
+      "scale": 270.0450186221584
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5493.55905511811,
+      "scale": 1623.8924991219255
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLB",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 2609.671232876712,
+      "scale": 914.4848482202073
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8145.5511811023625,
+      "scale": 2398.594326604904
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLE",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3297.0866141732286,
+      "scale": 947.0823078081334
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 388.88188976377955,
+      "scale": 131.7574627540469
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "S-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 847.5905511811023,
+      "scale": 353.86354862969586
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "SL",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 131.13385826771653,
+      "scale": 133.59330609973838
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "Sprinter",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 865.6929133858267,
+      "scale": 299.64906412181136
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "V-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2680.2913385826773,
+      "scale": 604.5278952357506
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mercedes-Benz",
+      "Model": "Vito",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 1371.3035714285713,
+      "scale": 363.1913809032463
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mitsubishi",
+      "Model": "ASX",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 984.0487804878048,
+      "scale": 547.9190339040844
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mitsubishi",
+      "Model": "Colt",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 938.9705882352941,
+      "scale": 725.6669187940444
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mitsubishi",
+      "Model": "Eclipse Cross",
+      "observations": 105,
+      "first_month": "2017-11",
+      "last_month": "2026-07",
+      "center": 1271.7809523809524,
+      "scale": 968.2298808884145
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Mitsubishi",
+      "Model": "Outlander",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 634.0,
+      "scale": 255.17450460129305
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nio",
+      "Model": "EL6",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 32.97142857142857,
+      "scale": 27.38655210692045
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nio",
+      "Model": "EL8",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 33.016666666666666,
+      "scale": 34.66326577982249
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nio",
+      "Model": "ET5",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 36.34090909090909,
+      "scale": 39.71679450073679
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Ariya",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 997.1509433962265,
+      "scale": 557.5245668266393
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Interstar",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 536.5725806451613,
+      "scale": 311.2082813597039
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Juke",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6040.291338582677,
+      "scale": 2801.405182591916
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Leaf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1840.267716535433,
+      "scale": 1314.7156806545534
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Primastar",
+      "observations": 114,
+      "first_month": "2017-02",
+      "last_month": "2026-07",
+      "center": 166.9561403508772,
+      "scale": 113.48080131421187
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Qashqai",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14184.354330708662,
+      "scale": 6263.329394066794
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Rogue",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2737.433070866142,
+      "scale": 1997.5410375094916
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Nissan",
+      "Model": "Townstar",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 363.8181818181818,
+      "scale": 115.06812135825741
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Omoda",
+      "Model": "5",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 2682.8947368421054,
+      "scale": 2424.2867927050456
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Omoda",
+      "Model": "9",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1569.25,
+      "scale": 762.8670198492622
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Astra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8991.094488188977,
+      "scale": 6449.604199787389
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Combo",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 784.8080808080808,
+      "scale": 441.68725540034893
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Corsa",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 16458.220472440946,
+      "scale": 5360.616470590744
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Frontera",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 5991.027027027027,
+      "scale": 2818.649558158941
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Grandland",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 4584.675675675676,
+      "scale": 2216.157822678038
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Opel/Vauxhall",
+      "Model": "Mokka",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7878.858267716535,
+      "scale": 4503.750128568748
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "2008",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14050.338582677165,
+      "scale": 3320.9398694787333
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "208",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 17615.267716535433,
+      "scale": 4159.691875199497
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "3008",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11008.566929133858,
+      "scale": 4131.14128109381
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "308",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9192.299212598426,
+      "scale": 4330.569758287751
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "408",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 1419.0408163265306,
+      "scale": 602.606118120928
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "5008",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4436.566929133858,
+      "scale": 1792.5552974969628
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "Boxer",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 242.36893203883494,
+      "scale": 100.71188006426783
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Peugeot",
+      "Model": "Expert",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 620.4173228346457,
+      "scale": 347.61799901783434
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Polestar",
+      "Model": "2",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 1906.162162162162,
+      "scale": 1062.4523424376891
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Polestar",
+      "Model": "3",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 358.4074074074074,
+      "scale": 234.50491441024033
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Polestar",
+      "Model": "4",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 1710.2962962962963,
+      "scale": 991.5426982035945
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "718",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 535.2125984251968,
+      "scale": 255.7160533079681
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "911",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1551.1259842519685,
+      "scale": 590.1710084530409
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "Cayenne",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1642.9527559055118,
+      "scale": 857.3463243479353
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "Macan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1939.015748031496,
+      "scale": 761.9342943157088
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "Panamera",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 514.5511811023622,
+      "scale": 258.60678397901245
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Porsche",
+      "Model": "Taycan",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 1149.8684210526317,
+      "scale": 671.9341744744206
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "4",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 1706.5,
+      "scale": 1085.6527596484243
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "5",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 5712.7307692307695,
+      "scale": 3155.2881401365835
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Arkana",
+      "observations": 62,
+      "first_month": "2021-06",
+      "last_month": "2026-07",
+      "center": 4406.758064516129,
+      "scale": 2519.858796422768
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Austral",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6523.133858267716,
+      "scale": 3247.1009167587194
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Captur",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14511.700787401574,
+      "scale": 4774.814615932489
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Clio",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 20749.51968503937,
+      "scale": 7270.358360466592
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Espace",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1060.4881889763778,
+      "scale": 805.0587864372599
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Kangoo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1278.8976377952756,
+      "scale": 595.643058217935
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Master",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 157.2621359223301,
+      "scale": 64.84406940599995
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Megane E-Tech",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7501.472440944882,
+      "scale": 4743.132014692206
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Rafale",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 1437.5882352941176,
+      "scale": 899.5018185331356
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Scenic E-Tech",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4076.165354330709,
+      "scale": 3271.0078570388296
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Symbioz",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 5169.807692307692,
+      "scale": 2561.2301661389547
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Trafic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1306.4409448818897,
+      "scale": 631.1694778681101
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Renault",
+      "Model": "Twingo E-Tech",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4597.5511811023625,
+      "scale": 2900.7919406958713
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Rolls-Royce",
+      "Model": "Cullinan",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 36.204301075268816,
+      "scale": 17.119209366827405
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Rolls-Royce",
+      "Model": "Ghost",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12.551181102362206,
+      "scale": 7.345890212804796
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Rolls-Royce",
+      "Model": "Phantom",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7.125984251968504,
+      "scale": 5.834639309640007
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Rolls-Royce",
+      "Model": "Spectre",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 20.94736842105263,
+      "scale": 14.010524211159355
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Seat",
+      "Model": "Arona",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 6417.0373831775705,
+      "scale": 2373.3718812926268
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Seat",
+      "Model": "Ibiza",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6991.937007874016,
+      "scale": 2583.2673589454143
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Seat",
+      "Model": "Leon",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7560.566929133858,
+      "scale": 4331.177565469313
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Elroq",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 7694.952380952381,
+      "scale": 3956.5794412993046
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Enyaq",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 5395.6349206349205,
+      "scale": 1600.3191838473294
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Enyaq Coupe",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 911.3921568627451,
+      "scale": 473.53074662691205
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Fabia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10346.629921259842,
+      "scale": 3596.3377322581414
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Kamiq",
+      "observations": 84,
+      "first_month": "2019-08",
+      "last_month": "2026-07",
+      "center": 7114.726190476191,
+      "scale": 2087.4911762433576
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Karoq",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6741.141732283465,
+      "scale": 1853.3567092312242
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Kodiaq",
+      "observations": 118,
+      "first_month": "2016-10",
+      "last_month": "2026-07",
+      "center": 6442.449152542373,
+      "scale": 2381.0610098266397
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Octavia",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15236.314960629921,
+      "scale": 4149.459462366315
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Scala",
+      "observations": 87,
+      "first_month": "2019-05",
+      "last_month": "2026-07",
+      "center": 3688.022988505747,
+      "scale": 939.8068567785364
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Skoda",
+      "Model": "Superb",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5114.818897637795,
+      "scale": 1501.8144222580001
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Smart",
+      "Model": "#1",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 678.1875,
+      "scale": 520.8307832172267
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Smart",
+      "Model": "#3",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 343.8529411764706,
+      "scale": 150.57324499659902
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Smart",
+      "Model": "#5",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 548.1111111111111,
+      "scale": 442.8002125585582
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Sportequipe",
+      "Model": "6 GT",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 79.97435897435898,
+      "scale": 81.64284120361577
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Sportequipe",
+      "Model": "7 GTW",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 44.85,
+      "scale": 29.687540952189114
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Sportequipe",
+      "Model": "8",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 17.484848484848484,
+      "scale": 24.49475282826955
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Subaru",
+      "Model": "Crosstrek",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 708.2362204724409,
+      "scale": 298.2661046183509
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Subaru",
+      "Model": "Forester",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 653.4566929133858,
+      "scale": 358.8146248825191
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Subaru",
+      "Model": "Legacy/Outback",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 556.3700787401575,
+      "scale": 233.92532341419852
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Subaru",
+      "Model": "Solterra",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 145.48,
+      "scale": 101.08575407572381
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Suzuki",
+      "Model": "Across",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 171.38571428571427,
+      "scale": 193.82005347591777
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Suzuki",
+      "Model": "S-Cross",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2721.527559055118,
+      "scale": 883.8680015641478
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Suzuki",
+      "Model": "Swift",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4373.582677165355,
+      "scale": 1504.856664633539
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Suzuki",
+      "Model": "Vitara/Grand Vitara",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5094.291338582677,
+      "scale": 1617.0444923370474
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Tesla",
+      "Model": "Model 3",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 8244.20430107527,
+      "scale": 7050.399857598979
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Tesla",
+      "Model": "Model S",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 230.9111111111111,
+      "scale": 339.14674987473757
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Tesla",
+      "Model": "Model X",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 186.48888888888888,
+      "scale": 239.77469775341234
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 14794.266666666666,
+      "scale": 10397.467387096947
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Tiger",
+      "Model": "Six",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 82.11764705882354,
+      "scale": 96.6439291980525
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Aygo X",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7538.0157480314965,
+      "scale": 2105.2588387771743
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "C-HR",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 9255.863247863248,
+      "scale": 2297.279985130375
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 591.625,
+      "scale": 209.6432502369486
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Corolla",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11080.811023622047,
+      "scale": 2287.8882314307602
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Corolla Cross",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2549.7659574468084,
+      "scale": 736.2444444678544
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Highlander",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 268.26666666666665,
+      "scale": 234.07121567067503
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Land Cruiser",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 516.2834645669292,
+      "scale": 332.55274834380566
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Prius",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 542.6692913385826,
+      "scale": 484.1237481997655
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Proace",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 1008.4621848739496,
+      "scale": 558.2516460637338
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Proace City",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 1331.7162162162163,
+      "scale": 766.2103889094435
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6536.763779527559,
+      "scale": 1912.1117667406636
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Yaris",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15364.370078740158,
+      "scale": 3551.613616770006
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "Yaris Cross",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 13885.0,
+      "scale": 3803.894993870981
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Toyota",
+      "Model": "bZ4X",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 1857.4615384615386,
+      "scale": 1158.128225176356
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Caddy",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3624.8897637795276,
+      "scale": 1106.748379156406
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Crafter",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 309.3398058252427,
+      "scale": 163.44177074768348
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Golf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 25307.314960629923,
+      "scale": 11724.131930717325
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "ID. Buzz",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 1391.7254901960785,
+      "scale": 798.312797305031
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "ID.3",
+      "observations": 71,
+      "first_month": "2020-09",
+      "last_month": "2026-07",
+      "center": 5925.197183098591,
+      "scale": 3330.548038531742
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "ID.4",
+      "observations": 68,
+      "first_month": "2020-12",
+      "last_month": "2026-07",
+      "center": 5911.75,
+      "scale": 2114.2111595294623
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "ID.5",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 1375.4259259259259,
+      "scale": 1068.8523897468153
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "ID.7",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 4078.6666666666665,
+      "scale": 2586.121071000719
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Passat",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9375.685039370079,
+      "scale": 4608.7494736641065
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Polo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15875.944881889764,
+      "scale": 7545.723735666187
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "T-Cross",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 9677.886363636364,
+      "scale": 2297.9605434057457
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "T-Roc",
+      "observations": 106,
+      "first_month": "2017-10",
+      "last_month": "2026-07",
+      "center": 15269.528301886792,
+      "scale": 4197.575473947403
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Taigo",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 5828.118644067797,
+      "scale": 2057.3165197647527
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Tayron",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 3747.3488372093025,
+      "scale": 1693.8690194878798
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Tiguan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 16363.645669291338,
+      "scale": 4809.755709984523
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Touareg",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1279.9527559055118,
+      "scale": 487.7729578065944
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volkswagen",
+      "Model": "Touran",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4589.370078740158,
+      "scale": 2999.006501687876
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "C40",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 1146.7413793103449,
+      "scale": 841.219486264189
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "EX30",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 4038.0789473684213,
+      "scale": 2419.5277605563715
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "EX40",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 2888.0,
+      "scale": 1001.0888847903437
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "EX90",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 720.4166666666666,
+      "scale": 447.63649567488505
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "S60/V60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3338.1023622047246,
+      "scale": 1595.127407510422
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "S90/V90",
+      "observations": 122,
+      "first_month": "2016-06",
+      "last_month": "2026-07",
+      "center": 1893.6065573770493,
+      "scale": 1730.7499070699012
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "XC40",
+      "observations": 104,
+      "first_month": "2017-12",
+      "last_month": "2026-07",
+      "center": 7635.923076923077,
+      "scale": 3080.565679215127
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6791.566929133858,
+      "scale": 1735.9106671334907
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Volvo",
+      "Model": "XC90",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2555.763779527559,
+      "scale": 667.9940790919136
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Voyah",
+      "Model": "Courage",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 39.1764705882353,
+      "scale": 22.14887514825088
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Xpeng",
+      "Model": "G6",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 1251.4814814814815,
+      "scale": 902.2957165010623
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Xpeng",
+      "Model": "G9",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 472.4102564102564,
+      "scale": 326.8943052082379
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Xpeng",
+      "Model": "P7",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 29.525,
+      "scale": 23.213470435302032
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Zeekr",
+      "Model": "001",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 80.85714285714286,
+      "scale": 44.72571827230089
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Zeekr",
+      "Model": "007",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 63.1764705882353,
+      "scale": 190.64896215837433
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Zeekr",
+      "Model": "7X",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 465.2352941176471,
+      "scale": 264.1951592699748
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Zeekr",
+      "Model": "X",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 81.09375,
+      "scale": 58.456561783660746
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 16,
+    "epochs": 50,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 50,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 21050,
+  "training_seconds": 894.0745498000033
+}

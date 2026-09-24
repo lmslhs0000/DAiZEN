@@ -1,0 +1,9292 @@
+{
+  "country": "China",
+  "train_end": "2026-07",
+  "seen_series": [
+    [
+      "China",
+      "212",
+      "T01"
+    ],
+    [
+      "China",
+      "AION",
+      "LX"
+    ],
+    [
+      "China",
+      "AION",
+      "RT"
+    ],
+    [
+      "China",
+      "AION",
+      "S"
+    ],
+    [
+      "China",
+      "AION",
+      "UT"
+    ],
+    [
+      "China",
+      "AION",
+      "V"
+    ],
+    [
+      "China",
+      "AION",
+      "Y"
+    ],
+    [
+      "China",
+      "AITO",
+      "M5"
+    ],
+    [
+      "China",
+      "AITO",
+      "M7"
+    ],
+    [
+      "China",
+      "AITO",
+      "M8"
+    ],
+    [
+      "China",
+      "AITO",
+      "M9"
+    ],
+    [
+      "China",
+      "Audi",
+      "A3"
+    ],
+    [
+      "China",
+      "Audi",
+      "A4L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A5L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A6L"
+    ],
+    [
+      "China",
+      "Audi",
+      "A7L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q2L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q3"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q4 e-tron"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q5L"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q6"
+    ],
+    [
+      "China",
+      "Audi",
+      "Q6L e-tron"
+    ],
+    [
+      "China",
+      "Avatr",
+      "06"
+    ],
+    [
+      "China",
+      "Avatr",
+      "07"
+    ],
+    [
+      "China",
+      "Avatr",
+      "11"
+    ],
+    [
+      "China",
+      "Avatr",
+      "12"
+    ],
+    [
+      "China",
+      "BAIC",
+      "X7"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ30"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ40"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ40 REEV"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ60"
+    ],
+    [
+      "China",
+      "BAIC BJ",
+      "BJ60 REEV"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Alpha S"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Alpha T"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "Arcfox Kaola"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "S5"
+    ],
+    [
+      "China",
+      "BAIC BJEV",
+      "T5"
+    ],
+    [
+      "China",
+      "BAW",
+      "Yongshi"
+    ],
+    [
+      "China",
+      "BAW",
+      "Yuanbao"
+    ],
+    [
+      "China",
+      "BMW",
+      "2 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "3 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "5 Series"
+    ],
+    [
+      "China",
+      "BMW",
+      "X1"
+    ],
+    [
+      "China",
+      "BMW",
+      "X3"
+    ],
+    [
+      "China",
+      "BMW",
+      "X5"
+    ],
+    [
+      "China",
+      "BMW",
+      "i3"
+    ],
+    [
+      "China",
+      "BMW",
+      "i5"
+    ],
+    [
+      "China",
+      "BMW",
+      "iX1"
+    ],
+    [
+      "China",
+      "BMW",
+      "iX3"
+    ],
+    [
+      "China",
+      "BYD",
+      "05 EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "06 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "06GT"
+    ],
+    [
+      "China",
+      "BYD",
+      "Atto 3"
+    ],
+    [
+      "China",
+      "BYD",
+      "D1"
+    ],
+    [
+      "China",
+      "BYD",
+      "Destroyer 05"
+    ],
+    [
+      "China",
+      "BYD",
+      "Dolphin"
+    ],
+    [
+      "China",
+      "BYD",
+      "Dolphin Surf"
+    ],
+    [
+      "China",
+      "BYD",
+      "Frigate 07"
+    ],
+    [
+      "China",
+      "BYD",
+      "Han"
+    ],
+    [
+      "China",
+      "BYD",
+      "L DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "L EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin EV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin L"
+    ],
+    [
+      "China",
+      "BYD",
+      "Qin Plus"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 05 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 06"
+    ],
+    [
+      "China",
+      "BYD",
+      "Seal 07 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 05 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 06"
+    ],
+    [
+      "China",
+      "BYD",
+      "Sealion 07 DM-i"
+    ],
+    [
+      "China",
+      "BYD",
+      "Song Pro NEV"
+    ],
+    [
+      "China",
+      "BYD",
+      "Tang"
+    ],
+    [
+      "China",
+      "BYD",
+      "Tang L"
+    ],
+    [
+      "China",
+      "BYD",
+      "UP"
+    ],
+    [
+      "China",
+      "BYD",
+      "Xia"
+    ],
+    [
+      "China",
+      "BYD",
+      "Yi L"
+    ],
+    [
+      "China",
+      "BYD",
+      "e2"
+    ],
+    [
+      "China",
+      "BYD",
+      "e3"
+    ],
+    [
+      "China",
+      "BYD",
+      "e7"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Plus"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Xiangjing"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Yep"
+    ],
+    [
+      "China",
+      "Baojun",
+      "Yunhai"
+    ],
+    [
+      "China",
+      "Bestune",
+      "B70"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Pony"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Yueyi 03"
+    ],
+    [
+      "China",
+      "Bestune",
+      "Yueyi 07"
+    ],
+    [
+      "China",
+      "Buick",
+      "Century"
+    ],
+    [
+      "China",
+      "Buick",
+      "Electra E5"
+    ],
+    [
+      "China",
+      "Buick",
+      "Envision Plus"
+    ],
+    [
+      "China",
+      "Buick",
+      "GL8"
+    ],
+    [
+      "China",
+      "Buick",
+      "GL8 EV"
+    ],
+    [
+      "China",
+      "Buick",
+      "LaCrosse"
+    ],
+    [
+      "China",
+      "Buick",
+      "Regal"
+    ],
+    [
+      "China",
+      "Buick",
+      "Velite 6"
+    ],
+    [
+      "China",
+      "Buick",
+      "Verano"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "CT5"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "CT6"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "GT4"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "Lyriq"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "Optiq"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT4"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT5"
+    ],
+    [
+      "China",
+      "Cadillac",
+      "XT6"
+    ],
+    [
+      "China",
+      "CaoCao",
+      "Cao Cao 60"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS35PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS55PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "CS75PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "Eado"
+    ],
+    [
+      "China",
+      "Changan",
+      "Lumin"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan 520"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan Z6"
+    ],
+    [
+      "China",
+      "Changan",
+      "Oshan Z6 iDD"
+    ],
+    [
+      "China",
+      "Changan",
+      "Plus"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-K"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-T"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-V"
+    ],
+    [
+      "China",
+      "Changan",
+      "UNI-Z"
+    ],
+    [
+      "China",
+      "Changan",
+      "X5 PLUS"
+    ],
+    [
+      "China",
+      "Changan",
+      "X7 PLUS"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A05"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A06"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "A07"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "E07"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "Q05"
+    ],
+    [
+      "China",
+      "Changan Nevo",
+      "Q07"
+    ],
+    [
+      "China",
+      "Chery",
+      "9 C-DM"
+    ],
+    [
+      "China",
+      "Chery",
+      "A8"
+    ],
+    [
+      "China",
+      "Chery",
+      "A9L"
+    ],
+    [
+      "China",
+      "Chery",
+      "Arrizo 5"
+    ],
+    [
+      "China",
+      "Chery",
+      "Arrizo 8"
+    ],
+    [
+      "China",
+      "Chery",
+      "C-DM"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Dasheng"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Traveller"
+    ],
+    [
+      "China",
+      "Chery",
+      "Jetour Ziyouzhe"
+    ],
+    [
+      "China",
+      "Chery",
+      "L7"
+    ],
+    [
+      "China",
+      "Chery",
+      "L9"
+    ],
+    [
+      "China",
+      "Chery",
+      "Little Ant"
+    ],
+    [
+      "China",
+      "Chery",
+      "QQ"
+    ],
+    [
+      "China",
+      "Chery",
+      "QQ Duomi"
+    ],
+    [
+      "China",
+      "Chery",
+      "T1"
+    ],
+    [
+      "China",
+      "Chery",
+      "T8"
+    ],
+    [
+      "China",
+      "Chery",
+      "T9"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 3X"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 5X"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 7"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 8"
+    ],
+    [
+      "China",
+      "Chery",
+      "Tiggo 9"
+    ],
+    [
+      "China",
+      "Chery",
+      "X70"
+    ],
+    [
+      "China",
+      "Chery",
+      "X90"
+    ],
+    [
+      "China",
+      "Chery",
+      "iCAR ClassV23"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Aveo"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Blazer"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Equinox"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Malibu"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Menlo"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Monza"
+    ],
+    [
+      "China",
+      "Chevrolet",
+      "Onix"
+    ],
+    [
+      "China",
+      "Citroen",
+      "C5 Aircross"
+    ],
+    [
+      "China",
+      "Citroen",
+      "C5 X"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Kunlun"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Kunlun EV"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Pro EV"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Shiyue"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Xuandu"
+    ],
+    [
+      "China",
+      "Cowin",
+      "Xuanjie"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengguang 580"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 330"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 380"
+    ],
+    [
+      "China",
+      "DFSK",
+      "Fengon 500"
+    ],
+    [
+      "China",
+      "DFSK",
+      "MINIEV"
+    ],
+    [
+      "China",
+      "DFSK",
+      "S560"
+    ],
+    [
+      "China",
+      "DS",
+      "3 EV"
+    ],
+    [
+      "China",
+      "Deepal",
+      "G318"
+    ],
+    [
+      "China",
+      "Deepal",
+      "L07"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S05"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S07"
+    ],
+    [
+      "China",
+      "Deepal",
+      "S09"
+    ],
+    [
+      "China",
+      "Deepal",
+      "SL03"
+    ],
+    [
+      "China",
+      "Denza",
+      "D9"
+    ],
+    [
+      "China",
+      "Denza",
+      "N7"
+    ],
+    [
+      "China",
+      "Denza",
+      "N9"
+    ],
+    [
+      "China",
+      "Denza",
+      "Z9"
+    ],
+    [
+      "China",
+      "Denza",
+      "Z9 GT"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "HEDMOS 06"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "Nammi 01"
+    ],
+    [
+      "China",
+      "Dongfeng",
+      "Nammi 06"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "E70"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Haohan"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Haoji"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "L7"
+    ],
+    [
+      "China",
+      "Dongfeng Aeolus",
+      "Yixuan"
+    ],
+    [
+      "China",
+      "Dongfeng PSA",
+      "ES600"
+    ],
+    [
+      "China",
+      "Dongfeng ePi",
+      "ep007"
+    ],
+    [
+      "China",
+      "Dongfeng ePi",
+      "ep008"
+    ],
+    [
+      "China",
+      "Exeed",
+      "ES"
+    ],
+    [
+      "China",
+      "Exeed",
+      "ET"
+    ],
+    [
+      "China",
+      "Exeed",
+      "LX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "LX C-DM"
+    ],
+    [
+      "China",
+      "Exeed",
+      "RX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "RX C-DM"
+    ],
+    [
+      "China",
+      "Exeed",
+      "TXL"
+    ],
+    [
+      "China",
+      "Exeed",
+      "VX"
+    ],
+    [
+      "China",
+      "Exeed",
+      "VX C-DM"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Leopard 5"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Leopard 8"
+    ],
+    [
+      "China",
+      "Fangchengbao",
+      "Tai 3"
+    ],
+    [
+      "China",
+      "Ford",
+      "Bronco"
+    ],
+    [
+      "China",
+      "Ford",
+      "EVOS"
+    ],
+    [
+      "China",
+      "Ford",
+      "Edge L"
+    ],
+    [
+      "China",
+      "Ford",
+      "Equator"
+    ],
+    [
+      "China",
+      "Ford",
+      "Escape"
+    ],
+    [
+      "China",
+      "Ford",
+      "Explorer"
+    ],
+    [
+      "China",
+      "Ford",
+      "Mondeo"
+    ],
+    [
+      "China",
+      "Ford",
+      "Territory"
+    ],
+    [
+      "China",
+      "Ford",
+      "Tourneo"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Leiting"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Lingzhi"
+    ],
+    [
+      "China",
+      "Forthing",
+      "Lingzhi EV"
+    ],
+    [
+      "China",
+      "Forthing",
+      "S50EV"
+    ],
+    [
+      "China",
+      "Forthing",
+      "S7"
+    ],
+    [
+      "China",
+      "Forthing",
+      "T5"
+    ],
+    [
+      "China",
+      "Forthing",
+      "T5 Evo"
+    ],
+    [
+      "China",
+      "Forthing",
+      "V9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "E8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "ES9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "Empow"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS3"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS4"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "GS8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "M6"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "M8"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "S7"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "S9"
+    ],
+    [
+      "China",
+      "GAC Trumpchi",
+      "e9"
+    ],
+    [
+      "China",
+      "Geely",
+      "A7 EM"
+    ],
+    [
+      "China",
+      "Geely",
+      "Binrui"
+    ],
+    [
+      "China",
+      "Geely",
+      "Binyue"
+    ],
+    [
+      "China",
+      "Geely",
+      "Boyue"
+    ],
+    [
+      "China",
+      "Geely",
+      "Boyue L"
+    ],
+    [
+      "China",
+      "Geely",
+      "E8"
+    ],
+    [
+      "China",
+      "Geely",
+      "EX2"
+    ],
+    [
+      "China",
+      "Geely",
+      "EX5"
+    ],
+    [
+      "China",
+      "Geely",
+      "Emgrand"
+    ],
+    [
+      "China",
+      "Geely",
+      "Galaxy Starshine 8"
+    ],
+    [
+      "China",
+      "Geely",
+      "Galaxy Starship 7"
+    ],
+    [
+      "China",
+      "Geely",
+      "Haoyue L"
+    ],
+    [
+      "China",
+      "Geely",
+      "ICON"
+    ],
+    [
+      "China",
+      "Geely",
+      "L6"
+    ],
+    [
+      "China",
+      "Geely",
+      "L7"
+    ],
+    [
+      "China",
+      "Geely",
+      "Monjaro"
+    ],
+    [
+      "China",
+      "Geely",
+      "Panda"
+    ],
+    [
+      "China",
+      "Geely",
+      "Preface"
+    ],
+    [
+      "China",
+      "Geometry",
+      "A"
+    ],
+    [
+      "China",
+      "Geometry",
+      "E Firefly"
+    ],
+    [
+      "China",
+      "Haima",
+      "8S"
+    ],
+    [
+      "China",
+      "Haval",
+      "Big Dog"
+    ],
+    [
+      "China",
+      "Haval",
+      "H5"
+    ],
+    [
+      "China",
+      "Haval",
+      "H6"
+    ],
+    [
+      "China",
+      "Haval",
+      "H9"
+    ],
+    [
+      "China",
+      "Haval",
+      "MAX"
+    ],
+    [
+      "China",
+      "Haval",
+      "Plus"
+    ],
+    [
+      "China",
+      "Haval",
+      "Raptor"
+    ],
+    [
+      "China",
+      "Haval",
+      "Raptor PHEV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Accord"
+    ],
+    [
+      "China",
+      "Honda",
+      "Avancier"
+    ],
+    [
+      "China",
+      "Honda",
+      "Breeze"
+    ],
+    [
+      "China",
+      "Honda",
+      "CR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "CR-V EV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Civic"
+    ],
+    [
+      "China",
+      "Honda",
+      "Elysion"
+    ],
+    [
+      "China",
+      "Honda",
+      "HR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "Inspire"
+    ],
+    [
+      "China",
+      "Honda",
+      "Inspire EV"
+    ],
+    [
+      "China",
+      "Honda",
+      "Integra"
+    ],
+    [
+      "China",
+      "Honda",
+      "Lingxi L"
+    ],
+    [
+      "China",
+      "Honda",
+      "Odyssey"
+    ],
+    [
+      "China",
+      "Honda",
+      "P7"
+    ],
+    [
+      "China",
+      "Honda",
+      "S7"
+    ],
+    [
+      "China",
+      "Honda",
+      "UR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "Vezel"
+    ],
+    [
+      "China",
+      "Honda",
+      "XR-V"
+    ],
+    [
+      "China",
+      "Honda",
+      "e:NS2"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "E-HS9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "E-QM5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "EH7"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoli"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoya"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Guoyao"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H5 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H6"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "H9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HQ9"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HQ9 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS3"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS3 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS5"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "HS7 PHEV"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 05"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 06"
+    ],
+    [
+      "China",
+      "Hongqi",
+      "Tiangong 08"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "GT"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "HL"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "HT"
+    ],
+    [
+      "China",
+      "Hyptec",
+      "SSR"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Custo"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Elantra"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Santa Fe"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Sonata"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "Tucson"
+    ],
+    [
+      "China",
+      "Hyundai",
+      "ix35"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "L6"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "L7"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "LS6"
+    ],
+    [
+      "China",
+      "IM Motors",
+      "LS7"
+    ],
+    [
+      "China",
+      "Infiniti",
+      "QX50"
+    ],
+    [
+      "China",
+      "Infiniti",
+      "QX60"
+    ],
+    [
+      "China",
+      "Isuzu",
+      "mu-X"
+    ],
+    [
+      "China",
+      "JAC",
+      "Aipao"
+    ],
+    [
+      "China",
+      "JAC",
+      "E10X (Huaxianzi)"
+    ],
+    [
+      "China",
+      "JAC",
+      "M3"
+    ],
+    [
+      "China",
+      "JAC",
+      "QX PHEV"
+    ],
+    [
+      "China",
+      "JAC",
+      "RF8"
+    ],
+    [
+      "China",
+      "JAC",
+      "RF8 PHEV"
+    ],
+    [
+      "China",
+      "JAC",
+      "X8 E"
+    ],
+    [
+      "China",
+      "JAC",
+      "Yiwei 3"
+    ],
+    [
+      "China",
+      "JAC",
+      "e3"
+    ],
+    [
+      "China",
+      "JMEV",
+      "EV2"
+    ],
+    [
+      "China",
+      "JMEV",
+      "EV3"
+    ],
+    [
+      "China",
+      "JMEV",
+      "Yi"
+    ],
+    [
+      "China",
+      "Jaguar",
+      "E-Pace"
+    ],
+    [
+      "China",
+      "Jaguar",
+      "XFL"
+    ],
+    [
+      "China",
+      "Jemmell",
+      "Box"
+    ],
+    [
+      "China",
+      "Jemmell",
+      "uni"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VA3"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VA7"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS5"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS7"
+    ],
+    [
+      "China",
+      "Jetta",
+      "VS8"
+    ],
+    [
+      "China",
+      "Kaicene",
+      "Honor S"
+    ],
+    [
+      "China",
+      "Karry",
+      "Jiang Tun"
+    ],
+    [
+      "China",
+      "Kia",
+      "Carnival"
+    ],
+    [
+      "China",
+      "Kia",
+      "EV5"
+    ],
+    [
+      "China",
+      "Kia",
+      "Forte"
+    ],
+    [
+      "China",
+      "Kia",
+      "K5"
+    ],
+    [
+      "China",
+      "Kia",
+      "Pegas"
+    ],
+    [
+      "China",
+      "Kia",
+      "Seltos"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sonet"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sportage"
+    ],
+    [
+      "China",
+      "Kia",
+      "Sportage Ace"
+    ],
+    [
+      "China",
+      "Kia",
+      "Stonic"
+    ],
+    [
+      "China",
+      "LEVC",
+      "L380"
+    ],
+    [
+      "China",
+      "Land Rover",
+      "Discovery Sport"
+    ],
+    [
+      "China",
+      "Land Rover",
+      "Range Rover Evoque"
+    ],
+    [
+      "China",
+      "Landian",
+      "e5"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "B01"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "B10"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C10"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C11"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "C16"
+    ],
+    [
+      "China",
+      "Leapmotor",
+      "T03"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L6"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L8"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "L9"
+    ],
+    [
+      "China",
+      "Li Auto",
+      "MEGA"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Aviator"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Corsair"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Nautilus"
+    ],
+    [
+      "China",
+      "Lincoln",
+      "Zephyr"
+    ],
+    [
+      "China",
+      "Livan",
+      "60s"
+    ],
+    [
+      "China",
+      "Livan",
+      "7"
+    ],
+    [
+      "China",
+      "Livan",
+      "8"
+    ],
+    [
+      "China",
+      "Luxeed",
+      "R7"
+    ],
+    [
+      "China",
+      "Luxeed",
+      "S7"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "01"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "03"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "06"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "06 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "07 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "08 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "09"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "09 EM-P"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "900"
+    ],
+    [
+      "China",
+      "Lynk & Co",
+      "Z20"
+    ],
+    [
+      "China",
+      "MG",
+      "Cyberster"
+    ],
+    [
+      "China",
+      "MG",
+      "ES5"
+    ],
+    [
+      "China",
+      "MG",
+      "MG4"
+    ],
+    [
+      "China",
+      "MG",
+      "MG5"
+    ],
+    [
+      "China",
+      "MG",
+      "MG6"
+    ],
+    [
+      "China",
+      "MG",
+      "MG7"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G50"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G50 PHEV"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G70"
+    ],
+    [
+      "China",
+      "Maxus",
+      "G90"
+    ],
+    [
+      "China",
+      "Maxus",
+      "MIFA 7"
+    ],
+    [
+      "China",
+      "Maxus",
+      "MIFA 9"
+    ],
+    [
+      "China",
+      "Maxus",
+      "Territory"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-30"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-5"
+    ],
+    [
+      "China",
+      "Mazda",
+      "CX-50"
+    ],
+    [
+      "China",
+      "Mazda",
+      "Mazda3"
+    ],
+    [
+      "China",
+      "Mazda",
+      "Mazda6e"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "A-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "C-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "E-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQA"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQB"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQE"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "EQE SUV"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLA"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLB"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "GLC"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "V-Class"
+    ],
+    [
+      "China",
+      "Mercedes-Benz",
+      "Vito"
+    ],
+    [
+      "China",
+      "NIO",
+      "EC6"
+    ],
+    [
+      "China",
+      "NIO",
+      "EC7"
+    ],
+    [
+      "China",
+      "NIO",
+      "EL6"
+    ],
+    [
+      "China",
+      "NIO",
+      "EL8"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET5"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET5T"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET7"
+    ],
+    [
+      "China",
+      "NIO",
+      "ET9"
+    ],
+    [
+      "China",
+      "NIO",
+      "Firefly"
+    ],
+    [
+      "China",
+      "NIO",
+      "L60"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Altima"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Ariya"
+    ],
+    [
+      "China",
+      "Nissan",
+      "D60"
+    ],
+    [
+      "China",
+      "Nissan",
+      "D60EV"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Kicks"
+    ],
+    [
+      "China",
+      "Nissan",
+      "N7"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Paladin"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Pathfinder"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Qashqai"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Rogue"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Sentra"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Tiida"
+    ],
+    [
+      "China",
+      "Nissan",
+      "V DD-i"
+    ],
+    [
+      "China",
+      "Nissan",
+      "VX6"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Venucia Star"
+    ],
+    [
+      "China",
+      "Nissan",
+      "Venucia V-Online"
+    ],
+    [
+      "China",
+      "ORA",
+      "03"
+    ],
+    [
+      "China",
+      "ORA",
+      "Ba Lei Mao"
+    ],
+    [
+      "China",
+      "ORA",
+      "Lightning Cat"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "4008"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "408"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "408X"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "5008"
+    ],
+    [
+      "China",
+      "Peugeot",
+      "508"
+    ],
+    [
+      "China",
+      "Polestar",
+      "4"
+    ],
+    [
+      "China",
+      "ROX",
+      "01"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D5X DMH"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D6"
+    ],
+    [
+      "China",
+      "Roewe",
+      "D7"
+    ],
+    [
+      "China",
+      "Roewe",
+      "RX5"
+    ],
+    [
+      "China",
+      "Roewe",
+      "RX9"
+    ],
+    [
+      "China",
+      "Roewe",
+      "iMAX8"
+    ],
+    [
+      "China",
+      "Roewe",
+      "iMAX8 EV"
+    ],
+    [
+      "China",
+      "Ruichi",
+      "EC75"
+    ],
+    [
+      "China",
+      "SAIC",
+      "F7"
+    ],
+    [
+      "China",
+      "SAIC",
+      "R7"
+    ],
+    [
+      "China",
+      "SRM",
+      "Jinhaishi"
+    ],
+    [
+      "China",
+      "SWM",
+      "G05"
+    ],
+    [
+      "China",
+      "SWM",
+      "SWM"
+    ],
+    [
+      "China",
+      "Skyworth",
+      "EV6"
+    ],
+    [
+      "China",
+      "Skyworth",
+      "HT-i"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#1"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#3"
+    ],
+    [
+      "China",
+      "Smart",
+      "smart#5"
+    ],
+    [
+      "China",
+      "Stelato",
+      "S9"
+    ],
+    [
+      "China",
+      "Tank",
+      "300"
+    ],
+    [
+      "China",
+      "Tank",
+      "300 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "400"
+    ],
+    [
+      "China",
+      "Tank",
+      "400 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "500"
+    ],
+    [
+      "China",
+      "Tank",
+      "500 EV"
+    ],
+    [
+      "China",
+      "Tank",
+      "700 EV"
+    ],
+    [
+      "China",
+      "Tesla",
+      "Model 3"
+    ],
+    [
+      "China",
+      "Tesla",
+      "Model Y"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Avalon"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Camry"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Corolla"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Corolla Cross"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Crown Kluger"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Frontlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Granvia"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Highlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Land Cruiser Prado"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Levin"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Levin GT"
+    ],
+    [
+      "China",
+      "Toyota",
+      "RAV4"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Sienna"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Venza"
+    ],
+    [
+      "China",
+      "Toyota",
+      "Wildlander"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ3"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ3X"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ4X"
+    ],
+    [
+      "China",
+      "Toyota",
+      "bZ5"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Bora"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "CC"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Golf"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.3"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.4 CROZZ"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "ID.4 X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Lamando L"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Lavida"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Magotan"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Passat NMS"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Sagitar"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "T-Roc"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Talagon"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tavendor"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tayron"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tayron X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Teramont"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Teramont X"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tharu"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tharu XR"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Tiguan"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Touran"
+    ],
+    [
+      "China",
+      "Volkswagen",
+      "Viloran"
+    ],
+    [
+      "China",
+      "Volvo",
+      "EM90"
+    ],
+    [
+      "China",
+      "Volvo",
+      "EX30"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S60"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S90"
+    ],
+    [
+      "China",
+      "Volvo",
+      "S90 PHEV"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC40"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC60"
+    ],
+    [
+      "China",
+      "Volvo",
+      "XC60 PHEV"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Courage"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Dreamer"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Free"
+    ],
+    [
+      "China",
+      "Voyah",
+      "Passion"
+    ],
+    [
+      "China",
+      "WEY",
+      "Gaoshan"
+    ],
+    [
+      "China",
+      "WEY",
+      "Lanshan"
+    ],
+    [
+      "China",
+      "WEY",
+      "Mocha PHEV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Bingo"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang EV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Hongguang MINIEV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Jiachen"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Plus"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Rongguang"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Starlight"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Starlight S"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Sunshine"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Sunshine EV"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Victory"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Xingchen"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Xingchi"
+    ],
+    [
+      "China",
+      "Wuling",
+      "Zhengcheng"
+    ],
+    [
+      "China",
+      "Xiaomi",
+      "SU7"
+    ],
+    [
+      "China",
+      "Xiaomi",
+      "YU7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G6"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "G9"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "MONA M03"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "P7"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "P7+"
+    ],
+    [
+      "China",
+      "Xpeng",
+      "X9"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U7"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U8"
+    ],
+    [
+      "China",
+      "Yangwang",
+      "U9"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "001"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "007"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "009"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "7X"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "MIX"
+    ],
+    [
+      "China",
+      "Zeekr",
+      "X"
+    ]
+  ],
+  "group_ids": [
+    "Brand",
+    "Model"
+  ],
+  "history_length": 12,
+  "prediction_length": 1,
+  "target": "Sales",
+  "static_categoricals": [
+    "Brand",
+    "Model"
+  ],
+  "time_varying_known_categoricals": [
+    "month"
+  ],
+  "time_varying_known_reals": [],
+  "time_varying_unknown_reals": [
+    "Sales"
+  ],
+  "static_reals": [],
+  "categorical_levels": {
+    "Brand": [
+      "212",
+      "AION",
+      "AITO",
+      "Audi",
+      "Avatr",
+      "BAIC",
+      "BAIC BJ",
+      "BAIC BJEV",
+      "BAW",
+      "BMW",
+      "BYD",
+      "Baojun",
+      "Bestune",
+      "Buick",
+      "Cadillac",
+      "CaoCao",
+      "Changan",
+      "Changan Nevo",
+      "Chery",
+      "Chevrolet",
+      "Citroen",
+      "Cowin",
+      "DFSK",
+      "DS",
+      "Deepal",
+      "Denza",
+      "Dongfeng",
+      "Dongfeng Aeolus",
+      "Dongfeng PSA",
+      "Dongfeng ePi",
+      "Exeed",
+      "Fangchengbao",
+      "Ford",
+      "Forthing",
+      "GAC Trumpchi",
+      "Geely",
+      "Geometry",
+      "Haima",
+      "Haval",
+      "Honda",
+      "Hongqi",
+      "Hyptec",
+      "Hyundai",
+      "IM Motors",
+      "Infiniti",
+      "Isuzu",
+      "JAC",
+      "JMEV",
+      "Jaguar",
+      "Jemmell",
+      "Jetta",
+      "Kaicene",
+      "Karry",
+      "Kia",
+      "LEVC",
+      "Land Rover",
+      "Landian",
+      "Leapmotor",
+      "Li Auto",
+      "Lincoln",
+      "Livan",
+      "Luxeed",
+      "Lynk & Co",
+      "MG",
+      "Maxus",
+      "Mazda",
+      "Mercedes-Benz",
+      "NIO",
+      "Nissan",
+      "ORA",
+      "Peugeot",
+      "Polestar",
+      "ROX",
+      "Roewe",
+      "Ruichi",
+      "SAIC",
+      "SRM",
+      "SWM",
+      "Skyworth",
+      "Smart",
+      "Stelato",
+      "Tank",
+      "Tesla",
+      "Toyota",
+      "Volkswagen",
+      "Volvo",
+      "Voyah",
+      "WEY",
+      "Wuling",
+      "Xiaomi",
+      "Xpeng",
+      "Yangwang",
+      "Zeekr"
+    ],
+    "Model": [
+      "001",
+      "007",
+      "009",
+      "01",
+      "03",
+      "05 EV",
+      "06",
+      "06 DM-i",
+      "06 EM-P",
+      "06GT",
+      "07",
+      "07 EM-P",
+      "08 EM-P",
+      "09",
+      "09 EM-P",
+      "11",
+      "12",
+      "2 Series",
+      "3 EV",
+      "3 Series",
+      "300",
+      "300 EV",
+      "4",
+      "400",
+      "400 EV",
+      "4008",
+      "408",
+      "408X",
+      "5 Series",
+      "500",
+      "500 EV",
+      "5008",
+      "508",
+      "60s",
+      "7",
+      "700 EV",
+      "7X",
+      "8",
+      "8S",
+      "9 C-DM",
+      "900",
+      "A",
+      "A-Class",
+      "A05",
+      "A06",
+      "A07",
+      "A3",
+      "A4L",
+      "A5L",
+      "A6L",
+      "A7 EM",
+      "A7L",
+      "A8",
+      "A9L",
+      "Accord",
+      "Aipao",
+      "Altima",
+      "Arcfox Alpha S",
+      "Arcfox Alpha T",
+      "Arcfox Kaola",
+      "Ariya",
+      "Arrizo 5",
+      "Arrizo 8",
+      "Atto 3",
+      "Avalon",
+      "Avancier",
+      "Aveo",
+      "Aviator",
+      "B01",
+      "B10",
+      "B70",
+      "BJ30",
+      "BJ40",
+      "BJ40 REEV",
+      "BJ60",
+      "BJ60 REEV",
+      "Ba Lei Mao",
+      "Big Dog",
+      "Bingo",
+      "Binrui",
+      "Binyue",
+      "Blazer",
+      "Bora",
+      "Box",
+      "Boyue",
+      "Boyue L",
+      "Breeze",
+      "Bronco",
+      "C-Class",
+      "C-DM",
+      "C10",
+      "C11",
+      "C16",
+      "C5 Aircross",
+      "C5 X",
+      "CC",
+      "CR-V",
+      "CR-V EV",
+      "CS35PLUS",
+      "CS55PLUS",
+      "CS75PLUS",
+      "CT5",
+      "CT6",
+      "CX-30",
+      "CX-5",
+      "CX-50",
+      "Camry",
+      "Cao Cao 60",
+      "Carnival",
+      "Century",
+      "Civic",
+      "Corolla",
+      "Corolla Cross",
+      "Corsair",
+      "Courage",
+      "Crown Kluger",
+      "Custo",
+      "Cyberster",
+      "D1",
+      "D5X DMH",
+      "D6",
+      "D60",
+      "D60EV",
+      "D7",
+      "D9",
+      "Destroyer 05",
+      "Discovery Sport",
+      "Dolphin",
+      "Dolphin Surf",
+      "Dreamer",
+      "E Firefly",
+      "E-Class",
+      "E-HS9",
+      "E-Pace",
+      "E-QM5",
+      "E07",
+      "E10X (Huaxianzi)",
+      "E70",
+      "E8",
+      "EC6",
+      "EC7",
+      "EC75",
+      "EH7",
+      "EL6",
+      "EL8",
+      "EM90",
+      "EQA",
+      "EQB",
+      "EQE",
+      "EQE SUV",
+      "ES",
+      "ES5",
+      "ES600",
+      "ES9",
+      "ET",
+      "ET5",
+      "ET5T",
+      "ET7",
+      "ET9",
+      "EV2",
+      "EV3",
+      "EV5",
+      "EV6",
+      "EVOS",
+      "EX2",
+      "EX30",
+      "EX5",
+      "Eado",
+      "Edge L",
+      "Elantra",
+      "Electra E5",
+      "Elysion",
+      "Emgrand",
+      "Empow",
+      "Envision Plus",
+      "Equator",
+      "Equinox",
+      "Escape",
+      "Explorer",
+      "F7",
+      "Fengguang 580",
+      "Fengon 330",
+      "Fengon 380",
+      "Fengon 500",
+      "Firefly",
+      "Forte",
+      "Free",
+      "Frigate 07",
+      "Frontlander",
+      "G05",
+      "G318",
+      "G50",
+      "G50 PHEV",
+      "G6",
+      "G7",
+      "G70",
+      "G9",
+      "G90",
+      "GL8",
+      "GL8 EV",
+      "GLA",
+      "GLB",
+      "GLC",
+      "GS3",
+      "GS4",
+      "GS8",
+      "GT",
+      "GT4",
+      "Galaxy Starshine 8",
+      "Galaxy Starship 7",
+      "Gaoshan",
+      "Golf",
+      "Granvia",
+      "Guoli",
+      "Guoya",
+      "Guoyao",
+      "H5",
+      "H5 PHEV",
+      "H6",
+      "H9",
+      "HEDMOS 06",
+      "HL",
+      "HQ9",
+      "HQ9 PHEV",
+      "HR-V",
+      "HS3",
+      "HS3 PHEV",
+      "HS5",
+      "HS7 PHEV",
+      "HT",
+      "HT-i",
+      "Han",
+      "Haohan",
+      "Haoji",
+      "Haoyue L",
+      "Highlander",
+      "Hongguang",
+      "Hongguang EV",
+      "Hongguang MINIEV",
+      "Honor S",
+      "ICON",
+      "ID.3",
+      "ID.4 CROZZ",
+      "ID.4 X",
+      "Inspire",
+      "Inspire EV",
+      "Integra",
+      "Jetour Dasheng",
+      "Jetour Traveller",
+      "Jetour Ziyouzhe",
+      "Jiachen",
+      "Jiang Tun",
+      "Jinhaishi",
+      "K5",
+      "Kicks",
+      "Kunlun",
+      "Kunlun EV",
+      "L DM-i",
+      "L EV",
+      "L07",
+      "L380",
+      "L6",
+      "L60",
+      "L7",
+      "L8",
+      "L9",
+      "LS6",
+      "LS7",
+      "LX",
+      "LX C-DM",
+      "LaCrosse",
+      "Lamando L",
+      "Land Cruiser Prado",
+      "Lanshan",
+      "Lavida",
+      "Leiting",
+      "Leopard 5",
+      "Leopard 8",
+      "Levin",
+      "Levin GT",
+      "Lightning Cat",
+      "Lingxi L",
+      "Lingzhi",
+      "Lingzhi EV",
+      "Little Ant",
+      "Lumin",
+      "Lyriq",
+      "M3",
+      "M5",
+      "M6",
+      "M7",
+      "M8",
+      "M9",
+      "MAX",
+      "MEGA",
+      "MG4",
+      "MG5",
+      "MG6",
+      "MG7",
+      "MIFA 7",
+      "MIFA 9",
+      "MINIEV",
+      "MIX",
+      "MONA M03",
+      "Magotan",
+      "Malibu",
+      "Mazda3",
+      "Mazda6e",
+      "Menlo",
+      "Mocha PHEV",
+      "Model 3",
+      "Model Y",
+      "Mondeo",
+      "Monjaro",
+      "Monza",
+      "N7",
+      "N9",
+      "Nammi 01",
+      "Nammi 06",
+      "Nautilus",
+      "Odyssey",
+      "Onix",
+      "Optiq",
+      "Oshan 520",
+      "Oshan Z6",
+      "Oshan Z6 iDD",
+      "P7",
+      "P7+",
+      "Paladin",
+      "Panda",
+      "Passat NMS",
+      "Passion",
+      "Pathfinder",
+      "Pegas",
+      "Plus",
+      "Pony",
+      "Preface",
+      "Pro EV",
+      "Q05",
+      "Q07",
+      "Q2L",
+      "Q3",
+      "Q4 e-tron",
+      "Q5L",
+      "Q6",
+      "Q6L e-tron",
+      "QQ",
+      "QQ Duomi",
+      "QX PHEV",
+      "QX50",
+      "QX60",
+      "Qashqai",
+      "Qin EV",
+      "Qin L",
+      "Qin Plus",
+      "R7",
+      "RAV4",
+      "RF8",
+      "RF8 PHEV",
+      "RT",
+      "RX",
+      "RX C-DM",
+      "RX5",
+      "RX9",
+      "Range Rover Evoque",
+      "Raptor",
+      "Raptor PHEV",
+      "Regal",
+      "Rogue",
+      "Rongguang",
+      "S",
+      "S05",
+      "S07",
+      "S09",
+      "S5",
+      "S50EV",
+      "S560",
+      "S60",
+      "S7",
+      "S9",
+      "S90",
+      "S90 PHEV",
+      "SL03",
+      "SSR",
+      "SU7",
+      "SWM",
+      "Sagitar",
+      "Santa Fe",
+      "Seal",
+      "Seal 05 DM-i",
+      "Seal 06",
+      "Seal 07 DM-i",
+      "Sealion 05 DM-i",
+      "Sealion 06",
+      "Sealion 07 DM-i",
+      "Seltos",
+      "Sentra",
+      "Shiyue",
+      "Sienna",
+      "Sonata",
+      "Sonet",
+      "Song Pro NEV",
+      "Sportage",
+      "Sportage Ace",
+      "Starlight",
+      "Starlight S",
+      "Stonic",
+      "Sunshine",
+      "Sunshine EV",
+      "T-Roc",
+      "T01",
+      "T03",
+      "T1",
+      "T5",
+      "T5 Evo",
+      "T8",
+      "T9",
+      "TXL",
+      "Tai 3",
+      "Talagon",
+      "Tang",
+      "Tang L",
+      "Tavendor",
+      "Tayron",
+      "Tayron X",
+      "Teramont",
+      "Teramont X",
+      "Territory",
+      "Tharu",
+      "Tharu XR",
+      "Tiangong 05",
+      "Tiangong 06",
+      "Tiangong 08",
+      "Tiggo 3X",
+      "Tiggo 5X",
+      "Tiggo 7",
+      "Tiggo 8",
+      "Tiggo 9",
+      "Tiguan",
+      "Tiida",
+      "Touran",
+      "Tourneo",
+      "Tucson",
+      "U7",
+      "U8",
+      "U9",
+      "UNI-K",
+      "UNI-T",
+      "UNI-V",
+      "UNI-Z",
+      "UP",
+      "UR-V",
+      "UT",
+      "V",
+      "V DD-i",
+      "V-Class",
+      "V9",
+      "VA3",
+      "VA7",
+      "VS5",
+      "VS7",
+      "VS8",
+      "VX",
+      "VX C-DM",
+      "VX6",
+      "Velite 6",
+      "Venucia Star",
+      "Venucia V-Online",
+      "Venza",
+      "Verano",
+      "Vezel",
+      "Victory",
+      "Viloran",
+      "Vito",
+      "Wildlander",
+      "X",
+      "X1",
+      "X3",
+      "X5",
+      "X5 PLUS",
+      "X7",
+      "X7 PLUS",
+      "X70",
+      "X8 E",
+      "X9",
+      "X90",
+      "XC40",
+      "XC60",
+      "XC60 PHEV",
+      "XFL",
+      "XR-V",
+      "XT4",
+      "XT5",
+      "XT6",
+      "Xia",
+      "Xiangjing",
+      "Xingchen",
+      "Xingchi",
+      "Xuandu",
+      "Xuanjie",
+      "Y",
+      "YU7",
+      "Yep",
+      "Yi",
+      "Yi L",
+      "Yiwei 3",
+      "Yixuan",
+      "Yongshi",
+      "Yuanbao",
+      "Yueyi 03",
+      "Yueyi 07",
+      "Yunhai",
+      "Z20",
+      "Z9",
+      "Z9 GT",
+      "Zephyr",
+      "Zhengcheng",
+      "bZ3",
+      "bZ3X",
+      "bZ4X",
+      "bZ5",
+      "e2",
+      "e3",
+      "e5",
+      "e7",
+      "e9",
+      "e:NS2",
+      "ep007",
+      "ep008",
+      "i3",
+      "i5",
+      "iCAR ClassV23",
+      "iMAX8",
+      "iMAX8 EV",
+      "iX1",
+      "iX3",
+      "ix35",
+      "mu-X",
+      "smart#1",
+      "smart#3",
+      "smart#5",
+      "uni"
+    ],
+    "month": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "09",
+      "10",
+      "11",
+      "12"
+    ]
+  },
+  "time_idx_origin": "2016-01",
+  "training_rows": 27182,
+  "training_target_start": "2017-01",
+  "training_target_end": "2026-07",
+  "normalizer_observation_count": 34022,
+  "normalization": [
+    {
+      "Country": "China",
+      "Brand": "212",
+      "Model": "T01",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1365.590909090909,
+      "scale": 371.8570238622849
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "LX",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 123.81481481481481,
+      "scale": 154.03012243359086
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "RT",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 4418.681818181818,
+      "scale": 1673.2978188803304
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "S",
+      "observations": 87,
+      "first_month": "2019-05",
+      "last_month": "2026-07",
+      "center": 7971.6781609195405,
+      "scale": 6030.653468342354
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "UT",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 3508.6666666666665,
+      "scale": 1839.224565951432
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "V",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 2224.1369863013697,
+      "scale": 1559.2981590124482
+    },
+    {
+      "Country": "China",
+      "Brand": "AION",
+      "Model": "Y",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 10192.20634920635,
+      "scale": 6780.0645745103175
+    },
+    {
+      "Country": "China",
+      "Brand": "AITO",
+      "Model": "M5",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 3195.4363636363637,
+      "scale": 2759.96857408859
+    },
+    {
+      "Country": "China",
+      "Brand": "AITO",
+      "Model": "M7",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 9659.612244897959,
+      "scale": 8162.926651568998
+    },
+    {
+      "Country": "China",
+      "Brand": "AITO",
+      "Model": "M8",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 11538.6875,
+      "scale": 7733.549387813745
+    },
+    {
+      "Country": "China",
+      "Brand": "AITO",
+      "Model": "M9",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 10257.933333333332,
+      "scale": 4986.065763984322
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "A3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6112.385826771653,
+      "scale": 2187.6357580691943
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "A4L",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10091.251968503937,
+      "scale": 4432.425376706526
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "A5L",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 5878.428571428572,
+      "scale": 3989.9978093024365
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "A6L",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12611.645669291338,
+      "scale": 3775.751467561438
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "A7L",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 1282.6363636363637,
+      "scale": 1245.8700672962702
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q2L",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 2120.2526315789473,
+      "scale": 1782.0525731626458
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5563.929133858268,
+      "scale": 2461.370669391962
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q4 e-tron",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 1124.1875,
+      "scale": 825.6225646093098
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q5L",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 11735.225806451614,
+      "scale": 3655.3346677744803
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q6",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 428.8125,
+      "scale": 268.12905458381476
+    },
+    {
+      "Country": "China",
+      "Brand": "Audi",
+      "Model": "Q6L e-tron",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 660.2142857142857,
+      "scale": 661.351480464167
+    },
+    {
+      "Country": "China",
+      "Brand": "Avatr",
+      "Model": "06",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 2890.25,
+      "scale": 1777.6112263079272
+    },
+    {
+      "Country": "China",
+      "Brand": "Avatr",
+      "Model": "07",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 3972.818181818182,
+      "scale": 2060.177798293231
+    },
+    {
+      "Country": "China",
+      "Brand": "Avatr",
+      "Model": "11",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 822.9090909090909,
+      "scale": 717.951121174221
+    },
+    {
+      "Country": "China",
+      "Brand": "Avatr",
+      "Model": "12",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 1684.21875,
+      "scale": 876.2573366931155
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC",
+      "Model": "X7",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 950.4246575342465,
+      "scale": 976.9462286082187
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJ",
+      "Model": "BJ30",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 2106.46875,
+      "scale": 2625.319254886102
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJ",
+      "Model": "BJ40",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1941.9291338582677,
+      "scale": 985.2118812342686
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJ",
+      "Model": "BJ40 REEV",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 3697.6,
+      "scale": 1039.6127722411973
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJ",
+      "Model": "BJ60",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 408.6904761904762,
+      "scale": 351.28930148115984
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJ",
+      "Model": "BJ60 REEV",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 96.93333333333334,
+      "scale": 72.9720732541419
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJEV",
+      "Model": "Arcfox Alpha S",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 478.56363636363636,
+      "scale": 566.4855474234979
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJEV",
+      "Model": "Arcfox Alpha T",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 272.8196721311475,
+      "scale": 352.61826240257915
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJEV",
+      "Model": "Arcfox Kaola",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 1326.0833333333333,
+      "scale": 1199.4174150262816
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJEV",
+      "Model": "S5",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 2812.103448275862,
+      "scale": 1783.698947969647
+    },
+    {
+      "Country": "China",
+      "Brand": "BAIC BJEV",
+      "Model": "T5",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 2917.6060606060605,
+      "scale": 1935.270611190223
+    },
+    {
+      "Country": "China",
+      "Brand": "BAW",
+      "Model": "Yongshi",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 113.40944881889764,
+      "scale": 100.8592264812742
+    },
+    {
+      "Country": "China",
+      "Brand": "BAW",
+      "Model": "Yuanbao",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 430.3404255319149,
+      "scale": 782.8172489877275
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "2 Series",
+      "observations": 120,
+      "first_month": "2016-08",
+      "last_month": "2026-07",
+      "center": 394.85,
+      "scale": 519.2813229566809
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "3 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11523.07874015748,
+      "scale": 3532.2770866026412
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "5 Series",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13078.236220472441,
+      "scale": 7038.170554460513
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "X1",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6671.834645669292,
+      "scale": 2401.2022459135314
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "X3",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 9324.77659574468,
+      "scale": 2762.9789638356583
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "X5",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 6622.192307692308,
+      "scale": 2025.5407113479148
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "i3",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 2953.1,
+      "scale": 1700.1413699250177
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "i5",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 509.16129032258067,
+      "scale": 259.3946409382507
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "iX1",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 970.0909090909091,
+      "scale": 438.8501365563102
+    },
+    {
+      "Country": "China",
+      "Brand": "BMW",
+      "Model": "iX3",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 2157.342857142857,
+      "scale": 1492.7058833395747
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "05 EV",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 7412.0,
+      "scale": 3765.343988825792
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "06 DM-i",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 2078.153846153846,
+      "scale": 868.9650960896764
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "06GT",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 3459.818181818182,
+      "scale": 1935.7961899632119
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Atto 3",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 17399.29090909091,
+      "scale": 9152.950053373404
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "D1",
+      "observations": 66,
+      "first_month": "2021-02",
+      "last_month": "2026-07",
+      "center": 192.6969696969697,
+      "scale": 462.10206339547267
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Destroyer 05",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 8675.811320754718,
+      "scale": 6346.921365637346
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Dolphin",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 15651.416666666666,
+      "scale": 7297.736446757199
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Dolphin Surf",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 27379.5641025641,
+      "scale": 13368.768212559109
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Frigate 07",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 1824.4545454545455,
+      "scale": 2651.153998687599
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Han",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 14549.972602739726,
+      "scale": 8255.920936695822
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "L DM-i",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 11057.56,
+      "scale": 6778.314656232395
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "L EV",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 2104.59375,
+      "scale": 1901.676839505923
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Qin EV",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 1940.8395061728395,
+      "scale": 1416.8537517017357
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Qin L",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 20581.40740740741,
+      "scale": 10910.376924605505
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Qin Plus",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 30840.69090909091,
+      "scale": 11159.3204680819
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Seal",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 4285.625,
+      "scale": 4506.314687417337
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Seal 05 DM-i",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 7129.521739130435,
+      "scale": 5581.5561595620875
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Seal 06",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 17711.703703703704,
+      "scale": 9706.034400773897
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Seal 07 DM-i",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 2484.7916666666665,
+      "scale": 2141.5226618655443
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Sealion 05 DM-i",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 3080.6666666666665,
+      "scale": 2966.5276046739214
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Sealion 06",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 18313.30769230769,
+      "scale": 8273.250332011416
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Sealion 07 DM-i",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 479.46666666666664,
+      "scale": 448.4438167911973
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Song Pro NEV",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 16913.19512195122,
+      "scale": 5072.0034865161
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Tang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5603.393700787402,
+      "scale": 4721.39031028567
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Tang L",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 2691.3125,
+      "scale": 2233.8867605347546
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "UP",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 14726.241379310344,
+      "scale": 6075.854853386095
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Xia",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 1673.842105263158,
+      "scale": 1040.5147526023252
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "Yi L",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1935.1875,
+      "scale": 1389.66507116714
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "e2",
+      "observations": 83,
+      "first_month": "2019-09",
+      "last_month": "2026-07",
+      "center": 1526.710843373494,
+      "scale": 1235.239538789528
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "e3",
+      "observations": 82,
+      "first_month": "2019-10",
+      "last_month": "2026-07",
+      "center": 253.5,
+      "scale": 286.2391252739842
+    },
+    {
+      "Country": "China",
+      "Brand": "BYD",
+      "Model": "e7",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 1992.2857142857142,
+      "scale": 1428.9170492753597
+    },
+    {
+      "Country": "China",
+      "Brand": "Baojun",
+      "Model": "Plus",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 1305.0,
+      "scale": 1154.605189654107
+    },
+    {
+      "Country": "China",
+      "Brand": "Baojun",
+      "Model": "Xiangjing",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 230.0,
+      "scale": 153.60783404831236
+    },
+    {
+      "Country": "China",
+      "Brand": "Baojun",
+      "Model": "Yep",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 763.8461538461538,
+      "scale": 702.6518421183583
+    },
+    {
+      "Country": "China",
+      "Brand": "Baojun",
+      "Model": "Yunhai",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 1109.4,
+      "scale": 776.000224843923
+    },
+    {
+      "Country": "China",
+      "Brand": "Bestune",
+      "Model": "B70",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1456.1653543307086,
+      "scale": 1832.300445933383
+    },
+    {
+      "Country": "China",
+      "Brand": "Bestune",
+      "Model": "Pony",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 7352.259259259259,
+      "scale": 4174.192013735429
+    },
+    {
+      "Country": "China",
+      "Brand": "Bestune",
+      "Model": "Yueyi 03",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 2455.5882352941176,
+      "scale": 1208.8793336989577
+    },
+    {
+      "Country": "China",
+      "Brand": "Bestune",
+      "Model": "Yueyi 07",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 359.6666666666667,
+      "scale": 350.20431885434755
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Century",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 978.2444444444444,
+      "scale": 666.7387318632135
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Electra E5",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 1412.425,
+      "scale": 1307.6408134245917
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Envision Plus",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13256.0,
+      "scale": 6314.014927655987
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "GL8",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9587.228346456694,
+      "scale": 4784.257756827075
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "GL8 EV",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 3683.346153846154,
+      "scale": 1809.319985301593
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "LaCrosse",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4518.456692913386,
+      "scale": 2467.7697482287585
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Regal",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6571.700787401574,
+      "scale": 3571.1389511541856
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Velite 6",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 2250.3289473684213,
+      "scale": 1956.6539104483768
+    },
+    {
+      "Country": "China",
+      "Brand": "Buick",
+      "Model": "Verano",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7909.944881889764,
+      "scale": 6701.804228693317
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "CT5",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 4816.259259259259,
+      "scale": 2251.4166743945207
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "CT6",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 1053.3391304347826,
+      "scale": 780.0376815800753
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "GT4",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 288.2307692307692,
+      "scale": 364.22765999340527
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "Lyriq",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 187.58,
+      "scale": 234.45954433087994
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "Optiq",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 104.85714285714286,
+      "scale": 136.67135978722666
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "XT4",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 2617.915789473684,
+      "scale": 1967.1255475898483
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "XT5",
+      "observations": 124,
+      "first_month": "2016-04",
+      "last_month": "2026-07",
+      "center": 4587.798387096775,
+      "scale": 2149.0688440015833
+    },
+    {
+      "Country": "China",
+      "Brand": "Cadillac",
+      "Model": "XT6",
+      "observations": 85,
+      "first_month": "2019-07",
+      "last_month": "2026-07",
+      "center": 1463.0117647058823,
+      "scale": 1255.170368414013
+    },
+    {
+      "Country": "China",
+      "Brand": "CaoCao",
+      "Model": "Cao Cao 60",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 1116.6923076923076,
+      "scale": 995.2297033502078
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "CS35PLUS",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 2912.0363636363636,
+      "scale": 3134.252419852319
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "CS55PLUS",
+      "observations": 68,
+      "first_month": "2020-12",
+      "last_month": "2026-07",
+      "center": 8066.544117647059,
+      "scale": 4980.97072100379
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "CS75PLUS",
+      "observations": 78,
+      "first_month": "2020-02",
+      "last_month": "2026-07",
+      "center": 17361.55128205128,
+      "scale": 6202.551343611328
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Eado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11027.496062992126,
+      "scale": 4513.474690483322
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Lumin",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 10469.745098039215,
+      "scale": 5275.590550603064
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Oshan 520",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 779.1875,
+      "scale": 740.0032485184718
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Oshan Z6",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 3273.744680851064,
+      "scale": 3196.4801909760104
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Oshan Z6 iDD",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1180.4893617021276,
+      "scale": 1464.1245439353295
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "Plus",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 1050.0652173913043,
+      "scale": 1603.7307737287308
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "UNI-K",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 1607.3692307692309,
+      "scale": 1448.6124299165256
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "UNI-T",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 3353.4133333333334,
+      "scale": 3365.5557924492864
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "UNI-V",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 6842.254545454545,
+      "scale": 4346.370863406692
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "UNI-Z",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 5311.214285714285,
+      "scale": 2312.6085533538594
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "X5 PLUS",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 6679.214285714285,
+      "scale": 2063.8323240835252
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan",
+      "Model": "X7 PLUS",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2117.808510638298,
+      "scale": 1463.4743262150944
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "A05",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 1724.264705882353,
+      "scale": 1517.080134099024
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "A06",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 1694.1764705882354,
+      "scale": 2627.5504221727174
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "A07",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 3697.1714285714284,
+      "scale": 1700.250603316557
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "E07",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 78.0952380952381,
+      "scale": 103.57554137544273
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "Q05",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 4786.59375,
+      "scale": 5312.338988419214
+    },
+    {
+      "Country": "China",
+      "Brand": "Changan Nevo",
+      "Model": "Q07",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 5620.9375,
+      "scale": 2808.4518774151393
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "9 C-DM",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 574.0434782608696,
+      "scale": 609.0646751464875
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "A8",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 1447.4193548387098,
+      "scale": 1207.4026709512827
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "A9L",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 5160.153846153846,
+      "scale": 3553.4425910669943
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Arrizo 5",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 1585.9473684210527,
+      "scale": 576.0691123555009
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Arrizo 8",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 9430.08510638298,
+      "scale": 4141.1907227995125
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "C-DM",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 2801.214285714286,
+      "scale": 2098.075761748387
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Jetour Dasheng",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2861.3617021276596,
+      "scale": 1347.170463745549
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Jetour Traveller",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 6606.527777777777,
+      "scale": 2962.4607989409155
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Jetour Ziyouzhe",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 3648.2631578947367,
+      "scale": 2268.6125157620772
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "L7",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 1303.1739130434783,
+      "scale": 1630.7864162196083
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "L9",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 547.1212121212121,
+      "scale": 534.3019660323725
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Little Ant",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 2635.319587628866,
+      "scale": 3095.7636402233456
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "QQ",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3159.2047244094488,
+      "scale": 2682.905223055564
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "QQ Duomi",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 431.0,
+      "scale": 319.84396688984555
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "T1",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1665.5,
+      "scale": 1253.3764476120061
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "T8",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 787.578947368421,
+      "scale": 659.169334401837
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "T9",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 4099.2962962962965,
+      "scale": 2597.9889527118366
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Tiggo 3X",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 1637.6315789473683,
+      "scale": 861.6227168823532
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Tiggo 5X",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 4977.893617021276,
+      "scale": 3524.561961862457
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Tiggo 7",
+      "observations": 120,
+      "first_month": "2016-08",
+      "last_month": "2026-07",
+      "center": 5390.958333333333,
+      "scale": 4912.348086071326
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Tiggo 8",
+      "observations": 98,
+      "first_month": "2018-06",
+      "last_month": "2026-07",
+      "center": 12352.061224489797,
+      "scale": 4960.086232764277
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "Tiggo 9",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 4223.105263157895,
+      "scale": 1249.8154231034102
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "X70",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 9011.431578947368,
+      "scale": 3591.159482969742
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "X90",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 2113.5164835164837,
+      "scale": 1823.3607713896045
+    },
+    {
+      "Country": "China",
+      "Brand": "Chery",
+      "Model": "iCAR ClassV23",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 4257.45,
+      "scale": 1993.4593170509988
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Aveo",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 5015.702127659574,
+      "scale": 2473.8495353776707
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Blazer",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 281.57894736842104,
+      "scale": 354.9351963143819
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Equinox",
+      "observations": 112,
+      "first_month": "2017-04",
+      "last_month": "2026-07",
+      "center": 2676.375,
+      "scale": 2464.7550590090523
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Malibu",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4437.228346456693,
+      "scale": 4364.639344441869
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Menlo",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 231.8,
+      "scale": 293.8250184099424
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Monza",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 7047.752808988764,
+      "scale": 6325.722211548098
+    },
+    {
+      "Country": "China",
+      "Brand": "Chevrolet",
+      "Model": "Onix",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 1877.8181818181818,
+      "scale": 1485.3238413091467
+    },
+    {
+      "Country": "China",
+      "Brand": "Citroen",
+      "Model": "C5 Aircross",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 913.1028037383178,
+      "scale": 1146.020848089806
+    },
+    {
+      "Country": "China",
+      "Brand": "Citroen",
+      "Model": "C5 X",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 1939.4915254237287,
+      "scale": 1268.8725275313038
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Kunlun",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 466.8837209302326,
+      "scale": 282.310938711699
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Kunlun EV",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 573.6666666666666,
+      "scale": 337.8649683152124
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Pro EV",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 176.6315789473684,
+      "scale": 375.8580747669595
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Shiyue",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 688.625,
+      "scale": 599.8981048404482
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Xuandu",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 427.86206896551727,
+      "scale": 694.2427173677804
+    },
+    {
+      "Country": "China",
+      "Brand": "Cowin",
+      "Model": "Xuanjie",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 1128.8,
+      "scale": 952.3175404412543
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "Fengguang 580",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 4547.8403361344535,
+      "scale": 5401.518365353363
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "Fengon 330",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 1291.1130434782608,
+      "scale": 1605.319285519944
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "Fengon 380",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 225.0188679245283,
+      "scale": 302.8868709547128
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "Fengon 500",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 1095.857142857143,
+      "scale": 1453.982200507954
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "MINIEV",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 320.46153846153845,
+      "scale": 432.194626947233
+    },
+    {
+      "Country": "China",
+      "Brand": "DFSK",
+      "Model": "S560",
+      "observations": 106,
+      "first_month": "2017-10",
+      "last_month": "2026-07",
+      "center": 1929.2924528301887,
+      "scale": 2121.014669371991
+    },
+    {
+      "Country": "China",
+      "Brand": "DS",
+      "Model": "3 EV",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 0.23809523809523808,
+      "scale": 0.6927231610186606
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "G318",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 984.24,
+      "scale": 693.389953496323
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "L07",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 1882.1304347826087,
+      "scale": 1139.0645594453003
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "S05",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 8371.272727272728,
+      "scale": 3389.517224977367
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "S07",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 6222.589743589743,
+      "scale": 2689.845647463823
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "S09",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1085.5625,
+      "scale": 923.4157240261375
+    },
+    {
+      "Country": "China",
+      "Brand": "Deepal",
+      "Model": "SL03",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 3787.6458333333335,
+      "scale": 2725.0681081937846
+    },
+    {
+      "Country": "China",
+      "Brand": "Denza",
+      "Model": "D9",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 7797.347826086957,
+      "scale": 2568.433410016297
+    },
+    {
+      "Country": "China",
+      "Brand": "Denza",
+      "Model": "N7",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 527.1944444444445,
+      "scale": 605.0888247037875
+    },
+    {
+      "Country": "China",
+      "Brand": "Denza",
+      "Model": "N9",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 2015.235294117647,
+      "scale": 1460.6783249787993
+    },
+    {
+      "Country": "China",
+      "Brand": "Denza",
+      "Model": "Z9",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 195.4,
+      "scale": 257.1141812020128
+    },
+    {
+      "Country": "China",
+      "Brand": "Denza",
+      "Model": "Z9 GT",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 1798.304347826087,
+      "scale": 1944.2582181187386
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng",
+      "Model": "HEDMOS 06",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 136.86666666666667,
+      "scale": 203.58102984679917
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng",
+      "Model": "Nammi 01",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 2974.516129032258,
+      "scale": 1283.255923198014
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng",
+      "Model": "Nammi 06",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1350.5,
+      "scale": 1318.1956511079557
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng Aeolus",
+      "Model": "E70",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 1685.5327102803737,
+      "scale": 2142.680216847926
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng Aeolus",
+      "Model": "Haohan",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 1618.6060606060605,
+      "scale": 1624.723682507155
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng Aeolus",
+      "Model": "Haoji",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 1263.8333333333333,
+      "scale": 1465.4792055772853
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng Aeolus",
+      "Model": "L7",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 3366.8709677419356,
+      "scale": 1188.099029248262
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng Aeolus",
+      "Model": "Yixuan",
+      "observations": 77,
+      "first_month": "2020-03",
+      "last_month": "2026-07",
+      "center": 3480.9220779220777,
+      "scale": 2371.98129381372
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng PSA",
+      "Model": "ES600",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 249.56603773584905,
+      "scale": 496.5960565217842
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng ePi",
+      "Model": "ep007",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 1976.8620689655172,
+      "scale": 870.8203659119764
+    },
+    {
+      "Country": "China",
+      "Brand": "Dongfeng ePi",
+      "Model": "ep008",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 2202.153846153846,
+      "scale": 841.5823780826473
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "ES",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 606.0625,
+      "scale": 736.0244219069905
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "ET",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 1263.4074074074074,
+      "scale": 1252.5948778255874
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "LX",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 483.43835616438355,
+      "scale": 449.25245236238146
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "LX C-DM",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 27.275862068965516,
+      "scale": 45.72053829621692
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "RX",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 982.2857142857143,
+      "scale": 996.7735558968698
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "RX C-DM",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 638.2758620689655,
+      "scale": 681.3432912279658
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "TXL",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 1168.1860465116279,
+      "scale": 816.9250931006379
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "VX",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 617.3255813953489,
+      "scale": 482.5254255325192
+    },
+    {
+      "Country": "China",
+      "Brand": "Exeed",
+      "Model": "VX C-DM",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 183.5625,
+      "scale": 211.49659314434157
+    },
+    {
+      "Country": "China",
+      "Brand": "Fangchengbao",
+      "Model": "Leopard 5",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 3716.5151515151515,
+      "scale": 1731.174298352019
+    },
+    {
+      "Country": "China",
+      "Brand": "Fangchengbao",
+      "Model": "Leopard 8",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 1487.0,
+      "scale": 1149.7298576470798
+    },
+    {
+      "Country": "China",
+      "Brand": "Fangchengbao",
+      "Model": "Tai 3",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 5926.1875,
+      "scale": 2795.4350446754765
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Bronco",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 721.2068965517242,
+      "scale": 441.6422643669761
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "EVOS",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 153.43636363636364,
+      "scale": 238.30406428098016
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Edge L",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 2446.2105263157896,
+      "scale": 731.2398476229132
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Equator",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 500.03076923076924,
+      "scale": 561.9423649994628
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Escape",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 1720.8625,
+      "scale": 1368.605039876741
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Explorer",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 1769.9866666666667,
+      "scale": 883.1133702133985
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Mondeo",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 5077.3385826771655,
+      "scale": 3265.5879074984314
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Territory",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 6411.943820224719,
+      "scale": 3218.4922781153887
+    },
+    {
+      "Country": "China",
+      "Brand": "Ford",
+      "Model": "Tourneo",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 110.26966292134831,
+      "scale": 85.66333756154408
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "Leiting",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 163.64864864864865,
+      "scale": 308.32631125300514
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "Lingzhi",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4015.496062992126,
+      "scale": 2384.0013356828517
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "Lingzhi EV",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 197.41758241758242,
+      "scale": 232.67963269742998
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "S50EV",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 544.6019417475728,
+      "scale": 721.7921491733442
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "S7",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 1289.391304347826,
+      "scale": 818.1527039406543
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "T5",
+      "observations": 91,
+      "first_month": "2019-01",
+      "last_month": "2026-07",
+      "center": 1699.3956043956043,
+      "scale": 2105.1543458980714
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "T5 Evo",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 1036.8,
+      "scale": 1839.6992750967
+    },
+    {
+      "Country": "China",
+      "Brand": "Forthing",
+      "Model": "V9",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 444.61538461538464,
+      "scale": 280.8978369113586
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "E8",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 2886.3333333333335,
+      "scale": 1869.7211372193472
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "ES9",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 423.37142857142857,
+      "scale": 613.9870410582325
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "Empow",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 2684.4262295081967,
+      "scale": 2182.2574956959734
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "GS3",
+      "observations": 108,
+      "first_month": "2017-08",
+      "last_month": "2026-07",
+      "center": 4600.12037037037,
+      "scale": 2296.405328585982
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "GS4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10827.346456692914,
+      "scale": 10321.860327011122
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "GS8",
+      "observations": 117,
+      "first_month": "2016-11",
+      "last_month": "2026-07",
+      "center": 3325.017094017094,
+      "scale": 2411.469852089677
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "M6",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 3329.8152173913045,
+      "scale": 1449.429063314991
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "M8",
+      "observations": 104,
+      "first_month": "2017-12",
+      "last_month": "2026-07",
+      "center": 4397.836538461538,
+      "scale": 2130.7137663205162
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "S7",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 1388.0555555555557,
+      "scale": 563.5355646989726
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "S9",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 267.92857142857144,
+      "scale": 215.79306463508266
+    },
+    {
+      "Country": "China",
+      "Brand": "GAC Trumpchi",
+      "Model": "e9",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 850.325,
+      "scale": 792.8452684343945
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "A7 EM",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 6699.214285714285,
+      "scale": 4877.8448914742685
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Binrui",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 3967.6736842105265,
+      "scale": 2865.5932418164202
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Binyue",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 10726.720430107527,
+      "scale": 3638.1522939141623
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Boyue",
+      "observations": 125,
+      "first_month": "2016-03",
+      "last_month": "2026-07",
+      "center": 14697.256,
+      "scale": 7291.086892745441
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Boyue L",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 13881.695652173914,
+      "scale": 6778.476737280934
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "E8",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 1440.741935483871,
+      "scale": 1147.3877746894998
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "EX2",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 32386.91304347826,
+      "scale": 11189.877127120293
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "EX5",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 9356.44,
+      "scale": 4525.42376601912
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Emgrand",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14947.385826771653,
+      "scale": 5662.244757579924
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Galaxy Starshine 8",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 5942.0,
+      "scale": 3405.9052421969095
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Galaxy Starship 7",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 7860.333333333333,
+      "scale": 5246.1038189907085
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Haoyue L",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 1902.125,
+      "scale": 1303.3325101864132
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "ICON",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 1647.8354430379748,
+      "scale": 1083.6505015873852
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "L6",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 3393.942857142857,
+      "scale": 2701.221419064666
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "L7",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 4679.0,
+      "scale": 3529.5147705037593
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Monjaro",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 15045.083333333334,
+      "scale": 5904.721019845502
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Panda",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 10159.857142857143,
+      "scale": 4750.598425877221
+    },
+    {
+      "Country": "China",
+      "Brand": "Geely",
+      "Model": "Preface",
+      "observations": 69,
+      "first_month": "2020-11",
+      "last_month": "2026-07",
+      "center": 11091.231884057972,
+      "scale": 3471.8005995116173
+    },
+    {
+      "Country": "China",
+      "Brand": "Geometry",
+      "Model": "A",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 1532.1931818181818,
+      "scale": 1561.8986644854913
+    },
+    {
+      "Country": "China",
+      "Brand": "Geometry",
+      "Model": "E Firefly",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 1626.54,
+      "scale": 1805.7440957943195
+    },
+    {
+      "Country": "China",
+      "Brand": "Haima",
+      "Model": "8S",
+      "observations": 84,
+      "first_month": "2019-08",
+      "last_month": "2026-07",
+      "center": 239.32142857142858,
+      "scale": 360.4267007662728
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "Big Dog",
+      "observations": 71,
+      "first_month": "2020-09",
+      "last_month": "2026-07",
+      "center": 9584.070422535211,
+      "scale": 3348.449411814452
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "H5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 756.4173228346457,
+      "scale": 1087.4225551321026
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "H6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 27100.748031496063,
+      "scale": 16206.233507803157
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "H9",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1163.3937007874015,
+      "scale": 640.4033198045016
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "MAX",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 1872.7435897435898,
+      "scale": 2146.1307822941876
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "Plus",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 915.1904761904761,
+      "scale": 916.6392470549963
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "Raptor",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 2202.6666666666665,
+      "scale": 1347.86190975928
+    },
+    {
+      "Country": "China",
+      "Brand": "Haval",
+      "Model": "Raptor PHEV",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 5541.764705882353,
+      "scale": 2714.3983711394762
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Accord",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14773.708661417322,
+      "scale": 5939.92639444476
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Avancier",
+      "observations": 118,
+      "first_month": "2016-10",
+      "last_month": "2026-07",
+      "center": 3745.6271186440677,
+      "scale": 2765.9670719743167
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Breeze",
+      "observations": 81,
+      "first_month": "2019-11",
+      "last_month": "2026-07",
+      "center": 10711.20987654321,
+      "scale": 4442.515989806826
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "CR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15962.952755905511,
+      "scale": 6662.312582473637
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "CR-V EV",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 412.6363636363636,
+      "scale": 429.83463791416347
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Civic",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12654.385826771653,
+      "scale": 7439.072695029525
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Elysion",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2708.6062992125985,
+      "scale": 1666.762622225151
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "HR-V",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 1985.225,
+      "scale": 1478.075199873151
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Inspire",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 4390.45744680851,
+      "scale": 2357.8305492561417
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Inspire EV",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 68.35135135135135,
+      "scale": 73.97552782328314
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Integra",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 5497.981818181818,
+      "scale": 4378.352960158142
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Lingxi L",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 185.6086956521739,
+      "scale": 268.35246573133327
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Odyssey",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3093.3779527559054,
+      "scale": 1250.9537812318292
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "P7",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 302.52941176470586,
+      "scale": 324.1597180856654
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "S7",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 241.76470588235293,
+      "scale": 165.9228442486811
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "UR-V",
+      "observations": 112,
+      "first_month": "2017-04",
+      "last_month": "2026-07",
+      "center": 2109.401785714286,
+      "scale": 1758.3972435366127
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "Vezel",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8399.75590551181,
+      "scale": 6025.650667828145
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "XR-V",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 9445.779527559054,
+      "scale": 6784.676522855514
+    },
+    {
+      "Country": "China",
+      "Brand": "Honda",
+      "Model": "e:NS2",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 94.96,
+      "scale": 88.93844523197211
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "E-HS9",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 281.14925373134326,
+      "scale": 326.39422579320035
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "E-QM5",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 4665.920634920635,
+      "scale": 2862.211465100401
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "EH7",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 327.23333333333335,
+      "scale": 296.65201773694974
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Guoli",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 2.8846153846153846,
+      "scale": 2.422990981563984
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Guoya",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 14.095238095238095,
+      "scale": 13.443092325670477
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Guoyao",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 10.083333333333334,
+      "scale": 7.331569216063713
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "H5",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 8080.737373737374,
+      "scale": 4207.282464906294
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "H5 PHEV",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 1150.1764705882354,
+      "scale": 632.6042522509559
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "H6",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 1177.6097560975609,
+      "scale": 402.3518109128702
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "H9",
+      "observations": 72,
+      "first_month": "2020-08",
+      "last_month": "2026-07",
+      "center": 1491.861111111111,
+      "scale": 1167.3895550205216
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HQ9",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 430.5744680851064,
+      "scale": 486.9259214386541
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HQ9 PHEV",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 307.6,
+      "scale": 136.9739057614236
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HS3",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 2043.081081081081,
+      "scale": 1033.5796941575682
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HS3 PHEV",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 2195.478260869565,
+      "scale": 1091.0426335276234
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HS5",
+      "observations": 87,
+      "first_month": "2019-05",
+      "last_month": "2026-07",
+      "center": 8146.517241379311,
+      "scale": 3726.4439899032404
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "HS7 PHEV",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 552.8,
+      "scale": 368.3141358893605
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Tiangong 05",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 277.05263157894734,
+      "scale": 139.12581006912316
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Tiangong 06",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 160.58823529411765,
+      "scale": 136.4194773347236
+    },
+    {
+      "Country": "China",
+      "Brand": "Hongqi",
+      "Model": "Tiangong 08",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 256.6666666666667,
+      "scale": 318.92531450699323
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyptec",
+      "Model": "GT",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 344.1842105263158,
+      "scale": 396.537049374611
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyptec",
+      "Model": "HL",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 301.125,
+      "scale": 246.52720910851798
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyptec",
+      "Model": "HT",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 750.3636363636364,
+      "scale": 484.70377327030076
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyptec",
+      "Model": "SSR",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 1.0,
+      "scale": 1.6266632306058633
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "Custo",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 1711.457627118644,
+      "scale": 1235.6134077358568
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "Elantra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13040.259842519685,
+      "scale": 9336.371984115494
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "Santa Fe",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 705.6614173228346,
+      "scale": 785.1921798510908
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "Sonata",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1343.0551181102362,
+      "scale": 1392.4483327648898
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "Tucson",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 2839.8987341772154,
+      "scale": 1666.6826297895059
+    },
+    {
+      "Country": "China",
+      "Brand": "Hyundai",
+      "Model": "ix35",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 3846.8101265822784,
+      "scale": 2523.086918145561
+    },
+    {
+      "Country": "China",
+      "Brand": "IM Motors",
+      "Model": "L6",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 1835.357142857143,
+      "scale": 924.9453878765876
+    },
+    {
+      "Country": "China",
+      "Brand": "IM Motors",
+      "Model": "L7",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 143.9387755102041,
+      "scale": 261.36840696167843
+    },
+    {
+      "Country": "China",
+      "Brand": "IM Motors",
+      "Model": "LS6",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 3745.942857142857,
+      "scale": 2363.8573838524426
+    },
+    {
+      "Country": "China",
+      "Brand": "IM Motors",
+      "Model": "LS7",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 445.8837209302326,
+      "scale": 587.8778347930037
+    },
+    {
+      "Country": "China",
+      "Brand": "Infiniti",
+      "Model": "QX50",
+      "observations": 121,
+      "first_month": "2016-07",
+      "last_month": "2026-07",
+      "center": 609.6611570247934,
+      "scale": 757.5589012313995
+    },
+    {
+      "Country": "China",
+      "Brand": "Infiniti",
+      "Model": "QX60",
+      "observations": 54,
+      "first_month": "2022-02",
+      "last_month": "2026-07",
+      "center": 107.88888888888889,
+      "scale": 61.88421008495719
+    },
+    {
+      "Country": "China",
+      "Brand": "Isuzu",
+      "Model": "mu-X",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 128.99212598425197,
+      "scale": 122.86426980501692
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "Aipao",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 161.70967741935485,
+      "scale": 153.97525873290817
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "E10X (Huaxianzi)",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 1403.5384615384614,
+      "scale": 1936.4163187357246
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "M3",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 1690.3739130434783,
+      "scale": 1044.5918682002016
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "QX PHEV",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 137.65714285714284,
+      "scale": 173.49278732992886
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "RF8",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 33.55555555555556,
+      "scale": 22.610255347536178
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "RF8 PHEV",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 118.70370370370371,
+      "scale": 83.30709177566327
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "X8 E",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 16.80952380952381,
+      "scale": 20.097292263690225
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "Yiwei 3",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 652.3846153846154,
+      "scale": 696.9131365256144
+    },
+    {
+      "Country": "China",
+      "Brand": "JAC",
+      "Model": "e3",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 124.76,
+      "scale": 102.80305706237141
+    },
+    {
+      "Country": "China",
+      "Brand": "JMEV",
+      "Model": "EV2",
+      "observations": 46,
+      "first_month": "2022-10",
+      "last_month": "2026-07",
+      "center": 929.6086956521739,
+      "scale": 872.0330982507086
+    },
+    {
+      "Country": "China",
+      "Brand": "JMEV",
+      "Model": "EV3",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 315.85333333333335,
+      "scale": 290.70579077961787
+    },
+    {
+      "Country": "China",
+      "Brand": "JMEV",
+      "Model": "Yi",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 301.375,
+      "scale": 251.29114295838733
+    },
+    {
+      "Country": "China",
+      "Brand": "Jaguar",
+      "Model": "E-Pace",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 101.27083333333333,
+      "scale": 151.0343628449039
+    },
+    {
+      "Country": "China",
+      "Brand": "Jaguar",
+      "Model": "XFL",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 831.5966386554621,
+      "scale": 495.18598426468475
+    },
+    {
+      "Country": "China",
+      "Brand": "Jemmell",
+      "Model": "Box",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 1033.1285714285714,
+      "scale": 824.7545703565438
+    },
+    {
+      "Country": "China",
+      "Brand": "Jemmell",
+      "Model": "uni",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 298.0816326530612,
+      "scale": 220.6675648745481
+    },
+    {
+      "Country": "China",
+      "Brand": "Jetta",
+      "Model": "VA3",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 3651.3291139240505,
+      "scale": 1539.293652299447
+    },
+    {
+      "Country": "China",
+      "Brand": "Jetta",
+      "Model": "VA7",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 321.7894736842105,
+      "scale": 197.2860435615477
+    },
+    {
+      "Country": "China",
+      "Brand": "Jetta",
+      "Model": "VS5",
+      "observations": 79,
+      "first_month": "2020-01",
+      "last_month": "2026-07",
+      "center": 5676.974683544304,
+      "scale": 2056.055182264957
+    },
+    {
+      "Country": "China",
+      "Brand": "Jetta",
+      "Model": "VS7",
+      "observations": 78,
+      "first_month": "2020-02",
+      "last_month": "2026-07",
+      "center": 2328.076923076923,
+      "scale": 1199.5076042432938
+    },
+    {
+      "Country": "China",
+      "Brand": "Jetta",
+      "Model": "VS8",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 1241.3076923076924,
+      "scale": 499.24279916543196
+    },
+    {
+      "Country": "China",
+      "Brand": "Kaicene",
+      "Model": "Honor S",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3136.165354330709,
+      "scale": 4229.5870472771985
+    },
+    {
+      "Country": "China",
+      "Brand": "Karry",
+      "Model": "Jiang Tun",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 2143.6875,
+      "scale": 862.2065760765215
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Carnival",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 176.10169491525423,
+      "scale": 137.67421475467415
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "EV5",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 291.93939393939394,
+      "scale": 217.47783443965716
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Forte",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4193.63779527559,
+      "scale": 5602.0083501562085
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "K5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1024.2047244094488,
+      "scale": 1486.0001825834725
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Pegas",
+      "observations": 107,
+      "first_month": "2017-09",
+      "last_month": "2026-07",
+      "center": 2337.7943925233644,
+      "scale": 2519.736455110805
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Seltos",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 1306.325,
+      "scale": 606.2405157268091
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Sonet",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 56.44827586206897,
+      "scale": 124.43816272681588
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Sportage",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1010.468085106383,
+      "scale": 443.99548549171743
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Sportage Ace",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3285.9055118110236,
+      "scale": 3305.265090671536
+    },
+    {
+      "Country": "China",
+      "Brand": "Kia",
+      "Model": "Stonic",
+      "observations": 96,
+      "first_month": "2018-08",
+      "last_month": "2026-07",
+      "center": 1660.2395833333333,
+      "scale": 1020.619403583373
+    },
+    {
+      "Country": "China",
+      "Brand": "LEVC",
+      "Model": "L380",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 100.47826086956522,
+      "scale": 136.862176843268
+    },
+    {
+      "Country": "China",
+      "Brand": "Land Rover",
+      "Model": "Discovery Sport",
+      "observations": 63,
+      "first_month": "2021-05",
+      "last_month": "2026-07",
+      "center": 794.7936507936508,
+      "scale": 579.1609956426959
+    },
+    {
+      "Country": "China",
+      "Brand": "Land Rover",
+      "Model": "Range Rover Evoque",
+      "observations": 123,
+      "first_month": "2016-05",
+      "last_month": "2026-07",
+      "center": 1075.1138211382113,
+      "scale": 521.6886571903694
+    },
+    {
+      "Country": "China",
+      "Brand": "Landian",
+      "Model": "e5",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 1527.1463414634147,
+      "scale": 1133.1058605201945
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "B01",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 6877.785714285715,
+      "scale": 4276.517570861963
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "B10",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 6454.529411764706,
+      "scale": 3268.1980544184057
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "C10",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 8757.806451612903,
+      "scale": 3810.5928502688653
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "C11",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 6070.491228070176,
+      "scale": 2871.2988919087434
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "C16",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 5788.423076923077,
+      "scale": 2321.160724155533
+    },
+    {
+      "Country": "China",
+      "Brand": "Leapmotor",
+      "Model": "T03",
+      "observations": 68,
+      "first_month": "2020-12",
+      "last_month": "2026-07",
+      "center": 3772.5882352941176,
+      "scale": 2191.8944756863325
+    },
+    {
+      "Country": "China",
+      "Brand": "Li Auto",
+      "Model": "L6",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 13964.357142857143,
+      "scale": 8129.137330919271
+    },
+    {
+      "Country": "China",
+      "Brand": "Li Auto",
+      "Model": "L8",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 5929.777777777777,
+      "scale": 3491.385879492001
+    },
+    {
+      "Country": "China",
+      "Brand": "Li Auto",
+      "Model": "L9",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 6411.617021276596,
+      "scale": 3312.1787610761457
+    },
+    {
+      "Country": "China",
+      "Brand": "Li Auto",
+      "Model": "MEGA",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 1121.3103448275863,
+      "scale": 924.5064081871326
+    },
+    {
+      "Country": "China",
+      "Brand": "Lincoln",
+      "Model": "Aviator",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 570.5616438356165,
+      "scale": 543.826545674033
+    },
+    {
+      "Country": "China",
+      "Brand": "Lincoln",
+      "Model": "Corsair",
+      "observations": 77,
+      "first_month": "2020-03",
+      "last_month": "2026-07",
+      "center": 2222.9220779220777,
+      "scale": 1886.592812918777
+    },
+    {
+      "Country": "China",
+      "Brand": "Lincoln",
+      "Model": "Nautilus",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 1753.078125,
+      "scale": 1332.1230371394556
+    },
+    {
+      "Country": "China",
+      "Brand": "Lincoln",
+      "Model": "Zephyr",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 1087.9411764705883,
+      "scale": 396.889495507793
+    },
+    {
+      "Country": "China",
+      "Brand": "Livan",
+      "Model": "60s",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 775.9454545454546,
+      "scale": 1020.6409613030444
+    },
+    {
+      "Country": "China",
+      "Brand": "Livan",
+      "Model": "7",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 244.5,
+      "scale": 259.45287553182317
+    },
+    {
+      "Country": "China",
+      "Brand": "Livan",
+      "Model": "8",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 69.42857142857143,
+      "scale": 64.57153597510802
+    },
+    {
+      "Country": "China",
+      "Brand": "Luxeed",
+      "Model": "R7",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 5762.571428571428,
+      "scale": 4295.918161185925
+    },
+    {
+      "Country": "China",
+      "Brand": "Luxeed",
+      "Model": "S7",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 1434.5454545454545,
+      "scale": 1623.2115122545952
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "01",
+      "observations": 103,
+      "first_month": "2018-01",
+      "last_month": "2026-07",
+      "center": 2596.029126213592,
+      "scale": 2401.236089534739
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "03",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 5025.851063829788,
+      "scale": 1904.6240389655484
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "06",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 3737.9,
+      "scale": 1467.326446024996
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "06 EM-P",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 547.983606557377,
+      "scale": 679.9092667458962
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "07 EM-P",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 2958.925925925926,
+      "scale": 1720.4210935447966
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "08 EM-P",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 5014.742857142857,
+      "scale": 2479.4010147934896
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "09",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 747.140350877193,
+      "scale": 466.31966888248144
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "09 EM-P",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 702.1818181818181,
+      "scale": 488.54409005134426
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "900",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 3577.294117647059,
+      "scale": 2549.7571601197114
+    },
+    {
+      "Country": "China",
+      "Brand": "Lynk & Co",
+      "Model": "Z20",
+      "observations": 20,
+      "first_month": "2024-12",
+      "last_month": "2026-07",
+      "center": 2467.8,
+      "scale": 1817.9321778546662
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "Cyberster",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 28.0,
+      "scale": 28.438878835949875
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "ES5",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 344.7142857142857,
+      "scale": 283.1945751584327
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "MG4",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 3779.74,
+      "scale": 5164.921229260957
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "MG5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3896.0,
+      "scale": 4454.676113026277
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "MG6",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2179.165354330709,
+      "scale": 3033.2914649144905
+    },
+    {
+      "Country": "China",
+      "Brand": "MG",
+      "Model": "MG7",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 1945.6,
+      "scale": 1173.8054813181325
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "G50",
+      "observations": 92,
+      "first_month": "2018-12",
+      "last_month": "2026-07",
+      "center": 1418.7282608695652,
+      "scale": 885.4841947784054
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "G50 PHEV",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 183.11764705882354,
+      "scale": 93.27267802718673
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "G70",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 27.333333333333332,
+      "scale": 20.014433573682783
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "G90",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 106.55102040816327,
+      "scale": 126.11551795650581
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "MIFA 7",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 130.77777777777777,
+      "scale": 92.20573754976111
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "MIFA 9",
+      "observations": 50,
+      "first_month": "2022-06",
+      "last_month": "2026-07",
+      "center": 203.24,
+      "scale": 111.55705013548126
+    },
+    {
+      "Country": "China",
+      "Brand": "Maxus",
+      "Model": "Territory",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 24.703703703703702,
+      "scale": 20.85913271453506
+    },
+    {
+      "Country": "China",
+      "Brand": "Mazda",
+      "Model": "CX-30",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 720.9333333333333,
+      "scale": 756.9707237771414
+    },
+    {
+      "Country": "China",
+      "Brand": "Mazda",
+      "Model": "CX-5",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2808.448818897638,
+      "scale": 1245.5982305676218
+    },
+    {
+      "Country": "China",
+      "Brand": "Mazda",
+      "Model": "CX-50",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 648.4615384615385,
+      "scale": 625.8768195618942
+    },
+    {
+      "Country": "China",
+      "Brand": "Mazda",
+      "Model": "Mazda3",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 6538.811023622047,
+      "scale": 4216.892022225009
+    },
+    {
+      "Country": "China",
+      "Brand": "Mazda",
+      "Model": "Mazda6e",
+      "observations": 21,
+      "first_month": "2024-11",
+      "last_month": "2026-07",
+      "center": 1554.0,
+      "scale": 709.9878074262843
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "A-Class",
+      "observations": 93,
+      "first_month": "2018-11",
+      "last_month": "2026-07",
+      "center": 3724.451612903226,
+      "scale": 2405.216331270794
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "C-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11501.795275590552,
+      "scale": 3183.471393303201
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "E-Class",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11136.031496062993,
+      "scale": 3573.2933291549043
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQA",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 238.80701754385964,
+      "scale": 232.6970872946622
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQB",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 391.4561403508772,
+      "scale": 317.09059155302134
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE",
+      "observations": 48,
+      "first_month": "2022-08",
+      "last_month": "2026-07",
+      "center": 388.7916666666667,
+      "scale": 422.09156673486655
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "EQE SUV",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 486.61538461538464,
+      "scale": 457.8782650755168
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLA",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2731.220472440945,
+      "scale": 2201.9290202860634
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLB",
+      "observations": 80,
+      "first_month": "2019-12",
+      "last_month": "2026-07",
+      "center": 4198.9,
+      "scale": 2043.447027238983
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "GLC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10663.700787401574,
+      "scale": 3404.750232684434
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "V-Class",
+      "observations": 125,
+      "first_month": "2016-03",
+      "last_month": "2026-07",
+      "center": 1157.576,
+      "scale": 580.1080476584174
+    },
+    {
+      "Country": "China",
+      "Brand": "Mercedes-Benz",
+      "Model": "Vito",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 961.7244094488188,
+      "scale": 511.3808974110498
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "EC6",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 1534.0,
+      "scale": 987.9302222296402
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "EC7",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 189.6341463414634,
+      "scale": 175.1288949675277
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "EL6",
+      "observations": 87,
+      "first_month": "2019-05",
+      "last_month": "2026-07",
+      "center": 3548.8275862068967,
+      "scale": 2243.6657745530065
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "EL8",
+      "observations": 97,
+      "first_month": "2018-07",
+      "last_month": "2026-07",
+      "center": 2333.6288659793813,
+      "scale": 3920.252303326054
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "ET5",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2129.6170212765956,
+      "scale": 1619.7552460790282
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "ET5T",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 3493.2368421052633,
+      "scale": 1371.8837710639898
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "ET7",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 674.9655172413793,
+      "scale": 948.7618852997715
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "ET9",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 200.3125,
+      "scale": 222.6896138268801
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "Firefly",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 4582.5625,
+      "scale": 1853.9697633817386
+    },
+    {
+      "Country": "China",
+      "Brand": "NIO",
+      "Model": "L60",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 4634.565217391304,
+      "scale": 2013.6875736928603
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Altima",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8698.338582677165,
+      "scale": 3865.845440091519
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Ariya",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 153.31914893617022,
+      "scale": 208.97695878793672
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "D60",
+      "observations": 105,
+      "first_month": "2017-11",
+      "last_month": "2026-07",
+      "center": 2041.7904761904763,
+      "scale": 2505.5175580867653
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "D60EV",
+      "observations": 84,
+      "first_month": "2019-08",
+      "last_month": "2026-07",
+      "center": 1393.3333333333333,
+      "scale": 1593.8272005055353
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Kicks",
+      "observations": 109,
+      "first_month": "2017-07",
+      "last_month": "2026-07",
+      "center": 1891.7339449541284,
+      "scale": 2098.7447703335797
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "N7",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 3380.5,
+      "scale": 2887.013596324781
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Paladin",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 54.25196850393701,
+      "scale": 118.69566082212076
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Pathfinder",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 675.258064516129,
+      "scale": 451.7120913059781
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Qashqai",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 11525.779527559054,
+      "scale": 4349.996832998013
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Rogue",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 10177.488188976378,
+      "scale": 8809.799404851403
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Sentra",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 34082.574803149604,
+      "scale": 11730.596007763037
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Tiida",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 3385.3622047244094,
+      "scale": 2703.910308860894
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "V DD-i",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 758.918918918919,
+      "scale": 914.2510754103172
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "VX6",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 850.0,
+      "scale": 344.0442151241669
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Venucia Star",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 562.5066666666667,
+      "scale": 830.012151565964
+    },
+    {
+      "Country": "China",
+      "Brand": "Nissan",
+      "Model": "Venucia V-Online",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 1507.5762711864406,
+      "scale": 1604.5444953132892
+    },
+    {
+      "Country": "China",
+      "Brand": "ORA",
+      "Model": "03",
+      "observations": 68,
+      "first_month": "2020-12",
+      "last_month": "2026-07",
+      "center": 4039.485294117647,
+      "scale": 2623.0723874558785
+    },
+    {
+      "Country": "China",
+      "Brand": "ORA",
+      "Model": "Ba Lei Mao",
+      "observations": 49,
+      "first_month": "2022-07",
+      "last_month": "2026-07",
+      "center": 175.22448979591837,
+      "scale": 273.52780837446034
+    },
+    {
+      "Country": "China",
+      "Brand": "ORA",
+      "Model": "Lightning Cat",
+      "observations": 45,
+      "first_month": "2022-11",
+      "last_month": "2026-07",
+      "center": 460.35555555555555,
+      "scale": 703.0472751657983
+    },
+    {
+      "Country": "China",
+      "Brand": "Peugeot",
+      "Model": "4008",
+      "observations": 118,
+      "first_month": "2016-10",
+      "last_month": "2026-07",
+      "center": 1371.584745762712,
+      "scale": 1450.6019444273534
+    },
+    {
+      "Country": "China",
+      "Brand": "Peugeot",
+      "Model": "408",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2288.2913385826773,
+      "scale": 2558.664216064399
+    },
+    {
+      "Country": "China",
+      "Brand": "Peugeot",
+      "Model": "408X",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 254.90243902439025,
+      "scale": 354.14930741258667
+    },
+    {
+      "Country": "China",
+      "Brand": "Peugeot",
+      "Model": "5008",
+      "observations": 111,
+      "first_month": "2017-05",
+      "last_month": "2026-07",
+      "center": 699.3243243243244,
+      "scale": 852.6554217795543
+    },
+    {
+      "Country": "China",
+      "Brand": "Peugeot",
+      "Model": "508",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 378.74015748031496,
+      "scale": 408.51856788776627
+    },
+    {
+      "Country": "China",
+      "Brand": "Polestar",
+      "Model": "4",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 62.354838709677416,
+      "scale": 90.20797865106543
+    },
+    {
+      "Country": "China",
+      "Brand": "ROX",
+      "Model": "01",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 802.3823529411765,
+      "scale": 598.1173640762328
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "D5X DMH",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 270.9,
+      "scale": 268.4178358408016
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "D6",
+      "observations": 16,
+      "first_month": "2025-04",
+      "last_month": "2026-07",
+      "center": 1999.9375,
+      "scale": 966.8883170353529
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "D7",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 2001.4545454545455,
+      "scale": 1356.233029229675
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "RX5",
+      "observations": 121,
+      "first_month": "2016-07",
+      "last_month": "2026-07",
+      "center": 8579.231404958678,
+      "scale": 7386.638128384174
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "RX9",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 112.58536585365853,
+      "scale": 266.110538172916
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "iMAX8",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 558.6857142857143,
+      "scale": 915.8951471286297
+    },
+    {
+      "Country": "China",
+      "Brand": "Roewe",
+      "Model": "iMAX8 EV",
+      "observations": 51,
+      "first_month": "2022-05",
+      "last_month": "2026-07",
+      "center": 215.47058823529412,
+      "scale": 183.72613574775437
+    },
+    {
+      "Country": "China",
+      "Brand": "Ruichi",
+      "Model": "EC75",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 1386.611111111111,
+      "scale": 1367.4307312434958
+    },
+    {
+      "Country": "China",
+      "Brand": "SAIC",
+      "Model": "F7",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 504.9268292682927,
+      "scale": 642.5744894870485
+    },
+    {
+      "Country": "China",
+      "Brand": "SAIC",
+      "Model": "R7",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 325.8085106382979,
+      "scale": 582.7257470904602
+    },
+    {
+      "Country": "China",
+      "Brand": "SRM",
+      "Model": "Jinhaishi",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 1290.4516129032259,
+      "scale": 468.08030308096363
+    },
+    {
+      "Country": "China",
+      "Brand": "SWM",
+      "Model": "G05",
+      "observations": 84,
+      "first_month": "2019-08",
+      "last_month": "2026-07",
+      "center": 758.8571428571429,
+      "scale": 712.3786201314139
+    },
+    {
+      "Country": "China",
+      "Brand": "SWM",
+      "Model": "SWM",
+      "observations": 30,
+      "first_month": "2024-02",
+      "last_month": "2026-07",
+      "center": 101.03333333333333,
+      "scale": 108.89462392900899
+    },
+    {
+      "Country": "China",
+      "Brand": "Skyworth",
+      "Model": "EV6",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 633.4333333333333,
+      "scale": 514.7603037939272
+    },
+    {
+      "Country": "China",
+      "Brand": "Skyworth",
+      "Model": "HT-i",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 400.1162790697674,
+      "scale": 341.09544813629435
+    },
+    {
+      "Country": "China",
+      "Brand": "Smart",
+      "Model": "smart#1",
+      "observations": 44,
+      "first_month": "2022-12",
+      "last_month": "2026-07",
+      "center": 2016.8863636363637,
+      "scale": 1099.9616780996066
+    },
+    {
+      "Country": "China",
+      "Brand": "Smart",
+      "Model": "smart#3",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 598.2894736842105,
+      "scale": 459.371339294438
+    },
+    {
+      "Country": "China",
+      "Brand": "Smart",
+      "Model": "smart#5",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 491.39130434782606,
+      "scale": 427.60399329758883
+    },
+    {
+      "Country": "China",
+      "Brand": "Stelato",
+      "Model": "S9",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1273.3181818181818,
+      "scale": 802.1439626503111
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "300",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 6312.805970149254,
+      "scale": 2609.9728400983245
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "300 EV",
+      "observations": 27,
+      "first_month": "2024-05",
+      "last_month": "2026-07",
+      "center": 1464.7777777777778,
+      "scale": 1374.551206031519
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "400",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 416.6666666666667,
+      "scale": 215.89828330536687
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "400 EV",
+      "observations": 34,
+      "first_month": "2023-10",
+      "last_month": "2026-07",
+      "center": 3225.823529411765,
+      "scale": 1165.7920194999667
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "500",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 750.0961538461538,
+      "scale": 925.4107376236585
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "500 EV",
+      "observations": 37,
+      "first_month": "2023-07",
+      "last_month": "2026-07",
+      "center": 3433.5135135135133,
+      "scale": 1303.6549998034488
+    },
+    {
+      "Country": "China",
+      "Brand": "Tank",
+      "Model": "700 EV",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 968.6551724137931,
+      "scale": 779.3401781512594
+    },
+    {
+      "Country": "China",
+      "Brand": "Tesla",
+      "Model": "Model 3",
+      "observations": 75,
+      "first_month": "2020-05",
+      "last_month": "2026-07",
+      "center": 16525.76,
+      "scale": 8112.996422375581
+    },
+    {
+      "Country": "China",
+      "Brand": "Tesla",
+      "Model": "Model Y",
+      "observations": 66,
+      "first_month": "2021-02",
+      "last_month": "2026-07",
+      "center": 33534.72727272727,
+      "scale": 16057.251092267916
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Avalon",
+      "observations": 89,
+      "first_month": "2019-03",
+      "last_month": "2026-07",
+      "center": 8629.550561797752,
+      "scale": 3288.4476602057753
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Camry",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 14673.511811023622,
+      "scale": 6152.047368406362
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Corolla",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 21398.96850393701,
+      "scale": 10642.346761610263
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Corolla Cross",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 12553.981818181817,
+      "scale": 4937.4345560160145
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Crown Kluger",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 4507.6949152542375,
+      "scale": 1430.538399740108
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Frontlander",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 13638.49090909091,
+      "scale": 4682.516689584039
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Granvia",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 5082.116279069767,
+      "scale": 2076.5125110414015
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Highlander",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 7529.574803149606,
+      "scale": 2044.7913004261538
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Land Cruiser Prado",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1781.5433070866143,
+      "scale": 1663.5573637247564
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Levin",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 12623.551181102363,
+      "scale": 7193.315343575608
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Levin GT",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 601.6,
+      "scale": 582.8652832411643
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "RAV4",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 13635.614173228347,
+      "scale": 4946.910714280671
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Sienna",
+      "observations": 56,
+      "first_month": "2021-12",
+      "last_month": "2026-07",
+      "center": 6861.875,
+      "scale": 1361.7030807154408
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Venza",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 1440.9622641509434,
+      "scale": 1203.5041797518738
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "Wildlander",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 10566.644736842105,
+      "scale": 3090.7750013183154
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "bZ3",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 2618.7804878048782,
+      "scale": 1633.3298092259524
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "bZ3X",
+      "observations": 17,
+      "first_month": "2025-03",
+      "last_month": "2026-07",
+      "center": 7090.294117647059,
+      "scale": 2232.3801940316635
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "bZ4X",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 229.34375,
+      "scale": 211.45273410101993
+    },
+    {
+      "Country": "China",
+      "Brand": "Toyota",
+      "Model": "bZ5",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 1236.2666666666667,
+      "scale": 779.2302172380597
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Bora",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 12836.787878787878,
+      "scale": 10133.774546199225
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "CC",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 2010.3149606299212,
+      "scale": 1040.8174349318413
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Golf",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 8530.125984251968,
+      "scale": 5991.704550185009
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "ID.3",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 4190.224137931034,
+      "scale": 3891.4994839618475
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "ID.4 CROZZ",
+      "observations": 66,
+      "first_month": "2021-02",
+      "last_month": "2026-07",
+      "center": 2602.257575757576,
+      "scale": 1607.2634778418176
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "ID.4 X",
+      "observations": 65,
+      "first_month": "2021-03",
+      "last_month": "2026-07",
+      "center": 1994.2615384615385,
+      "scale": 1419.5641056285679
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Lamando L",
+      "observations": 55,
+      "first_month": "2022-01",
+      "last_month": "2026-07",
+      "center": 5337.018181818182,
+      "scale": 3851.0507203717034
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Lavida",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 32416.15748031496,
+      "scale": 11053.653024372341
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Magotan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15352.976377952757,
+      "scale": 4835.860043174759
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Passat NMS",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 15572.267716535433,
+      "scale": 5422.721538498029
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Sagitar",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 23072.87401574803,
+      "scale": 8175.919232832451
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "T-Roc",
+      "observations": 99,
+      "first_month": "2018-05",
+      "last_month": "2026-07",
+      "center": 6234.181818181818,
+      "scale": 3541.8406010780573
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Talagon",
+      "observations": 64,
+      "first_month": "2021-04",
+      "last_month": "2026-07",
+      "center": 1648.8125,
+      "scale": 1095.0990424038762
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tavendor",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2360.531914893617,
+      "scale": 1018.1684448723623
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tayron",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 11951.810526315789,
+      "scale": 5830.8091926745265
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tayron X",
+      "observations": 74,
+      "first_month": "2020-06",
+      "last_month": "2026-07",
+      "center": 794.1486486486486,
+      "scale": 647.7776944453099
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Teramont",
+      "observations": 115,
+      "first_month": "2017-01",
+      "last_month": "2026-07",
+      "center": 4109.008695652174,
+      "scale": 2462.3552682554027
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Teramont X",
+      "observations": 88,
+      "first_month": "2019-04",
+      "last_month": "2026-07",
+      "center": 1276.034090909091,
+      "scale": 864.4606170829925
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tharu",
+      "observations": 95,
+      "first_month": "2018-09",
+      "last_month": "2026-07",
+      "center": 7711.263157894737,
+      "scale": 5401.147896155827
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tharu XR",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 9503.782608695652,
+      "scale": 3192.5594256113004
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Tiguan",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 17383.299212598424,
+      "scale": 7113.871681166625
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Touran",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 1223.244094488189,
+      "scale": 1610.6012083430846
+    },
+    {
+      "Country": "China",
+      "Brand": "Volkswagen",
+      "Model": "Viloran",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 1251.3815789473683,
+      "scale": 1014.1862189070499
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "EM90",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 62.19230769230769,
+      "scale": 46.186705294019845
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "EX30",
+      "observations": 26,
+      "first_month": "2024-06",
+      "last_month": "2026-07",
+      "center": 116.3076923076923,
+      "scale": 119.46034847806607
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "S60",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 2002.0756302521008,
+      "scale": 782.4881146997574
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "S90",
+      "observations": 94,
+      "first_month": "2018-10",
+      "last_month": "2026-07",
+      "center": 2628.553191489362,
+      "scale": 1160.6678465823811
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "S90 PHEV",
+      "observations": 59,
+      "first_month": "2021-09",
+      "last_month": "2026-07",
+      "center": 248.0,
+      "scale": 181.14142502436488
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "XC40",
+      "observations": 76,
+      "first_month": "2020-04",
+      "last_month": "2026-07",
+      "center": 807.4868421052631,
+      "scale": 752.9933270047611
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "XC60",
+      "observations": 119,
+      "first_month": "2016-09",
+      "last_month": "2026-07",
+      "center": 5287.252100840336,
+      "scale": 2154.5723729214747
+    },
+    {
+      "Country": "China",
+      "Brand": "Volvo",
+      "Model": "XC60 PHEV",
+      "observations": 61,
+      "first_month": "2021-07",
+      "last_month": "2026-07",
+      "center": 421.62295081967216,
+      "scale": 251.40325472338077
+    },
+    {
+      "Country": "China",
+      "Brand": "Voyah",
+      "Model": "Courage",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 1788.5454545454545,
+      "scale": 1136.651893669114
+    },
+    {
+      "Country": "China",
+      "Brand": "Voyah",
+      "Model": "Dreamer",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 3905.566037735849,
+      "scale": 2679.5318590795955
+    },
+    {
+      "Country": "China",
+      "Brand": "Voyah",
+      "Model": "Free",
+      "observations": 60,
+      "first_month": "2021-08",
+      "last_month": "2026-07",
+      "center": 1774.25,
+      "scale": 1278.7595857254937
+    },
+    {
+      "Country": "China",
+      "Brand": "Voyah",
+      "Model": "Passion",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 421.0238095238095,
+      "scale": 338.32175724082623
+    },
+    {
+      "Country": "China",
+      "Brand": "WEY",
+      "Model": "Gaoshan",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 3216.3333333333335,
+      "scale": 3424.8369458706165
+    },
+    {
+      "Country": "China",
+      "Brand": "WEY",
+      "Model": "Lanshan",
+      "observations": 40,
+      "first_month": "2023-04",
+      "last_month": "2026-07",
+      "center": 2915.45,
+      "scale": 1888.7339116276985
+    },
+    {
+      "Country": "China",
+      "Brand": "WEY",
+      "Model": "Mocha PHEV",
+      "observations": 53,
+      "first_month": "2022-03",
+      "last_month": "2026-07",
+      "center": 266.45283018867923,
+      "scale": 282.0953801580214
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Bingo",
+      "observations": 41,
+      "first_month": "2023-03",
+      "last_month": "2026-07",
+      "center": 12581.365853658537,
+      "scale": 8238.761789804064
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Hongguang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 23874.496062992126,
+      "scale": 18486.53393457073
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Hongguang EV",
+      "observations": 19,
+      "first_month": "2025-01",
+      "last_month": "2026-07",
+      "center": 2927.0526315789475,
+      "scale": 1731.9828045940699
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Hongguang MINIEV",
+      "observations": 73,
+      "first_month": "2020-07",
+      "last_month": "2026-07",
+      "center": 29109.753424657534,
+      "scale": 14988.654642457044
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Jiachen",
+      "observations": 52,
+      "first_month": "2022-04",
+      "last_month": "2026-07",
+      "center": 2663.5384615384614,
+      "scale": 2145.845693104522
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Plus",
+      "observations": 29,
+      "first_month": "2024-03",
+      "last_month": "2026-07",
+      "center": 1724.4137931034484,
+      "scale": 1798.979923418612
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Rongguang",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4933.645669291339,
+      "scale": 3059.835191200991
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Starlight",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 3319.757575757576,
+      "scale": 2734.5812349191538
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Starlight S",
+      "observations": 25,
+      "first_month": "2024-07",
+      "last_month": "2026-07",
+      "center": 2169.64,
+      "scale": 2395.9568553994486
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Sunshine",
+      "observations": 127,
+      "first_month": "2016-01",
+      "last_month": "2026-07",
+      "center": 4562.937007874016,
+      "scale": 3879.728946792452
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Sunshine EV",
+      "observations": 18,
+      "first_month": "2025-02",
+      "last_month": "2026-07",
+      "center": 2412.222222222222,
+      "scale": 1277.4259395046338
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Victory",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 1729.5142857142857,
+      "scale": 2485.5237760454334
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Xingchen",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 3312.948275862069,
+      "scale": 4190.437914892413
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Xingchi",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 2093.68085106383,
+      "scale": 1783.8163319220878
+    },
+    {
+      "Country": "China",
+      "Brand": "Wuling",
+      "Model": "Zhengcheng",
+      "observations": 58,
+      "first_month": "2021-10",
+      "last_month": "2026-07",
+      "center": 811.7931034482758,
+      "scale": 1576.3746494087673
+    },
+    {
+      "Country": "China",
+      "Brand": "Xiaomi",
+      "Model": "SU7",
+      "observations": 28,
+      "first_month": "2024-04",
+      "last_month": "2026-07",
+      "center": 17828.25,
+      "scale": 8099.3234202176645
+    },
+    {
+      "Country": "China",
+      "Brand": "Xiaomi",
+      "Model": "YU7",
+      "observations": 14,
+      "first_month": "2025-06",
+      "last_month": "2026-07",
+      "center": 19175.35714285714,
+      "scale": 12328.856457831716
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "G6",
+      "observations": 38,
+      "first_month": "2023-06",
+      "last_month": "2026-07",
+      "center": 3868.0789473684213,
+      "scale": 2214.4261704999262
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "G7",
+      "observations": 13,
+      "first_month": "2025-07",
+      "last_month": "2026-07",
+      "center": 2692.769230769231,
+      "scale": 1715.2417348743936
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "G9",
+      "observations": 47,
+      "first_month": "2022-09",
+      "last_month": "2026-07",
+      "center": 1678.127659574468,
+      "scale": 1307.6446193001648
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "MONA M03",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 12353.083333333334,
+      "scale": 4010.204331665002
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "P7",
+      "observations": 70,
+      "first_month": "2020-10",
+      "last_month": "2026-07",
+      "center": 3159.6714285714284,
+      "scale": 2334.3392325517084
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "P7+",
+      "observations": 22,
+      "first_month": "2024-10",
+      "last_month": "2026-07",
+      "center": 5302.227272727273,
+      "scale": 2268.793941404382
+    },
+    {
+      "Country": "China",
+      "Brand": "Xpeng",
+      "Model": "X9",
+      "observations": 31,
+      "first_month": "2024-01",
+      "last_month": "2026-07",
+      "center": 1807.483870967742,
+      "scale": 970.2542036796185
+    },
+    {
+      "Country": "China",
+      "Brand": "Yangwang",
+      "Model": "U7",
+      "observations": 15,
+      "first_month": "2025-05",
+      "last_month": "2026-07",
+      "center": 180.8,
+      "scale": 120.35830170013219
+    },
+    {
+      "Country": "China",
+      "Brand": "Yangwang",
+      "Model": "U8",
+      "observations": 33,
+      "first_month": "2023-11",
+      "last_month": "2026-07",
+      "center": 334.3333333333333,
+      "scale": 425.34720808062053
+    },
+    {
+      "Country": "China",
+      "Brand": "Yangwang",
+      "Model": "U9",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 8.130434782608695,
+      "scale": 8.461066546042982
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "001",
+      "observations": 57,
+      "first_month": "2021-11",
+      "last_month": "2026-07",
+      "center": 5476.1578947368425,
+      "scale": 3120.0559485454437
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "007",
+      "observations": 32,
+      "first_month": "2023-12",
+      "last_month": "2026-07",
+      "center": 3419.0625,
+      "scale": 1760.7263024969845
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "009",
+      "observations": 42,
+      "first_month": "2023-02",
+      "last_month": "2026-07",
+      "center": 1683.8095238095239,
+      "scale": 986.3579158164404
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "7X",
+      "observations": 24,
+      "first_month": "2024-08",
+      "last_month": "2026-07",
+      "center": 5681.5,
+      "scale": 2392.8805044081055
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "MIX",
+      "observations": 23,
+      "first_month": "2024-09",
+      "last_month": "2026-07",
+      "center": 144.3913043478261,
+      "scale": 157.57743394414254
+    },
+    {
+      "Country": "China",
+      "Brand": "Zeekr",
+      "Model": "X",
+      "observations": 39,
+      "first_month": "2023-05",
+      "last_month": "2026-07",
+      "center": 1207.2564102564102,
+      "scale": 1176.0213334832624
+    }
+  ],
+  "normalizer_fit_scope": "unique_valid_original_observations_of_eligible_series_through_train_end",
+  "normalizer": {
+    "method": "standard",
+    "groups": [
+      "Brand",
+      "Model"
+    ],
+    "center": true,
+    "scale_by_group": false,
+    "transformation": null
+  },
+  "allow_missing_timesteps": false,
+  "add_relative_time_idx": false,
+  "add_target_scales": false,
+  "add_encoder_length": false,
+  "randomize_length": false,
+  "training_shuffle": true,
+  "drop_last": false,
+  "num_workers": 0,
+  "continuous_dtype": "float32",
+  "categorical_dtype": "int64",
+  "algorithm": "TFT",
+  "parameters": {
+    "hidden_size": 32,
+    "epochs": 50,
+    "hidden_continuous_size": 8,
+    "attention_head_size": 1,
+    "lstm_layers": 1,
+    "dropout": 0.1,
+    "output_size": 1,
+    "optimizer": "Adam",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0,
+    "gradient_clip_val": 0.1,
+    "precision": "32-true",
+    "seed": 42,
+    "batch_size": 64,
+    "num_workers": 0,
+    "shuffle": true,
+    "drop_last": false,
+    "quantiles": [
+      0.5
+    ],
+    "early_stopping": false,
+    "lr_scheduler": null
+  },
+  "actual_epochs": 50,
+  "device": "cpu",
+  "torch_threads": 1,
+  "deterministic_algorithms": true,
+  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
+  "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
+  "global_step": 21250,
+  "training_seconds": 986.907140700001
+}

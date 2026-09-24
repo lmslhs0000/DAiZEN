@@ -1,0 +1,53 @@
+{
+  "version": 2,
+  "name": "original_xgboost_a",
+  "sources": {
+    "TFT": {
+      "run_id": "run_20260922T081432_215155Z_3a3e74e049cd",
+      "manifest_sha256": "2b7ef458e373c4f1767894d13f0179183445f54eb7213e2d216aedb5a8a72c73",
+      "manifest_path": "model_info/tft.json"
+    },
+    "XGBoost": {
+      "run_id": "run_20260921T175602_851343Z_28c46a24e7d2",
+      "manifest_sha256": "9585c69e85be2309ddca8239233b81956acf7e706c057a91b3f68c76733df6b3",
+      "manifest_path": "model_info/xgboost.json"
+    }
+  },
+  "countries": {
+    "Canada": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/canada"
+    },
+    "China": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/china"
+    },
+    "Europe": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/europe"
+    },
+    "Germany": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/germany"
+    },
+    "Japan": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/japan"
+    },
+    "South Korea": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/south_korea"
+    },
+    "United States": {
+      "selection_method": "A",
+      "algorithm": "XGBoost",
+      "bundle_dir": "models/xgboost/A/united_states"
+    }
+  }
+}
