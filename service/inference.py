@@ -7,6 +7,7 @@ import logging
 import math
 from pathlib import Path
 import re
+import tempfile
 import threading
 import uuid
 
@@ -19,7 +20,6 @@ from service.registry import ModelRegistry
 LOGGER = logging.getLogger(__name__)
 MAX_CSV_BYTES = 25 * 1024 * 1024
 FORECAST_FIELDS = ['Country', 'Brand', 'Model', 'Forecast Month', 'Horizon', 'Predicted Sales']
-EXCLUDED_FIELDS = ['Country', 'Brand', 'Model', 'status', 'reason']
 
 
 def _read_input(source):
@@ -186,24 +186,39 @@ class Predictor:
 
 def output_paths(output):
     output = Path(output)
-    return output, output.with_name('forecasft_data.csv'), output.with_name('excluded_vehicles.csv')
+    return output, output.with_name('forecasft_data.csv')
 
 
 def save_outputs(result, output):
-    json_path, forecast_path, excluded_path = output_paths(output)
-    for path in (json_path, forecast_path, excluded_path):
-        if path.exists():
-            raise FileExistsError(f'기존 결과를 덮어쓸 수 없습니다: {path}')
-    if len({path.resolve() for path in (json_path, forecast_path, excluded_path)}) != 3:
-        raise ValueError('JSON과 CSV의 저장 파일명은 달라야 합니다.')
-    with json_path.open('x', encoding='utf-8') as destination:
-        json.dump(result, destination, ensure_ascii=False, allow_nan=False, indent=2)
-    for path, fields, rows in ((forecast_path, FORECAST_FIELDS, result['predictions']),
-                               (excluded_path, EXCLUDED_FIELDS, result['excluded'])):
-        with path.open('x', encoding='utf-8-sig', newline='') as destination:
-            writer = csv.DictWriter(destination, fieldnames=fields)
-            writer.writeheader()
-            writer.writerows(rows)
+    json_path, forecast_path = output_paths(output)
+    if len({path.resolve() for path in (json_path, forecast_path)}) != 2:
+        raise ValueError('각 결과의 저장 파일명은 달라야 합니다.')
+    json_text = json.dumps(result, ensure_ascii=False, allow_nan=False, indent=2)
+    csv_buffer = io.StringIO(newline='')
+    writer = csv.DictWriter(csv_buffer, fieldnames=FORECAST_FIELDS)
+    writer.writeheader()
+    writer.writerows(result['predictions'])
+    for row in result['excluded']:
+        writer.writerow({
+            'Country': row['Country'], 'Brand': row['Brand'], 'Model': row['Model'],
+            'Forecast Month': '', 'Horizon': '', 'Predicted Sales': row['reason'],
+        })
+    staged = []
+    try:
+        for path, text, encoding in (
+            (json_path, json_text, 'utf-8'),
+            (forecast_path, csv_buffer.getvalue(), 'utf-8-sig'),
+        ):
+            with tempfile.NamedTemporaryFile(mode='w', encoding=encoding, newline='',
+                                             dir=path.parent, prefix=f'.{path.name}.',
+                                             suffix='.tmp', delete=False) as destination:
+                staged.append((Path(destination.name), path))
+                destination.write(text)
+        for temporary, target in staged:
+            temporary.replace(target)
+    finally:
+        for temporary, _ in staged:
+            temporary.unlink(missing_ok=True)
 
 
 def main(argv=None):
@@ -214,13 +229,13 @@ def main(argv=None):
     parser.add_argument('--config')
     parser.add_argument('--origin')
     parser.add_argument('--horizon-months', type=int, default=24)
-    parser.add_argument('--output', required=True, help='새 JSON 파일; 같은 폴더에 예측·제외 CSV도 저장')
+    parser.add_argument('--output', required=True, help='최신 JSON 파일; 같은 폴더의 6열 CSV와 함께 덮어쓰기')
     args = parser.parse_args(argv)
     paths = output_paths(args.output)
-    if len({path.resolve() for path in paths}) != 3:
-        parser.error('JSON과 CSV의 저장 파일명은 달라야 합니다.')
-    if any(path.exists() for path in paths):
-        parser.error('기존 출력 파일을 덮어쓸 수 없습니다.')
+    if len({path.resolve() for path in paths}) != 2:
+        parser.error('각 결과의 저장 파일명은 달라야 합니다.')
+    if any(path.resolve() == Path(args.csv).resolve() for path in paths):
+        parser.error('입력 CSV를 결과 파일로 덮어쓸 수 없습니다.')
     try:
         result = Predictor(args.config).predict_csv(args.csv, origin=args.origin, horizon_months=args.horizon_months)
         save_outputs(result, args.output)
@@ -229,6 +244,7 @@ def main(argv=None):
     except OSError as error:
         parser.exit(2, f'결과 저장 실패: {error}\n')
     print(f"예측 {len(result['predictions']):,}행 / 제외 차량 {len(result['excluded']):,}개")
+    return result
 
 
 if __name__ == '__main__':

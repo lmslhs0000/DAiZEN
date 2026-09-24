@@ -1,7 +1,7 @@
 {
   "format_version": 2,
   "api_version": "4.0.0",
-  "created_utc": "2026-09-24T04:34:15.457540+00:00",
+  "created_utc": "2026-09-24T07:08:14.462507+00:00",
   "entrypoint": "predict.py",
   "files": {
     ".gitignore": {
@@ -13,8 +13,8 @@
       "bytes": 6
     },
     "README.md": {
-      "sha256": "1fc42fcf3740d606594898af06bc5bc92afad5286e27b68393970bbe00456243",
-      "bytes": 2063
+      "sha256": "7fe287efa659d366aefee2210631aa668c7f3ff99e051298e6b2cc3cb0b5ac71",
+      "bytes": 1689
     },
     "baseline.py": {
       "sha256": "ca709b55cb26a281b856b64fa91b6425b3ca4fb27637c0881e266e78e366e627",
@@ -369,8 +369,8 @@
       "bytes": 3449142
     },
     "predict.py": {
-      "sha256": "2a7a3ca2d4b65fa33f64f054e8c4b004e5575f70a344056e5358294c2a310cf2",
-      "bytes": 1095
+      "sha256": "6de53245adc4445b47712c92ced638098b80ad3c5318b63b92791fcc7225e2e6",
+      "bytes": 1190
     },
     "pyproject.toml": {
       "sha256": "4d21545027051d691074258355d4c72bca92d4308fa612ba8f3e1aba4cae88aa",
@@ -385,12 +385,12 @@
       "bytes": 6
     },
     "service/PREDICT_API_CONTRACT.md": {
-      "sha256": "d4edd17930edfdc1ddefbe238e2851b1c3760c6e06988ac918290560bf063579",
-      "bytes": 8594
+      "sha256": "f273be24cb3fd5fac6954aa2a12f4293ef18fd638fbc075f61c040369297b467",
+      "bytes": 11447
     },
     "service/README.md": {
-      "sha256": "69876b23e2b3cc87cb16a1b505425ba6577218540321943a9340c4aa29b2f48e",
-      "bytes": 6260
+      "sha256": "0cad812166ec9b263c102f469b4fde6b9f6abab0c691cafe22555a3dd1136232",
+      "bytes": 8820
     },
     "service/__init__.py": {
       "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b",
@@ -432,13 +432,9 @@
       "sha256": "3e729b13d0fdb0451c9a8322a29a595ca7cb392a651ad6b51d126cde54d341d4",
       "bytes": 1260
     },
-    "service/examples/excluded_vehicles.csv": {
-      "sha256": "fb944373f2183d48e8bf2fce2dc1160fd6c7cb22938fbd9bafd0176b27fe5e3e",
-      "bytes": 53101
-    },
     "service/examples/forecasft_data.csv": {
-      "sha256": "6ee7098c41e7fe5b6351fa31cc6a960d8ab7ac89e44eeaa5d23153e2935a7615",
-      "bytes": 2024576
+      "sha256": "2adb270f83cd09a68cc6767a65cee8f876ea8dad1fb86e481c14a3d236b9f907",
+      "bytes": 2072363
     },
     "service/examples/openapi.json": {
       "sha256": "23fe5303cc7848576e29c0002861418eb560ecda22879639af1b7e3cb2c9a83f",
@@ -449,8 +445,8 @@
       "bytes": 9899274
     },
     "service/inference.py": {
-      "sha256": "efd32bced900409cdcd7e028cd47558197fbb478f3ab5add1bf56fa42992f9bb",
-      "bytes": 12633
+      "sha256": "beb3e89c764b492c44931a3ede71d19e930bd41d19a5f20087879b3cff4a4e97",
+      "bytes": 12842
     },
     "service/pyproject.toml": {
       "sha256": "4d21545027051d691074258355d4c72bca92d4308fa612ba8f3e1aba4cae88aa",
@@ -480,5 +476,7 @@
       "sha256": "cded0b4fdc91f87a7395abb710556d966282deb4864cb7e36048a574d4c68f70",
       "bytes": 16500
     }
-  }
+  },
+  "output_policy": "overwrite_latest",
+  "default_output": "outputs/forecast/forecast.json"
 }

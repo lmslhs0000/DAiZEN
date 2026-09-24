@@ -1,28 +1,35 @@
 # DAIZEN 자동차 판매량 예측
 
-이 폴더에서 터미널을 열고 실행한다.
+압축을 푼 최상위 폴더에서 실행한다.
 
 ```powershell
 uv run predict.py
 ```
 
-`raw/data.csv` 전체를 읽어 차량별 24개월 판매량을 예측하고 종료한다. 실행할 때마다 `outputs/forecast_날짜_시간_마이크로초/`에 다음 세 파일을 새로 저장한다.
+`raw/data.csv`를 읽고 차량별 다음 24개월을 예측한다. 항상 `outputs/forecast/`에 `forecast.json`과 `forecasft_data.csv` 두 파일을 저장하고 종료한다. 성공한 예측의 최신 결과로 두 파일을 덮어쓰며 새 날짜 폴더는 만들지 않는다. 예측이나 결과 변환에 실패하면 기존 파일을 유지한다. 이전 날짜별 폴더는 그대로 남는다.
 
-- `forecast.json`: `predictions`와 `excluded`만 포함하는 JSON.
-- `forecasft_data.csv`: 모든 성공 차량의 월별 예측값. 파일명은 요청한 표기 그대로다.
-- `excluded_vehicles.csv`: 제외 차량과 사유.
+CSV 열은 `Country,Brand,Model,Forecast Month,Horizon,Predicted Sales` 여섯 개다. 성공 차량은 월별 정수 판매량을 기록한다. 제외 차량은 차량당 한 행에 예측월·Horizon을 공란으로 두고 `Predicted Sales`에 제외 이유를 표시한다. 제외 이유는 판매량 0이 아니다.
 
-CSV는 UTF-8 BOM으로 저장한다. JSON과 예측 CSV의 항목은 `Country, Brand, Model, Forecast Month, Horizon, Predicted Sales`다. `Predicted Sales`는 정수 반올림하며 0.5는 올린다. 반올림은 저장과 응답에만 적용하고 재귀 예측 계산에는 원래 소수를 사용한다. 이전 결과는 덮어쓰지 않는다.
+Python에서 직접 실행하고 결과를 받는다. 같은 실행에서 JSON과 CSV도 저장한다.
 
-다른 입력은 `uv run predict.py --csv "다른파일.csv"`로 지정한다. `--output "새폴더/결과.json"`을 쓰면 같은 폴더에 두 CSV도 저장된다. 기존 파일이 있으면 거절한다. 첫 실행에는 uv가 잠금 파일에 맞는 패키지를 설치할 수 있다.
+```python
+from predict import predict
 
-## 자료
+result = predict()
+```
 
-- [전체 입력 CSV](raw/data.csv): 7개 시장, 187,382행, 2,511개 차량 시계열.
-- [실행된 전체 JSON](service/examples/response_tft_a.json)
-- [실행된 전체 예측 CSV](service/examples/forecasft_data.csv): 2,223개 차량 × 24개월 = 53,352행.
-- [제외 차량과 사유](service/examples/excluded_vehicles.csv): 288개.
-- [백엔드 요청·응답 계약](service/PREDICT_API_CONTRACT.md)
-- [연동 안내](service/README.md)
+실행 후 Python에서 `result`를 확인하려면 다음 명령을 사용한다.
 
-기본 모델은 저장된 원본 TFT A이며, 현재 입력으로 2026-08~2028-07을 예측한다. 모델은 `models/tft/A/canada/`처럼 알고리즘·A/B·시장 이름으로 구분한다. 전체 CSV와 원본 모델 가중치는 보존했다. 백엔드 연결 시 `POST /predict`에 multipart 필드 `file`로 입력 CSV를 보내며 응답은 같은 JSON 구조다.
+```powershell
+uv run python -i predict.py
+```
+
+예측과 파일 저장이 끝나면 `>>>`에서 `result`를 사용할 수 있다. `forecast_dict.py`는 생성하지 않는다.
+
+- [실행·결과 안내](service/README.md)
+- [백엔드 요청·응답 계약 v4](service/PREDICT_API_CONTRACT.md)
+- [전체 입력 CSV](raw/data.csv)
+- [전체 JSON 예시](service/examples/response_tft_a.json)
+- [통합 CSV 예시](service/examples/forecasft_data.csv)
+
+저장된 원본 TFT A가 기본 모델이다. 원본 데이터와 모델을 유지하며 실행 중 새로 학습하지 않는다.

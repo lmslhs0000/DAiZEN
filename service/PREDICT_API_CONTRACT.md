@@ -64,7 +64,7 @@ curl.exe -X POST "<ML_BASE_URL>/predict" -F "file=@raw/data.csv;type=text/csv" -
 
 성공 차량은 요청한 전체 기간을 반환하며 부분 성공은 허용하지 않는다. 성공과 제외에 동일 시계열이 중복되지 않는다. 모두 제외되면 `predictions`는 빈 배열이고 제외 사유는 남는다.
 
-현재 [전체 입력 CSV](../raw/data.csv)는 7개 시장·187,382행·2,511개 시계열이다. 기본 TFT A 결과는 **2,223개 성공 × 24개월 = 53,352행**, **288개 제외**다. 개수는 설명용이며 다른 입력에 고정하지 않는다. [전체 실제 응답](examples/response_tft_a.json), [전체 예측 CSV](examples/forecasft_data.csv), [시장별 입력 건수·원본 해시](examples/data_summary.json)를 제공한다.
+현재 [전체 입력 CSV](../raw/data.csv)는 7개 시장·187,382행·2,511개 시계열이다. 기본 TFT A 결과는 **2,223개 성공 × 24개월 = 53,352행**, **288개 제외**다. 개수는 설명용이며 다른 입력에 고정하지 않는다. [전체 실제 응답](examples/response_tft_a.json), [전체 통합 CSV](examples/forecasft_data.csv), [시장별 입력 건수·원본 해시](examples/data_summary.json)를 제공한다.
 
 ## 차량별 제외
 
@@ -80,9 +80,9 @@ curl.exe -X POST "<ML_BASE_URL>/predict" -F "file=@raw/data.csv;type=text/csv" -
 | UNSUPPORTED_COUNTRY | 배포 설정에 해당 Country 모델이 없음 |
 | PREDICTION_ERROR | 전체 기간 예측 실패, 부분/비유한/잘못된 월 출력 등. 상세 원인은 서비스 로그에 기록 |
 
-현재 전체 CSV는 `INSUFFICIENT_HISTORY` 260개, `UNSEEN_SERIES` 28개다. [제외 차량 전체 목록](examples/excluded_vehicles.csv)에 288개 차량의 이름과 이유를 제공한다. 정상 파일의 다른 차량은 계속 처리하며 HTTP 200의 `excluded`에 제외 차량을 남긴다. origin 이후에만 나타나는 차량도 제외 목록에 남는다.
+현재 전체 CSV는 `INSUFFICIENT_HISTORY` 260개, `UNSEEN_SERIES` 28개다. [전체 통합 CSV](examples/forecasft_data.csv)의 `Forecast Month`와 `Horizon`이 공란인 288행에서 제외 차량의 이름을, 해당 행의 `Predicted Sales`에서 제외 이유를 확인할 수 있다. 상태 코드는 JSON과 반환 딕셔너리의 `excluded`에 보존한다. 정상 파일의 다른 차량은 계속 처리하며 HTTP 200의 `excluded`에 제외 차량을 남긴다. origin 이후에만 나타나는 차량도 제외 목록에 남는다.
 
-## 로컬 JSON·CSV 저장
+## 로컬 JSON·통합 CSV 저장과 Python 딕셔너리 반환
 
 프로젝트 또는 전달 폴더 최상위에서 실행한다.
 
@@ -90,17 +90,45 @@ curl.exe -X POST "<ML_BASE_URL>/predict" -F "file=@raw/data.csv;type=text/csv" -
 uv run predict.py
 ```
 
-`raw/data.csv`를 읽고 새 `outputs/forecast_날짜_시간_마이크로초/` 폴더에 세 파일을 저장한다.
+`raw/data.csv`를 읽고 고정된 `outputs/forecast/` 폴더에 두 파일을 저장한 뒤 종료한다. 실행이 성공하면 같은 이름의 기존 파일을 최신 결과로 덮어쓴다.
 
 | 파일 | 내용 |
 |---|---|
 | forecast.json | 위 공개 응답과 같은 구조 |
-| forecasft_data.csv | predictions와 같은 여섯 열, 같은 정수 판매량 |
-| excluded_vehicles.csv | excluded와 같은 다섯 열 |
+| forecasft_data.csv | 여섯 열에 성공 예측과 제외 이유를 함께 저장 |
 
-CSV 파일명 `forecasft_data.csv`는 사용자가 지정한 철자 그대로다. 두 CSV는 UTF-8 BOM이며 결과가 없어도 헤더를 남긴다. `--csv "다른파일.csv"`로 입력을 지정할 수 있다. `--output "새폴더/forecast.json"`을 지정하면 두 CSV도 같은 폴더에 생성한다. 세 대상 파일 중 하나라도 이미 있으면 덮어쓰지 않는다.
+통합 CSV의 열은 정확히 `Country,Brand,Model,Forecast Month,Horizon,Predicted Sales` 여섯 개다.
 
-API는 JSON을 반환한다. CSV 저장은 로컬 실행 기능이며 새 다운로드 엔드포인트는 없다. Python의 `Predictor.predict_csv()`도 공개 응답 구조를 반환한다. `predict_csv_detailed()`는 소수 예측값·모델·실행 정보를 확인하는 내부 검산용이다.
+- 성공 차량은 월별 한 행씩 저장한다. 예측 필드 여섯 개와 정수 판매량은 JSON의 `predictions`와 같다.
+- 제외 차량은 차량당 한 행을 저장한다. `Country,Brand,Model`은 JSON의 `excluded`와 같고, `Forecast Month,Horizon`은 공란이다. `Predicted Sales`에는 해당 제외 행의 `reason` 문구를 그대로 적는다. 이 문구는 판매량 0이 아니다.
+- CSV의 `Predicted Sales` 열에는 성공 예측의 정수와 제외 이유의 문자열이 함께 들어간다. 별도 `status`, `reason` 열은 없다. JSON과 반환 딕셔너리의 `excluded`에는 기존 `status`, `reason`을 유지한다.
+- 현재 전체 입력의 통합 CSV는 예측 53,352행과 제외 288행을 합친 **53,640행**이다. 헤더는 이 건수에 포함하지 않는다.
+
+CSV 파일명 `forecasft_data.csv`는 사용자가 지정한 철자 그대로다. UTF-8 BOM으로 저장하며 결과가 없어도 헤더를 남긴다. 제외 사유 CSV를 따로 생성하지 않는다. 이전 실행 결과는 보존한다.
+
+프로젝트 최상위의 `predict.py`는 `predict(csv_path=None, output=None)` 함수를 제공한다. 함수는 JSON·CSV를 저장하고 공개 응답과 같은 Python 딕셔너리를 직접 반환한다.
+
+```python
+from predict import predict
+
+result = predict()
+predictions = result["predictions"]
+excluded = result["excluded"]
+```
+
+반환값은 `{'predictions': [...], 'excluded': [...]}`이며 같은 실행의 JSON을 읽은 값과 같다. `csv_path`와 `output`으로 입력 CSV와 출력 JSON 경로를 지정할 수 있다. `from predict import predict`만 실행하면 모델을 실행하지 않는다.
+
+예측 뒤 Python 세션을 유지하며 결과를 확인하려면 아래 명령을 사용한다.
+
+```powershell
+uv run python -i predict.py
+```
+
+두 파일을 저장한 뒤 `>>>` 프롬프트에서 `result`를 바로 사용할 수 있다. `main(argv=None)`도 같은 딕셔너리를 반환하며 직접 실행 시 `result = main()`으로 받는다. `forecast_dict.py`는 더 이상 생성하지 않으며 기존 파일은 과거 실행 결과로 보존한다.
+
+`--csv "다른파일.csv"`로 입력을 지정할 수 있다. `--output "결과폴더/응답.json"`을 지정하면 JSON 파일명만 `응답.json`으로 바뀌고, 같은 폴더에 `forecasft_data.csv`를 저장한다. 직접 지정한 경로에서도 실행이 성공하면 두 결과 파일을 최신 결과로 덮어쓴다. 예측이나 결과 직렬화가 실패하면 기존 결과 파일을 유지한다. 과거에 생성한 날짜·시간별 결과 폴더는 그대로 보존한다.
+
+API는 JSON을 반환한다. JSON·CSV 파일 저장과 `predict()`의 딕셔너리 반환은 로컬 실행 기능이며 새 다운로드 엔드포인트는 없다. Python의 `Predictor.predict_csv()`도 공개 응답 구조를 반환한다. `predict_csv_detailed()`는 소수 예측값·모델·실행 정보를 확인하는 내부 검산용이다.
 
 ## 요청·서비스 오류
 
@@ -130,4 +158,4 @@ API는 JSON을 반환한다. CSV 저장은 로컬 실행 기능이며 새 다운
 
 설정 `tft_a.json`(기본), `tft_b.json`, `xgboost_a.json`, `xgboost_b.json`은 유지한다. 설정 선택은 백엔드 배포 담당자가 수행한다. 모델은 필요할 때 로드해 재사용하므로 최초 호출에 로딩 시간이 포함된다. [Python 클라이언트](client.py)의 기본 timeout은 600초다.
 
-v4는 v3의 여섯 열 예측 구조와 다섯 열 입력을 유지하면서 공개 응답을 `predictions`·`excluded`로 줄이고, 출력 판매량을 정수로 반올림한다. 상세 정보와 원래 소수 예측은 내부 검산 경로에 보존한다. 기계 판독용 명세는 [openapi.json](examples/openapi.json)이다.
+v4는 v3의 여섯 열 예측 구조와 다섯 열 입력을 유지하면서 공개 응답을 `predictions`·`excluded`로 줄이고, 출력 판매량을 정수로 반올림한다. 상세 정보와 원래 소수 예측은 내부 검산 경로에 보존한다. 이번 변경은 로컬 CSV를 여섯 열로 정리하고 Python 함수에서 딕셔너리를 직접 반환하는 변경이다. HTTP JSON의 예측·제외 구조는 그대로이므로 API 계약은 v4.0.0을 유지한다. 기계 판독용 명세는 [openapi.json](examples/openapi.json)이다.
