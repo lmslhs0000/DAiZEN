@@ -2,6 +2,7 @@ import hashlib
 import json
 import logging
 from pathlib import Path, PureWindowsPath
+import re
 
 from service.errors import ServiceError
 
@@ -11,6 +12,14 @@ DEFAULT_CONFIG = Path(__file__).resolve().parent / 'configs' / 'tft_a.json'
 ORIGINAL_RUNS = {
     'XGBoost': 'run_20260921T175602_851343Z_28c46a24e7d2',
     'TFT': 'run_20260922T081432_215155Z_3a3e74e049cd',
+}
+
+
+APPROVED_REFRESH_RUNS = {
+    'run_20260924T190014_42dc7a14': {
+        'TFT': '8df79eb2f4a1acb7499a52bbe4dd9ddcaa4892b71f4bb6d4516702fb2a56e4eb',
+        'XGBoost': '041dac07d75ed0f668816f9f395a31f5878e937775decef484092c79e1357182',
+    },
 }
 
 
@@ -38,16 +47,35 @@ def _configured_path(root, relative):
     return _inside(root, Path(*path.parts))
 
 
-def _relocated_artifact(root, saved_path, run_id):
+def _relocated_artifact(root, saved_path, run_id, *, algorithm=None, method=None):
 
 
+    if not isinstance(saved_path, str) or not saved_path:
+        raise ValueError('Invalid saved model path')
     parts = PureWindowsPath(saved_path).parts
     positions = [i for i, value in enumerate(parts) if value == 'models']
-    if len(positions) != 1:
+    if len(positions) != 1 or '..' in parts:
         raise ValueError('Invalid historical model path')
     suffix = parts[positions[0]:]
-    if len(suffix) < 5 or suffix[1:3] != (run_id, 'production_refit') or '..' in suffix:
-        raise ValueError('Only original production_refit artifacts are allowed')
+    if any(':' in part for part in suffix):
+        raise ValueError('Invalid saved model path')
+    if run_id in APPROVED_REFRESH_RUNS:
+        if algorithm not in ('TFT', 'XGBoost') or len(suffix) != 9:
+            raise ValueError('Invalid approved refresh artifact path')
+        if suffix[:4] != ('models', 'model_refresh', run_id, algorithm.lower()):
+            raise ValueError('Artifact belongs to a different refresh run or algorithm')
+        attempt = suffix[7] if algorithm == 'TFT' else suffix[4]
+        phase_index = 4 if algorithm == 'TFT' else 5
+        if not re.fullmatch(r'attempt_[0-9a-f]+', attempt):
+            raise ValueError('Invalid production attempt path')
+    else:
+        phase_index = 2
+        if run_id not in ORIGINAL_RUNS.values() or len(suffix) < 5 or suffix[1] != run_id:
+            raise ValueError('Only original production_refit artifacts are allowed')
+    if suffix[phase_index] != 'production_refit':
+        raise ValueError('Only production_refit artifacts are allowed')
+    if method is not None and suffix[phase_index + 1] != method:
+        raise ValueError('Artifact selection method mismatch')
     return _inside(root, Path(*suffix))
 
 
@@ -59,21 +87,25 @@ class ModelRegistry:
         self._cache = {}
         try:
             config = json.loads(self.config_path.read_text(encoding='utf-8-sig'))
-            if config['version'] not in (1, 2) or not isinstance(config['countries'], dict) or not config['countries']:
+            if config['version'] not in (1, 2, 3) or not isinstance(config['countries'], dict) or not config['countries']:
                 raise ValueError('Invalid server configuration')
             self.name = config['name']
             sources = {}
             for algorithm in {value['algorithm'] for value in config['countries'].values()}:
                 source = config['sources'][algorithm]
-                run_id = ORIGINAL_RUNS[algorithm]
-                if source['run_id'] != run_id:
+                run_id = source['run_id']
+                if config['version'] == 3:
+                    approved_hash = APPROVED_REFRESH_RUNS.get(run_id, {}).get(algorithm)
+                    if not approved_hash or source['manifest_sha256'] != approved_hash:
+                        raise ValueError('Refresh manifest is not explicitly approved')
+                elif run_id != ORIGINAL_RUNS[algorithm]:
                     raise ValueError('Experimental/evaluation runs cannot replace originals')
-                if config['version'] == 2:
+                if config['version'] in (2, 3):
                     manifest = _configured_path(self.project_root, source['manifest_path'])
                 else:
                     manifest = _inside(self.project_root, Path('reports') / algorithm.lower() / run_id / 'model_manifest.json')
                 if sha256(manifest) != source['manifest_sha256']:
-                    raise ValueError('Original model manifest hash mismatch')
+                    raise ValueError('Approved model manifest hash mismatch')
                 sources[algorithm] = json.loads(manifest.read_text(encoding='utf-8'))
             for country, choice in config['countries'].items():
                 if not isinstance(country, str) or not country.strip():
@@ -85,22 +117,43 @@ class ModelRegistry:
                            and r['phase'] == 'production_refit' and r['method'] == method]
                 if len(records) != 1:
                     raise ValueError('Exactly one production bundle per country is required')
-                bundle_dir = _configured_path(self.project_root, choice['bundle_dir']) if config['version'] == 2 else None
-                self.entries[country] = self._entry(country, algorithm, method, records[0], bundle_dir)
+                bundle_dir = None
+                if config['version'] == 2 or 'bundle_dir' in choice:
+                    bundle_dir = _configured_path(self.project_root, choice['bundle_dir'])
+                self.entries[country] = self._entry(
+                    country, algorithm, method, records[0], bundle_dir,
+                    registry_run_id=config['sources'][algorithm]['run_id'])
         except Exception as error:
             LOGGER.exception('Cannot prepare model registry')
             raise ServiceError('MODEL_UNAVAILABLE', '서버의 저장 모델 설정 또는 파일을 확인해 주세요.') from error
 
-    def _entry(self, country, algorithm, method, record, bundle_dir=None):
-        run_id = ORIGINAL_RUNS[algorithm]
-        path = _relocated_artifact(self.project_root, record['model_path'], run_id)
-        schema_path = _relocated_artifact(self.project_root, record['feature_schema_path'], run_id)
+    def _entry(self, country, algorithm, method, record, bundle_dir=None, *, registry_run_id=None):
+        registry_run_id = registry_run_id or ORIGINAL_RUNS[algorithm]
+        run_id = registry_run_id
+        if registry_run_id in APPROVED_REFRESH_RUNS:
+            action = record['refresh_action']
+            expected_action = 'refitted' if country in ('China', 'Europe', 'South Korea') else 'reused'
+            expected_run = registry_run_id if action == 'refitted' else ORIGINAL_RUNS[algorithm]
+            if action != expected_action or record['source_run_id'] != expected_run:
+                raise ValueError('Refresh provenance does not match the approved country action')
+            run_id = expected_run
+        if record['phase'] != 'production_refit' or record['Country'] != country or record['method'] != method:
+            raise ValueError('Production bundle identity mismatch')
+
+        def artifact_path(saved_path):
+            return _relocated_artifact(self.project_root, saved_path, run_id, algorithm=algorithm, method=method)
+
+        path = artifact_path(record['model_path'])
+        expected_name = 'model.ckpt' if algorithm == 'TFT' else 'model.ubj'
+        if path.name != expected_name:
+            raise ValueError('Unexpected production model filename')
+        schema_path = artifact_path(record['feature_schema_path'])
         if schema_path != path.with_name('feature_schema.json'):
             raise ValueError('Schema belongs to a different bundle')
         if algorithm == 'XGBoost':
             hashes = {path: record['model_sha256'], schema_path: record['feature_schema_sha256']}
         else:
-            hashes = {_relocated_artifact(self.project_root, name, run_id): digest
+            hashes = {artifact_path(name): digest
                       for name, digest in record['artifact_hashes'].items()
                       if PureWindowsPath(name).name in (path.name, 'feature_schema.json', 'dataset_parameters.pt', 'artifact_manifest.json')}
             required = {path, schema_path, path.with_name('dataset_parameters.pt'), path.with_name('artifact_manifest.json')}
@@ -116,11 +169,15 @@ class ModelRegistry:
             raise ValueError('Country or production training cutoff mismatch')
         if algorithm == 'TFT' and (schema['history_length'], schema['prediction_length']) != (12, 1):
             raise ValueError('Original TFT input/output lengths changed')
-        return {'path': path, 'hashes': hashes, 'schema': schema, 'metadata': {
+        metadata = {
             'Country': country, 'algorithm': algorithm, 'selection_method': method,
             'bundle_id': f'{run_id}/{method}/{country}', 'train_end': schema['train_end'],
             'history_length': 12, 'prediction_length': 1, 'model_sha256': hashes[path],
-        }}
+        }
+        if registry_run_id in APPROVED_REFRESH_RUNS:
+            metadata.update(registry_run_id=registry_run_id, source_run_id=run_id,
+                            refresh_action=record['refresh_action'])
+        return {'path': path, 'hashes': hashes, 'schema': schema, 'metadata': metadata}
 
     @staticmethod
     def _verify(hashes):

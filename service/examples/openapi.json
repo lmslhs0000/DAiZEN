@@ -2,7 +2,7 @@
   "openapi": "3.1.0",
   "info": {
     "title": "DAIZEN monthly automobile sales forecast",
-    "description": "Saved original models only. No request-time training or model selection. Sales forecasts are monthly, not cumulative.",
+    "description": "Configured saved production models only. No request-time training or model selection. Sales forecasts are monthly, not cumulative.",
     "version": "4.0.0"
   },
   "paths": {

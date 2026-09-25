@@ -1,16 +1,16 @@
 {
-  "version": 2,
-  "name": "original_tft_b",
+  "version": 3,
+  "name": "refresh_tft_b",
   "sources": {
     "TFT": {
-      "run_id": "run_20260922T081432_215155Z_3a3e74e049cd",
-      "manifest_sha256": "2b7ef458e373c4f1767894d13f0179183445f54eb7213e2d216aedb5a8a72c73",
-      "manifest_path": "model_info/tft.json"
+      "run_id": "run_20260924T190014_42dc7a14",
+      "manifest_path": "model_info/tft.json",
+      "manifest_sha256": "8df79eb2f4a1acb7499a52bbe4dd9ddcaa4892b71f4bb6d4516702fb2a56e4eb"
     },
     "XGBoost": {
-      "run_id": "run_20260921T175602_851343Z_28c46a24e7d2",
-      "manifest_sha256": "9585c69e85be2309ddca8239233b81956acf7e706c057a91b3f68c76733df6b3",
-      "manifest_path": "model_info/xgboost.json"
+      "run_id": "run_20260924T190014_42dc7a14",
+      "manifest_path": "model_info/xgboost.json",
+      "manifest_sha256": "041dac07d75ed0f668816f9f395a31f5878e937775decef484092c79e1357182"
     }
   },
   "countries": {

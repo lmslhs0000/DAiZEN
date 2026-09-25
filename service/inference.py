@@ -20,6 +20,8 @@ from service.registry import ModelRegistry
 LOGGER = logging.getLogger(__name__)
 MAX_CSV_BYTES = 25 * 1024 * 1024
 FORECAST_FIELDS = ['Country', 'Brand', 'Model', 'Forecast Month', 'Horizon', 'Predicted Sales']
+STATUS_CATALOG_FIELDS = SERIES_KEY + ['status', 'reason']
+STATUS_CATALOG_STATUSES = {'NOT_SOLD', 'NO_PUBLIC_DATA', 'AGGREGATED_SERIES'}
 
 
 def _read_input(source):
@@ -70,6 +72,41 @@ def _origin(value, maximum):
     return month
 
 
+def _read_status_catalog(path):
+
+    if path is None:
+        return []
+    try:
+        try:
+            text = Path(path).read_text(encoding='utf-8-sig')
+        except FileNotFoundError:
+            return []
+        if '\x00' in text:
+            raise ValueError('NUL byte is not valid in a status catalog')
+        reader = csv.reader(io.StringIO(text, newline=''), strict=True)
+        header = next(reader)
+        if len(header) != len(STATUS_CATALOG_FIELDS) or set(header) != set(STATUS_CATALOG_FIELDS):
+            raise ValueError('Status catalog requires Country,Brand,Model,status,reason exactly once')
+        rows, keys = [], set()
+        for line, values in enumerate(reader, start=2):
+            if not values:
+                continue
+            if len(values) != len(header) or any(not value.strip() for value in values):
+                raise ValueError(f'Status catalog record {line} has missing or extra values')
+            row = dict(zip(header, values))
+            key = tuple(row[column] for column in SERIES_KEY)
+            if key in keys:
+                raise ValueError(f'Status catalog record {line} duplicates a vehicle key')
+            if row['status'] not in STATUS_CATALOG_STATUSES:
+                raise ValueError(f'Status catalog record {line} has an unknown status')
+            keys.add(key)
+            rows.append({column: row[column] for column in STATUS_CATALOG_FIELDS})
+        return rows
+    except (ValueError, OSError, UnicodeError, csv.Error, StopIteration) as error:
+        LOGGER.exception('Cannot read vehicle status catalog')
+        raise ServiceError('INVALID_STATUS_CATALOG', '차량 상태 목록의 필수 열, 중복 키, 상태 또는 사유를 확인해 주세요.') from error
+
+
 def _format_market(predictions, statuses, expected_keys, origin, horizon):
 
     try:
@@ -111,8 +148,12 @@ def _format_market(predictions, statuses, expected_keys, origin, horizon):
 
 
 class Predictor:
-    def __init__(self, config_path=None, *, project_root=None, registry=None):
+    def __init__(self, config_path=None, *, project_root=None, registry=None, catalog_path=None):
         self.registry = registry if registry is not None else ModelRegistry(config_path, project_root=project_root)
+        catalog_root = project_root if project_root is not None else getattr(self.registry, 'project_root', None)
+        if catalog_path is None and catalog_root is not None:
+            catalog_path = Path(catalog_root) / 'raw' / 'vehicle_status.csv'
+        self._status_catalog = _read_status_catalog(catalog_path)
         self._lock = threading.Lock()
 
     def predict_csv(self, source, *, origin=None, horizon_months=24):
@@ -162,12 +203,19 @@ class Predictor:
                 success, failures = _format_market(predictions, statuses, available, cutoff, horizon_months)
                 forecasts.extend(success)
                 excluded.extend(failures)
-        forecasts.sort(key=lambda r: tuple(r[k] for k in SERIES_KEY)+ (r['Horizon'],))
-        excluded.sort(key=lambda r: tuple(r[k] for k in SERIES_KEY))
+        input_keys = {tuple(row) for row in universe.values.tolist()}
         predicted_keys = {tuple(row[k] for k in SERIES_KEY) for row in forecasts}
         excluded_keys = {tuple(row[k] for k in SERIES_KEY) for row in excluded}
-        if predicted_keys & excluded_keys or len(predicted_keys)+len(excluded_keys) != len(universe):
+        if predicted_keys & excluded_keys or predicted_keys | excluded_keys != input_keys:
             raise ServiceError('INVALID_MODEL_OUTPUT', '입력 시계열과 예측·제외 결과가 일치하지 않습니다.')
+
+
+        catalog_rows = [dict(row) for row in self._status_catalog
+                        if tuple(row[k] for k in SERIES_KEY) not in input_keys]
+        excluded.extend(catalog_rows)
+        excluded_keys.update(tuple(row[k] for k in SERIES_KEY) for row in catalog_rows)
+        forecasts.sort(key=lambda r: tuple(r[k] for k in SERIES_KEY)+ (r['Horizon'],))
+        excluded.sort(key=lambda r: tuple(r[k] for k in SERIES_KEY))
         warnings = []
         ignored = len(data)-len(history)
         if ignored:
@@ -178,7 +226,9 @@ class Predictor:
             'request_id': uuid.uuid4().hex, 'origin': str(cutoff), 'horizon_months': horizon_months,
             'models': models,
             'summary': {'input_rows': len(data), 'history_rows': len(history), 'ignored_future_rows': ignored,
-                        'input_series': len(universe), 'forecasted_series': len(predicted_keys),
+                        'input_series': len(universe), 'catalog_series': len(catalog_rows),
+                        'reported_series': len(universe) + len(catalog_rows),
+                        'forecasted_series': len(predicted_keys),
                         'excluded_series': len(excluded_keys), 'forecast_rows': len(forecasts)},
             'predictions': forecasts, 'excluded': excluded, 'warnings': warnings,
         }

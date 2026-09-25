@@ -51,6 +51,7 @@
       "Forthing",
       "GAC Trumpchi",
       "Geely",
+      "Genesis",
       "Geometry",
       "Haima",
       "Haval",
@@ -1927,6 +1928,11 @@
     ],
     [
       "China",
+      "Genesis",
+      "G90"
+    ],
+    [
+      "China",
       "Geometry",
       "A"
     ],
@@ -3520,7 +3526,7 @@
     "Brand": "category",
     "Model": "category"
   },
-  "training_rows": 27182,
+  "training_rows": 27206,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
   "parameters": {
@@ -3636,7 +3642,7 @@
         ]
       },
       "learner_model_param": {
-        "base_score": "[4.9993486E3]",
+        "base_score": "[4.9949404E3]",
         "boost_from_average": "1",
         "num_class": "0",
         "num_feature": "11",

@@ -1343,7 +1343,7 @@
     "Brand": "category",
     "Model": "category"
   },
-  "training_rows": 16302,
+  "training_rows": 16333,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
   "parameters": {
@@ -1459,7 +1459,7 @@
         ]
       },
       "learner_model_param": {
-        "base_score": "[8.140373E2]",
+        "base_score": "[8.125939E2]",
         "boost_from_average": "1",
         "num_class": "0",
         "num_feature": "11",

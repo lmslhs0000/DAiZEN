@@ -26,6 +26,7 @@
       "Bentley",
       "Cadillac",
       "Chery",
+      "Chevrolet",
       "Chrysler",
       "Citroen",
       "Cupra",
@@ -280,6 +281,7 @@
       "G6",
       "G80",
       "G9",
+      "G90",
       "GLA",
       "GLB",
       "GLC",
@@ -422,6 +424,7 @@
       "Seal U",
       "Sealion 7",
       "Shine",
+      "Silverado",
       "Six",
       "Solterra",
       "Sorento",
@@ -438,6 +441,7 @@
       "T-Cross",
       "T-Roc",
       "T03",
+      "Tahoe",
       "Taigo",
       "Tang",
       "Tavascan",
@@ -852,6 +856,16 @@
     ],
     [
       "Europe",
+      "Chevrolet",
+      "Silverado"
+    ],
+    [
+      "Europe",
+      "Chevrolet",
+      "Tahoe"
+    ],
+    [
+      "Europe",
       "Chrysler",
       "Pacifica"
     ],
@@ -1249,6 +1263,11 @@
       "Europe",
       "Genesis",
       "G80"
+    ],
+    [
+      "Europe",
+      "Genesis",
+      "G90"
     ],
     [
       "Europe",
@@ -2600,7 +2619,7 @@
     "Brand": "category",
     "Model": "category"
   },
-  "training_rows": 26932,
+  "training_rows": 27041,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
   "parameters": {
@@ -2716,7 +2735,7 @@
         ]
       },
       "learner_model_param": {
-        "base_score": "[3.9420068E3]",
+        "base_score": "[3.9262063E3]",
         "boost_from_average": "1",
         "num_class": "0",
         "num_feature": "11",

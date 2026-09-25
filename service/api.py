@@ -130,7 +130,7 @@ def create_app(predictor=None, config_path=None) -> FastAPI:
 
     app = FastAPI(
         title="DAIZEN monthly automobile sales forecast", version="4.0.0",
-        description="Saved original models only. No request-time training or model selection. Sales forecasts are monthly, not cumulative.",
+        description="Configured saved production models only. No request-time training or model selection. Sales forecasts are monthly, not cumulative.",
     )
     app.state.predictor = predictor
     initialization_lock = threading.Lock()

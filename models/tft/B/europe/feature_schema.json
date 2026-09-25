@@ -349,6 +349,16 @@
     ],
     [
       "Europe",
+      "Chevrolet",
+      "Silverado"
+    ],
+    [
+      "Europe",
+      "Chevrolet",
+      "Tahoe"
+    ],
+    [
+      "Europe",
       "Chrysler",
       "Pacifica"
     ],
@@ -746,6 +756,11 @@
       "Europe",
       "Genesis",
       "G80"
+    ],
+    [
+      "Europe",
+      "Genesis",
+      "G90"
     ],
     [
       "Europe",
@@ -2115,6 +2130,7 @@
       "Bentley",
       "Cadillac",
       "Chery",
+      "Chevrolet",
       "Chrysler",
       "Citroen",
       "Cupra",
@@ -2369,6 +2385,7 @@
       "G6",
       "G80",
       "G9",
+      "G90",
       "GLA",
       "GLB",
       "GLC",
@@ -2511,6 +2528,7 @@
       "Seal U",
       "Sealion 7",
       "Shine",
+      "Silverado",
       "Six",
       "Solterra",
       "Sorento",
@@ -2527,6 +2545,7 @@
       "T-Cross",
       "T-Roc",
       "T03",
+      "Tahoe",
       "Taigo",
       "Tang",
       "Tavascan",
@@ -2608,10 +2627,10 @@
     ]
   },
   "time_idx_origin": "2016-01",
-  "training_rows": 26932,
+  "training_rows": 27041,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
-  "normalizer_observation_count": 31924,
+  "normalizer_observation_count": 32069,
   "normalization": [
     {
       "Country": "Europe",
@@ -3302,6 +3321,26 @@
       "last_month": "2026-07",
       "center": 1278.9285714285713,
       "scale": 933.4565471162367
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Chevrolet",
+      "Model": "Silverado",
+      "observations": 67,
+      "first_month": "2021-01",
+      "last_month": "2026-07",
+      "center": 30.61194029928358,
+      "scale": 24.342997774846076
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Chevrolet",
+      "Model": "Tahoe",
+      "observations": 43,
+      "first_month": "2023-01",
+      "last_month": "2026-07",
+      "center": 7.790697674418604,
+      "scale": 3.343047060850812
     },
     {
       "Country": "Europe",
@@ -4102,6 +4141,16 @@
       "last_month": "2026-07",
       "center": 12.883333333333333,
       "scale": 10.098957006110892
+    },
+    {
+      "Country": "Europe",
+      "Brand": "Genesis",
+      "Model": "G90",
+      "observations": 35,
+      "first_month": "2023-09",
+      "last_month": "2026-07",
+      "center": 5.485714285714286,
+      "scale": 9.83301132459402
     },
     {
       "Country": "Europe",
@@ -6821,12 +6870,12 @@
     "lr_scheduler": null
   },
   "actual_epochs": 20,
-  "device": "cpu",
+  "device": "cuda",
   "torch_threads": 1,
-  "deterministic_algorithms": true,
-  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "deterministic_algorithms": "warn",
+  "reproducibility_note": "Seed and loader seed 42; CUDA upsample_linear1d backward may be nondeterministic",
   "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
   "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
-  "global_step": 8420,
-  "training_seconds": 393.19079830000555
+  "global_step": 8460,
+  "training_seconds": 397.5786244000046
 }

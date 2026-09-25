@@ -1,6 +1,6 @@
 {
   "input_csv": "raw/data.csv",
-  "sha256": "8cc9b0530148739b2eda18fcbc0811b0cfa5013d450f114820a2dccd051ce30e",
+  "sha256": "5347bcff6c995566bc9d850a05c1ed5a1bf7ffc155e9d7aef12cf5e651da3208",
   "columns": [
     "Country",
     "Month",
@@ -8,8 +8,8 @@
     "Model",
     "Sales"
   ],
-  "rows": 187382,
-  "series": 2511,
+  "rows": 187570,
+  "series": 2515,
   "first_month": "2016-01",
   "last_month": "2026-07",
   "countries": [
@@ -20,13 +20,13 @@
     },
     {
       "Country": "China",
-      "rows": 34760,
-      "series": 676
+      "rows": 34796,
+      "series": 677
     },
     {
       "Country": "Europe",
-      "rows": 32577,
-      "series": 519
+      "rows": 32722,
+      "series": 522
     },
     {
       "Country": "Germany",
@@ -40,7 +40,7 @@
     },
     {
       "Country": "South Korea",
-      "rows": 19020,
+      "rows": 19027,
       "series": 231
     },
     {
@@ -50,16 +50,30 @@
     }
   ],
   "response_summary": {
-    "input_rows": 187382,
-    "history_rows": 187382,
+    "input_rows": 187570,
+    "history_rows": 187570,
     "ignored_future_rows": 0,
-    "input_series": 2511,
-    "forecasted_series": 2223,
-    "excluded_series": 288,
-    "forecast_rows": 53352
+    "input_series": 2515,
+    "forecasted_series": 2227,
+    "excluded_series": 316,
+    "forecast_rows": 53448,
+    "catalog_series": 28,
+    "reported_series": 2543
   },
   "exclusions": {
     "INSUFFICIENT_HISTORY": 260,
-    "UNSEEN_SERIES": 28
+    "AGGREGATED_SERIES": 2,
+    "UNSEEN_SERIES": 28,
+    "NOT_SOLD": 16,
+    "NO_PUBLIC_DATA": 10
+  },
+  "model_refresh_run_id": "run_20260924T190014_42dc7a14",
+  "separate_status_catalog": {
+    "path": "raw/vehicle_status.csv",
+    "rows": 28,
+    "used_for_training": false,
+    "used_for_output": true,
+    "output_location": "excluded",
+    "numeric_input_priority": true
   }
 }

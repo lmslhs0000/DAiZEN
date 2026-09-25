@@ -1351,10 +1351,10 @@
     ]
   },
   "time_idx_origin": "2016-01",
-  "training_rows": 16302,
+  "training_rows": 16333,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
-  "normalizer_observation_count": 18882,
+  "normalizer_observation_count": 18889,
   "normalization": [
     {
       "Country": "South Korea",
@@ -3160,11 +3160,11 @@
       "Country": "South Korea",
       "Brand": "Porsche",
       "Model": "Macan",
-      "observations": 122,
+      "observations": 127,
       "first_month": "2016-01",
       "last_month": "2026-07",
-      "center": 65.23770491803279,
-      "scale": 62.923866966849886
+      "center": 62.669291338582674,
+      "scale": 62.964565828863606
     },
     {
       "Country": "South Korea",
@@ -3240,11 +3240,11 @@
       "Country": "South Korea",
       "Brand": "Rolls-Royce",
       "Model": "Phantom Series II",
-      "observations": 125,
+      "observations": 127,
       "first_month": "2016-01",
       "last_month": "2026-07",
-      "center": 1.32,
-      "scale": 1.4689134513604918
+      "center": 1.2992125984251968,
+      "scale": 1.46653328877683
     },
     {
       "Country": "South Korea",
@@ -3534,12 +3534,12 @@
     "lr_scheduler": null
   },
   "actual_epochs": 100,
-  "device": "cpu",
+  "device": "cuda",
   "torch_threads": 1,
-  "deterministic_algorithms": true,
-  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "deterministic_algorithms": "warn",
+  "reproducibility_note": "Seed and loader seed 42; CUDA upsample_linear1d backward may be nondeterministic",
   "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
   "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
-  "global_step": 25500,
-  "training_seconds": 1153.7001808999994
+  "global_step": 25600,
+  "training_seconds": 1210.4443902000057
 }

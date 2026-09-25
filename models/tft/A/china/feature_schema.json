@@ -1274,6 +1274,11 @@
     ],
     [
       "China",
+      "Genesis",
+      "G90"
+    ],
+    [
+      "China",
       "Geometry",
       "A"
     ],
@@ -2910,6 +2915,7 @@
       "Forthing",
       "GAC Trumpchi",
       "Geely",
+      "Genesis",
       "Geometry",
       "Haima",
       "Haval",
@@ -3528,10 +3534,10 @@
     ]
   },
   "time_idx_origin": "2016-01",
-  "training_rows": 27182,
+  "training_rows": 27206,
   "training_target_start": "2017-01",
   "training_target_end": "2026-07",
-  "normalizer_observation_count": 34022,
+  "normalizer_observation_count": 34058,
   "normalization": [
     {
       "Country": "China",
@@ -6072,6 +6078,16 @@
       "last_month": "2026-07",
       "center": 11091.231884057972,
       "scale": 3471.8005995116173
+    },
+    {
+      "Country": "China",
+      "Brand": "Genesis",
+      "Model": "G90",
+      "observations": 36,
+      "first_month": "2023-08",
+      "last_month": "2026-07",
+      "center": 3.5555555555555554,
+      "scale": 2.3163838940749675
     },
     {
       "Country": "China",
@@ -9281,12 +9297,12 @@
     "lr_scheduler": null
   },
   "actual_epochs": 100,
-  "device": "cpu",
+  "device": "cuda",
   "torch_threads": 1,
-  "deterministic_algorithms": true,
-  "reproducibility_note": "CPU deterministic algorithms enabled",
+  "deterministic_algorithms": "warn",
+  "reproducibility_note": "Seed and loader seed 42; CUDA upsample_linear1d backward may be nondeterministic",
   "training_loss": "QuantileLoss(q=0.5): 2 * pinball loss, original Sales units",
   "inverse_transform": "TemporalFusionTransformer.forward -> transform_output, exactly once",
-  "global_step": 42500,
-  "training_seconds": 1822.560435200001
+  "global_step": 42600,
+  "training_seconds": 2008.7526947000006
 }
