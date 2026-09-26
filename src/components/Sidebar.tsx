@@ -1,15 +1,15 @@
 import { ClipboardList, LineChart } from "lucide-react";
 
-export type View = "planner" | "chart";
+export type TaskTab = "input" | "chart";
 
-const MENU_ITEMS: { id: View; label: string; icon: typeof ClipboardList }[] = [
-  { id: "planner", label: "베어링 입력", icon: ClipboardList },
+const MENU_ITEMS: { id: TaskTab; label: string; icon: typeof ClipboardList }[] = [
+  { id: "input", label: "베어링 입력", icon: ClipboardList },
   { id: "chart", label: "판매량 그래프", icon: LineChart },
 ];
 
 interface SidebarProps {
-  active: View;
-  onNavigate: (view: View) => void;
+  active: TaskTab;
+  onNavigate: (tab: TaskTab) => void;
 }
 
 export function Sidebar({ active, onNavigate }: SidebarProps) {

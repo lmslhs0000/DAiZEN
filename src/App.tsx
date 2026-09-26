@@ -1,10 +1,38 @@
-import { useState } from "react";
-import { Sidebar, type View } from "@/components/Sidebar";
-import { BearingPlanner } from "@/pages/BearingPlanner";
-import { ChartPage } from "@/pages/ChartPage";
+import { useEffect, useState } from "react";
+import { Sidebar, type TaskTab } from "@/components/Sidebar";
+import { createEmptyTask, loadTasks, saveTasks, type DemandForecastTask } from "@/data/tasks";
+import { TaskChart } from "@/pages/TaskChart";
+import { TaskDetail } from "@/pages/TaskDetail";
+import { WorkspaceList } from "@/pages/WorkspaceList";
+
+type View = { name: "list" } | { name: "task"; taskId: string; tab: TaskTab };
 
 function App() {
-  const [view, setView] = useState<View>("planner");
+  const [view, setView] = useState<View>({ name: "list" });
+  const [tasks, setTasks] = useState<DemandForecastTask[]>(() => loadTasks());
+
+  useEffect(() => {
+    saveTasks(tasks);
+  }, [tasks]);
+
+  function handleCreateTask() {
+    const task = createEmptyTask();
+    setTasks((prev) => [task, ...prev]);
+    setView({ name: "task", taskId: task.id, tab: "input" });
+  }
+
+  function handleUpdateTask(id: string, patch: Partial<DemandForecastTask>) {
+    setTasks((prev) => prev.map((t) => (t.id === id ? { ...t, ...patch, updatedAt: Date.now() } : t)));
+  }
+
+  function handleDeleteTask(id: string) {
+    setTasks((prev) => prev.filter((t) => t.id !== id));
+    if (view.name === "task" && view.taskId === id) {
+      setView({ name: "list" });
+    }
+  }
+
+  const activeTask = view.name === "task" ? tasks.find((t) => t.id === view.taskId) : undefined;
 
   return (
     <div className="min-h-dvh bg-paper-white">
@@ -15,12 +43,32 @@ function App() {
         </h1>
       </header>
 
-      <div className="flex">
-        <Sidebar active={view} onNavigate={setView} />
-        <div className="min-w-0 flex-1">
-          {view === "planner" ? <BearingPlanner /> : <ChartPage />}
+      {view.name === "list" || !activeTask ? (
+        <WorkspaceList
+          tasks={tasks}
+          onCreateTask={handleCreateTask}
+          onOpenTask={(id) => setView({ name: "task", taskId: id, tab: "input" })}
+          onDeleteTask={handleDeleteTask}
+        />
+      ) : (
+        <div className="flex">
+          <Sidebar
+            active={view.tab}
+            onNavigate={(tab) => setView({ name: "task", taskId: activeTask.id, tab })}
+          />
+          <div className="min-w-0 flex-1">
+            {view.tab === "input" ? (
+              <TaskDetail
+                task={activeTask}
+                onSave={(patch) => handleUpdateTask(activeTask.id, patch)}
+                onBack={() => setView({ name: "list" })}
+              />
+            ) : (
+              <TaskChart task={activeTask} onBack={() => setView({ name: "list" })} />
+            )}
+          </div>
         </div>
-      </div>
+      )}
     </div>
   );
 }
