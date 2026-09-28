@@ -1,4 +1,4 @@
-import { COUNTRIES, DRIVE_TYPES, MANUFACTURERS, MODELS } from "@/data/catalog";
+import { BEARING_TYPES, COUNTRIES, DRIVE_TYPES, findVehicle, MANUFACTURERS, MODELS } from "@/data/catalog";
 
 export interface DemandForecastTask {
   id: string;
@@ -76,13 +76,36 @@ export function resolveVehicleStatus(selection: {
   if (!selection.manufacturer || !selection.model) return "IDENTITY_UNRESOLVED";
   if (!selection.driveType) return "AMBIGUOUS";
   if (!selection.country) return "APPLICABILITY_UNRESOLVED";
+  // 4개 필드가 모두 채워졌어도 실제로 존재하는 차량 조합이 아니면 마스터 미등록으로 취급한다.
+  if (!findVehicle(selection)) return "IDENTITY_UNRESOLVED";
   return "RESOLVED";
 }
 
 export function taskTitle(task: DemandForecastTask): string {
+  const country = COUNTRIES.find((c) => c.value === task.country)?.label;
   const manufacturer = MANUFACTURERS.find((m) => m.value === task.manufacturer)?.label;
   const model = MODELS.find((m) => m.value === task.model)?.label;
-  return manufacturer && model ? `${manufacturer} ${model}` : "제목 없는 작업";
+  if (!manufacturer || !model) return "제목 없는 작업";
+  return country ? `${country} · ${manufacturer} ${model}` : `${manufacturer} ${model}`;
+}
+
+/** 그래프 범례용 라벨: "국가 · 제조사 · 모델 · 구동방식" */
+export function vehicleComboLabel(task: DemandForecastTask): string {
+  const country = COUNTRIES.find((c) => c.value === task.country)?.label ?? "국가 미입력";
+  const manufacturer = MANUFACTURERS.find((m) => m.value === task.manufacturer)?.label ?? "제조사 미입력";
+  const model = MODELS.find((m) => m.value === task.model)?.label ?? "모델 미입력";
+  const driveType = DRIVE_TYPES.find((d) => d.value === task.driveType)?.label ?? "구동방식 미입력";
+  return `${country} · ${manufacturer} · ${model} · ${driveType}`;
+}
+
+/** 해당없음/미설정을 제외하고 실제 입력된 베어링 개수만 합산한 차량당 합계. */
+export function computeBearingTotal(task: DemandForecastTask): number {
+  return BEARING_TYPES.reduce((sum, b) => {
+    const isNA = task.naFlags[b.value] ?? false;
+    const raw = task.quantities[b.value] ?? "";
+    if (isNA || raw === "") return sum;
+    return sum + (Number(raw) || 0);
+  }, 0);
 }
 
 export function formatTaskTimestamp(timestamp: number): string {

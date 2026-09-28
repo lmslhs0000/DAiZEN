@@ -64,7 +64,7 @@ function App() {
                 onBack={() => setView({ name: "list" })}
               />
             ) : (
-              <TaskChart task={activeTask} onBack={() => setView({ name: "list" })} />
+              <TaskChart tasks={tasks} onBack={() => setView({ name: "list" })} />
             )}
           </div>
         </div>
