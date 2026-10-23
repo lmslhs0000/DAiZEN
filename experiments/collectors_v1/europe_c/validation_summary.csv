@@ -1,0 +1,6 @@
+﻿period,n_series_raw,n_with_value,raw_volume_with_value,weighted_ratio,wape,top100_with_value,top100_within_10pct,top100_within_20pct,top100_ratio_p10,top100_ratio_median,top100_ratio_p90,top100_wape,sources
+2026-04,445,383,0.9919,1.0219,0.1039,100,0.77,0.9,0.875,1.011,1.1,0.0748,DE:ok;ES:ok;NL:ok;UK:ok;FR:ok;IT:ok;SE:missing;CH:ok;FI:missing;IE:timing_unused;RO:missing;LU:missing;PL:missing
+2026-05,452,376,0.9914,1.0407,0.1117,100,0.68,0.87,0.896,1.026,1.158,0.0876,DE:ok;ES:ok;NL:ok;UK:ok;FR:ok;IT:ok;SE:missing;CH:ok;FI:missing;IE:timing_unused;RO:missing;LU:missing;PL:missing
+2026-06,478,396,0.9913,1.0225,0.1132,100,0.71,0.86,0.881,1.003,1.18,0.0772,DE:ok;ES:ok;NL:ok;UK:ok;FR:ok;IT:ok;SE:missing;CH:ok;FI:missing;IE:timing_unused;RO:missing;LU:missing;PL:missing
+2026-07,473,405,0.9861,1.0346,0.1246,100,0.65,0.87,0.866,1.023,1.176,0.0843,DE:ok;ES:ok;NL:ok;UK:missing;UK_SMMT:ok;FR:ok;IT:ok;SE:ok;CH:ok;FI:ok;IE:ok;RO:ok;LU:ok;PL:partial_unused
+2026-Q2,484,385,0.9898,1.0287,0.0956,100,0.78,0.88,0.934,1.009,1.147,0.067,sum of 04-06 (값이 세 달 모두 있는 차종)

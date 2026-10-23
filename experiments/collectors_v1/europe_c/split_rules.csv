@@ -1,0 +1,10 @@
+﻿rule_id,country,source_id,formula,inputs,fallback,limits
+EST_COUNTRY_SHARE,(안 덮인 나라 전부),EEA_CO2_2025P+UK_DFT+CH_AUTOSCHWEIZ,"Sales = V + V*Wu/Wc; Wc = sum_{c covered} share[s,c]*f[c,m], Wu = sum_{c not covered} share[s,c]*f[c,m]; V = 덮인 나라 합","europe_b/eea_shares_<연도>.csv(n_2025_adj, 완전도 보정), seasonal_factors_<연도>.csv",차종 몫 없음 → 브랜드 몫 → 시장 몫(confidence low). 짝(PAIR_GROUPS)은 짝 합계 몫,몫은 전년 연간 값(신차·단종·나라별 출시 시점 반영 못 함). Wc < 0.10 이면 값 없음. 밴(LCV_LIKE)은 추정 안 함
+SEASONAL_FACTOR,모든 나라,EEA monthly 2025 + DfT VEH1153 + auto-schweiz 2025,"f[c,m] = (n[c,m]/N[c]) / (E[m]/E), 0.4~2.5 로 자름; 완전도(ACEA/EEA) 0.9~1.1 밖 나라(PL·FI)는 1","europe_b/cache/eea_monthly_2025_ALL_ft.csv, europe_a/cache/uk/veh1153a_raw.csv, europe_b/cache/ch_ModellePW2025.xlsx",1,"IE 7월 2.5(상한), 영국 3·9월 번호판 달 반영"
+DE_GROUP_ALLOC,Germany,DE_KBA_FZ10,KBA 한 줄(우리 Germany 계열)이 Europe 여러 계열을 담으면 EEA 2025 독일 대수 비율로 나눔,europe_a/out/de_links.csv (de_group 69행),우리 Europe 2025 판매 비율 → 균등,"MINI 한 줄=Cooper+Countryman+Aceman 등. 새 차종(C-HR+, e Vitara)은 LUMP 규칙이 덮어씀"
+CH_RECLASS,Switzerland,CH_AUTOSCHWEIZ,누계 차이가 음수(5대 이상)인 모델 + 이번 달 처음 나온 같은 브랜드 모델을 한 묶음으로 차이 → 이번 달 누계 비율로 나눔,ModellePW<연도>.xlsx 그 달·전달 시트,짝 없거나 1~4대면 0,2026-07 BMW X3 누계에서 iX3 분리(묶음 월값 397대)
+LUMP_XC40_EX40,SE,(그 나라 출처),Volvo XC40 + EX40 합을 그 달 따로 내는 나라(lumped 아닌 모든 나라) 합 비율로 나눔,같은 달 다른 나라 수집 결과,EEA 2025 유럽 비율,따로 내는 나라가 그 달 없으면(예: 7월 영국 미발표) 비율이 SE 하나로 정해짐
+LUMP_A6_A6etron,"CH,FI",(그 나라 출처),Audi A6 + A6 e-tron 합을 그 달 따로 내는 나라(lumped 아닌 모든 나라) 합 비율로 나눔,같은 달 다른 나라 수집 결과,EEA 2025 유럽 비율,따로 내는 나라가 그 달 없으면(예: 7월 영국 미발표) 비율이 SE 하나로 정해짐
+LUMP_CHR_CHR,"DE,ES,NL,FR,IT,CH,FI,IE,RO,LU,PL",(그 나라 출처),"Toyota C-HR + C-HR+ 합을 그 달 따로 내는 나라(SE,UK) 합 비율로 나눔",같은 달 다른 나라 수집 결과,EEA 2025 유럽 비율,따로 내는 나라가 그 달 없으면(예: 7월 영국 미발표) 비율이 SE 하나로 정해짐
+LUMP_VitaraGrandVitara_eVitara,"DE,CH,FI,IE",(그 나라 출처),"Suzuki Vitara/Grand Vitara + e Vitara 합을 그 달 따로 내는 나라(ES,NL,UK,SE,RO,LU,PL) 합 비율로 나눔",같은 달 다른 나라 수집 결과,EEA 2025 유럽 비율,따로 내는 나라가 그 달 없으면(예: 7월 영국 미발표) 비율이 SE 하나로 정해짐
+UK_Q2M_FUEL,United Kingdom,UK_DFT_VEH0160,europe_a/split_rules.csv 참고(분기 → 연료별 전국 월 비율),europe_a,분기 미발표 달은 영국 몫 추정(EST_COUNTRY_SHARE),value_type=split

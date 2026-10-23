@@ -1,0 +1,18 @@
+{
+  "model": "fq_champ",
+  "rule": "(et) linear run-off to 0 over 12 months after announced nameplate end (announced <= origin < end <= origin+24), markets except China",
+  "events": {
+    "experiments/global_lifecycle_v1/research/discontinued_reviewed.csv": "b58542b5361b33e3d315b9fd0208eeb14450dc92070845ce478ce2904f471937"
+  },
+  "past_months": 12,
+  "trained_models": 0,
+  "source": "experiments/horizon_eval_v1/reports/es_champ_20261005T092611_787574Z_d721dd",
+  "origins": [
+    "2022-07",
+    "2023-01",
+    "2023-07",
+    "2024-01",
+    "2024-07",
+    "2025-07"
+  ]
+}

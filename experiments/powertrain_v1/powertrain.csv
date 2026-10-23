@@ -1,0 +1,1397 @@
+Brand,Model,powertrain,plugin_from,nev_only_from,confidence,basis,classified_for
+212,T01,ICE,,,high,Petrol only,China
+AION,LX,BEV,2019,2019,high,BEV only; i60 (2025-11) was Aion's first EREV,China
+AION,N60,BEV,2026,2026,high,BEV only (launched 2026-04); https://carnewschina.com/2026/04/03/gac-aion-n60-ev-with-610-km-range-set-for-pre-sales-launch-on-april-16/,China
+AION,RT,BEV,2024,2024,high,BEV only through 2026-07,China
+AION,S,BEV,2019,2019,high,BEV only,China
+AION,UT,BEV,2025,2025,high,BEV only through 2026-07,China
+AION,V,BEV,2020,2020,high,BEV only,China
+AION,Y,BEV,2021,2021,high,BEV only,China
+AION,i60,PHEV,2025,2025,high,EREV + BEV from 2025-11 launch,China
+AITO,M5,PHEV,2021,2021,high,EREV from 2021-12; BEV added 2022,China
+AITO,M6,PHEV,2026,2026,high,EREV + BEV (launched 2026-04); https://en.wikipedia.org/wiki/AITO_M6,China
+AITO,M7,PHEV,2022,2022,high,EREV from 2022; BEV added later,China
+AITO,M8,PHEV,2025,2025,high,EREV + BEV,China
+AITO,M9,PHEV,2023,2023,high,EREV + BEV (launched 2023-12),China
+Abarth,500,MIX,2023,2025,medium,595/695 ICE to 2024 + 500e BEV 2023; only 500e from 2025 (data drop 2025),non-China
+Abarth,600,BEV,2024,2024,high,600e electric only,non-China
+Acura,ADX,ICE,,,high,known model; petrol only,non-China
+Acura,Integra,ICE,,,high,known model,non-China
+Acura,MDX,ICE,,,high,known model; Sport Hybrid is non-plug-in,non-China
+Acura,RDX,ICE,,,high,known model,non-China
+Acura,TLX,ICE,,,high,known model,non-China
+Acura,ZDX,BEV,2024,2024,high,2024 ZDX is Ultium BEV; old ICE ZDX ended 2013,non-China
+Alfa Romeo,Giulia,ICE,,,high,known model; next-gen EV not launched,non-China
+Alfa Romeo,Junior,MIX,2024,,high,Junior Elettrica BEV + Ibrida MHEV (2024),non-China
+Alfa Romeo,Stelvio,ICE,,,high,known model; next-gen EV not launched,non-China
+Alfa Romeo,Tonale,MIX,2023,,high,Tonale PHEV Q4 deliveries Q1 2023 + MHEV/petrol https://www.cargurus.co.uk/research/articles/alfa-romeo-tonale-plug-in-hybrid-q4-price-and-release-date,non-China
+Alpine,A110,ICE,,,high,known model,non-China
+Alpine,A290,BEV,2024,2024,high,electric only,non-China
+Alpine,A390,BEV,2025,2025,high,electric only,non-China
+Aston Martin,DB12,ICE,,,high,known model; V8,non-China
+Aston Martin,DBX,ICE,,,high,known model,non-China
+Aston Martin,Valhalla,PHEV,2025,2025,high,V8 plug-in hybrid only,non-China
+Aston Martin,Vanquish,ICE,,,high,known model; V12,non-China
+Aston Martin,Vantage,ICE,,,high,known model,non-China
+Audi,A1,ICE,,,high,known model,non-China
+Audi,A3,ICE,,,medium,FAW A3 petrol only; imported e-tron negligible,China
+Audi,A4,ICE,,,high,known model; no PHEV,non-China
+Audi,A4L,ICE,,,high,No plug-in,China
+Audi,A5,MIX,2025,,high,A5 e-hybrid PHEV from Apr 2025 (EU) https://www.audi.com/en/press-releases/new-audi-a5-e-hybrids-combine-dynamics-efficiency-and-long-electric-range-16582,non-China
+Audi,A5L,ICE,,,high,Petrol MHEV,China
+Audi,A6,MIX,2020,,medium,"A6 55 TFSI e PHEV (presale Oct 2019, deliveries 2020); A6 e-tron may be in some series",non-China
+Audi,A6 e-tron,BEV,2024,2024,high,name has e-tron; electric only,non-China
+Audi,A6L,MIX,2018,,medium,"PHEV 2018-22, BEV 2026; plug-ins mostly separate series",China
+Audi,A7,MIX,2020,,medium,A7 55 TFSI e PHEV (2020),non-China
+Audi,A7L,ICE,,,high,No plug-in,China
+Audi,A8,MIX,2020,,medium,"A8 L 60 TFSI e PHEV (orders Q4 2019, deliveries 2020)",non-China
+Audi,E5 Sportback,BEV,2025,2025,high,BEV,China
+Audi,E7X,BEV,2026,2026,high,BEV so far,China
+Audi,Q2,ICE,,,high,known model,non-China
+Audi,Q2L,MIX,2019,,high,Q2L e-tron BEV 2019-2025,China
+Audi,Q3,ICE,,,high,,China
+Audi,Q3 Sportback,MIX,2021,,high,Q3 Sportback 45 TFSI e PHEV from Jan 2021,non-China
+Audi,Q4,BEV,2021,2021,high,Q4 e-tron electric only,non-China
+Audi,Q4 Sportback,BEV,2021,2021,high,Q4 Sportback e-tron electric only,non-China
+Audi,Q4 e-tron,BEV,2022,2022,high,,China
+Audi,Q5,MIX,2019,,high,Q5 55 TFSI e PHEV from Q3 2019,non-China
+Audi,Q5 Sportback,MIX,2021,,high,Q5 Sportback launched 2021 incl. TFSI e PHEV,non-China
+Audi,Q5L,ICE,,,high,No PHEV,China
+Audi,Q6,ICE,,,high,,China
+Audi,Q6 Sportback e-tron,BEV,2024,2024,high,name has e-tron; electric only,non-China
+Audi,Q6 e-tron,BEV,2024,2024,high,name has e-tron; electric only,non-China
+Audi,Q6L e-tron,BEV,2025,2025,high,,China
+Audi,Q7,MIX,2016,,high,Q7 e-tron TDI PHEV (deliveries summer 2016); later TFSI e,non-China
+Audi,Q8,MIX,2020,,medium,Q8 TFSI e PHEV (presale Oct 2020); Q8 e-tron tracked separately,non-China
+Audi,Q8 e-tron,BEV,2019,2019,high,electric only; series includes former e-tron SUV (2019-22),non-China
+Audi,Q9,ICE,,,medium,launches with V6 TDI MHEV (Q4 2026); PHEV planned 2027 https://www.motor1.com/news/803167/audi-q9-more-engines-europe/,non-China
+Audi,e-tron GT,BEV,2019,2019,medium,electric only; nameplate 2021 but Canada series has 2019-20 sales (likely e-tron SUV),non-China
+Avatr,06,PHEV,2025,2025,high,BEV + EREV,China
+Avatr,07,PHEV,2024,2024,high,BEV + EREV,China
+Avatr,11,PHEV,2022,2022,high,BEV 2022; EREV added 2024-12,China
+Avatr,12,PHEV,2023,2023,high,BEV 2023; EREV added 2024-11,China
+BAIC,X7,MIX,2020,,low,Negligible PHEV volume,China
+BAIC BJ,BJ30,ICE,,,high,Petrol/HEV,China
+BAIC BJ,BJ40,ICE,,,high,EREV separate row,China
+BAIC BJ,BJ40 REEV,PHEV,2025,2025,high,EREV,China
+BAIC BJ,BJ60,ICE,,,high,EREV separate row,China
+BAIC BJ,BJ60 REEV,PHEV,2024,2024,medium,EREV on sale 2024,China
+BAIC BJEV,Arcfox Alpha S,BEV,2021,2021,high,BEV only,China
+BAIC BJEV,Arcfox Alpha T,BEV,2020,2020,high,BEV only,China
+BAIC BJEV,Arcfox Kaola,BEV,2023,2023,high,BEV only,China
+BAIC BJEV,S3,BEV,2026,2026,medium,BEV (launched 2026-05); no EREV on sale by 2026-07,China
+BAIC BJEV,S5,PHEV,2024,2024,high,BEV 2024; EREV added 2026-03; https://cnevpost.com/2026/03/18/updated-arcfox-alpha-s5-enters-chinese-ev-market/,China
+BAIC BJEV,T1,BEV,2025,2025,high,BEV only,China
+BAIC BJEV,T5,PHEV,2023,2023,high,BEV 2023; EREV added 2025-10; https://cnevpost.com/2025/10/29/arcfox-launches-updated-alpha-t5-suv/,China
+BAIC BJEV,V9,PHEV,2026,2026,medium,EREV-only MPV; https://cnevpost.com/2026/02/10/arcfox-unveils-wendao-lineup-target-premium-market/,China
+BAW,Ruisheng M8,ICE,,,medium,CNG MPV,China
+BAW,Ruisheng M8 EV,PHEV,2025,2025,medium,BEV and EREV trims,China
+BAW,Ruisheng Wangpai M7,ICE,,,high,Petrol/CNG,China
+BAW,Ruisheng Wangpai M7 EV,BEV,2023,2023,medium,BEV-only,China
+BAW,Yongshi,ICE,,,high,Petrol/diesel,China
+BAW,Yuanbao,BEV,2022,2022,medium,BEV microcar,China
+BMW,1 Series,ICE,,,high,known model; no PHEV,non-China
+BMW,2 Series,ICE,,,high,Petrol only in China,China
+BMW,2 Series Active Tourer,MIX,2016,,high,225xe PHEV (2016-) and 225e/230e (2022-),non-China
+BMW,2 Series Gran Coupe,ICE,,,high,known model,non-China
+BMW,3 Series,ICE,,,high,No domestic PHEV,China
+BMW,4 Series,MIX,2022,,medium,"US series includes i4 (BMW NA reporting; US 4 Series jumps 2022-23, no US i4 series); i4 separate elsewhere",non-China
+BMW,5 Series,MIX,2015,,medium,530Le PHEV,China
+BMW,7 Series,MIX,2016,,high,740e/745e/750e PHEV from 2016; US series also includes i7,non-China
+BMW,8 Series,ICE,,,high,known model,non-China
+BMW,M2,ICE,,,high,known model,non-China
+BMW,M3,ICE,,,high,known model,non-China
+BMW,M4,ICE,,,high,known model,non-China
+BMW,M5,MIX,2024,2025,high,F90 M5 ICE to 2023-24; G90 M5 PHEV only from Nov 2024 (KR data gap 2024),non-China
+BMW,M8,ICE,,,high,known model,non-China
+BMW,X1,MIX,2017,,high,X1 PHEV 2017-21,China
+BMW,X2,MIX,2020,,high,X2 xDrive25e PHEV (2020-23); iX2 BEV may be in some series,non-China
+BMW,X3,ICE,,,high,iX3 separate,China
+BMW,X4,ICE,,,high,known model,non-China
+BMW,X5,ICE,,,medium,BBA X5 Li ICE only,China
+BMW,X5 M,ICE,,,high,known model,non-China
+BMW,X6,ICE,,,high,known model; no PHEV,non-China
+BMW,X6 M,ICE,,,high,known model,non-China
+BMW,X7,ICE,,,high,known model,non-China
+BMW,XM,PHEV,2022,2022,high,plug-in hybrid only,non-China
+BMW,Z4,ICE,,,high,known model,non-China
+BMW,i3,BEV,2022,2022,high,China-built i3 sedan,China
+BMW,i4,BEV,2021,2021,high,i-prefix BEV,non-China
+BMW,i5,BEV,2024,2024,medium,,China
+BMW,i7,BEV,2022,2022,high,i-prefix BEV,non-China
+BMW,iX,BEV,2021,2021,high,i-prefix BEV,non-China
+BMW,iX1,BEV,2023,2023,high,,China
+BMW,iX2,BEV,2023,2023,high,i-prefix BEV,non-China
+BMW,iX3,BEV,2020,2020,high,,China
+BMW,iX5,UNKNOWN,,,low,small 2025-26 EU regs = likely iX5 Hydrogen FCEV pilot fleet (not plug-in); BEV iX5 (G65) not on sale before 2026-07 https://www.press.bmwgroup.com/global/article/detail/T0408839EN,non-China
+BYD,05 EV,BEV,2025,2025,high,Sealion 05 EV (on sale 2025-03); https://www.12365auto.com/xcdg/20250325/545000.shtml,China
+BYD,06 DM-i,PHEV,2025,2025,medium,Seal 06 DM-i wagon (2025-07); http://www.news.cn/auto/20250707/651548262242425992ec2866cc273a2e/c.html,China
+BYD,06GT,BEV,2024,2024,high,EV only,China
+BYD,Atto 2,PHEV,2024,2024,medium,BEV (2024) + Atto 2 DM-i PHEV from Q1 2026; all plug-in https://www.electrive.com/2025/10/23/byds-atto-2-to-also-launch-as-plug-in-hybrid/,non-China
+BYD,Atto 3,BEV,2022,2022,high,EV only,China
+BYD,D1,BEV,2020,2020,high,ride-hailing EV,China
+BYD,Datang,BEV,2026,2026,medium,"only Datang EV on sale (2026-06); DM-i filed, not confirmed on sale; https://finance.sina.com.cn/tech/digi/2026-05-28/doc-inhznkuh8444099.shtml",China
+BYD,Destroyer 05,PHEV,2022,2022,high,DM-i only,China
+BYD,Dolphin,BEV,2021,2021,high,EV only,China
+BYD,Dolphin G DM-i,PHEV,2026,2026,high,name has DM-i; BYD plug-in only,non-China
+BYD,Dolphin Surf,BEV,2023,2023,high,EV only,China
+BYD,Frigate 07,PHEV,2022,2022,high,"DM-i/DM-p only, no EV",China
+BYD,Han,PHEV,2020,2020,high,EV + DM from 2020,China
+BYD,L DM-i,PHEV,2024,2024,high,Song L DM-i (2024-07),China
+BYD,L EV,BEV,2023,2023,high,Song L EV (2023-12),China
+BYD,M9,PHEV,2025,2025,high,1.5T PHEV MPV (2025-08); https://www.ithome.com/0/879/068.htm,China
+BYD,Qin EV,BEV,2016,2016,high,EV only,China
+BYD,Qin L,PHEV,2024,2024,high,DM-i 2024 + EV later,China
+BYD,Qin Plus,PHEV,2021,2021,medium,"DM-i + EV only, no petrol version found",China
+BYD,Seal,PHEV,2022,2022,medium,EV 2022; Seal DM-i 2023-09..2024-07 (then renamed Seal 07 DM-i),China
+BYD,Seal 05 DM-i,PHEV,2024,2024,high,DM-i only,China
+BYD,Seal 06,PHEV,2024,2024,high,DM-i + EV,China
+BYD,Seal 07 DM-i,PHEV,2024,2024,high,renamed Seal DM-i (2023-09),China
+BYD,Seal 07 EV,BEV,2026,2026,high,on sale 2026-03,China
+BYD,Seal 5 DM-i,PHEV,2025,2025,high,name has DM-i,non-China
+BYD,Seal 6 DM-i,PHEV,2025,2025,high,name has DM-i,non-China
+BYD,Seal U,PHEV,2024,2024,high,Seal U EV (BEV) + Seal U DM-i (PHEV); BYD plug-in only,non-China
+BYD,Sealion 05 DM-i,PHEV,2025,2025,high,DM-i only,China
+BYD,Sealion 06,PHEV,2025,2025,high,DM-i + EV,China
+BYD,Sealion 07 DM-i,PHEV,2025,2025,high,DM-i only,China
+BYD,Sealion 5 DM-i,PHEV,2026,2026,high,name has DM-i,non-China
+BYD,Sealion 6 DM-i,PHEV,2026,2026,high,name has DM-i,non-China
+BYD,Sealion 7,BEV,2024,2024,medium,Sealion 07 EV (2024); row likely its late listing,China
+BYD,Song Pro NEV,PHEV,2019,2019,high,"DM 2019, EV 2019-21, DM-i 2021; petrol Song Pro listed separately",China
+BYD,Tang,MIX,2015,2022,medium,PHEV-only 2015-18; petrol 2.0T 2018-21; EV 2019; NEV-only from 2022,China
+BYD,Tang L,PHEV,2025,2025,high,DM-i + EV (2025-04),China
+BYD,UP,BEV,2024,2024,high,EV only,China
+BYD,Ultra,BEV,2026,2026,medium,"EV only on sale (2026-03); DM-i listed, not confirmed; http://auto.news18a.com/news/storys_242887.html",China
+BYD,Xia,PHEV,2025,2025,high,DM-i only,China
+BYD,Yi L,PHEV,2025,2025,medium,"timing/volume match Han L (EV + DM-i, 2025-04); https://en.wikipedia.org/wiki/BYD_Han_L",China
+BYD,e2,BEV,2019,2019,high,EV only,China
+BYD,e3,BEV,2019,2019,high,EV only,China
+BYD,e7,BEV,2025,2025,high,EV only (2025-05),China
+BYD,e9,BEV,2021,2021,medium,fleet EV since 2021; 2026 rebadged fleet version,China
+Baojun,Plus,BEV,2024,2024,high,"Launched 2024-04-12, BEV only",China
+Baojun,Xiangjing,PHEV,2025,2025,high,"PHEV + BEV from 2025-04, no ICE",China
+Baojun,Yep,BEV,2023,2023,high,BEV only,China
+Baojun,Yunhai,PHEV,2024,2024,high,"EREV mid-2024, BEV 2024-09, no ICE",China
+Beijing,BJ30,ICE,,,medium,EU sells BJ30 HEV (non-plug-in) https://autoappassionati.it/novita/la-jeep-cinese-ibrida-da-409-cv-sbarca-in-europa-ecco-baic-bj30-hev-il-fuoristrada-brutale-a-un-prezzo-stracciato,non-China
+Beijing,BJ40,ICE,,,medium,petrol/diesel off-roader in EU,non-China
+Beijing,BJ60,ICE,,,medium,EU spec 2.0T MHEV petrol/LPG https://www.moniteurautomobile.be/actu-auto/nouveaux-modeles/baic-bj60.html,non-China
+Beijing,X55,ICE,,,high,1.5T petrol SUV,non-China
+Beijing,X7,ICE,,,low,EU version believed 1.5T petrol; PHEV exists in China only (unverified),non-China
+Bentley,Bentayga,MIX,2019,,high,Bentayga Hybrid PHEV first deliveries Oct 2019; V8 ICE continues,non-China
+Bentley,Continental,MIX,2024,2025,medium,4th-gen Continental GT/GTC is V8 PHEV only (late 2024); W12/V8 ICE ended 2024,non-China
+Bentley,Flying Spur,MIX,2021,2025,medium,Flying Spur Hybrid V6 PHEV (end 2021); new gen PHEV only after ICE ended 2024,non-China
+Bestune,B70,ICE,,,high,Draft kept,China
+Bestune,Pony,BEV,2024,2024,high,City BEV,China
+Bestune,Yueyi 03,BEV,2025,2025,high,BEV-only crossover,China
+Bestune,Yueyi 07,PHEV,2025,2025,medium,PHEV SUV,China
+Bestune,Yueyi 08,PHEV,2026,2026,low,BEV + EREV listed; may be BEV only,China
+Bugatti,Mistral,ICE,,,high,known model; W16,non-China
+Buick,Century,ICE,,,medium,petrol MPV,China
+Buick,Electra E5,BEV,2023,2023,high,Electra EV,China
+Buick,Electra E7,UNKNOWN,2026,2026,low,Buick Electra NEV line; BEV vs EREV unverified,China
+Buick,Electra Encasa,UNKNOWN,2025,2025,low,Buick Electra NEV line; unverified,China
+Buick,Electra L7,PHEV,2025,2025,low,Electra L7 EREV (unverified),China
+Buick,Enclave,ICE,,,high,known model,non-China
+Buick,Encore GX,ICE,,,high,known model,non-China
+Buick,Envision,ICE,,,high,known model,non-China
+Buick,Envision Plus,ICE,,,medium,known model,China
+Buick,Envista,ICE,,,high,known model,non-China
+Buick,GL8,ICE,,,medium,PHEV tracked as separate row,China
+Buick,GL8 EV,PHEV,2024,2024,medium,GL8 PHEV (new-energy row),China
+Buick,LaCrosse,ICE,,,high,known model,China
+Buick,Regal,ICE,,,high,known model,China
+Buick,Velite 6,PHEV,2019,2019,medium,PHEV + BEV,China
+Buick,Verano,ICE,,,high,known model,China
+Cadillac,CT4,ICE,,,high,known model,non-China
+Cadillac,CT5,ICE,,,high,known model,China
+Cadillac,CT6,MIX,2017,,medium,CT6 plug-in hybrid version,China
+Cadillac,Escalade,ICE,,,high,known model; Escalade IQ tracked separately,non-China
+Cadillac,Escalade ESV,ICE,,,high,known model,non-China
+Cadillac,Escalade IQ,BEV,2025,2025,high,IQ = electric Escalade,non-China
+Cadillac,Escalade IQ EV,BEV,2024,2024,high,IQ = electric Escalade,non-China
+Cadillac,GT4,ICE,,,high,known model,China
+Cadillac,Lyriq,BEV,2022,2022,high,Ultium EV,China
+Cadillac,Optiq,BEV,2024,2024,high,Ultium EV,China
+Cadillac,Vistiq,BEV,2026,2026,medium,Ultium EV,China
+Cadillac,XT4,ICE,,,high,known model,China
+Cadillac,XT5,ICE,,,high,known model,China
+Cadillac,XT6,ICE,,,high,known model,China
+CaoCao,Cao Cao 60,BEV,2023,2023,high,draft OK,China
+Changan,CS35PLUS,ICE,,,high,Petrol only,China
+Changan,CS55PLUS,MIX,2025,,medium,PHEV from 2025,China
+Changan,CS75PLUS,MIX,2023,,medium,Small iDD PHEV share,China
+Changan,Eado,MIX,2015,,medium,BEV/PHEV versions since 2015,China
+Changan,Lumin,BEV,2022,2022,high,BEV-only,China
+Changan,Oshan 520,BEV,2024,2024,medium,Battery-swap BEV,China
+Changan,Oshan Z6,ICE,,,high,iDD separate row,China
+Changan,Oshan Z6 iDD,PHEV,2022,2022,high,PHEV-only,China
+Changan,Plus,ICE,,,medium,Petrol only,China
+Changan,UNI-K,MIX,2022,,high,Petrol plus iDD PHEV,China
+Changan,UNI-T,ICE,,,high,Petrol only,China
+Changan,UNI-V,MIX,2023,,high,Petrol plus iDD PHEV,China
+Changan,UNI-Z,MIX,2024,,high,PHEV and petrol,China
+Changan,X5 PLUS,ICE,,,high,Petrol only,China
+Changan,X7 PLUS,ICE,,,high,Petrol only,China
+Changan Nevo,A05,PHEV,2023,2023,high,iDD PHEV-only,China
+Changan Nevo,A06,PHEV,2023,2023,medium,PHEV then BEV/EREV,China
+Changan Nevo,A07,PHEV,2023,2023,high,BEV and EREV,China
+Changan Nevo,E07,PHEV,2024,2024,high,EREV and BEV,China
+Changan Nevo,Q05,PHEV,2023,2023,high,PHEV then BEV,China
+Changan Nevo,Q07,PHEV,2025,2025,high,iDD PHEV,China
+Chery,9 C-DM,PHEV,2024,2024,high,C-DM PHEV launched 2024-09,China
+Chery,A8,PHEV,2024,2024,high,C-DM PHEV only,China
+Chery,A9L,PHEV,2025,2025,high,CDM 6.0 PHEV,China
+Chery,Arrizo 5,ICE,,,high,Petrol; BEV separate series,China
+Chery,Arrizo 8,ICE,,,high,PHEV sold as Fulwin A8,China
+Chery,C-DM,PHEV,2024,2024,high,PHEV Traveller,China
+Chery,G700,PHEV,2025,2025,high,2.0T PHEV,China
+Chery,Jetour Dasheng,MIX,2022,,medium,Petrol plus i-DM PHEV probably inside row,China
+Chery,Jetour Traveller,ICE,,,high,PHEV tracked as C-DM row,China
+Chery,Jetour Ziyouzhe,ICE,,,high,Petrol only,China
+Chery,L7,PHEV,2024,2024,high,C-DM PHEV,China
+Chery,L7 PLUS,PHEV,2025,2025,high,PHEV,China
+Chery,L9,PHEV,2023,2023,high,PHEV,China
+Chery,Little Ant,BEV,2017,2017,high,BEV city car,China
+Chery,QQ,MIX,2021,2022,high,Petrol QQ to 2021-12; QQ Ice Cream BEV only from 2022,China
+Chery,QQ Duomi,BEV,2025,2025,high,BEV,China
+Chery,QQ3 EV,BEV,2026,2026,high,BEV,China
+Chery,T1,PHEV,2024,2024,high,PHEV,China
+Chery,T11,PHEV,2025,2025,high,EREV only,China
+Chery,T8,PHEV,2025,2025,high,C-DM PHEV,China
+Chery,T9,PHEV,2024,2024,high,C-DM PHEV,China
+Chery,T9L,PHEV,2026,2026,high,PHEV,China
+Chery,Tiggo 3X,ICE,,,high,Petrol; BEV separate,China
+Chery,Tiggo 5X,ICE,,,high,Petrol only,China
+Chery,Tiggo 7,MIX,2023,,medium,Small PHEV share probably inside row,China
+Chery,Tiggo 8,MIX,2021,,medium,Small PHEV share probably inside row,China
+Chery,Tiggo 9,ICE,,,high,C-DM separate row,China
+Chery,X3,BEV,2025,2025,medium,BEV family; X3L EREV maybe inside,China
+Chery,X70,ICE,,,medium,"Plug-ins mostly separate, under 3% if inside",China
+Chery,X90,ICE,,,medium,PHEV reported separately,China
+Chery,iCAR ClassV23,BEV,2024,2024,high,BEV only,China
+Chery,iCAR V27,PHEV,2026,2026,high,EREV only,China
+Chevrolet,Aveo,ICE,,,high,known model,China
+Chevrolet,Blazer,ICE,,,high,known model,China
+Chevrolet,Blazer EV,BEV,2023,2023,high,name has EV,non-China
+Chevrolet,Bolt,BEV,2016,2016,high,Bolt EV/EUV electric only (Dec 2016-),non-China
+Chevrolet,BrightDrop 400/600,BEV,2024,2024,medium,electric van; year from data (CA),non-China
+Chevrolet,Camaro,ICE,,,high,known model,non-China
+Chevrolet,Colorado,ICE,,,high,known model,non-China
+Chevrolet,Corvette,ICE,,,high,known model; E-Ray is non-plug-in hybrid,non-China
+Chevrolet,Equinox,ICE,,,low,Equinox EV in China unverified,China
+Chevrolet,Equinox EV,BEV,2024,2024,high,name has EV,non-China
+Chevrolet,Express,ICE,,,high,known model,non-China
+Chevrolet,Malibu,ICE,,,high,known model,China
+Chevrolet,Menlo,BEV,2020,2020,high,known model,China
+Chevrolet,Monza,ICE,,,high,known model,China
+Chevrolet,Onix,ICE,,,high,known model,China
+Chevrolet,Silverado,MIX,2023,,high,"series includes Silverado EV (US Q1-24 data = 128,926 ICE + 1,061 EV); first EV deliveries Q3 2023",non-China
+Chevrolet,Suburban,ICE,,,high,known model,non-China
+Chevrolet,Tahoe,ICE,,,high,known model,non-China
+Chevrolet,TrailBlazer,ICE,,,high,known model,non-China
+Chevrolet,Traverse,ICE,,,high,known model,non-China
+Chevrolet,Trax,ICE,,,high,known model,non-China
+Chrysler,300,ICE,,,high,known model,non-China
+Chrysler,Grand Caravan,ICE,,,high,known model (Canada Voyager twin),non-China
+Chrysler,Pacifica,MIX,2017,,high,Pacifica Hybrid PHEV (deliveries early 2017) + gas,non-China
+Chrysler,Voyager,ICE,,,high,known model,non-China
+Citroen,Ami,BEV,2020,2020,high,electric quadricycle only,non-China
+Citroen,Berlingo,MIX,2017,,medium,"E-Berlingo Multispace BEV (May 2017), e-Berlingo (2021-) + ICE https://www.avem.fr/2017/03/22/citroen-lance-son-e-berlingo-multispace/",non-China
+Citroen,C3,MIX,2024,,high,e-C3 BEV (2024) + petrol/MHEV,non-China
+Citroen,C3 Aircross,MIX,2025,,high,e-C3 Aircross BEV first deliveries May 2025 + ICE/MHEV,non-China
+Citroen,C4,MIX,2021,,high,e-C4 BEV deliveries Jan 2021 + ICE,non-China
+Citroen,C4 X,MIX,2022,,medium,e-C4 X BEV launched with C4 X (late 2022) + ICE,non-China
+Citroen,C5 / C5 Aircross / C5 X,MIX,2020,,high,"C5 Aircross Hybrid PHEV (2020), C5 X PHEV, e-C5 Aircross BEV (2025) + ICE",non-China
+Citroen,C5 Aircross,ICE,,,medium,known model,China
+Citroen,C5 X,ICE,,,medium,known model,China
+Citroen,Jumper,MIX,2020,,low,e-Jumper BEV (from ~end 2020) + diesel,non-China
+Citroen,Jumpy,MIX,2020,,medium,e-Jumpy BEV (H2 2020) + diesel,non-China
+Citroen,e-Elysee,BEV,2026,2026,medium,name has e- (BEV),China
+Cowin,Kunlun,ICE,,,high,Petrol; plug-in separate,China
+Cowin,Kunlun EV,PHEV,2024,2024,high,PHEV despite EV name,China
+Cowin,Pro EV,BEV,2021,2021,high,BEV,China
+Cowin,Shiyue,BEV,2023,2023,high,Micro BEV,China
+Cowin,Xuandu,ICE,,,high,Petrol sedan,China
+Cowin,Xuanjie,ICE,,,high,Petrol; BEV separate,China
+Cupra,Ateca,ICE,,,high,known model,non-China
+Cupra,Born,BEV,2021,2021,high,electric only,non-China
+Cupra,Formentor,MIX,2021,,high,Formentor e-Hybrid PHEV (2021) + petrol,non-China
+Cupra,Leon,MIX,2021,,high,Leon e-Hybrid PHEV first deliveries Apr 2021 + petrol,non-China
+Cupra,Raval,BEV,2025,2025,high,electric only; volume from 2026-05 (2025 regs in data),non-China
+Cupra,Tavascan,BEV,2023,2023,high,electric only; volume from 2024-08 (earlier regs in data),non-China
+Cupra,Terramar,MIX,2025,,medium,petrol/MHEV + e-Hybrid PHEV (PHEV deliveries ~2025),non-China
+DFSK,Fengguang 580,MIX,2019,,medium,Petrol plus low-volume PHEV from 2019-01,China
+DFSK,Fengon 330,ICE,,,high,Petrol,China
+DFSK,Fengon 380,ICE,,,medium,Petrol; BEV sold as separate E380,China
+DFSK,Fengon 5,ICE,,,medium,1.5T petrol in EU,non-China
+DFSK,Fengon 500,ICE,,,high,Petrol SUV,China
+DFSK,Fengon 580,ICE,,,medium,1.5T petrol in EU,non-China
+DFSK,Fengon 600,ICE,,,medium,1.5T petrol,non-China
+DFSK,Fengon E5,PHEV,2024,2024,high,Fengon E5 is a PHEV https://www.auto-motor-und-sport.de/fahrbericht/dfsk-fengon-e5-phev/,non-China
+DFSK,Forthing 3,ICE,,,medium,petrol SUV (2025) https://autonotizen.de/neuigkeiten/dfm-forthing-3-china-suv-benziner-2025,non-China
+DFSK,Forthing 4,MIX,2025,,medium,4 U-Tour petrol + PHEV from late 2025 https://autonotizen.de/neuigkeiten/dfm-forthing-4-u-tour-phev-hybrid-2025,non-China
+DFSK,Forthing 5,MIX,2024,,low,T5 EVO petrol/HEV + Forthing 5 EV (DE 2024/25) + REEV (Oct 2025) https://www.chinaelektro.de/forthing/,non-China
+DFSK,Forthing 7,PHEV,2026,2026,medium,Forthing 7 REEV (range extender) only,non-China
+DFSK,Forthing 9,MIX,2025,,low,Forthing 9 HEV + 9 PHEV https://www.eu-mayer.de/auto-forthing-9-hev-x__499025.php,non-China
+DFSK,MINIEV,BEV,2022,2022,high,A00 BEV launched 2022-03,China
+DFSK,S560,ICE,,,high,Petrol,China
+DFSK,Seres 7,PHEV,2026,2026,medium,range-extender EV https://www.global-seres.com/seres7/,non-China
+DR Motor,DR 1.0,BEV,2023,2023,high,DR 1.0 EV (Chery eQ1-based) electric,non-China
+DR Motor,DR 4.0/EVO 4,ICE,,,medium,petrol/LPG bi-fuel rebadge,non-China
+DR Motor,DR 5.0,ICE,,,medium,petrol/LPG bi-fuel rebadge,non-China
+DS,3,MIX,2020,,medium,DS 3 (Crossback) E-Tense BEV first deliveries Jan 2020 + ICE,non-China
+DS,3 EV,BEV,2023,2023,medium,name has EV suffix,China
+DS,4,MIX,2021,,medium,DS 4 E-Tense 225 PHEV from launch (late 2021); N4 BEV later + ICE,non-China
+DS,7,MIX,2019,,medium,DS 7 Crossback E-Tense 4x4 PHEV (2019) + ICE,non-China
+DS,8,BEV,2025,2025,medium,"assumed = DS N8 (BEV only, DE regs from 2025-06)",non-China
+DS,N°7,MIX,2025,,medium,N7 E-Tense BEV + 1.2 hybrid (MHEV); regs from 2025-12 https://www.electrive.com/2026/03/18/new-ds-n7-delivers-up-to-740-km-electric-range/,non-China
+DS,N°8,BEV,2025,2025,high,electric only,non-China
+Dacia,Bigster,ICE,,,high,known model; HEV/MHEV/LPG only,non-China
+Dacia,Duster,ICE,,,high,known model; HEV/MHEV/LPG only,non-China
+Dacia,Jogger,ICE,,,high,known model; HEV/LPG only,non-China
+Dacia,Logan,ICE,,,high,known model,non-China
+Dacia,Sandero,ICE,,,high,known model,non-China
+Dacia,Spring,BEV,2021,2021,high,electric only,non-China
+Daihatsu,Copen,ICE,,,high,known model,non-China
+Daihatsu,Hijet,MIX,2026,,medium,e-Hijet Cargo BEV launched Feb 2026 (assumed in Hijet series) https://www.daihatsu.com/jp/news/2026/20260202-1.html,non-China
+Daihatsu,Mira (Mira),ICE,,,high,known model,non-China
+Daihatsu,Move,ICE,,,high,known model,non-China
+Daihatsu,Rocky (Rugger),ICE,,,high,known model; e-SMART hybrid is non-plug-in,non-China
+Daihatsu,THOR,ICE,,,high,known model,non-China
+Daihatsu,Taft,ICE,,,high,known model,non-China
+Daihatsu,Tanto,ICE,,,high,known model,non-China
+Deepal,G318,PHEV,2024,2024,high,EREV only,China
+Deepal,L06,PHEV,2025,2025,medium,BEV 2025-11; EREV added 2026-04 (single source),China
+Deepal,L07,PHEV,2024,2024,high,BEV + EREV,China
+Deepal,S05,PHEV,2024,2024,high,BEV + EREV,China
+Deepal,S07,PHEV,2023,2023,high,BEV + EREV,China
+Deepal,S09,PHEV,2025,2025,high,EREV only,China
+Deepal,SL03,PHEV,2022,2022,high,BEV + EREV (+FCEV),China
+Denza,D9,PHEV,2022,2022,high,DM-i + EV,China
+Denza,N7,BEV,2023,2023,high,EV only,China
+Denza,N8L,PHEV,2025,2025,high,DM PHEV (2025-10),China
+Denza,N9,PHEV,2025,2025,high,2.0T DM PHEV (+EV listed),China
+Denza,Z9,PHEV,2024,2024,high,PHEV + EV,China
+Denza,Z9 GT,PHEV,2024,2024,high,PHEV + EV,China
+Dodge,Challenger,ICE,,,high,known model,non-China
+Dodge,Charger,MIX,2024,,medium,Charger Daytona EV (2024) + ICE LX/Sixpack; US BEV split out as 'Charger BEV' from 2025,non-China
+Dodge,Charger BEV,BEV,2024,2024,high,Charger Daytona EV,non-China
+Dodge,Durango,ICE,,,high,known model,non-China
+Dodge,Hornet,MIX,2023,,high,Hornet R/T PHEV (2023) + GT petrol,non-China
+Dongfeng,Box,BEV,2026,2026,high,Box (Nammi 01) electric only,non-China
+Dongfeng,HEDMOS 06,UNKNOWN,,,low,Could not identify,China
+Dongfeng,Huge,MIX,2026,,medium,petrol/HEV in IT; PHEV from Oct 2026 https://www.quattroruote.it/news/nuovi-modelli/2026/08/17/qnovita_dongfeng.html,non-China
+Dongfeng,Mage,MIX,2026,,medium,petrol/HEV in IT; Mage PHEV from Oct 2026 https://www.quattroruote.it/news/nuovi-modelli/2026/08/17/qnovita_dongfeng.html,non-China
+Dongfeng,Nammi 01,BEV,2024,2024,medium,BEV from 2024,China
+Dongfeng,Nammi 06,BEV,2025,2025,high,BEV-only,China
+Dongfeng,Shine,ICE,,,medium,1.5 petrol sedan in IT https://www.alvolante.it/listino_auto/dongfeng-shine,non-China
+Dongfeng,Shine GS,ICE,,,medium,1.5T petrol SUV https://www.dongfeng-global.com/vehicleModel/shine_gs,non-China
+Dongfeng,Vigo,BEV,2026,2026,high,electric crossover https://www.newsauto.it/notizie/auto-cinesi-dongfeng-italia-box-vigo-mage-l7-huge-mhero-817-2025-584483/,non-China
+Dongfeng Aeolus,E70,BEV,2017,2017,high,BEV,China
+Dongfeng Aeolus,Haohan,ICE,,,high,Petrol/HEV; plug-ins under other names,China
+Dongfeng Aeolus,Haoji,ICE,,,high,Petrol/HEV; PHEV sold as L8,China
+Dongfeng Aeolus,L7,PHEV,2024,2024,high,PHEV plus BEV,China
+Dongfeng Aeolus,L8,PHEV,2025,2025,high,PHEV,China
+Dongfeng Aeolus,Yixuan,MIX,2020,,low,Negligible BEV volume,China
+Dongfeng PSA,ES600,BEV,2022,2022,high,BEV sedan,China
+Dongfeng ePi,ep007,PHEV,2024,2024,high,BEV and EREV,China
+Dongfeng ePi,ep008,PHEV,2024,2024,high,EREV and BEV,China
+EVO,Cuatro,ICE,,,high,1.5 petrol / LPG bi-fuel https://www.motor.es/evo/cuatro/,non-China
+EVO,Spazio,ICE,,,high,1.5T petrol / LPG https://it.motor1.com/news/733620/evo-6-8-spazio-foto-motori-prezzi/,non-China
+Ebro,S400,ICE,,,medium,"petrol/HEV, no plug-in https://www.highmotor.com/en/gama-electrificada-ebro-examen-estos-son-consumos-reales-s400-s700-s800-s900.html",non-China
+Ebro,S700,MIX,2025,,medium,petrol + HEV + PHEV https://www.km77.com/coches/ebro/s700/2025/estandar/informacion,non-China
+Ebro,S800,MIX,2025,,medium,petrol + PHEV https://ebro.m-automocion.com/s800-phev/,non-China
+Ebro,S900,PHEV,2025,2025,medium,S900 PHEV only https://autohebdosport.com/coches/noticias/ebro-amplia-su-gama-con-el-s900-phev-4x4-un-suv-hibrido-enchufable-de-siete-plazas,non-China
+Exeed,ES,PHEV,2023,2023,high,"BEV from 2023, EREV from 2025",China
+Exeed,ET,PHEV,2024,2024,high,BEV and EREV,China
+Exeed,ET5,PHEV,2025,2025,high,EREV only,China
+Exeed,EX7,PHEV,2026,2026,high,BEV and EREV,China
+Exeed,LX,ICE,,,high,C-DM separate row,China
+Exeed,LX C-DM,PHEV,2024,2024,high,PHEV,China
+Exeed,RX,ICE,,,high,C-DM separate row,China
+Exeed,RX C-DM,PHEV,2024,2024,high,PHEV,China
+Exeed,TXL,ICE,,,high,Petrol only,China
+Exeed,VX,ICE,,,high,C-DM separate row,China
+Exeed,VX C-DM,PHEV,2025,2025,high,PHEV,China
+Fangchengbao,Leopard 5,PHEV,2023,2023,high,DMO PHEV only,China
+Fangchengbao,Leopard 8,PHEV,2024,2024,high,DMO PHEV only,China
+Fangchengbao,Tai 3,BEV,2025,2025,high,EV only,China
+Fangchengbao,Tai 7,PHEV,2025,2025,high,range-extender/PHEV (2025-09); BEV not confirmed on sale,China
+Ferrari,12Cilindri,ICE,,,high,known model; V12,non-China
+Ferrari,12Cilindri Spider,ICE,,,high,known model; V12,non-China
+Ferrari,296,PHEV,2022,2022,high,296 GTB/GTS plug-in hybrid only,non-China
+Ferrari,296 GTS,PHEV,2023,2023,medium,plug-in hybrid only; KR data from 2025,non-China
+Ferrari,849 Testarossa,PHEV,2025,2025,high,plug-in hybrid only (SF90 successor),non-China
+Ferrari,Amalfi,ICE,,,high,known model; V8,non-China
+Ferrari,F80,ICE,,,high,"non-plug-in hybrid (2.3 kWh, no charging) https://insideevs.com/news/737773/ferrari-f80-hybrid-system-specs/",non-China
+Ferrari,Purosangue,ICE,,,high,known model; V12,non-China
+Ferrari,Roma,ICE,,,high,known model,non-China
+Ferrari,Roma Spider,ICE,,,high,known model,non-China
+Ferrari,SF90,PHEV,2020,2020,high,plug-in hybrid only,non-China
+Ferrari,SF90 Stradale,PHEV,2020,2020,medium,plug-in hybrid only; KR data from 2025,non-China
+Fiat,500,MIX,2013,,high,"500e BEV (US 2013-19, EU 2020-) + ICE/MHEV 500; 500 Hybrid returned late 2025",non-China
+Fiat,500X,ICE,,,high,known model,non-China
+Fiat,600,MIX,2023,,high,600e BEV (2023) + 600 Hybrid MHEV (2024),non-China
+Fiat,Doblo,MIX,2022,,medium,e-Doblo BEV (2022) + ICE,non-China
+Fiat,Ducato,MIX,2020,,low,E-Ducato BEV (~2020) + diesel,non-China
+Fiat,Grande Panda,MIX,2024,,high,BEV + Hybrid MHEV (first regs late 2024),non-China
+Fiat,Grizzly,MIX,2026,,medium,petrol/MHEV/BEV; launch H2 2026 https://it.motor1.com/news/807911/fiat-grizzly-fastback-2026-informazioni/,non-China
+Fiat,Grizzly Fastback,MIX,2026,,medium,petrol/MHEV/BEV; launch H2 2026 https://it.motor1.com/news/807911/fiat-grizzly-fastback-2026-informazioni/,non-China
+Fiat,Panda,ICE,,,high,known model; MHEV only,non-China
+Fiat,Qubo L,MIX,2026,,high,diesel/petrol + 136 hp electric (2026) https://www.motorionline.com/nuovo-fiat-qubo-l-2026-versioni-5-e-7-posti-motori-e-prezzi-sotto-i-22-000-e-foto/,non-China
+Fiat,Scudo,MIX,2022,,high,E-Scudo BEV + diesel (2022),non-China
+Fiat,Tipo,ICE,,,high,known model,non-China
+Fiat,Topolino,BEV,2023,2023,high,electric quadricycle only,non-China
+Fiat,Ulysse,MIX,2022,,medium,E-Ulysse BEV (2022) + 2.0/2.2 Multijet diesel later https://www.caradisiac.com/fiches-techniques/modele--fiat-ulysse-3/2025/,non-China
+Firefly,Firefly,BEV,2025,2025,high,NIO Firefly brand is EV-only,non-China
+Fisker,Ocean,BEV,2023,2023,high,brand is EV-only,non-China
+Ford,Bronco,ICE,,,low,petrol; local NEV versions unverified,China
+Ford,Bronco Sport,ICE,,,high,known model,non-China
+Ford,Capri,BEV,2024,2024,high,new Capri electric only,non-China
+Ford,E-Series,ICE,,,high,known model,non-China
+Ford,E-Series Van,ICE,,,high,known model,non-China
+Ford,EVOS,ICE,,,medium,known model,China
+Ford,Edge L,ICE,,,low,petrol/HEV; PHEV unverified,China
+Ford,Equator,ICE,,,medium,known model,China
+Ford,Escape,MIX,2020,,low,Escape PHEV (year unverified),China
+Ford,Expedition,ICE,,,high,known model,non-China
+Ford,Explorer,ICE,,,medium,known model,China
+Ford,F-150,BEV,2024,2024,medium,"EU official F-150 = Lightning (Norway, Feb 2024); grey ICE imports possible https://electrek.co/2024/02/12/ford-first-f-150-lightning-outside-north-america/",non-China
+Ford,F-Series,MIX,2022,,high,F-Series total includes F-150 Lightning BEV (2022),non-China
+Ford,Fiesta,ICE,,,high,known model,non-China
+Ford,Focus,MIX,2013,,medium,Focus Electric BEV sold in DE 2013-18 (tiny volume); otherwise ICE/MHEV,non-China
+Ford,Maverick,ICE,,,high,known model; hybrid is non-plug-in,non-China
+Ford,Mondeo,MIX,2018,,low,Mondeo PHEV (year unverified),China
+Ford,Mustang,ICE,,,high,known model; Mach-E is a separate nameplate,non-China
+Ford,Mustang Mach-E,BEV,2020,2020,high,electric only,non-China
+Ford,Puma,MIX,2025,,high,Puma Gen-E BEV (2025) + MHEV,non-China
+Ford,Ranger,MIX,2025,,medium,Ranger PHEV (EU 2025); NA/KR ICE only,non-China
+Ford,Territory,MIX,2019,,low,Territory EV variant (unverified),China
+Ford,Tourneo,ICE,,,medium,known model,China
+Ford,Transit,MIX,2022,,high,"E-Transit BEV (US Feb 2022, EU Apr 2022) + ICE",non-China
+Ford,Transit / Tourneo,MIX,2019,,low,DE series held Transit/Tourneo Custom PHEV (2019/20) before split; E-Transit 2022,non-China
+Ford,Transit Connect,MIX,2024,,medium,Transit/Tourneo Connect PHEV (2024) + ICE https://www.electrive.com/2024/01/31/ford-to-launch-the-transit-connect-as-a-plug-in-hybrid/,non-China
+Ford,Transit Courier,MIX,2024,,medium,E-Transit/E-Tourneo Courier BEV (2024) + ICE,non-China
+Ford,Transit Custom,MIX,2019,,medium,"Transit Custom PHEV (2019), E-Transit Custom (2024) + diesel",non-China
+Forthing,Leiting,PHEV,2023,2023,medium,"BEV 2023, EREV 2025",China
+Forthing,Lingzhi,ICE,,,high,Plug-in separate row,China
+Forthing,Lingzhi EV,PHEV,2018,2018,low,"BEV from 2018, EREV 2025",China
+Forthing,S50EV,BEV,2018,2018,medium,BEV,China
+Forthing,S7,PHEV,2024,2024,high,BEV and EREV,China
+Forthing,T5,ICE,,,high,Petrol,China
+Forthing,T5 Evo,ICE,,,high,Petrol in China,China
+Forthing,V9,PHEV,2024,2024,high,PHEV-only MPV,China
+Forthing,Xinghai T5,BEV,2025,2025,high,BEV-only,China
+GAC Trumpchi,E8,MIX,2023,,high,PHEV plus non-plug-in HEV in row,China
+GAC Trumpchi,ES9,PHEV,2023,2023,high,PHEV-only,China
+GAC Trumpchi,Empow,ICE,,,high,Petrol/HEV only,China
+GAC Trumpchi,GS3,ICE,,,high,Petrol only,China
+GAC Trumpchi,GS4,MIX,2016,,medium,"GS4 EV 2016, PHEV 2017-2023",China
+GAC Trumpchi,GS8,ICE,,,high,Plug-in sold as ES9,China
+GAC Trumpchi,M6,ICE,,,high,Petrol only,China
+GAC Trumpchi,M8,MIX,2025,,medium,Xiangwang M8 PHEV inside row from 2025,China
+GAC Trumpchi,S7,PHEV,2025,2025,high,PHEV-only,China
+GAC Trumpchi,S9,PHEV,2025,2025,high,PHEV-only,China
+GAC Trumpchi,e9,PHEV,2023,2023,high,PHEV-only MPV,China
+GMC,Acadia,ICE,,,high,known model,non-China
+GMC,Canyon,ICE,,,high,known model,non-China
+GMC,Hummer EV,BEV,2021,2021,high,name has EV,non-China
+GMC,Savana,ICE,,,high,known model,non-China
+GMC,Sierra,MIX,2024,,medium,Sierra EV (Aug 2024) likely included (as Silverado EV is in Silverado series),non-China
+GMC,Terrain,ICE,,,high,known model,non-China
+GMC,Yukon,ICE,,,high,known model,non-China
+GMC,Yukon / Yukon XL,ICE,,,high,known model,non-China
+GMC,Yukon XL,ICE,,,high,known model,non-China
+GWM,Haval Chitu,ICE,,,medium,EU car is Jolion Pro (Chitu-based) HEV only https://en.wikipedia.org/wiki/Haval_Chitu,non-China
+GWM,Haval H6,MIX,2023,,medium,H6 petrol/HEV + H6 PHEV (EU ~2023),non-China
+GWM,Ora 03,BEV,2022,2022,high,Ora (ex Funky Cat) electric only,non-China
+GWM,Ora 07,BEV,2024,2024,high,electric only,non-China
+GWM,Ora 5,MIX,2026,,high,BEV + HEV + petrol (EU summer 2026) https://www.electrive.com/2026/04/28/gwm-ora-5-launches-in-europe-this-summer/,non-China
+GWM,Wey 03,PHEV,2023,2023,high,Wey Coffee 02 PHEV only,non-China
+GWM,Wey 05,PHEV,2023,2023,high,Wey Coffee 01 PHEV only,non-China
+Geely,A7 EM,PHEV,2025,2025,high,EV twin separate,China
+Geely,A7 EV,BEV,2026,2026,high,draft OK,China
+Geely,Binrui,ICE,,,high,Petrol only,China
+Geely,Binyue,ICE,,,high,PHEV was a separate source row,China
+Geely,Boyue,ICE,,,medium,Petrol/MHEV; EREV tracked as REV,China
+Geely,Boyue L,ICE,,,medium,Petrol/HEV; PHEV twins separate,China
+Geely,Cityray,ICE,,,medium,1.5T petrol SUV,non-China
+Geely,E8,BEV,2024,2024,high,draft OK,China
+Geely,EX2,BEV,2024,2024,high,draft OK,China
+Geely,EX5,BEV,2024,2024,high,draft OK,China
+Geely,Emgrand,ICE,,,high,EV/PHEV were a separate source row; volumes match ICE,China
+Geely,Galaxy L7,PHEV,2026,2026,medium,Galaxy L7 is a PHEV,non-China
+Geely,Galaxy Starshine 6,PHEV,2025,2025,high,EM-i only,China
+Geely,Galaxy Starshine 7,PHEV,2026,2026,medium,EM-i only,China
+Geely,Galaxy Starshine 8,PHEV,2025,2025,high,EM-i/EM-P plus later BEV,China
+Geely,Galaxy Starship 7,PHEV,2024,2024,high,EM-i,China
+Geely,Haoyue L,ICE,,,medium,Petrol only,China
+Geely,ICON,ICE,,,medium,MHEV only,China
+Geely,L6,PHEV,2023,2023,high,PHEV only,China
+Geely,L7,PHEV,2023,2023,high,PHEV only,China
+Geely,M7,PHEV,2026,2026,high,EM-i only,China
+Geely,M9,PHEV,2025,2025,high,EM-P only,China
+Geely,Monjaro,ICE,,,high,EREV was a separate source row,China
+Geely,Panda,BEV,2023,2023,high,draft OK,China
+Geely,Preface,ICE,,,medium,Petrol/HEV,China
+Geely,REV,PHEV,2026,2026,medium,EREV,China
+Geely,Starray,PHEV,2026,2026,medium,EU sales are Starray EM-i PHEV (2026 rollout) https://global.geely.com/en/news/2026/geely-e5-starray-em-i-debut-five-european-countries,non-China
+Geely,Starray EM-i,PHEV,2026,2026,high,name has EM-i (PHEV),non-China
+Geely,V900,PHEV,2025,2025,medium,EREV MPV,China
+Genesis,G70,ICE,,,high,known model,non-China
+Genesis,G80,MIX,2021,,high,Electrified G80 BEV (2021) + ICE,non-China
+Genesis,G90,ICE,,,high,known model,China
+Genesis,GV60,BEV,2021,2021,high,electric only,non-China
+Genesis,GV60 MAGMA,BEV,2026,2026,high,electric only,non-China
+Genesis,GV70,MIX,2022,,high,Electrified GV70 BEV (2022) + ICE,non-China
+Genesis,GV80,ICE,,,high,known model,non-China
+Geometry,A,BEV,2019,2019,high,draft OK,China
+Geometry,E Firefly,BEV,2022,2022,high,draft OK,China
+Haima,8S,ICE,,,high,1.6T petrol,China
+Haval,Big Dog,ICE,,,medium,PHEV tracked separately as Plus,China
+Haval,H5,ICE,,,high,draft OK,China
+Haval,H6,ICE,,,high,PHEV was a separate source row,China
+Haval,H9,ICE,,,high,Petrol/diesel only,China
+Haval,MAX,PHEV,2023,2023,high,PHEV only,China
+Haval,Plus,PHEV,2023,2023,medium,Volumes match Plus PHEV,China
+Haval,Raptor,ICE,,,high,PHEV tracked separately,China
+Haval,Raptor PHEV,PHEV,2023,2023,high,draft OK,China
+Honda,Accord,MIX,2023,,high,11th gen e:PHEV from 2023 (separate series),China
+Honda,Avancier,ICE,,,high,Petrol only,China
+Honda,Breeze,MIX,2021,,high,PHEV from 2021-10 (separate series),China
+Honda,CR-V,ICE,,,high,PHEV tracked as CR-V EV,China
+Honda,CR-V EV,PHEV,2021,2021,high,PHEV from 2021-02,China
+Honda,Civic,ICE,,,high,No plug-in in China,China
+Honda,Elysion,ICE,,,high,No plug-in,China
+Honda,Fit,ICE,,,high,known model; e:HEV non-plug-in,non-China
+Honda,Freed,ICE,,,high,known model; e:HEV non-plug-in,non-China
+Honda,HR-V,ICE,,,high,No plug-in,China
+Honda,Insight/e:N2 (e:NS2/e:NP2),BEV,2026,2026,high,new Insight = e:NS2-based BEV (JP Apr 2026); old HEV Insight not in series https://newswitch.jp/p/48958,non-China
+Honda,Inspire,ICE,,,high,PHEV tracked as Inspire EV,China
+Honda,Inspire EV,PHEV,2023,2023,high,PHEV from 2023,China
+Honda,Integra,ICE,,,high,No plug-in,China
+Honda,Lingxi L,BEV,2024,2024,high,BEV sedan,China
+Honda,N BOX,ICE,,,high,known model,non-China
+Honda,N ONE,MIX,2025,,high,N-ONE e: BEV (Sep 2025; visible jump in data) + ICE,non-China
+Honda,N-VAN,MIX,2024,,medium,N-VAN e: BEV (Oct 2024) + ICE,non-China
+Honda,N-WGN,ICE,,,high,known model,non-China
+Honda,Odyssey,ICE,,,high,No plug-in,China
+Honda,P7,BEV,2025,2025,high,BEV only,China
+Honda,Passport,ICE,,,high,known model,non-China
+Honda,Pilot,ICE,,,high,known model,non-China
+Honda,Prelude,ICE,,,high,known model; e:HEV non-plug-in,non-China
+Honda,Prologue,BEV,2024,2024,high,electric only,non-China
+Honda,Ridgeline,ICE,,,high,known model,non-China
+Honda,S7,BEV,2025,2025,high,BEV only,China
+Honda,Step Wgn,ICE,,,high,known model; e:HEV non-plug-in,non-China
+Honda,Super-ONE,BEV,2026,2026,medium,compact EV based on N-ONE e:,non-China
+Honda,UR-V,ICE,,,high,Petrol only,China
+Honda,Vezel,ICE,,,high,No plug-in,China
+Honda,WR-V,ICE,,,high,known model,non-China
+Honda,XR-V,ICE,,,high,No plug-in,China
+Honda,ZR-V,ICE,,,high,known model; e:HEV non-plug-in,non-China
+Honda,e:NS2,BEV,2024,2024,high,BEV only,China
+Honda,e:Ny1,BEV,2023,2023,high,e: prefix BEV,non-China
+Hongqi,E-HS5,BEV,2026,2026,medium,EHS5 electric SUV for Europe https://www.highmotor.com/en/Hongqi-unveils-Germany's-EHS5-compact-SUV-for-the-European-market.html,non-China
+Hongqi,E-HS9,BEV,2020,2020,high,BEV only; on sale end-2020,China
+Hongqi,E-QM5,BEV,2021,2021,high,Draft kept,China
+Hongqi,EH7,BEV,2024,2024,high,"BEV only, launched 2024-03-20",China
+Hongqi,EHS7,BEV,2025,2025,high,EHS7 sold in Europe as BEV,non-China
+Hongqi,Guoli,ICE,,,high,4.0T V8 petrol only,China
+Hongqi,Guoya,ICE,,,high,Non-plug-in hybrid V6/V8,China
+Hongqi,Guoyao,ICE,,,high,4.0T V8 petrol only,China
+Hongqi,H5,ICE,,,high,PHEV is the separate H5 PHEV row,China
+Hongqi,H5 PHEV,PHEV,2025,2025,high,Draft kept,China
+Hongqi,H6,ICE,,,high,2.0T petrol only,China
+Hongqi,H9,ICE,,,high,Petrol/MHEV; no PHEV,China
+Hongqi,HQ9,ICE,,,high,MHEV MPV; PHEV is separate row,China
+Hongqi,HQ9 PHEV,PHEV,2024,2024,high,Draft kept,China
+Hongqi,HS3,ICE,,,high,PHEV is separate row,China
+Hongqi,HS3 PHEV,PHEV,2024,2024,high,Draft kept,China
+Hongqi,HS5,ICE,,,high,2.0T petrol only,China
+Hongqi,HS6 PHEV,PHEV,2025,2025,high,Draft kept,China
+Hongqi,HS7 PHEV,PHEV,2024,2024,high,Draft kept,China
+Hongqi,Tiangong 05,BEV,2025,2025,high,BEV only,China
+Hongqi,Tiangong 06,BEV,2025,2025,high,BEV only,China
+Hongqi,Tiangong 08,BEV,2024,2024,high,BEV only,China
+Hyptec,A800,PHEV,2026,2026,high,EREV only (launched 2026-03); https://www.autohome.com.cn/news/202603/1312700.html,China
+Hyptec,GT,BEV,2023,2023,high,BEV only,China
+Hyptec,HL,PHEV,2025,2025,high,BEV + EREV (2025),China
+Hyptec,HT,BEV,2023,2023,high,BEV only,China
+Hyptec,S600,PHEV,2026,2026,high,BEV + EREV (launched 2026-06); https://www.autohome.com.cn/news/202606/1315002.html,China
+Hyptec,SSR,BEV,2023,2023,medium,BEV supercar (deliveries from 2023-10),China
+Hyundai,Bayon,ICE,,,high,known model,non-China
+Hyundai,Casper,ICE,,,medium,Casper Electric is tracked as 'Inster' in KR data (starts 2024-08),non-China
+Hyundai,County Electric,BEV,2021,2021,medium,name has Electric; launch year approx.,non-China
+Hyundai,Custo,ICE,,,high,known model,China
+Hyundai,EO,BEV,2025,2025,medium,China EV,China
+Hyundai,Elantra,ICE,,,low,PHEV/EV family variants unverified,China
+Hyundai,Elantra N,ICE,,,high,known model,non-China
+Hyundai,Grandeur,ICE,,,high,known model; HEV non-plug-in,non-China
+Hyundai,Inster,BEV,2024,2024,high,electric only (KR Casper Electric),non-China
+Hyundai,Ioniq 5,BEV,2021,2021,high,electric only,non-China
+Hyundai,Ioniq 5 N,BEV,2023,2023,high,electric only,non-China
+Hyundai,Ioniq 6,BEV,2022,2022,high,electric only,non-China
+Hyundai,Ioniq 9,BEV,2025,2025,high,electric only,non-China
+Hyundai,Kona,MIX,2018,,high,Kona Electric (2018) + ICE/HEV,non-China
+Hyundai,Nexo,UNKNOWN,,,high,FCEV (hydrogen fuel cell): neither plug-in nor ICE,non-China
+Hyundai,Palisade,ICE,,,high,known model; HEV non-plug-in,non-China
+Hyundai,Porter II,MIX,2019,,medium,Porter II Electric BEV (Dec 2019) counted in Porter + diesel/LPG,non-China
+Hyundai,ST1,BEV,2024,2024,high,electric commercial van,non-China
+Hyundai,Santa Cruz,ICE,,,high,known model,non-China
+Hyundai,Santa Fe,ICE,,,high,known model,China
+Hyundai,Solati,ICE,,,high,known model,non-China
+Hyundai,Sonata,MIX,2016,,low,Sonata PHEV (unverified),China
+Hyundai,Staria,MIX,2026,,medium,Staria Electric on sale KR/EU H1 2026 + diesel/LPG/HEV https://www.electrive.com/2026/01/09/hyundai-unveils-electric-staria-with-fast-charging-capabilities/,non-China
+Hyundai,Tucson,ICE,,,medium,known model,China
+Hyundai,Venue,ICE,,,high,known model,non-China
+Hyundai,i10,ICE,,,high,known model,non-China
+Hyundai,i20,ICE,,,high,known model,non-China
+Hyundai,i30,ICE,,,high,known model,non-China
+Hyundai,ix35,ICE,,,high,known model,China
+ICH-X,K2,ICE,,,high,"BJ40 Plus rebadge, 2.0 diesel https://www.autoscout24.it/auto/ickx/ickx-k2/",non-China
+ICH-X,K3,ICE,,,high,"Jetour T2 rebadge, 2.0 petrol/LPG https://it.motor1.com/reviews/778695/ich-x-k3-recensione-video/",non-China
+IM Motors,L6,BEV,2024,2024,high,BEV only,China
+IM Motors,L7,BEV,2022,2022,high,BEV only,China
+IM Motors,LS6,PHEV,2023,2023,high,BEV 2023; EREV added 2025-09; https://cnevpost.com/2025/09/11/im-motors-launches-updated-ls6-suv/,China
+IM Motors,LS7,BEV,2023,2023,high,BEV only,China
+IM Motors,LS8,PHEV,2026,2026,high,EREV (launched 2026-04),China
+IM Motors,LS9,PHEV,2025,2025,high,EREV (launched 2025-11),China
+Ineos,Grenadier,ICE,,,high,known model,non-China
+Infiniti,QX50,ICE,,,high,Petrol only,China
+Infiniti,QX55,ICE,,,high,known model,non-China
+Infiniti,QX60,ICE,,,high,Petrol only,China
+Infiniti,QX65,ICE,,,high,known model,non-China
+Infiniti,QX80,ICE,,,high,known model,non-China
+Isuzu,Como,ICE,,,high,known model,non-China
+Isuzu,N-Series (ELF),MIX,2023,,medium,ELF EV BEV (Mar 2023) + diesel,non-China
+Isuzu,mu-X,ICE,,,high,known model,China
+JAC,Aipao,BEV,2024,2024,high,BEV compact sedan launched 2024-01,China
+JAC,E-JS4,BEV,2022,2022,high,e- prefix BEV,non-China
+JAC,E10X (Huaxianzi),BEV,2021,2021,high,BEV only,China
+JAC,E30X,BEV,2024,2024,high,electric hatchback https://ev-database.org/car/3641/JAC-E30X-515-kWh,non-China
+JAC,J7,ICE,,,low,1.5T petrol liftback; EU spec unverified,non-China
+JAC,JS6,MIX,2026,,low,2026 JS6 offered as HEV/PHEV in other markets; EU spec unverified,non-China
+JAC,JS8,ICE,,,low,petrol SUV; EU spec unverified,non-China
+JAC,M3,ICE,,,medium,Petrol; M3 PLUS HEV non-plug-in,China
+JAC,QX PHEV,PHEV,2023,2023,high,PHEV-only nameplate launched 2023-09-15,China
+JAC,RF8,ICE,,,high,PHEV tracked in RF8 PHEV row,China
+JAC,RF8 PHEV,PHEV,2024,2024,high,PHEV since early 2024,China
+JAC,X8 E,PHEV,2024,2024,high,PHEV launched 2024-10-15,China
+JAC,Yiwei 3,BEV,2023,2023,high,BEV only,China
+JAC,e3,BEV,2022,2022,medium,Electric MPV from 2022,China
+JMEV,05S,BEV,2025,2025,high,BEV launched 2025-10-16,China
+JMEV,EV2,BEV,2022,2022,high,A00 BEV launched 2022-12,China
+JMEV,EV3,BEV,2019,2019,high,"BEV only, launched 2019-03",China
+JMEV,Yi,BEV,2021,2021,high,BEV sedan launched 2021-09,China
+JMEV,Yichi 01,BEV,2025,2025,high,BEV launched 2025-04-26,China
+JMEV,Yichi 05,BEV,2025,2025,high,BEV launched 2025-01-13,China
+Jaecoo,5,MIX,2025,,medium,petrol + HEV + EV versions in EU https://www.motor1.com/news/738091/jaecoo-5-2025-information-details/,non-China
+Jaecoo,7,MIX,2024,,medium,petrol + SHS PHEV (EU late 2024) + HEV,non-China
+Jaecoo,8,PHEV,2026,2026,high,EU Jaecoo 8 is SHS-P PHEV only https://www.highmotor.com/en/jaecoo-8-shs-reservado-espana-equipamiento-precio.html,non-China
+Jaguar,E-Pace,ICE,,,medium,Petrol only in China,China
+Jaguar,F-Pace,MIX,2021,,high,F-Pace P400e PHEV (2021) + ICE,non-China
+Jaguar,F-Type,ICE,,,high,known model,non-China
+Jaguar,I-Pace,BEV,2018,2018,high,electric only,non-China
+Jaguar,XF,ICE,,,high,known model,non-China
+Jaguar,XFL,ICE,,,high,,China
+Jeep,Avenger,MIX,2023,,high,Avenger Electric BEV (2023) + petrol/MHEV,non-China
+Jeep,Cherokee,ICE,,,high,known model; HEV non-plug-in,non-China
+Jeep,Compass,MIX,2020,,high,"Compass 4xe PHEV (EU 2020), new BEV (EU 2025); NA ICE only",non-China
+Jeep,Gladiator,ICE,,,high,known model,non-China
+Jeep,Grand Cherokee,MIX,2022,,high,Grand Cherokee 4xe PHEV (2022); EU/DE sold 4xe only,non-China
+Jeep,Grand Wagoneer,ICE,,,high,known model,non-China
+Jeep,Recon,BEV,2025,2025,high,electric only,non-China
+Jeep,Renegade,MIX,2020,,high,Renegade 4xe PHEV (EU 2020); US ICE only,non-China
+Jeep,Wagoneer,ICE,,,high,known model,non-China
+Jeep,Wagoneer S,BEV,2024,2024,high,electric only,non-China
+Jeep,Wrangler,MIX,2021,,high,Wrangler 4xe PHEV (2021) + ICE,non-China
+Jemmell,Box,BEV,2020,2020,high,BEV only,China
+Jemmell,uni,BEV,2022,2022,high,BEV only,China
+Jetour,Dasheng,ICE,,,medium,"Dashing launched in EU (Poland, Nov 2025) as petrol",non-China
+Jetour,Shanhai T2,MIX,2026,,low,EU T2 launched as petrol (Nov 2025); T2 i-DM PHEV also offered https://jetour.de/en/,non-China
+Jetour,Traveller,ICE,,,low,Traveller/T2 petrol; tiny volume,non-China
+Jetour,X70,ICE,,,high,petrol SUV,non-China
+Jetta,VA3,ICE,,,high,,China
+Jetta,VA7,ICE,,,high,,China
+Jetta,VS5,ICE,,,high,,China
+Jetta,VS7,ICE,,,high,,China
+Jetta,VS8,ICE,,,high,,China
+KG Mobility,Actyon,ICE,,,high,known model; HEV non-plug-in,non-China
+KG Mobility,Korando,MIX,2022,,high,Korando e-Motion BEV (EU 2022) + ICE,non-China
+KG Mobility,Musso,MIX,2025,,high,Musso EV BEV (KR 2025) + diesel pickups,non-China
+KG Mobility,Rexton,ICE,,,high,known model,non-China
+KG Mobility,Tivoli,ICE,,,high,known model,non-China
+KG Mobility,Torres,MIX,2024,,medium,EU/DE series likely include Torres EVX (EU Mar 2024); KR EVX tracked separately,non-China
+KG Mobility,Torres EVX,BEV,2023,2023,high,name has EVX; electric only,non-China
+Kaicene,Honor S,ICE,,,high,Petrol MPV,China
+Karry,Jiang Tun,BEV,2022,2022,medium,Electric MPV/van,China
+Kia,Bongo 3,MIX,2020,,high,Bongo III EV BEV (Jan 2020) + diesel/LPG,non-China
+Kia,Carnival,ICE,,,high,known model,China
+Kia,Ceed,MIX,2020,,high,Ceed SW PHEV (2020-22) + ICE,non-China
+Kia,EV2,BEV,2026,2026,high,EV prefix,non-China
+Kia,EV3,BEV,2024,2024,high,EV prefix,non-China
+Kia,EV4,BEV,2025,2025,high,EV prefix,non-China
+Kia,EV5,BEV,2023,2023,high,name has EV,China
+Kia,EV6,BEV,2021,2021,high,EV prefix,non-China
+Kia,EV9,BEV,2023,2023,high,EV prefix,non-China
+Kia,Forte,ICE,,,low,K3 PHEV/EV variants unverified,China
+Kia,K4,MIX,2020,,medium,EU series = Ceed lineage incl. Ceed SW PHEV (2020-22); K4 itself ICE/HEV; US = Forte/K4 ICE,non-China
+Kia,K5,ICE,,,low,K5 PHEV unverified,China
+Kia,K8,ICE,,,high,known model; HEV non-plug-in,non-China
+Kia,K900,ICE,,,high,known model,non-China
+Kia,Niro,MIX,2017,,high,"Niro PHEV (2017), Niro EV (2018) + HEV",non-China
+Kia,PV5,BEV,2025,2025,high,electric van,non-China
+Kia,Pegas,ICE,,,high,known model,China
+Kia,Picanto,ICE,,,high,known model,non-China
+Kia,Ray,MIX,2011,,high,"Ray EV (2011-18, 2023-) + petrol https://en.wikipedia.org/wiki/Kia_Ray",non-China
+Kia,Seltos,ICE,,,medium,known model,China
+Kia,Sonet,ICE,,,high,known model,China
+Kia,Sorento,MIX,2021,,high,Sorento PHEV (EU/US 2021) + ICE/HEV,non-China
+Kia,Soul,MIX,2014,,high,Soul EV/e-Soul (2014-; DE EV-only from ~2019) + US ICE,non-China
+Kia,Sportage,ICE,,,medium,known model,China
+Kia,Sportage Ace,ICE,,,medium,known model,China
+Kia,Stonic,ICE,,,medium,known model,China
+Kia,Tasman,ICE,,,high,known model,non-China
+Kia,Telluride,ICE,,,high,known model,non-China
+Kia,XCeed,MIX,2020,,high,XCeed PHEV (2020) + ICE,non-China
+LEVC,L380,BEV,2024,2024,high,BEV only,China
+Lada,Niva,ICE,,,high,known model,non-China
+Lamborghini,Revuelto,PHEV,2024,2024,high,V12 plug-in hybrid only,non-China
+Lamborghini,Temerario,PHEV,2025,2025,high,V8 plug-in hybrid only,non-China
+Lamborghini,Urus,MIX,2024,2025,medium,Urus SE PHEV (late 2024) replaced ICE Urus S/Performante,non-China
+Lancia,Gamma,MIX,2026,,medium,BEV + hybrid (2026 launch) https://www.quattroruote.it/news/nuovi-modelli/2026/05/28/lancia_gamma_anteprima.html,non-China
+Lancia,Ypsilon,MIX,2024,,high,new Ypsilon BEV (2024) + MHEV; old ICE Ypsilon to 2024,non-China
+Land Rover,Defender,MIX,2021,,high,Defender P400e PHEV (2021) + ICE,non-China
+Land Rover,Discovery,ICE,,,high,known model; full-size Discovery has no PHEV,non-China
+Land Rover,Discovery Sport,MIX,2020,,medium,P300e PHEV,China
+Land Rover,Range Rover,MIX,2018,,high,Range Rover P400e PHEV (2018) + ICE,non-China
+Land Rover,Range Rover Evoque,MIX,2021,,medium,P300e PHEV,China
+Land Rover,Range Rover Sport,MIX,2018,,high,RR Sport P400e PHEV (2018) + ICE,non-China
+Land Rover,Range Rover Velar,MIX,2021,,high,Velar P400e PHEV (MY2021) + ICE,non-China
+Landian,e5,PHEV,2023,2023,high,PHEV launched 2023-03-30,China
+Leapmotor,A10,BEV,2026,2026,high,BEV only,China
+Leapmotor,B01,BEV,2025,2025,high,BEV only,China
+Leapmotor,B03X,BEV,2026,2026,high,full EV (A10-based); EU orders Jul 2026 https://cnevpost.com/2026/07/07/leapmotor-brings-a10-based-b03x-to-europe/,non-China
+Leapmotor,B05,BEV,2026,2026,high,BEV-only hatch (Lafa5); EU launch 2026,non-China
+Leapmotor,B10,BEV,2025,2025,high,BEV only in China (EREV export-only),China
+Leapmotor,C10,PHEV,2024,2024,high,BEV + EREV from 2024-03 China launch,China
+Leapmotor,C11,PHEV,2021,2021,high,BEV 2021; EREV 2023,China
+Leapmotor,C16,PHEV,2024,2024,high,BEV + EREV,China
+Leapmotor,D19,PHEV,2026,2026,high,BEV + EREV (launched 2026-04),China
+Leapmotor,D99,PHEV,2026,2026,high,EREV + BEV MPV; https://cnevpost.com/2026/06/25/leapmotor-d99-launch/,China
+Leapmotor,Lafa5,BEV,2025,2025,high,BEV only,China
+Leapmotor,T03,BEV,2020,2020,high,BEV only,China
+Lexus,ES,MIX,2026,,high,HEV/petrol; 8th-gen ES 350e/500e BEV on sale Apr 2026 https://pressroom.lexus.com/2026-lexus-es-launches-with-battery-electric-models-new-hybrid-coming-soon/,non-China
+Lexus,GX,ICE,,,high,known model (petrol),non-China
+Lexus,IS,ICE,,,high,known model (petrol/HEV),non-China
+Lexus,LBX,ICE,,,high,HEV only,non-China
+Lexus,LC,ICE,,,high,known model (V8/HEV),non-China
+Lexus,LM,ICE,,,high,HEV only,non-China
+Lexus,LS,ICE,,,high,known model (petrol/HEV),non-China
+Lexus,LX,ICE,,,high,known model (petrol/HEV),non-China
+Lexus,NX,MIX,2021,,high,NX 450h+ PHEV from Q4 2021 https://newsroom.lexus.eu/the-new-nx-lexus-star-suv-raised-to-the-next-level/,non-China
+Lexus,RC,ICE,,,high,known model (petrol),non-China
+Lexus,RX,MIX,2023,,high,RX 450h+ PHEV from 2023 (5th gen),non-China
+Lexus,RZ,BEV,2023,2023,high,BEV-only model,non-China
+Lexus,TX,MIX,2024,,high,TX 550h+ PHEV 2024 (paused mid-MY2026) https://tflcar.com/2026/06/lexus-tx-550h-plus-plug-in-hybrid-discontinued-paused-news/,non-China
+Lexus,UX,MIX,2020,,high,UX 300e BEV EU deliveries Q4 2020 https://www.electrive.com/2020/08/04/lexus-ux-300e-order-launch-in-norway/,non-China
+Li Auto,L6,PHEV,2024,2024,high,EREV only,China
+Li Auto,L8,PHEV,2022,2022,high,EREV only,China
+Li Auto,L9,PHEV,2022,2022,high,EREV only,China
+Li Auto,MEGA,BEV,2024,2024,high,BEV only,China
+Li Auto,i6,BEV,2025,2025,high,BEV only,China
+Li Auto,i8,BEV,2025,2025,high,BEV only,China
+Lincoln,Aviator,ICE,,,medium,known model,China
+Lincoln,Corsair,MIX,2021,,low,Corsair PHEV (unverified),China
+Lincoln,Nautilus,ICE,,,medium,known model,China
+Lincoln,Navigator,ICE,,,high,known model (petrol),non-China
+Lincoln,Zephyr,ICE,,,high,known model,China
+Livan,60s,BEV,2022,2022,medium,Battery-swap BEV,China
+Livan,7,BEV,2023,2023,high,BEV only,China
+Livan,8,BEV,2024,2024,medium,BEV MPV,China
+Livan,Balloon,BEV,2025,2025,medium,BEV city car,China
+Lotus,Eletre,BEV,2023,2023,medium,"BEV; Eletre X PHEV EU orders Jun 2026, deliveries Q4 2026 (would make it PHEV class) https://paultan.org/2026/06/04/lotus-eletre-x-phev-more-specs-revealed-as-eu-sales-begin-550-ps-or-952-ps-up-to-1200-km-total-range/",non-China
+Lotus,Emeya,BEV,2024,2024,high,BEV-only model,non-China
+Lotus,Emira,ICE,,,high,known model (petrol),non-China
+Lucid,Air,BEV,2021,2021,high,brand is EV-only,non-China
+Lucid,Gravity,BEV,2025,2025,high,brand is EV-only,non-China
+Luxeed,R7,PHEV,2024,2024,high,BEV 2024-09; EREV added 2024-12; https://cnevpost.com/2024/12/19/luxeed-adds-hybrid-variants-to-r7/,China
+Luxeed,S7,BEV,2023,2023,medium,BEV only (no EREV found),China
+Luxeed,V9,PHEV,2026,2026,high,EREV MPV (launched 2026-05); https://cnevpost.com/2026/05/15/huawei-hima-launches-luxeed-v9-mpv/,China
+Lynk & Co,01,ICE,,,high,PHEV was a separate source row,China
+Lynk & Co,02,BEV,2024,2024,high,EU 02 is BEV (China Z20),non-China
+Lynk & Co,03,ICE,,,high,PHEV was a separate source row,China
+Lynk & Co,06,ICE,,,high,EM-P tracked separately,China
+Lynk & Co,06 EM-P,PHEV,2021,2021,high,draft OK,China
+Lynk & Co,07 EM-P,PHEV,2024,2024,high,draft OK,China
+Lynk & Co,08,PHEV,2025,2025,high,EU 08 is EM-P PHEV only,non-China
+Lynk & Co,08 EM-P,PHEV,2023,2023,high,draft OK,China
+Lynk & Co,09,ICE,,,high,MHEV/HEV,China
+Lynk & Co,09 EM-P,PHEV,2021,2021,medium,PHEV from 2021-09,China
+Lynk & Co,10,PHEV,2025,2025,high,EM-P,China
+Lynk & Co,900,PHEV,2025,2025,high,EM-P only,China
+Lynk & Co,Z20,BEV,2024,2024,high,draft OK,China
+M-Hero,917,PHEV,2023,2023,high,BEV + EREV (launched 2023-08),China
+M-Hero,M817,PHEV,2025,2025,high,"EREV + PHEV, no BEV",China
+MAN,TGE,MIX,2018,,medium,eTGE BEV variant from 2018,non-China
+MG,4X,BEV,2026,2026,high,"BEV-only, sales from 2026-05",China
+MG,Cyberster,BEV,2024,2024,high,Draft kept,China
+MG,ES5,BEV,2024,2024,high,Draft kept,China
+MG,HS / EHS,MIX,2020,,high,HS petrol + EHS PHEV (EU 2020),non-China
+MG,IM5,BEV,2025,2025,high,BEV-only model,non-China
+MG,IM6,BEV,2025,2025,high,BEV-only model,non-China
+MG,MG3,ICE,,,high,petrol / Hybrid+ HEV,non-China
+MG,MG4,BEV,2022,2022,high,BEV only in China,China
+MG,MG4 Urban,BEV,2026,2026,high,BEV-only model,non-China
+MG,MG5,ICE,,,high,Petrol only in China,China
+MG,MG6,ICE,,,medium,eMG6 PHEV counted as separate series,China
+MG,MG7,ICE,,,high,Petrol only,China
+MG,MGS5 EV,BEV,2025,2025,high,name has EV,non-China
+MG,MGS6 EV,BEV,2025,2025,high,name has EV,non-China
+MG,MGS9,PHEV,2026,2026,high,EU MGS9 is PHEV only (Mar 2026) https://www.mg.co.uk/new-cars/mgs9-plug-in-hybrid,non-China
+MG,S5,BEV,2025,2025,high,= MGS5 EV,non-China
+MG,S6,BEV,2025,2025,high,= MGS6 EV,non-China
+MG,S9,PHEV,2026,2026,high,= MGS9 PHEV,non-China
+MG,ZS,MIX,2019,,high,ZS petrol/Hybrid+ + ZS EV (2019),non-China
+MINI,Aceman,BEV,2024,2024,high,BEV-only model,non-China
+MINI,Cooper,MIX,2020,,high,Cooper SE/MINI Electric BEV from early 2020; J01 Cooper E/SE 2024,non-China
+MINI,Countryman,MIX,2017,,high,Cooper S E ALL4 PHEV 2017; Countryman E/SE BEV 2024,non-China
+Maextro,S800,PHEV,2025,2025,high,EREV + BEV,China
+Maserati,Ghibli,ICE,,,high,petrol/MHEV,non-China
+Maserati,GranCabrio,MIX,2024,,medium,Trofeo V6 + Folgore BEV (orders Q4 2024) https://ev-database.org/car/2187/Maserati-GranCabrio-Folgore,non-China
+Maserati,GranTurismo,MIX,2023,,high,new GranTurismo (2023) incl. Folgore BEV,non-China
+Maserati,Grecale,MIX,2024,,high,Grecale Folgore BEV from 2024,non-China
+Maserati,Levante,ICE,,,high,petrol/MHEV,non-China
+Maserati,MC20,ICE,,,high,V6 petrol (Folgore cancelled),non-China
+Maxus,Euniq 6,BEV,2022,2022,high,EU Euniq 6 is 70 kWh BEV https://elbil.no/elbiler/maxus-euniq6/,non-China
+Maxus,G10,ICE,,,medium,Petrol/diesel MPV,China
+Maxus,G50,ICE,,,high,Plug-ins sold under other names,China
+Maxus,G50 PHEV,PHEV,2025,2025,high,Draft kept,China
+Maxus,G70,ICE,,,high,Petrol MHEV MPV,China
+Maxus,G90,ICE,,,high,Petrol MHEV MPV,China
+Maxus,MIFA 7,BEV,2024,2024,medium,BEV MPV; PHEV probably sold separately,China
+Maxus,MIFA 9,BEV,2022,2022,medium,BEV MPV; PHEV sold as Dajia 9,China
+Maxus,Mifa 9,BEV,2022,2022,high,BEV-only MPV,non-China
+Maxus,Territory,ICE,,,high,Petrol/diesel SUV,China
+Mazda,Bongo (E-Series),ICE,,,high,known model (Town Ace OEM),non-China
+Mazda,CX-3,ICE,,,high,known model,non-China
+Mazda,CX-30,MIX,2021,,high,CX-30 EV 2021 (separate series),China
+Mazda,CX-5,ICE,,,high,Petrol only,China
+Mazda,CX-50,ICE,,,high,Petrol only,China
+Mazda,CX-60,MIX,2022,,high,PHEV + diesel/petrol from 2022 launch,non-China
+Mazda,CX-6e,PHEV,2025,2025,high,BEV and EREV,China
+Mazda,CX-70,MIX,2024,,high,PHEV + 3.3T from 2024 launch,non-China
+Mazda,CX-80,MIX,2024,,high,PHEV + diesel from 2024 launch,non-China
+Mazda,CX-90,MIX,2023,,high,PHEV + 3.3T from 2023 launch,non-China
+Mazda,Carol,ICE,,,high,kei (Alto OEM),non-China
+Mazda,Familia (Mazda 323),ICE,,,high,Familia Van (AD/Probox OEM),non-China
+Mazda,Flair,ICE,,,high,kei (Wagon R OEM),non-China
+Mazda,Flair Crossover,ICE,,,high,kei (Hustler OEM),non-China
+Mazda,Flair Wagon,ICE,,,high,kei (Spacia OEM),non-China
+Mazda,MX-30,MIX,2020,,high,EV 2020 + R-EV 2023 (DE plug-in only); Japan also MHEV,non-China
+Mazda,MX-5 Miata,ICE,,,high,known model,non-China
+Mazda,Mazda2,ICE,,,high,petrol/diesel + Yaris-based HEV,non-China
+Mazda,Mazda3,ICE,,,high,Petrol only,China
+Mazda,Mazda6,MIX,2025,2026,medium,data: DE series picks up Mazda 6e BEV from ~Aug 2025; ICE Mazda6 ran out 2024/25,non-China
+Mazda,Mazda6e,PHEV,2024,2024,high,BEV and EREV,China
+Mazda,Scrum,ICE,,,medium,kei (Every/Carry OEM); no EV OEM known,non-China
+Mazda,Titan,ICE,,,medium,Elf OEM truck; no EV variant known,non-China
+McLaren,750S,ICE,,,high,V8 petrol,non-China
+McLaren,Artura,PHEV,2022,2022,high,PHEV-only model,non-China
+Mercedes-Benz,A-Class,ICE,,,high,No PHEV in China,China
+Mercedes-Benz,AMG GT,MIX,2022,,medium,series incl. GT 4-door (GT 63 S E Performance PHEV 2022),non-China
+Mercedes-Benz,AMG GT 4 Door,MIX,2022,,high,GT 63 S E Performance PHEV from 2022,non-China
+Mercedes-Benz,AMG PureSpeed,ICE,,,high,V8 limited edition,non-China
+Mercedes-Benz,B-Class,MIX,2014,,high,B 250 e BEV 2014-17; B 250 e PHEV 2020+,non-China
+Mercedes-Benz,C-Class,MIX,2016,,medium,C 350 eL PHEV,China
+Mercedes-Benz,CLA,BEV,2025,2025,high,EV only in China,China
+Mercedes-Benz,CLE,ICE,,,medium,no plug-in CLE; DE series incl. C/E coupe-cabrio lineage,non-China
+Mercedes-Benz,Citan,MIX,2023,,high,eCitan BEV from Oct 2023 https://www.electrive.com/2023/05/10/mercedes-reveals-prices-for-the-eqt-and-ecitan/,non-China
+Mercedes-Benz,E-Class,MIX,2019,,medium,E 300/350 eL PHEV,China
+Mercedes-Benz,E-Class / CLS,MIX,2024,,high,US AMG E 53 Hybrid PHEV from fall 2024 https://media.mbusa.com/releases/release-13ade706e08532ed28da51676b00b510-mercedes-benz-usa-announces-pricing-for-the-all-new-mercedes-amg-e-53-hybrid,non-China
+Mercedes-Benz,EQA,BEV,2021,2021,high,,China
+Mercedes-Benz,EQB,BEV,2021,2021,high,,China
+Mercedes-Benz,EQE,BEV,2022,2022,high,,China
+Mercedes-Benz,EQE SUV,BEV,2023,2023,high,,China
+Mercedes-Benz,EQE Sedan,BEV,2022,2022,high,EQ BEV model,non-China
+Mercedes-Benz,EQS,BEV,2021,2021,high,EQ BEV model,non-China
+Mercedes-Benz,EQS SUV,BEV,2022,2022,high,EQ BEV model,non-China
+Mercedes-Benz,EQS Sedan,BEV,2021,2021,high,EQ BEV model,non-China
+Mercedes-Benz,EQT,BEV,2023,2023,high,EQ BEV model,non-China
+Mercedes-Benz,EQV,BEV,2020,2020,high,EQ BEV model,non-China
+Mercedes-Benz,G-Class,MIX,2024,,high,G 580 EQ BEV from 2024 https://en.wikipedia.org/wiki/Mercedes-Benz_G-Class_EV,non-China
+Mercedes-Benz,GLA,ICE,,,high,No PHEV,China
+Mercedes-Benz,GLB,ICE,,,high,,China
+Mercedes-Benz,GLC,MIX,2024,,medium,GLC 350 e L PHEV from 2024,China
+Mercedes-Benz,GLE,MIX,2015,,high,GLE 500e/550e PHEV 2015; 350de/400e later,non-China
+Mercedes-Benz,GLS,ICE,,,high,known model (no PHEV),non-China
+Mercedes-Benz,Maybach EQS SUV,BEV,2024,2024,high,EQ BEV model,non-China
+Mercedes-Benz,Maybach GLS,ICE,,,high,V8 MHEV,non-China
+Mercedes-Benz,Maybach S-Class,ICE,,,medium,S 580/S 680 petrol; no plug-in Maybach known,non-China
+Mercedes-Benz,Maybach SL,ICE,,,high,SL 680 V8,non-China
+Mercedes-Benz,S-Class,MIX,2014,,high,S 500/550e PHEV 2014; S 580e,non-China
+Mercedes-Benz,SL,MIX,2024,,high,SL 63 S E Performance PHEV from 2024 https://www.motorauthority.com/news/1141709_2024-mercedes-amg-sl-63-s-e-performance-revealed,non-China
+Mercedes-Benz,Sprinter,MIX,2019,,medium,"eSprinter BEV (EU 2019, US/CA 2023+)",non-China
+Mercedes-Benz,V-Class,ICE,,,high,Petrol only,China
+Mercedes-Benz,VLE,BEV,2026,2026,medium,BEV at 2026 launch; petrol/diesel planned later https://en.wikipedia.org/wiki/Mercedes-Benz_VLE,non-China
+Mercedes-Benz,Vito,ICE,,,high,,China
+Mini,Aceman,BEV,2024,2024,high,BEV-only model,non-China
+Mini,Convertible,ICE,,,high,KR series ICE only (999-unit Cooper SE Convertible was EU-only),non-China
+Mini,Cooper,MIX,2020,,high,Cooper SE BEV in US/CA from 2020,non-China
+Mini,Countryman,MIX,2017,,high,Countryman PHEV 2017; SE ALL4 BEV 2024+,non-China
+Mini,Electric,BEV,2020,2020,high,name = MINI Electric (Cooper SE/E),non-China
+Mini,Mini,MIX,2017,,medium,"DE series = whole MINI brand: Countryman PHEV 2017, Cooper SE 2020",non-China
+Mitsubishi,ASX,MIX,2023,,high,2023 ASX (Captur twin) incl. 1.6 PHEV https://www.automobile-catalog.com/car/2023/3171290/mitsubishi_asx_1_6_plug-in_hybrid_159.html,non-China
+Mitsubishi,Colt,ICE,,,high,Clio twin: petrol/HEV,non-China
+Mitsubishi,Delica,ICE,,,high,D:5 diesel,non-China
+Mitsubishi,Delica D2,ICE,,,high,Solio OEM (MHEV),non-China
+Mitsubishi,Eclipse Cross,MIX,2020,,high,PHEV from Dec 2020 (JP); EU BEV 2025; US/CA petrol,non-China
+Mitsubishi,Grandis,ICE,,,high,Symbioz twin: HEV/MHEV,non-China
+Mitsubishi,Minicab,ICE,,,high,petrol kei; Minicab MiEV/EV is a separate series,non-China
+Mitsubishi,Minicab-MiEV,BEV,2011,2011,high,name has MiEV,non-China
+Mitsubishi,Mirage,ICE,,,high,known model,non-China
+Mitsubishi,Outlander,MIX,2013,,high,PHEV since 2013; JP (2021-12+) and EU PHEV-only; US/CA petrol too,non-China
+Mitsubishi,Outlander PHEV,PHEV,2013,2013,high,name has PHEV,non-China
+Mitsubishi,Outlander Sport,ICE,,,high,known model,non-China
+Mitsubishi,Space Star,ICE,,,high,known model,non-China
+Mitsubishi,Town BOX,ICE,,,high,kei (Every Wagon OEM),non-China
+Mitsubishi,eK/Delica Mini,ICE,,,medium,eK X EV is counted separately from Delica Mini/eK https://ja.wikipedia.org/wiki/%E4%B8%89%E8%8F%B1%E3%83%BB%E3%83%87%E3%83%AA%E3%82%AB%E3%83%9F%E3%83%8B,non-China
+NIO,EC6,BEV,2020,2020,high,brand is EV-only,China
+NIO,EC7,BEV,2023,2023,high,brand is EV-only,China
+NIO,EL6,BEV,2019,2019,high,brand is EV-only,China
+NIO,EL8,BEV,2018,2018,high,brand is EV-only,China
+NIO,ES9,BEV,2026,2026,high,brand is EV-only,China
+NIO,ET5,BEV,2022,2022,high,brand is EV-only,China
+NIO,ET5T,BEV,2023,2023,high,brand is EV-only,China
+NIO,ET7,BEV,2021,2021,high,brand is EV-only (first units 2021-10 in data),China
+NIO,ET9,BEV,2025,2025,high,brand is EV-only,China
+NIO,Firefly,BEV,2025,2025,high,brand is EV-only,China
+NIO,L60,BEV,2024,2024,high,brand is EV-only,China
+NIO,L80,BEV,2026,2026,high,brand is EV-only,China
+NIO,L90,BEV,2025,2025,high,brand is EV-only,China
+Nio,EL6,BEV,2023,2023,high,brand is EV-only,non-China
+Nio,EL8,BEV,2021,2021,high,brand is EV-only,non-China
+Nio,ET5,BEV,2022,2022,high,brand is EV-only,non-China
+Nissan,AD,ICE,,,high,known model,non-China
+Nissan,Altima,ICE,,,high,No plug-in,China
+Nissan,Ariya,BEV,2022,2022,high,BEV only,China
+Nissan,Armada,ICE,,,high,known model,non-China
+Nissan,Atlas 2t+,ICE,,,medium,Elf OEM truck; no EV variant known,non-China
+Nissan,Caravan/Homy Coach,ICE,,,high,known model,non-China
+Nissan,Clipper Rio,ICE,,,high,kei (Every Wagon OEM),non-China
+Nissan,Clipper Truck,ICE,,,high,kei (Carry OEM),non-China
+Nissan,Clipper Van,ICE,,,low,Every OEM; Clipper EV (Feb 2024) probably counted separately https://global.nissannews.com/ja-JP/releases/240130-02-j,non-China
+Nissan,D60,ICE,,,high,EV tracked as D60EV,China
+Nissan,D60EV,BEV,2019,2019,high,BEV from 2019-09,China
+Nissan,DAYZ,ICE,,,high,kei petrol/MHEV,non-China
+Nissan,Frontier,ICE,,,high,known model,non-China
+Nissan,Interstar,MIX,2024,,low,Interstar-e BEV from 2024 (new gen barely in data) https://www.parkers.co.uk/vans-pickups/news/2024/nissan-interstar-large-van/,non-China
+Nissan,Juke,ICE,,,high,petrol/HEV,non-China
+Nissan,Kicks,ICE,,,high,Petrol only,China
+Nissan,Leaf,BEV,2010,2010,high,BEV-only model,non-China
+Nissan,Micra,MIX,2025,2025,medium,K14 petrol to 2023/24; new Micra BEV 2025 (data series is BEV-only),non-China
+Nissan,Murano,ICE,,,high,known model,non-China
+Nissan,N6,PHEV,2025,2025,high,PHEV launched 2025-12,China
+Nissan,N7,BEV,2025,2025,high,BEV only,China
+Nissan,NX8,PHEV,2026,2026,high,"BEV and EREV, 2026",China
+Nissan,Note,ICE,,,high,e-POWER series HEV (no plug),non-China
+Nissan,Note AURA,ICE,,,high,e-POWER (no plug),non-China
+Nissan,Paladin,ICE,,,medium,Petrol SUV,China
+Nissan,Pathfinder,ICE,,,high,Petrol only,China
+Nissan,Patrol,ICE,,,high,known model,non-China
+Nissan,Primastar,ICE,,,high,diesel only https://www.autoexpress.co.uk/nissan/356137/new-nissan-primastar-and-interstar-panel-vans-unveiled,non-China
+Nissan,Qashqai,ICE,,,high,Petrol only,China
+Nissan,Rogue,ICE,,,high,Petrol and e-Power HEV,China
+Nissan,Roox,ICE,,,high,kei petrol/MHEV,non-China
+Nissan,Sakura,BEV,2022,2022,high,BEV-only kei,non-China
+Nissan,Sentra,MIX,2018,,high,"Sylphy BEV 2018 (separate series, discontinued)",China
+Nissan,Serena,ICE,,,high,petrol/e-POWER,non-China
+Nissan,Skyline,ICE,,,high,known model,non-China
+Nissan,Tiida,ICE,,,high,Petrol only,China
+Nissan,Townstar,MIX,2014,,medium,Townstar petrol+EV (2022); DE series incl. NV200/e-NV200 (BEV 2014) lineage,non-China
+Nissan,V DD-i,PHEV,2023,2023,high,PHEV,China
+Nissan,VX6,BEV,2023,2023,high,BEV only,China
+Nissan,Vanette,ICE,,,high,Town Ace OEM,non-China
+Nissan,Venucia Star,ICE,,,high,Petrol MHEV,China
+Nissan,Venucia V-Online,ICE,,,high,Petrol; PHEV tracked separately,China
+Nissan,Versa,ICE,,,high,known model,non-China
+Nissan,Z,ICE,,,high,known model,non-China
+ORA,03,BEV,2020,2020,high,draft OK,China
+ORA,5 EV,BEV,2025,2025,medium,EV launched 2025-12,China
+ORA,Ba Lei Mao,BEV,2022,2022,high,draft OK,China
+ORA,Lightning Cat,BEV,2022,2022,high,draft OK,China
+Omoda,5,MIX,2024,,low,Omoda 5 petrol/HEV; E5 BEV (2024) may be counted here,non-China
+Omoda,7,MIX,2026,,medium,EU: SHS PHEV + petrol (2026) https://www.autoexpress.co.uk/omoda/7,non-China
+Omoda,9,PHEV,2025,2025,high,EU Omoda 9 is SHS PHEV only,non-China
+Opel,Astra,MIX,2022,,high,Astra L PHEV early 2022; Astra Electric 2023,non-China
+Opel,Combo,MIX,2021,,high,Combo-e from late 2021,non-China
+Opel,Corsa,MIX,2020,,high,Corsa-e from spring 2020,non-China
+Opel,Frontera,MIX,2025,,high,series incl. Crossland lineage; Frontera Electric/Hybrid 2025,non-China
+Opel,Grandland,MIX,2020,,high,Grandland X Hybrid4 PHEV early 2020; Electric 2024+,non-China
+Opel,Mokka,MIX,2021,,high,Mokka-e from 2021,non-China
+Opel,Zafira Life,MIX,2020,,medium,Zafira-e Life from late 2020 https://de.wikipedia.org/wiki/Opel_Zafira_Life,non-China
+Opel/Vauxhall,Astra,MIX,2022,,high,Astra L PHEV early 2022; Astra Electric 2023,non-China
+Opel/Vauxhall,Combo,MIX,2021,,high,Combo-e from late 2021,non-China
+Opel/Vauxhall,Corsa,MIX,2020,,high,Corsa-e from spring 2020,non-China
+Opel/Vauxhall,Frontera,MIX,2025,,high,series incl. Crossland lineage; Frontera Electric/Hybrid 2025,non-China
+Opel/Vauxhall,Grandland,MIX,2020,,high,Grandland X Hybrid4 PHEV early 2020; Electric 2024+,non-China
+Opel/Vauxhall,Mokka,MIX,2021,,high,Mokka-e from 2021,non-China
+Peugeot,2008,MIX,2020,,high,e-2008 from early 2020,non-China
+Peugeot,208,MIX,2020,,medium,e-208 deliveries late 2019/early 2020,non-China
+Peugeot,3008,MIX,2020,,high,3008 Hybrid/Hybrid4 PHEV early 2020; e-3008 2024,non-China
+Peugeot,308,MIX,2021,,high,308 III PHEV from Dec 2021; e-308 2023,non-China
+Peugeot,4008,MIX,2020,,low,4008 PHEV (unverified),China
+Peugeot,408,ICE,,,high,known model,China
+Peugeot,408X,ICE,,,medium,known model,China
+Peugeot,5008,ICE,,,high,known model,China
+Peugeot,508,MIX,2020,,low,508L PHEV (unverified),China
+Peugeot,Boxer,MIX,2020,,high,e-Boxer from Q4 2020,non-China
+Peugeot,Expert,MIX,2020,,high,e-Expert from H2 2020,non-China
+Peugeot,Rifter,MIX,2021,,medium,e-Rifter from 2021,non-China
+Polestar,2,BEV,2020,2020,high,BEV-only model,non-China
+Polestar,3,BEV,2024,2024,high,BEV-only model,non-China
+Polestar,4,BEV,2024,2024,high,brand is EV-only,China
+Polestar,5,BEV,2025,2025,high,BEV-only model (deliveries 2026),non-China
+Porsche,718,ICE,,,high,petrol (electric 718 not yet launched),non-China
+Porsche,911,ICE,,,high,T-Hybrid is not plug-in,non-China
+Porsche,Boxster,ICE,,,high,known model,non-China
+Porsche,Cayenne,MIX,2014,,high,S E-Hybrid PHEV 2014; Cayenne Electric 2025/26,non-China
+Porsche,Cayman,ICE,,,high,known model,non-China
+Porsche,Macan,MIX,2024,,high,"Macan Electric 2024; ICE ended EU 2024, built to Jul 2026 for N. America https://www.electrive.com/2026/07/14/porsches-last-internal-combustion-macan-rolls-off-the-production-line/",non-China
+Porsche,Panamera,MIX,2013,,high,S E-Hybrid PHEV since 2013,non-China
+Porsche,Taycan,BEV,2019,2019,high,BEV-only model,non-China
+RAM,1500,ICE,,,high,petrol/eTorque (EU imports),non-China
+RAM,2500,ICE,,,high,known model,non-China
+ROX,01,PHEV,2023,2023,high,EREV only,China
+Ram,Pickup,ICE,,,high,1500 REV range-extender delayed to 2027 https://en.wikipedia.org/wiki/Ram_1500_REV_(Range-Extended),non-China
+Ram,ProMaster,MIX,2024,,medium,ProMaster EV from 2024 https://insideevs.com/news/704987/2024-ram-promaster-ev-van-specs-range-charging/,non-China
+Renault,4,BEV,2025,2025,high,4 E-Tech electric only,non-China
+Renault,5,BEV,2024,2024,high,5 E-Tech electric only,non-China
+Renault,Arkana,ICE,,,high,MHEV/E-Tech HEV,non-China
+Renault,Austral,ICE,,,high,MHEV/E-Tech HEV; series incl. Kadjar lineage,non-China
+Renault,Captur,MIX,2020,,high,Captur E-Tech PHEV 2020,non-China
+Renault,Clio,ICE,,,high,petrol/diesel/E-Tech HEV,non-China
+Renault,Espace,ICE,,,high,E-Tech HEV (no plug-in),non-China
+Renault,Kangoo,MIX,2011,,high,Kangoo Z.E. 2011+; Kangoo E-Tech Electric 2022,non-China
+Renault,Master,MIX,2018,,high,Master Z.E. 2018; Master E-Tech 2024,non-China
+Renault,Megane,MIX,2020,2025,medium,"Megane IV PHEV 2020, E-Tech Electric 2022; ICE ended mid-2024 (data)",non-China
+Renault,Megane E-Tech,MIX,2020,2025,medium,series incl. Megane IV ICE/PHEV lineage; BEV-only from 2025 (data),non-China
+Renault,Rafale,MIX,2024,,high,E-Tech 4x4 300 PHEV from Nov 2024 https://vision-mobility.de/en/news/renault-rafale-e-tech-300-4x4-starts-from-53-300-euros-328281.html,non-China
+Renault,Scenic,MIX,2024,2024,medium,Scenic IV ICE to 2023; Scenic E-Tech BEV 2024 (data),non-China
+Renault,Scenic E-Tech,MIX,2024,2024,medium,series incl. Scenic IV ICE lineage (tail to Q1 2024); BEV 2024+,non-China
+Renault,Symbioz,ICE,,,high,E-Tech HEV/MHEV,non-China
+Renault,Trafic,MIX,2023,,high,Trafic E-Tech electric from Oct 2023 https://www.electrive.com/2023/09/13/renault-gears-up-to-launch-the-e-tech-trafic-transporter/,non-China
+Renault,Twingo,MIX,2020,2026,medium,Twingo III petrol + Electric (2020-24); new Twingo E-Tech BEV 2026 (data),non-China
+Renault,Twingo E-Tech,MIX,2020,2026,medium,series incl. Twingo III petrol lineage; BEV-only from 2026 (data),non-China
+Renault Korea,Arkana,ICE,,,high,petrol/E-Tech HEV (ex-XM3),non-China
+Renault Korea,Filante,ICE,,,high,E-Tech HEV https://www.renault.co.kr/ko/model/filante_overview.jsp,non-China
+Renault Korea,Grand Koleos,ICE,,,high,petrol/E-Tech HEV,non-China
+Renault Korea,Scenic E-Tech Electric,BEV,2025,2025,high,name has Electric,non-China
+Rivian,EDV,BEV,2022,2022,high,brand is EV-only,non-China
+Rivian,R1S,BEV,2022,2022,high,brand is EV-only,non-China
+Rivian,R1T,BEV,2021,2021,high,brand is EV-only,non-China
+Roewe,D5X DMH,PHEV,2024,2024,high,Draft kept,China
+Roewe,D6,BEV,2025,2025,high,BEV-only sedan,China
+Roewe,D7,PHEV,2023,2023,high,"EV + DMH, no petrol-only",China
+Roewe,M7 DMH,PHEV,2025,2025,high,Draft kept,China
+Roewe,RX5,ICE,,,medium,Plug-in eRX5 versions counted as separate series (volumes match petrol RX5),China
+Roewe,RX9,ICE,,,high,Draft kept,China
+Roewe,i5,ICE,,,high,Petrol sedan,China
+Roewe,iMAX8,ICE,,,medium,Petrol MPV; BEV separate row,China
+Roewe,iMAX8 EV,BEV,2022,2022,high,BEV launched 2022-08,China
+Rolls-Royce,Cullinan,ICE,,,high,V12,non-China
+Rolls-Royce,Cullinan Series2,ICE,,,high,V12,non-China
+Rolls-Royce,Ghost,ICE,,,high,V12,non-China
+Rolls-Royce,Ghost Series II,ICE,,,high,V12,non-China
+Rolls-Royce,Phantom,ICE,,,high,V12,non-China
+Rolls-Royce,Phantom Series II,ICE,,,high,V12,non-China
+Rolls-Royce,Spectre,BEV,2023,2023,high,BEV-only model,non-China
+Ruichi,EC75,BEV,2023,2023,high,BEV van launched 2023-12,China
+SAIC,F7,BEV,2023,2023,high,Draft kept,China
+SAIC,R7,BEV,2022,2022,high,Draft kept,China
+SRM,Jinhaishi,ICE,,,medium,Petrol van/MPV,China
+SWM,G05,ICE,,,high,Petrol,China
+SWM,SWM,UNKNOWN,,,low,Could not identify the model,China
+Seat,Arona,ICE,,,high,known model,non-China
+Seat,Ateca,ICE,,,high,known model,non-China
+Seat,Ibiza,ICE,,,high,known model,non-China
+Seat,Leon,MIX,2020,,high,Leon e-Hybrid PHEV 2020,non-China
+Shangjie,H5,PHEV,2025,2025,high,EREV + BEV; https://cnevpost.com/2025/09/23/shangjie-launches-h5-suv/,China
+Shangjie,Z7,BEV,2026,2026,medium,BEV at launch; no EREV found; https://cnevpost.com/2026/03/23/shangjie-starts-pre-sales-z7-z7t-rival-xiaomi/,China
+Shangjie,Z7T,BEV,2026,2026,medium,BEV at launch; no EREV found,China
+Skoda,Elroq,BEV,2024,2024,high,BEV-only model,non-China
+Skoda,Enyaq,BEV,2021,2021,high,BEV-only model,non-China
+Skoda,Enyaq Coupe,BEV,2022,2022,high,BEV-only model,non-China
+Skoda,Fabia,ICE,,,high,known model,non-China
+Skoda,Kamiq,ICE,,,high,known model,non-China
+Skoda,Karoq,ICE,,,high,known model,non-China
+Skoda,Kodiaq,MIX,2024,,high,2nd-gen Kodiaq iV PHEV 2024,non-China
+Skoda,Octavia,MIX,2020,,high,Octavia iV PHEV 2020,non-China
+Skoda,Peaq,BEV,2026,2026,high,BEV-only model,non-China
+Skoda,Scala,ICE,,,high,known model,non-China
+Skoda,Superb,MIX,2020,,high,Superb iV PHEV deliveries Jan 2020,non-China
+Skyworth,EV6,BEV,2021,2021,high,BEV only,China
+Skyworth,HT-i,PHEV,2023,2023,high,PHEV only,China
+Smart,#1,BEV,2022,2022,high,EU smart # models are BEV,non-China
+Smart,#3,BEV,2023,2023,high,EU smart # models are BEV,non-China
+Smart,#5,BEV,2025,2025,high,EU #5 BEV only (EHD PHEV China-only) https://www.motor1.com/news/748532/smart-5-hybrid-motor-denied/,non-China
+Smart,ForTwo,MIX,2012,2020,high,"fortwo ED 2012-15, EQ fortwo 2017; petrol ended 2019 -> EV-only 2020",non-China
+Smart,smart#1,BEV,2022,2022,high,BEV only,China
+Smart,smart#3,BEV,2023,2023,high,BEV only,China
+Smart,smart#5,PHEV,2024,2024,high,BEV 2024; #5 EHD PHEV added 2025-10; https://media.smart.com/zh-CN-CN/260834-20-smart-5-ehd-16-99/,China
+Smart,smart#6,PHEV,2026,2026,high,EHD PHEV only (launched 2026-06),China
+Sportequipe,6 GT,ICE,,,high,petrol/LPG https://www.alvolante.it/listino_auto/sportequipe-6_gt,non-China
+Sportequipe,7 GTW,ICE,,,high,petrol/LPG https://e-motori.it/sportequipe-7-gtw-gpl-recensione-suv-7-posti/,non-China
+Sportequipe,8,PHEV,2023,2023,medium,only 1.5 PHEV in price list https://www.alvolante.it/listino_auto/sportequipe-8,non-China
+Stelato,S9,PHEV,2024,2024,high,BEV 2024-08; EREV added 2025-04,China
+Stelato,S9T,PHEV,2025,2025,high,BEV + EREV,China
+Subaru,Ascent,ICE,,,high,known model,non-China
+Subaru,BRZ,ICE,,,high,known model,non-China
+Subaru,Chiffon,ICE,,,high,kei (Tanto OEM),non-China
+Subaru,Crosstrek,MIX,2018,,high,US Crosstrek Hybrid PHEV Dec 2018-2023 https://media.subaru.com/pressrelease/1277/subaru-announces-its-first-plug-hybrid-vehicle-2019,non-China
+Subaru,Forester,ICE,,,high,petrol/MHEV/HEV,non-China
+Subaru,Impreza,ICE,,,high,known model,non-China
+Subaru,Justy,ICE,,,high,Thor OEM,non-China
+Subaru,Legacy,ICE,,,high,known model,non-China
+Subaru,Legacy/Outback,ICE,,,high,known model,non-China
+Subaru,Levorg,ICE,,,high,known model,non-China
+Subaru,Outback,ICE,,,high,known model,non-China
+Subaru,Pleo,ICE,,,high,kei (Mira OEM),non-China
+Subaru,REX,ICE,,,high,Rocky OEM (petrol),non-China
+Subaru,Sambar,ICE,,,high,no BEV (Hijet/Pixis BEV not given to Subaru),non-China
+Subaru,Solterra,BEV,2022,2022,high,BEV-only model,non-China
+Subaru,Stella,ICE,,,high,kei (Move OEM),non-China
+Subaru,Trailseeker,BEV,2026,2026,high,BEV-only model,non-China
+Subaru,Uncharted,BEV,2026,2026,high,BEV-only model,non-China
+Subaru,WRX,ICE,,,high,known model,non-China
+Suzuki,Across,PHEV,2020,2020,high,RAV4 PHEV twin,non-China
+Suzuki,Alto,ICE,,,high,kei petrol/MHEV,non-China
+Suzuki,Carry,ICE,,,high,kei truck,non-China
+Suzuki,Every,ICE,,,medium,e Every BEV (Mar 2026) sold under separate name https://car-repo.jp/blog-entry-2026-suzuki-e-every.html,non-China
+Suzuki,Every Wagon,ICE,,,high,kei petrol,non-China
+Suzuki,Fronx,ICE,,,high,MHEV,non-China
+Suzuki,HUSTLER,ICE,,,high,kei petrol/MHEV,non-China
+Suzuki,Jimny,ICE,,,high,known model,non-China
+Suzuki,Jimny Wagon,ICE,,,high,known model,non-China
+Suzuki,Landy,ICE,,,high,Noah/Voxy OEM (petrol/HEV),non-China
+Suzuki,S-Cross,ICE,,,high,MHEV/HEV,non-China
+Suzuki,Solio/Wagon R+,ICE,,,high,petrol/MHEV/HEV,non-China
+Suzuki,Spacia,ICE,,,high,kei petrol/MHEV,non-China
+Suzuki,Swace,ICE,,,high,Corolla TS HEV twin,non-China
+Suzuki,Swift,ICE,,,high,known model,non-China
+Suzuki,Vitara,MIX,2025,,medium,DE ICE Vitara (+e Vitara from late 2025?); JP series = e Vitara BEV from 2026-01,non-China
+Suzuki,Vitara/Grand Vitara,ICE,,,high,MHEV/HEV; e Vitara is a separate series,non-China
+Suzuki,Wagon R,ICE,,,high,kei petrol/MHEV,non-China
+Suzuki,XBEE,ICE,,,high,MHEV,non-China
+Suzuki,e Vitara,BEV,2025,2025,high,name has e-,non-China
+Tank,300,ICE,,,high,Hi4-T tracked separately,China
+Tank,300 EV,PHEV,2024,2024,high,draft OK,China
+Tank,400,ICE,,,medium,PHEV tracked separately,China
+Tank,400 EV,PHEV,2023,2023,high,draft OK,China
+Tank,500,ICE,,,high,draft OK,China
+Tank,500 EV,PHEV,2023,2023,high,draft OK,China
+Tank,700 EV,PHEV,2024,2024,high,draft OK,China
+Tesla,Cybertruck,BEV,2023,2023,high,brand is EV-only,non-China
+Tesla,Model 3,BEV,2019,2019,high,brand is EV-only,China
+Tesla,Model S,BEV,2012,2012,high,brand is EV-only,non-China
+Tesla,Model X,BEV,2015,2015,high,brand is EV-only,non-China
+Tesla,Model Y,BEV,2021,2021,high,brand is EV-only,China
+Tiger,Six,ICE,,,high,petrol/LPG (DR group) https://de.wikipedia.org/wiki/Tiger_Six,non-China
+Togg,T10F,BEV,2025,2025,high,brand is EV-only,non-China
+Togg,T10X,BEV,2025,2025,high,brand is EV-only,non-China
+Toyota,4Runner,ICE,,,high,petrol/HEV,non-China
+Toyota,86,ICE,,,high,known model,non-China
+Toyota,Alphard,MIX,2025,,high,PHEV added 31 Jan 2025 (JP) https://zaikei.co.jp/article/20241223/794687.html,non-China
+Toyota,Aqua (Prius C),ICE,,,high,HEV,non-China
+Toyota,Avalon,ICE,,,high,Petrol and HEV only,China
+Toyota,Aygo,ICE,,,high,known model,non-China
+Toyota,Aygo X,ICE,,,high,petrol/HEV; series incl. Aygo lineage,non-China
+Toyota,C-HR,MIX,2024,,high,2nd-gen C-HR PHEV 2024,non-China
+Toyota,C-HR+,BEV,2026,2026,high,BEV-only; EU deliveries Mar 2026,non-China
+Toyota,Camry,ICE,,,high,Petrol and HEV only,China
+Toyota,Century,MIX,2023,,medium,Century SUV PHEV (late 2023) + sedan HEV,non-China
+Toyota,Copen GR SPORT,ICE,,,high,kei petrol,non-China
+Toyota,Corolla,MIX,2019,,high,"E+ PHEV 2019 (separate autohome series, now discontinued)",China
+Toyota,Corolla Cross,ICE,,,high,Petrol and HEV only,China
+Toyota,Crown,ICE,,,medium,"HEV (JP Crown Sedan also FCEV, not plug-in); Sport/Estate PHEV are separate series",non-China
+Toyota,Crown Crossover,ICE,,,high,HEV,non-China
+Toyota,Crown Estate,MIX,2025,,high,HEV + PHEV from 2025 launch,non-China
+Toyota,Crown Kluger,ICE,,,high,HEV only,China
+Toyota,Crown Signia,ICE,,,high,HEV,non-China
+Toyota,Crown Sport,MIX,2023,,high,HEV Oct 2023 + PHEV Dec 2023,non-China
+Toyota,Dyna Toyoace,ICE,,,high,diesel/HEV truck,non-China
+Toyota,Frontlander,ICE,,,high,Petrol and HEV only,China
+Toyota,GR86,ICE,,,high,known model,non-China
+Toyota,Grand Highlander,ICE,,,high,petrol/HEV,non-China
+Toyota,Granvia,ICE,,,high,HEV only,China
+Toyota,Harrier,MIX,2022,,high,Harrier PHEV Oct 2022,non-China
+Toyota,Hiace / Regius Ace,ICE,,,high,known model,non-China
+Toyota,Hiace Wagon,ICE,,,high,known model,non-China
+Toyota,Highlander,ICE,,,high,No plug-in,China
+Toyota,Hilux,MIX,2025,,high,"new Hilux BEV from Dec 2025, MHEV diesel 2026 https://newsroom.toyota.eu/toyota-announces-the-all-new-hilux-including-a-first-battery-electric-version-of-the-iconic-pick-up/",non-China
+Toyota,JPN TAXI,ICE,,,high,LPG HEV,non-China
+Toyota,Land Cruiser,ICE,,,high,petrol/diesel/HEV,non-China
+Toyota,Land Cruiser FJ,ICE,,,high,petrol,non-China
+Toyota,Land Cruiser Prado,ICE,,,high,No plug-in,China
+Toyota,Levin,MIX,2019,,high,"E+ PHEV 2019 (separate series, discontinued)",China
+Toyota,Levin GT,ICE,,,high,Petrol only,China
+Toyota,Mirai,UNKNOWN,,,high,"FCEV (hydrogen), not plug-in; no class fits",non-China
+Toyota,Noah,ICE,,,high,petrol/HEV,non-China
+Toyota,Prius,MIX,2012,,high,Prius PHV/Prime since 2012; EU PHEV-only from 2023,non-China
+Toyota,Proace,MIX,2020,,high,Proace Electric Q4 2020 https://www.electrive.com/2021/04/27/toyota-begins-european-roll-out-of-proace-electric-van/,non-China
+Toyota,Proace City,MIX,2021,,high,Proace City Electric Q4 2021,non-China
+Toyota,Proace Max,MIX,2024,,medium,diesel + BEV from 2024 launch,non-China
+Toyota,Probox,ICE,,,high,petrol/HEV,non-China
+Toyota,RAV4,MIX,2021,,high,E+ PHEV 2021-2024 (separate series),China
+Toyota,ROOMY,ICE,,,high,petrol,non-China
+Toyota,Raize,ICE,,,high,petrol/series HEV,non-China
+Toyota,Sequoia,ICE,,,high,HEV,non-China
+Toyota,Sienna,ICE,,,high,HEV only,China
+Toyota,Sienta,ICE,,,high,petrol/HEV,non-China
+Toyota,Supra,ICE,,,high,known model,non-China
+Toyota,Tacoma,ICE,,,high,petrol/HEV,non-China
+Toyota,Tundra,ICE,,,high,petrol/HEV,non-China
+Toyota,Urban Cruiser,BEV,2025,2025,high,2025 Urban Cruiser is BEV (e Vitara twin),non-China
+Toyota,Vellfire,MIX,2025,,high,PHEV added 31 Jan 2025 (JP),non-China
+Toyota,Venza,ICE,,,high,Petrol and HEV only,China
+Toyota,Voxy,ICE,,,high,petrol/HEV,non-China
+Toyota,Wildlander,MIX,2021,,high,PHEV 2021-2024 (separate series),China
+Toyota,Yaris,ICE,,,high,petrol/HEV,non-China
+Toyota,Yaris Cross,ICE,,,high,petrol/HEV,non-China
+Toyota,bZ3,BEV,2023,2023,high,BEV only,China
+Toyota,bZ3X,BEV,2025,2025,high,BEV only,China
+Toyota,bZ4X,BEV,2022,2022,high,BEV only,China
+Toyota,bZ4X/bZ,BEV,2022,2022,high,BEV-only model,non-China
+Toyota,bZ5,BEV,2025,2025,high,BEV only,China
+Toyota,bZ7,BEV,2026,2026,high,BEV only,China
+Toyota,pixis,MIX,2026,,medium,Pixis Van BEV (Feb 2026) shares Pixis name https://carview.yahoo.co.jp/news/detail/a85f186aa480a689704f70c112fefb22f34f077e/,non-China
+VinFast,VF6,BEV,2024,2024,high,brand is EV-only,non-China
+VinFast,VF8,BEV,2023,2023,high,brand is EV-only,non-China
+VinFast,VF9,BEV,2025,2025,high,brand is EV-only,non-China
+Volkswagen,Arteon,MIX,2020,,high,Arteon eHybrid from Nov 2020,non-China
+Volkswagen,Atlas,ICE,,,high,known model,non-China
+Volkswagen,Bora,MIX,2019,,high,e-Bora 2019-21,China
+Volkswagen,CC,ICE,,,high,,China
+Volkswagen,Caddy,MIX,2020,,medium,ABT e-Caddy (sold by VWN) 2020-21; factory eHybrid 2025 https://www.parkers.co.uk/vans-pickups/news/2025/vw-caddy-ehybrid/,non-China
+Volkswagen,Crafter,MIX,2018,,high,e-Crafter BEV 2018,non-China
+Volkswagen,Golf,MIX,2019,,high,e-Golf 2019-21,China
+Volkswagen,ID. Buzz,BEV,2022,2022,high,ID. family BEV,non-China
+Volkswagen,ID. ERA 9X,PHEV,2026,2026,high,EREV only,China
+Volkswagen,ID.3,BEV,2021,2021,high,,China
+Volkswagen,ID.4,BEV,2020,2020,high,ID. family BEV,non-China
+Volkswagen,ID.4 / ID.5,BEV,2020,2020,high,ID. family BEV,non-China
+Volkswagen,ID.4 CROZZ,BEV,2021,2021,high,,China
+Volkswagen,ID.4 X,BEV,2021,2021,high,,China
+Volkswagen,ID.5,BEV,2022,2022,high,ID. family BEV,non-China
+Volkswagen,ID.7,BEV,2023,2023,high,ID. family BEV,non-China
+Volkswagen,ID.Cross,BEV,2026,2026,high,ID. family BEV,non-China
+Volkswagen,ID.Polo,BEV,2026,2026,high,ID. family BEV,non-China
+Volkswagen,Jetta,ICE,,,high,known model,non-China
+Volkswagen,Lamando L,ICE,,,high,,China
+Volkswagen,Lavida,MIX,2019,,high,e-Lavida BEV 2019,China
+Volkswagen,Magotan,MIX,2019,,high,Magotan GTE PHEV,China
+Volkswagen,Passat,MIX,2015,,high,Passat GTE PHEV 2015; eHybrid 2024,non-China
+Volkswagen,Passat NMS,MIX,2018,,high,Passat PHEV from 2018,China
+Volkswagen,Polo,ICE,,,high,known model,non-China
+Volkswagen,Sagitar,ICE,,,high,No plug-in,China
+Volkswagen,Sagitar S,ICE,,,high,"Petrol, 2026",China
+Volkswagen,T-Cross,ICE,,,high,known model,non-China
+Volkswagen,T-Roc,ICE,,,high,,China
+Volkswagen,Taigo,ICE,,,high,known model,non-China
+Volkswagen,Talagon,ICE,,,high,,China
+Volkswagen,Taos,ICE,,,high,known model,non-China
+Volkswagen,Tavendor,ICE,,,high,,China
+Volkswagen,Tayron,MIX,2020,,high,Tayron GTE PHEV,China
+Volkswagen,Tayron X,ICE,,,high,,China
+Volkswagen,Teramont,ICE,,,high,,China
+Volkswagen,Teramont X,ICE,,,high,,China
+Volkswagen,Tharu,MIX,2020,,medium,"Small BEV, likely separate series",China
+Volkswagen,Tharu XR,ICE,,,high,,China
+Volkswagen,Tiguan,MIX,2018,,high,Tiguan L PHEV 2018-23,China
+Volkswagen,Tiguan L ePro,PHEV,2026,2026,high,PHEV,China
+Volkswagen,Touareg,MIX,2020,,high,Touareg R/eHybrid PHEV 2020,non-China
+Volkswagen,Touran,ICE,,,high,,China
+Volkswagen,Transporter,MIX,2020,,medium,ABT e-Transporter 6.1 (VWN) 2020; T7 e-Transporter/eHybrid 2025 https://www.electrive.net/2020/03/07/vwn-stellt-abt-e-transporter-6-1-und-eigenen-ladeservice-vor/,non-China
+Volkswagen,Viloran,ICE,,,high,Petrol only,China
+Volkswagen,up!,MIX,2013,,high,e-up! BEV 2013-2023,non-China
+Volvo,60-Series,MIX,2018,,medium,US/CA S60/V60 (XC60 separate): S60 T8 PHEV from late 2018,non-China
+Volvo,90-Series,MIX,2017,,medium,US/CA S90/V90 (XC90 separate): S90 T8 PHEV from 2017,non-China
+Volvo,C40,BEV,2021,2021,high,BEV-only (EC40),non-China
+Volvo,EM90,BEV,2023,2023,medium,,China
+Volvo,ES90,BEV,2026,2026,medium,,China
+Volvo,EX30,BEV,2024,2024,high,,China
+Volvo,EX30 CC,BEV,2025,2025,high,BEV-only model,non-China
+Volvo,EX40,BEV,2024,2024,high,renamed XC40 BEV,non-China
+Volvo,EX60,BEV,2026,2026,high,BEV-only model,non-China
+Volvo,EX90,BEV,2026,2026,medium,,China
+Volvo,S60,MIX,2015,,high,S60L/T8 PHEV,China
+Volvo,S60 / V60,MIX,2012,,high,V60 D6 PHEV 2012; T6/T8 Recharge 2018+,non-China
+Volvo,S60/V60,MIX,2012,,high,V60 D6 PHEV 2012; T6/T8 Recharge 2018+,non-China
+Volvo,S90,ICE,,,medium,T8 tracked in S90 PHEV row,China
+Volvo,S90 / V90,MIX,2016,,medium,S90/V90 T8 Twin Engine PHEV from launch (2016/17),non-China
+Volvo,S90 PHEV,PHEV,2018,2018,medium,,China
+Volvo,S90/V90,MIX,2016,,medium,S90/V90 T8 Twin Engine PHEV from launch (2016/17),non-China
+Volvo,V60 Cross Country,ICE,,,high,B5/T5 only (no PHEV CC),non-China
+Volvo,XC40,MIX,2020,,medium,XC40 Recharge BEV,China
+Volvo,XC60,ICE,,,medium,T8 tracked in XC60 PHEV row,China
+Volvo,XC60 PHEV,PHEV,2017,2017,medium,,China
+Volvo,XC70,PHEV,2025,2025,high,PHEV only,China
+Volvo,XC90,MIX,2015,,high,XC90 T8 PHEV 2015,non-China
+Voyah,Courage,BEV,2024,2024,high,BEV only,China
+Voyah,Dreamer,PHEV,2022,2022,high,PHEV + BEV,China
+Voyah,Free,PHEV,2021,2021,high,EREV + BEV,China
+Voyah,Passion,PHEV,2023,2023,high,BEV 2023; PHEV added 2023-12,China
+Voyah,Passion L,PHEV,2025,2025,high,PHEV (+EV) launched 2025-12,China
+Voyah,Taishan,PHEV,2025,2025,high,PHEV (launched 2025-11),China
+Voyah,X8,PHEV,2026,2026,high,PHEV + EV (launched 2026-05),China
+WEY,Gaoshan,PHEV,2023,2023,medium,Hi4 PHEV only through 2026-07,China
+WEY,Lanshan,PHEV,2023,2023,high,draft OK,China
+WEY,Mocha PHEV,PHEV,2022,2022,high,draft OK,China
+WEY,V9X,PHEV,2026,2026,medium,PHEV,China
+Wuling,Aishang,BEV,2025,2025,medium,BEV A00 micro car launched Sep-Oct 2025 (Liuzhou Wuling 埃尚),China
+Wuling,Bingo,BEV,2023,2023,high,BEV only,China
+Wuling,Bingo S,BEV,2025,2025,high,"Launched 2025-09-27, BEV only",China
+Wuling,Hongguang,ICE,,,high,Petrol MPV; new-energy Hongguang tracked in Hongguang EV row,China
+Wuling,Hongguang EV,PHEV,2024,2024,medium,BEV 2024-09 plus EREV 2025-04 in one series,China
+Wuling,Hongguang MINIEV,BEV,2020,2020,high,BEV only,China
+Wuling,Huajing S,PHEV,2026,2026,high,Launched 2026-05-08 as 1.5T PHEV,China
+Wuling,Jiachen,ICE,,,high,Petrol; hybrid version is non-plug-in HEV,China
+Wuling,Plus,BEV,2024,2024,high,BEV launched 2024-03-06,China
+Wuling,Pro,BEV,2026,2026,high,BEV launched 2026-05-22,China
+Wuling,Rongguang,MIX,2020,,medium,"Petrol microvan; 荣光EV exists (2020-05), possibly separate series",China
+Wuling,Starlight,PHEV,2023,2023,high,PHEV from launch late 2023; BEV added 2024-04; never ICE,China
+Wuling,Starlight 560 EV,PHEV,2025,2025,medium,PHEV and BEV versions in EV row,China
+Wuling,Starlight 730,ICE,,,high,Plug-in versions tracked in 730 EV row,China
+Wuling,Starlight 730 EV,PHEV,2025,2025,medium,PHEV and BEV trims,China
+Wuling,Starlight S,PHEV,2024,2024,high,"PHEV and BEV from 2024-08, no ICE",China
+Wuling,Sunshine,ICE,,,high,Petrol microvan; EV separate,China
+Wuling,Sunshine EV,BEV,2025,2025,high,"Sales from Feb-2025, BEV only",China
+Wuling,Victory,ICE,,,high,1.5T petrol MPV,China
+Wuling,Xingchen,ICE,,,high,"Hybrid is self-charging HEV, not plug-in",China
+Wuling,Xingchi,ICE,,,high,Petrol SUV,China
+Wuling,Zhengcheng,MIX,2023,,medium,Petrol plus 征程EV from 2023-09 (possibly separate series),China
+Xiaomi,SU7,BEV,2024,2024,high,brand is EV-only,China
+Xiaomi,YU7,BEV,2025,2025,high,brand is EV-only,China
+Xpeng,G6,PHEV,2023,2023,high,BEV 2023; EREV added 2026-03; https://db.m.auto.sohu.com/model_7775/a/994698075_121989212,China
+Xpeng,G7,PHEV,2025,2025,high,BEV 2025; EREV added 2026-01; http://www.news.cn/auto/20260109/5c07b6a905f145caae545a4c5d6c3541/c.html,China
+Xpeng,G9,BEV,2022,2022,high,BEV only (EREV went to separate G9L after 2026-07),China
+Xpeng,GX,PHEV,2026,2026,high,BEV + EREV (launched 2026-05); https://www.xiaopeng.com/news/company_news/5563.html,China
+Xpeng,MONA M03,BEV,2024,2024,high,BEV only,China
+Xpeng,P7,BEV,2020,2020,high,BEV only (all generations),China
+Xpeng,P7+,PHEV,2024,2024,high,BEV 2024; EREV added 2026-01; http://www.news.cn/auto/20260109/5c07b6a905f145caae545a4c5d6c3541/c.html,China
+Xpeng,X9,PHEV,2024,2024,high,BEV 2024; EREV added 2025-11; https://www.xiaopeng.com/news/company_news/5516.html,China
+Yangwang,U7,PHEV,2025,2025,high,BEV + PHEV from 2025-03; https://www.sohu.com/a/878592732_121421547,China
+Yangwang,U8,PHEV,2023,2023,high,"EREV-type PHEV, no BEV",China
+Yangwang,U8 L,PHEV,2025,2025,high,EREV-type PHEV,China
+Yangwang,U9,BEV,2024,2024,high,BEV supercar,China
+Zeekr,001,BEV,2021,2021,high,BEV only,China
+Zeekr,007,BEV,2023,2023,high,BEV only,China
+Zeekr,007GT,BEV,2025,2025,high,BEV (launched 2025-04),China
+Zeekr,009,BEV,2022,2022,high,BEV MPV,China
+Zeekr,7GT,BEV,2026,2026,high,EU 7GT is BEV,non-China
+Zeekr,7X,BEV,2024,2024,high,BEV only through 2026-07,China
+Zeekr,8X,PHEV,2026,2026,high,PHEV only (launched 2026-04); https://www.autohome.com.cn/news/202604/1313682.html,China
+Zeekr,9X,PHEV,2025,2025,high,PHEV only (launched 2025-09),China
+Zeekr,MIX,BEV,2024,2024,high,BEV only,China
+Zeekr,X,BEV,2023,2023,high,BEV only,China

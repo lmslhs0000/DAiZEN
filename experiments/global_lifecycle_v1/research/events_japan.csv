@@ -1,0 +1,89 @@
+market_scope,Brand,Model,event_type,event_month,announced_date,successor,confidence,source
+Japan,Honda,N BOX,new_generation,2017-09,2017-05-25,,high,https://global.honda/jp/news/2017/4170525a.html;https://global.honda/jp/news/2017/4170831-n-box.html
+Japan,Honda,N BOX,major_facelift,2020-12,2020-11-20,,high,https://global.honda/jp/news/2020/4201120.html;https://global.honda/jp/news/2020/4201224-n-box.html
+Japan,Honda,N BOX,new_generation,2023-10,2023-08-03,,high,https://global.honda/jp/news/2023/4230803.html;https://global.honda/jp/news/2023/4231005-n-box.html
+Japan,Honda,N BOX,major_facelift,2026-07,2026-06-18,,high,https://global.honda/jp/news/2026/4260618.html;https://global.honda/jp/news/2026/4260716-n-box.html
+Japan,Suzuki,Spacia,new_generation,2017-12,2017-09-22,,high,https://www.suzuki.co.jp/release/d/2017/0922/;https://www.webcg.net/articles/-/37847;https://ja.wikipedia.org/wiki/スズキ・スペーシア
+Japan,Suzuki,Spacia,new_generation,2023-11,2023-10-25,,high,https://response.jp/article/2023/10/25/376143.html;https://www.suzuki.co.jp/release/a/2023/1109/index.html;https://car.watch.impress.co.jp/docs/news/1545463.html
+Japan,Daihatsu,Tanto,new_generation,2019-07,2019-06-06,,high,https://car.watch.impress.co.jp/docs/news/1188736.html;https://car.watch.impress.co.jp/docs/news/1195181.html
+Japan,Daihatsu,Tanto,major_facelift,2022-10,2022-08-22,,high,https://car.watch.impress.co.jp/docs/news/1433708.html;https://web.motormagazine.co.jp/_ct/17574382
+Japan,Daihatsu,Hijet,new_generation,2021-12,2021-12-20,,high,https://web.motormagazine.co.jp/_ct/17504479;https://clicccar.com/2021/12/22/1144904/;https://bestcarweb.jp/news/358479
+Japan,Daihatsu,Move,discontinued,2023-07,2023-06,,medium,https://car-moby.jp/article/automobile/daihatsu/move/daihatsu-move-move-custom-6th-model-to-be-discontinue-release-and-new-model-debut-delay/;https://ja.wikipedia.org/wiki/ダイハツ・ムーヴ
+Japan,Daihatsu,Move,new_generation,2025-06,2025-05-12,,high,https://www.daihatsu.com/jp/news/2025/20250512-1.html;https://www.daihatsu.com/jp/news/2025/20250605-1.html
+Japan,Toyota,ROOMY,new_generation,2016-11,2016-11-09,,high,https://global.toyota/jp/newsroom/toyota/21819934.html;https://car.watch.impress.co.jp/docs/news/1027141.html
+Japan,Toyota,ROOMY,major_facelift,2020-09,2020-09-15,,high,https://web.motormagazine.co.jp/_ct/17392749;https://kuruma-news.jp/post/296251;https://ja.wikipedia.org/wiki/トヨタ・ルーミー
+Japan,Toyota,Sienta,new_generation,2015-07,2015-07-09,,high,https://carview.yahoo.co.jp/ncar/catalog/toyota/sienta/FMC002-MC001/;https://ja.wikipedia.org/wiki/トヨタ・シエンタ
+Japan,Toyota,Sienta,major_facelift,2018-09,2018-09-11,,high,https://car.watch.impress.co.jp/docs/news/1141949.html;https://kakakumag.com/car/?id=12714
+Japan,Toyota,Sienta,new_generation,2022-08,2022-08-23,,high,https://global.toyota/jp/newsroom/toyota/37542166.html;https://www.webcg.net/articles/-/46872
+Japan,Toyota,Corolla,new_generation,2019-09,2019-06-12,,high,https://car.watch.impress.co.jp/docs/news/1189888.html;https://car.watch.impress.co.jp/docs/news/1207577.html
+Japan,Toyota,Corolla,major_facelift,2022-10,2022-10-03,,high,https://toyotagazooracing.com/jp/pressrelease/2022/1003-01/;https://www.webcg.net/articles/-/47075
+Japan,Honda,Freed,new_generation,2016-09,2016-06-24,,high,https://global.honda/jp/news/2016/4160624.html;https://global.honda/jp/news/2016/4160916-freed.html
+Japan,Honda,Freed,major_facelift,2019-10,2019-08-30,,high,https://honda.co.jp/news/2019/4190830.html;https://www.webcg.net/articles/-/41418
+Japan,Honda,Freed,new_generation,2024-06,2024-05-09,,high,https://car.watch.impress.co.jp/docs/news/1589875.html;https://ja.wikipedia.org/wiki/ホンダ・フリード
+Japan,Toyota,Yaris,new_generation,2020-02,2019-10-16,,high,https://car.watch.impress.co.jp/docs/news/1212959.html;https://global.toyota/jp/newsroom/toyota/30486400.html
+Japan,Suzuki,HUSTLER,new_generation,2020-01,2019-09-30,,high,https://car.watch.impress.co.jp/docs/news/1209774.html;https://www.suzuki.co.jp/release/a/2019/1224/
+Japan,Toyota,Raize,new_generation,2019-11,2019-11-05,,high,https://global.toyota/jp/newsroom/toyota/30286397.html;https://autoc-one.jp/news/5005569/
+Japan,Toyota,Raize,major_facelift,2021-11,2021-11-01,,medium,https://global.toyota/jp/newsroom/toyota/36254806.html;https://response.jp/article/2021/11/01/350934.html
+Japan,Toyota,Alphard,new_generation,2015-01,2015-01-26,,high,https://carview.yahoo.co.jp/ncar/catalog/toyota/alphard/FMC002-MC001/;https://ja.wikipedia.org/wiki/トヨタ・アルファード
+Japan,Toyota,Alphard,major_facelift,2018-01,2017-12-25,,high,https://www.as-web.jp/car/190710;https://www.webcg.net/articles/-/37913
+Japan,Toyota,Alphard,new_generation,2023-06,2023-06-21,,high,https://global.toyota/jp/newsroom/toyota/39287263.html;https://motor-fan.jp/article/106821/
+Japan,Toyota,Voxy,major_facelift,2017-07,2017-07-03,,high,https://global.toyota/jp/newsroom/toyota/21823080.html;https://web.motormagazine.co.jp/_ct/17095079
+Japan,Toyota,Voxy,new_generation,2022-01,2022-01-13,,high,https://car.watch.impress.co.jp/docs/news/1380008.html;https://www.itmedia.co.jp/business/articles/2201/13/news139.html
+Japan,Toyota,Voxy,major_facelift,2026-05,2026-04-10,,medium,https://global.toyota/jp/newsroom/toyota/44214006.html;https://ja.wikipedia.org/wiki/トヨタ・ヴォクシー
+Japan,Suzuki,Wagon R,new_generation,2017-02,2017-02-01,,high,https://www.suzuki.co.jp/release/a/2016/0201/;https://ja.wikipedia.org/wiki/スズキ・ワゴンR
+Japan,Suzuki,Wagon R,major_facelift,2025-12,2025-12-15,,high,https://www.webcg.net/articles/-/53096;https://kuruma-news.jp/post/1038768
+Japan,Toyota,Prius,new_generation,2015-12,2015-09-08,,high,https://car.watch.impress.co.jp/docs/news/720266.html;https://www.webcg.net/articles/-/33085
+Japan,Toyota,Prius,major_facelift,2018-12,2018-11-08,,high,https://response.jp/article/2018/11/09/315986.html;https://www.webcg.net/articles/-/39921;https://global.toyota/jp/newsroom/toyota/25674138.html
+Japan,Toyota,Prius,new_generation,2023-01,2022-11-16,,high,https://global.toyota/jp/newsroom/toyota/38225564.html;https://car.watch.impress.co.jp/docs/news/1456075.html
+Japan,Nissan,Serena,new_generation,2016-08,2016-07-13,,high,https://car.watch.impress.co.jp/docs/news/1010036.html;https://response.jp/article/2016/08/24/280541.html
+Japan,Nissan,Serena,major_facelift,2019-08,2019-08-01,,high,https://global.nissannews.com/ja-JP/releases/190801-02-j;https://kakakumag.com/car/?id=14237
+Japan,Nissan,Serena,new_generation,2022-12,2022-11-28,,high,https://global.nissannews.com/ja-JP/releases/221128-01-j;https://news.mynavi.jp/article/20221128-new-serena/
+Japan,Nissan,Serena,major_facelift,2026-02,2025-12-18,,high,https://www.webcg.net/articles/-/53118;https://www.caranddriver.co.jp/newcar/108648/
+Japan,Toyota,Aqua (Prius C),major_facelift,2017-06,2017-06-19,,high,https://global.toyota/jp/detail/17135783;https://www.as-web.jp/car/133553
+Japan,Toyota,Aqua (Prius C),new_generation,2021-07,2021-07-19,,high,https://global.toyota/jp/newsroom/toyota/35550666.html;https://response.jp/article/2021/07/19/347811.html
+Japan,Toyota,Aqua (Prius C),major_facelift,2025-09,2025-09-01,,high,https://www.autocar.jp/post/1174928;https://bestcarweb.jp/feature/column/1315607
+Japan,Toyota,Yaris Cross,new_generation,2020-08,2020-04-23,,high,https://global.toyota/jp/newsroom/toyota/31757830.html;https://ja.wikipedia.org/wiki/トヨタ・ヤリスクロス
+Japan,Nissan,Note,major_facelift,2016-11,2016-11-02,,high,https://ja.wikipedia.org/wiki/日産・ノート;https://carview.yahoo.co.jp/ncar/catalog/nissan/note_e_power/FMC001-MC001/
+Japan,Nissan,Note,new_generation,2020-12,2020-11-24,,high,https://bestcarweb.jp/newcar/218422;https://autoc-one.jp/news/5009312/
+Japan,Nissan,Note,major_facelift,2024-01,2023-12-11,,high,https://global.nissannews.com/ja-JP/releases/231211-02-j;https://www.webcg.net/articles/-/49372
+Japan,Nissan,Roox,new_generation,2020-03,2020-02-25,,high,https://global.nissannews.com/ja-JP/releases/release-a90338a1553e91015b66e2ea9a02c877-200225-01-j;https://car.watch.impress.co.jp/docs/news/1237127.html
+Japan,Nissan,Roox,major_facelift,2023-06,2023-04-17,,high,https://www.webcg.net/articles/-/48128;https://web.motormagazine.co.jp/_ct/17622729
+Japan,Nissan,Roox,new_generation,2025-10,2025-08-22,,high,https://car.watch.impress.co.jp/docs/news/2040512.html;https://global.nissannews.com/ja-JP/releases/250919-01-j;https://carview.yahoo.co.jp/ncar/catalog/nissan/roox/FMC003-MC001/
+Japan,Suzuki,Alto,new_generation,2021-12,2021-12-10,,high,https://car.watch.impress.co.jp/docs/news/1373105.html;https://www.webcartop.jp/2021/12/816144/
+Japan,Nissan,DAYZ,new_generation,2019-03,2019-03-14,,high,https://car.watch.impress.co.jp/docs/news/photo/1176575.html;https://ja.wikipedia.org/wiki/日産・デイズ
+Japan,Nissan,DAYZ,major_facelift,2023-11,2023-09-29,,medium,https://global.nissannews.com/ja-JP/releases/230929-01-j;https://car.watch.impress.co.jp/docs/news/1535518.html
+Japan,Daihatsu,Mira (Mira),new_generation,2017-05,2017-05-09,,high,https://www.daihatsu.com/jp/news/2017/20170509-1.html;https://ja.wikipedia.org/wiki/ダイハツ・ミライース
+Japan,Daihatsu,Mira (Mira),discontinued,2018-03,,,medium,https://ja.wikipedia.org/wiki/ダイハツ・ミラ;https://motor-fan.jp/article/284782/
+Japan,Daihatsu,Mira (Mira),discontinued,2023-12,2023-11,,high,https://news.mynavi.jp/article/20231116-2819758/;https://driver-web.jp/articles/detail/40651
+Japan,Toyota,Noah,major_facelift,2017-07,2017-07-03,,high,https://global.toyota/jp/newsroom/toyota/21823080.html;https://web.motormagazine.co.jp/_ct/17095079
+Japan,Toyota,Noah,new_generation,2022-01,2022-01-13,,high,https://car.watch.impress.co.jp/docs/news/1380008.html;https://www.itmedia.co.jp/business/articles/2201/13/news139.html
+Japan,Toyota,Noah,major_facelift,2026-05,2026-04-10,,medium,https://global.toyota/jp/newsroom/toyota/44214006.html;https://ja.wikipedia.org/wiki/トヨタ・ノア
+Japan,Honda,Fit,major_facelift,2017-06,2017-05-11,,high,https://honda.co.jp/news/2017/4170511a.html;https://www.webcg.net/articles/-/36660
+Japan,Honda,Fit,new_generation,2020-02,2019-10-10,,high,https://nlab.itmedia.co.jp/nl/articles/1910/10/news056.html;https://global.honda/jp/news/2019/4191023.html;https://global.honda/jp/pressroom/products/auto/fit/fit_2020_02-13/
+Japan,Honda,Fit,major_facelift,2022-10,2022-08-05,,high,https://global.honda/jp/news/2022/4220805.html;https://response.jp/article/2022/08/05/360453.html
+Japan,Honda,Fit,major_facelift,2026-07,2026-07-09,,medium,https://global.honda/jp/news/2026/4260709-fit.html;https://car-moby.jp/article/news/info_fit-2_20260709/
+Japan,Toyota,Hiace / Regius Ace,major_facelift,2017-12,2017-11-22,,medium,https://car.watch.impress.co.jp/docs/news/1093122.html;https://clicccar.com/2017/11/23/534331/
+Japan,Suzuki,Every,new_generation,2015-02,2015-02-18,,high,https://carview.yahoo.co.jp/ncar/catalog/suzuki/every/FMC006-MC001/;https://ja.wikipedia.org/wiki/スズキ・エブリイ
+Japan,Suzuki,Every,major_facelift,2026-05,2026-05-08,,high,https://www.webcg.net/articles/-/53756;https://bestcarweb.jp/newcar/1621565
+Japan,Honda,Vezel,major_facelift,2018-02,2018-01-25,,high,https://global.honda/jp/news/2018/4180125.html;https://global.honda/jp/news/2018/4180215-vezel.html
+Japan,Honda,Vezel,new_generation,2021-04,2021-01-18,,high,https://global.honda/jp/news/2021/4210118.html;https://response.jp/article/2021/01/18/342230.html
+Japan,Honda,Vezel,major_facelift,2024-04,2024-03-14,,high,https://global.honda/jp/news/2024/4240314.html;https://car.watch.impress.co.jp/docs/news/1576168.html
+Japan,Toyota,Harrier,major_facelift,2017-06,2017-06-08,,high,https://global.toyota/jp/newsroom/toyota/21822546.html;https://car.watch.impress.co.jp/docs/news/1064024.html
+Japan,Toyota,Harrier,new_generation,2020-06,2020-04-13,,high,https://global.toyota/jp/newsroom/toyota/32186273.html;https://car.watch.impress.co.jp/docs/news/1246515.html
+Japan,Suzuki,Carry,major_facelift,2026-01,2025-12-19,,high,https://response.jp/article/2025/12/19/405044.html;https://www.webcg.net/articles/-/53133
+Japan,Honda,Step Wgn,new_generation,2015-04,2015-03-13,,high,https://car.watch.impress.co.jp/docs/news/692623.html;https://global.honda/jp/news/2015/4150423-stepwgn.html
+Japan,Honda,Step Wgn,major_facelift,2017-09,2017-07-03,,high,https://global.honda/jp/news/2017/4170703.html;https://global.honda/jp/news/2017/4170928a-stepwgn.html
+Japan,Honda,Step Wgn,new_generation,2022-05,2021-12-10,,high,https://honda.co.jp/news/2021/4211210a.html;https://global.honda/jp/news/2022/4220107.html;https://ja.wikipedia.org/wiki/ホンダ・ステップワゴン
+Japan,Suzuki,Solio/Wagon R+,new_generation,2015-08,2015-08-26,,high,https://ja.wikipedia.org/wiki/スズキ・ソリオ;https://www.webcartop.jp/2020/11/619811/
+Japan,Suzuki,Solio/Wagon R+,new_generation,2020-12,2020-11-25,,high,https://bestcarweb.jp/newcar/219158;https://www.webcartop.jp/2020/11/619811/
+Japan,Suzuki,Solio/Wagon R+,major_facelift,2025-01,2025-01-10,,high,https://carview.yahoo.co.jp/news/detail/e99b927c8f665308ac61d175f26e68570641de05/;https://news.mynavi.jp/premium/article/20250116-solio-bandit/
+Japan,Daihatsu,Taft,new_generation,2020-06,2019-12-23,,high,https://www.daihatsu.com/jp/news/2019/20191223-1.html;https://response.jp/article/2020/06/10/335454.html
+Japan,Toyota,RAV4,discontinued,2016-07,,,medium,https://www.suv-land.jp/related_topic/1759/;https://ja.wikipedia.org/wiki/トヨタ・RAV4
+Japan,Toyota,RAV4,new_generation,2019-04,2018-03-28,,high,https://ja.wikipedia.org/wiki/トヨタ・RAV4;https://kakakumag.com/car/?id=13428
+Japan,Toyota,RAV4,new_generation,2025-12,2025-05-21,,high,https://www.caranddriver.co.jp/newcar/108425/;https://toyokeizai.net/articles/-/924871
+Japan,Toyota,Corolla Cross,new_generation,2021-09,2021-09-14,,high,https://global.toyota/jp/newsroom/toyota/35872053.html;https://news.kakaku.com/prdnews/cd=kuruma/ctcd=7010/id=110678/
+Japan,Toyota,Corolla Cross,major_facelift,2025-05,2025-05-23,,high,https://global.toyota/jp/newsroom/toyota/42821873.html;https://kuruma-news.jp/post/925857
+Japan,Honda,N-WGN,new_generation,2019-08,2019-06-07,,high,https://global.honda/jp/news/2019/4190607.html;https://www.as-web.jp/car/503725
+Japan,Toyota,Land Cruiser,new_generation,2021-08,2021-06-10,,high,https://web.motormagazine.co.jp/_ct/17470586;https://autoc-one.jp/toyota/landcruiser_300/newmodel-5010609/
+Japan,Toyota,Land Cruiser,new_generation,2024-04,2023-08-02,,high,https://response.jp/article/2023/08/02/373886.html;https://car.watch.impress.co.jp/docs/news/1585331.html
+Japan,Suzuki,Jimny,new_generation,2018-07,2018-06-18,,high,https://response.jp/article/2018/06/18/310952.html;https://car.watch.impress.co.jp/docs/news/1127862.html

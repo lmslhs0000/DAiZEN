@@ -1,0 +1,241 @@
+Country,Brand,Model
+United States,Ford,F-Series
+United States,Chevrolet,Silverado
+United States,Ram,Pickup
+United States,Toyota,RAV4
+United States,Honda,CR-V
+United States,Toyota,Camry
+United States,GMC,Sierra
+United States,Nissan,Rogue
+United States,Toyota,Corolla
+United States,Chevrolet,Equinox
+United States,Toyota,Tacoma
+United States,Honda,Civic
+United States,Tesla,Model Y
+United States,Jeep,Grand Cherokee
+United States,Ford,Explorer
+United States,Honda,Accord
+United States,Jeep,Wrangler
+United States,Hyundai,Tucson
+United States,Tesla,Model 3
+United States,Toyota,Highlander
+United States,Subaru,Forester
+United States,Subaru,Outback
+United States,Subaru,Crosstrek
+United States,Ford,Escape
+United States,Mazda,CX-5
+United States,Hyundai,Elantra
+United States,Ford,Transit
+United States,Kia,Sportage
+United States,Nissan,Sentra
+United States,Nissan,Altima
+United States,Chevrolet,Traverse
+United States,Honda,Pilot
+United States,Honda,HR-V
+United States,Chevrolet,Trax
+United States,Toyota,Tundra
+United States,Toyota,4Runner
+United States,Hyundai,Santa Fe
+United States,Kia,K4
+United States,Lexus,RX
+United States,Chrysler,Pacifica
+Canada,Ford,F-Series
+Canada,Ram,Pickup
+Canada,Toyota,RAV4
+Canada,GMC,Sierra
+Canada,Chevrolet,Silverado
+Canada,Honda,CR-V
+Canada,Honda,Civic
+Canada,Toyota,Corolla
+Canada,Nissan,Rogue
+Canada,Hyundai,Tucson
+Canada,Hyundai,Kona
+Canada,Ford,Escape
+Canada,Mazda,CX-5
+Canada,Hyundai,Elantra
+Canada,Mitsubishi,Outlander
+Canada,Nissan,Kicks
+Canada,Jeep,Wrangler
+Canada,Volkswagen,Tiguan
+Canada,Chevrolet,Equinox
+Canada,Kia,Sportage
+Canada,Ford,Transit
+Canada,Subaru,Crosstrek
+Canada,Kia,Seltos
+Canada,Jeep,Grand Cherokee
+Canada,Toyota,Tacoma
+Canada,Tesla,Model 3
+Canada,Ford,Explorer
+Canada,Hyundai,Santa Fe
+Canada,Subaru,Forester
+Canada,Toyota,Highlander
+Canada,Honda,HR-V
+Canada,GMC,Terrain
+Canada,Mazda,Mazda3
+Canada,Ford,Bronco Sport
+Canada,Volkswagen,Jetta
+Canada,Volkswagen,Taos
+Canada,Volkswagen,Atlas
+Canada,Toyota,Tundra
+Canada,Tesla,Model Y
+Canada,Audi,Q5
+Europe,Volkswagen,Golf
+Europe,Renault,Clio
+Europe,Dacia,Sandero
+Europe,Peugeot,208
+Europe,Volkswagen,T-Roc
+Europe,Volkswagen,Tiguan
+Europe,Opel/Vauxhall,Corsa
+Europe,Toyota,Yaris
+Europe,Skoda,Octavia
+Europe,Peugeot,2008
+Europe,Dacia,Duster
+Europe,Citroen,C3
+Europe,Renault,Captur
+Europe,Volkswagen,Polo
+Europe,Nissan,Qashqai
+Europe,Hyundai,Tucson
+Europe,Fiat,Panda
+Europe,Toyota,Corolla
+Europe,Fiat,500
+Europe,Kia,Sportage
+Europe,Peugeot,3008
+Europe,Ford,Puma
+Europe,Tesla,Model Y
+Europe,Ford,Escape
+Europe,Audi,A3
+Europe,Volkswagen,T-Cross
+Europe,MINI,Cooper
+Europe,Toyota,C-HR
+Europe,Toyota,Yaris Cross
+Europe,Mercedes-Benz,A-Class
+Europe,Hyundai,Kona
+Europe,Skoda,Fabia
+Europe,Tesla,Model 3
+Europe,BMW,X1
+Europe,Volvo,XC40
+Europe,BMW,3 Series
+Europe,Mercedes-Benz,GLC
+Europe,Audi,A5
+Europe,BMW,1 Series
+Europe,Toyota,Aygo X
+Germany,Volkswagen,Golf
+Germany,Volkswagen,Tiguan
+Germany,Volkswagen,T-Roc
+Germany,Opel,Corsa
+Germany,Volkswagen,Passat
+Germany,Skoda,Octavia
+Germany,Mini,Mini
+Germany,BMW,3 Series
+Germany,Volkswagen,Polo
+Germany,Mercedes-Benz,GLC
+Germany,Mercedes-Benz,C-Class
+Germany,BMW,X1
+Germany,Audi,A3
+Germany,Seat,Leon
+Germany,Opel,Astra
+Germany,Audi,A6
+Germany,Fiat,500
+Germany,Mercedes-Benz,E-Class
+Germany,Volkswagen,T-Cross
+Germany,Ford,Focus
+Germany,BMW,5 Series
+Germany,Volkswagen,Transporter
+Germany,Ford,Escape
+Germany,BMW,X3
+Germany,Audi,A4
+Germany,Mercedes-Benz,A-Class
+Germany,Toyota,Yaris
+Germany,Skoda,Karoq
+Germany,Skoda,Fabia
+Germany,BMW,1 Series
+Germany,Audi,Q3
+Germany,Skoda,Kodiaq
+Germany,Dacia,Sandero
+Germany,Hyundai,Kona
+Germany,BMW,2 Series
+Germany,Kia,Ceed
+Germany,Volkswagen,ID.3
+Germany,Opel,Mokka
+Germany,Volkswagen,Caddy
+Germany,Audi,Q5
+Japan,Honda,N BOX
+Japan,Suzuki,Spacia
+Japan,Daihatsu,Tanto
+Japan,Daihatsu,Hijet
+Japan,Daihatsu,Move
+Japan,Toyota,ROOMY
+Japan,Toyota,Sienta
+Japan,Toyota,Corolla
+Japan,Honda,Freed
+Japan,Toyota,Yaris
+Japan,Suzuki,HUSTLER
+Japan,Toyota,Raize
+Japan,Toyota,Alphard
+Japan,Toyota,Voxy
+Japan,Suzuki,Wagon R
+Japan,Toyota,Prius
+Japan,Nissan,Serena
+Japan,Toyota,Aqua (Prius C)
+Japan,Toyota,Yaris Cross
+Japan,Nissan,Note
+Japan,Nissan,Roox
+Japan,Suzuki,Alto
+Japan,Nissan,DAYZ
+Japan,Daihatsu,Mira (Mira)
+Japan,Toyota,Noah
+Japan,Honda,Fit
+Japan,Toyota,Hiace / Regius Ace
+Japan,Suzuki,Every
+Japan,Honda,Vezel
+Japan,Toyota,Harrier
+Japan,Suzuki,Carry
+Japan,Toyota,Probox
+Japan,Honda,Step Wgn
+Japan,Suzuki,Solio/Wagon R+
+Japan,Daihatsu,Taft
+Japan,Toyota,RAV4
+Japan,Toyota,Corolla Cross
+Japan,Honda,N-WGN
+Japan,Toyota,Land Cruiser
+Japan,Suzuki,Jimny
+South Korea,Hyundai,Grandeur
+South Korea,Hyundai,Porter II
+South Korea,Kia,Sorento
+South Korea,Kia,Carnival
+South Korea,Hyundai,Elantra
+South Korea,Hyundai,Sonata
+South Korea,Hyundai,Santa Fe
+South Korea,Kia,Bongo 3
+South Korea,Kia,Sportage
+South Korea,Hyundai,Palisade
+South Korea,Kia,Seltos
+South Korea,Kia,K5
+South Korea,Genesis,G80
+South Korea,Hyundai,Tucson
+South Korea,Kia,Ray
+South Korea,Hyundai,Kona
+South Korea,Kia,Picanto
+South Korea,Mercedes-Benz,E-Class
+South Korea,Kia,K8
+South Korea,Genesis,GV80
+South Korea,Hyundai,Staria
+South Korea,Genesis,GV70
+South Korea,Kia,Niro
+South Korea,BMW,5 Series
+South Korea,Hyundai,Casper
+South Korea,Tesla,Model Y
+South Korea,Hyundai,Ioniq 5
+South Korea,Renault Korea,Arkana
+South Korea,KG Mobility,Tivoli
+South Korea,Hyundai,Venue
+South Korea,Genesis,G90
+South Korea,Chevrolet,Trax
+South Korea,KG Mobility,Torres
+South Korea,Kia,EV6
+South Korea,Renault Korea,Grand Koleos
+South Korea,Chevrolet,TrailBlazer
+South Korea,Tesla,Model 3
+South Korea,Mercedes-Benz,GLC
+South Korea,Kia,EV3
+South Korea,Mercedes-Benz,S-Class

@@ -1,0 +1,37 @@
+﻿period_type,variant,periods,n_months,wape_pct
+2month,equal,2022Q1..2024Q4 (selection),696,6.689
+quarter,equal,2022Q1..2024Q4 (selection),5028,4.579
+2month,equal,2025Q1..2026Q2 (report only),384,4.936
+quarter,equal,2025Q1..2026Q2 (report only),2748,4.773
+2month,caldays,2022Q1..2024Q4 (selection),696,7.405
+quarter,caldays,2022Q1..2024Q4 (selection),5028,4.553
+2month,caldays,2025Q1..2026Q2 (report only),384,5.542
+quarter,caldays,2025Q1..2026Q2 (report only),2748,4.183
+2month,weekdays,2022Q1..2024Q4 (selection),696,8.351
+quarter,weekdays,2022Q1..2024Q4 (selection),5028,5.208
+2month,weekdays,2025Q1..2026Q2 (report only),384,7.549
+quarter,weekdays,2025Q1..2026Q2 (report only),2748,3.93
+2month,mon_sat,2022Q1..2024Q4 (selection),696,7.418
+quarter,mon_sat,2022Q1..2024Q4 (selection),5028,4.275
+2month,mon_sat,2025Q1..2026Q2 (report only),384,6.36
+quarter,mon_sat,2025Q1..2026Q2 (report only),2748,3.835
+2month,prev1,2022Q1..2024Q4 (selection),696,10.465
+quarter,prev1,2022Q1..2024Q4 (selection),5028,4.867
+2month,prev1,2025Q1..2026Q2 (report only),384,10.832
+quarter,prev1,2025Q1..2026Q2 (report only),2748,5.74
+2month,avg2,2022Q1..2024Q4 (selection),696,10.413
+quarter,avg2,2022Q1..2024Q4 (selection),5028,6.304
+2month,avg2,2025Q1..2026Q2 (report only),384,8.358
+quarter,avg2,2025Q1..2026Q2 (report only),2748,5.108
+2month,avg3,2022Q1..2024Q4 (selection),696,9.974
+quarter,avg3,2022Q1..2024Q4 (selection),5028,7.03
+2month,avg3,2025Q1..2026Q2 (report only),384,7.807
+quarter,avg3,2025Q1..2026Q2 (report only),2748,4.951
+2month,pooled2,2022Q1..2024Q4 (selection),696,9.466
+quarter,pooled2,2022Q1..2024Q4 (selection),5028,5.942
+2month,pooled2,2025Q1..2026Q2 (report only),384,6.977
+quarter,pooled2,2025Q1..2026Q2 (report only),2748,5.129
+2month,pooled3,2022Q1..2024Q4 (selection),696,8.921
+quarter,pooled3,2022Q1..2024Q4 (selection),5028,6.613
+2month,pooled3,2025Q1..2026Q2 (report only),384,6.724
+quarter,pooled3,2025Q1..2026Q2 (report only),2748,4.881

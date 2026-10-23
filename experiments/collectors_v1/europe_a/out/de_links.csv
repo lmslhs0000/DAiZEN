@@ -1,0 +1,420 @@
+Country,Brand,Model,source_id,source_key,rule,confidence,note,de_brand,de_model
+Europe,,,DE_KBA_FZ10,"Germany series Audi | A1 (KBA AUDI/A1 + AUDI/A1, S1)",no_europe_series,,,Audi,A1
+Europe,Audi,A3,DE_KBA_FZ10,"Germany series Audi | A3 (KBA AUDI/A3 + AUDI/A3, S3, RS3)",de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,A3
+Europe,,,DE_KBA_FZ10,"Germany series Audi | A4 (KBA AUDI/A4 + AUDI/A4, S4, RS4)",no_europe_series,,,Audi,A4
+Europe,Audi,A5,DE_KBA_FZ10,"Germany series Audi | A5 (KBA AUDI/A5 + AUDI/A5, S5, RS5)",de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,A5
+Europe,Audi,A6,DE_KBA_FZ10,"Germany series Audi | A6 (KBA AUDI/A6 + AUDI/A6, S6, RS6)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,A6
+Europe,Audi,A6 e-tron,DE_KBA_FZ10,"Germany series Audi | A6 (KBA AUDI/A6 + AUDI/A6, S6, RS6)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,A6
+Europe,,,DE_KBA_FZ10,"Germany series Audi | A7 (KBA AUDI/A7 + AUDI/A7, S7, RS7)",no_europe_series,,,Audi,A7
+Europe,Audi,A8,DE_KBA_FZ10,"Germany series Audi | A8 (KBA AUDI/A8 + AUDI/A8, S8)",de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,A8
+Europe,Audi,Q3,DE_KBA_FZ10,Germany series Audi | Q3 (KBA AUDI/Q3),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q3
+Europe,Audi,Q3 Sportback,DE_KBA_FZ10,Germany series Audi | Q3 (KBA AUDI/Q3),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q3
+Europe,Audi,Q5,DE_KBA_FZ10,Germany series Audi | Q5 (KBA AUDI/Q5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q5
+Europe,Audi,Q5 Sportback,DE_KBA_FZ10,Germany series Audi | Q5 (KBA AUDI/Q5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q5
+Europe,Audi,Q7,DE_KBA_FZ10,Germany series Audi | Q7 (KBA AUDI/Q7),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,Q7
+Europe,BMW,1 Series,DE_KBA_FZ10,Germany series BMW | 1 Series (KBA BMW/1ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,1 Series
+Europe,BMW,2 Series,DE_KBA_FZ10,Germany series BMW | 2 Series (KBA BMW/2ER),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,2 Series
+Europe,BMW,2 Series Active Tourer,DE_KBA_FZ10,Germany series BMW | 2 Series (KBA BMW/2ER),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,2 Series
+Europe,BMW,3 Series,DE_KBA_FZ10,Germany series BMW | 3 Series (KBA BMW/3ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,3 Series
+Europe,BMW,4 Series,DE_KBA_FZ10,Germany series BMW | 4 Series (KBA BMW/4ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,4 Series
+Europe,BMW,5 Series,DE_KBA_FZ10,Germany series BMW | 5 Series (KBA BMW/5ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,5 Series
+Europe,BMW,7 Series,DE_KBA_FZ10,Germany series BMW | 7 Series (KBA BMW/7ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,7 Series
+Europe,BMW,X1,DE_KBA_FZ10,Germany series BMW | X1 (KBA BMW/X1),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,X1
+Europe,BMW,X3,DE_KBA_FZ10,Germany series BMW | X3 (KBA BMW/IX3 + BMW/X3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,X3
+Europe,,,DE_KBA_FZ10,Germany series BMW | X4 (KBA BMW/X4),no_europe_series,,,BMW,X4
+Europe,BMW,X5,DE_KBA_FZ10,Germany series BMW | X5 (KBA BMW/X5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,X5
+Europe,BMW,iX5,DE_KBA_FZ10,Germany series BMW | X5 (KBA BMW/X5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,X5
+Europe,BMW,X6,DE_KBA_FZ10,Germany series BMW | X6 (KBA BMW/X6),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,X6
+Europe,,,DE_KBA_FZ10,Germany series BMW | Z4 (KBA BMW/Z4),no_europe_series,,,BMW,Z4
+Europe,Bentley,Continental,DE_KBA_FZ10,Germany series Bentley | Continental (KBA BENTLEY/CONTINENTAL),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Bentley,Continental
+Europe,Citroen,Berlingo,DE_KBA_FZ10,Germany series Citroen | Berlingo (KBA CITROEN/BERLINGO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Citroen,Berlingo
+Europe,Citroen,C3,DE_KBA_FZ10,Germany series Citroen | C3 (KBA CITROEN/C3),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C3
+Europe,Citroen,C3 Aircross,DE_KBA_FZ10,Germany series Citroen | C3 (KBA CITROEN/C3),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C3
+Europe,Citroen,C4,DE_KBA_FZ10,Germany series Citroen | C4 (KBA CITROEN/C4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C4
+Europe,Citroen,C4 X,DE_KBA_FZ10,Germany series Citroen | C4 (KBA CITROEN/C4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C4
+Europe,Citroen,C5 Aircross,DE_KBA_FZ10,Germany series Citroen | C5 / C5 Aircross / C5 X (KBA CITROEN/C5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C5 / C5 Aircross / C5 X
+Europe,Citroen,C5 X,DE_KBA_FZ10,Germany series Citroen | C5 / C5 Aircross / C5 X (KBA CITROEN/C5),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Citroen,C5 / C5 Aircross / C5 X
+Europe,Citroen,Jumper,DE_KBA_FZ10,Germany series Citroen | Jumper (KBA CITROEN/JUMPER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Citroen,Jumper
+Europe,Citroen,Jumpy,DE_KBA_FZ10,Germany series Citroen | Jumpy (KBA CITROEN/JUMPY),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Citroen,Jumpy
+Europe,DS,3,DE_KBA_FZ10,Germany series DS | 3 (KBA DS/3 + DS/DS3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",DS,3
+Europe,Dacia,Duster,DE_KBA_FZ10,Germany series Dacia | Duster (KBA DACIA/DUSTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Dacia,Duster
+Europe,Dacia,Sandero,DE_KBA_FZ10,Germany series Dacia | Sandero (KBA DACIA/SANDERO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Dacia,Sandero
+Europe,Fiat,500,DE_KBA_FZ10,Germany series Fiat | 500 (KBA FIAT/500),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Fiat,500
+Europe,Fiat,Panda,DE_KBA_FZ10,Germany series Fiat | Panda (KBA FIAT/PANDA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Fiat,Panda
+Europe,,,DE_KBA_FZ10,Germany series Ford | Fiesta (KBA FORD/FIESTA),no_europe_series,,,Ford,Fiesta
+Europe,,,DE_KBA_FZ10,Germany series Ford | Focus (KBA FORD/FOCUS),no_europe_series,,,Ford,Focus
+Europe,Ford,Escape,DE_KBA_FZ10,Germany series Ford | Escape (KBA FORD/KUGA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Escape
+Europe,Ford,Mustang,DE_KBA_FZ10,Germany series Ford | Mustang (KBA FORD/MUSTANG),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Mustang
+Europe,Ford,Transit,DE_KBA_FZ10,"Germany series Ford | Transit / Tourneo (KBA FORD/TRANSIT TOURNEO + FORD/TRANSIT, TOURNEO)",de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Transit / Tourneo
+Europe,,,DE_KBA_FZ10,Germany series Ford | Transit Connect (KBA FORD/TRANSIT CONNECT),no_europe_series,,,Ford,Transit Connect
+Europe,Ford,Transit Courier,DE_KBA_FZ10,Germany series Ford | Transit Courier (KBA FORD/TRANSIT COURIER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Transit Courier
+Europe,Honda,CR-V,DE_KBA_FZ10,Germany series Honda | CR-V (KBA HONDA/CR-V),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,CR-V
+Europe,Honda,Civic,DE_KBA_FZ10,Germany series Honda | Civic (KBA HONDA/CIVIC),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,Civic
+Europe,Honda,HR-V,DE_KBA_FZ10,Germany series Honda | HR-V (KBA HONDA/HR-V),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,HR-V
+Europe,Honda,Fit,DE_KBA_FZ10,Germany series Honda | Fit (KBA HONDA/JAZZ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,Fit
+Europe,Hyundai,Santa Fe,DE_KBA_FZ10,Germany series Hyundai | Santa Fe (KBA HYUNDAI/SANTA FE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Santa Fe
+Europe,Hyundai,Tucson,DE_KBA_FZ10,Germany series Hyundai | Tucson (KBA HYUNDAI/TUCSON),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Tucson
+Europe,Hyundai,i10,DE_KBA_FZ10,Germany series Hyundai | i10 (KBA HYUNDAI/I 10),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,i10
+Europe,Hyundai,i20,DE_KBA_FZ10,Germany series Hyundai | i20 (KBA HYUNDAI/I 20),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,i20
+Europe,Hyundai,i30,DE_KBA_FZ10,Germany series Hyundai | i30 (KBA HYUNDAI/I 30),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,i30
+Europe,Jeep,Compass,DE_KBA_FZ10,Germany series Jeep | Compass (KBA JEEP/COMPASS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jeep,Compass
+Europe,,,DE_KBA_FZ10,Germany series Jeep | Renegade (KBA JEEP/RENEGADE),no_europe_series,,,Jeep,Renegade
+Europe,Jeep,Wrangler,DE_KBA_FZ10,Germany series Jeep | Wrangler (KBA JEEP/WRANGLER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jeep,Wrangler
+Europe,KG Mobility,Korando,DE_KBA_FZ10,Germany series KG Mobility | Korando (KBA KGM/KORANDO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",KG Mobility,Korando
+Europe,KG Mobility,Rexton,DE_KBA_FZ10,Germany series KG Mobility | Rexton (KBA KGM/REXTON),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",KG Mobility,Rexton
+Europe,KG Mobility,Tivoli,DE_KBA_FZ10,Germany series KG Mobility | Tivoli (KBA KGM/TIVOLI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",KG Mobility,Tivoli
+Europe,Kia,XCeed,DE_KBA_FZ10,Germany series Kia | Ceed (KBA KIA/CEED),de_rename,low,KBA CEED line = Ceed+ProCeed+XCeed; Europe has only XCeed -> DE overstates,Kia,Ceed
+Europe,Kia,Picanto,DE_KBA_FZ10,Germany series Kia | Picanto (KBA KIA/PICANTO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Picanto
+Europe,Kia,Sorento,DE_KBA_FZ10,Germany series Kia | Sorento (KBA KIA/SORENTO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Sorento
+Europe,,,DE_KBA_FZ10,Germany series Kia | Soul (KBA KIA/SOUL),no_europe_series,,,Kia,Soul
+Europe,Kia,Sportage,DE_KBA_FZ10,Germany series Kia | Sportage (KBA KIA/SPORTAGE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Sportage
+Europe,Land Rover,Discovery,DE_KBA_FZ10,Germany series Land Rover | Discovery (KBA LAND ROVER/DISCOVERY),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Discovery
+Europe,Land Rover,Discovery Sport,DE_KBA_FZ10,Germany series Land Rover | Discovery Sport (KBA LAND ROVER/DISCOVERY SPORT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Discovery Sport
+Europe,Land Rover,Range Rover,DE_KBA_FZ10,Germany series Land Rover | Range Rover (KBA LAND ROVER/RANGE ROVER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Range Rover
+Europe,Land Rover,Range Rover Evoque,DE_KBA_FZ10,Germany series Land Rover | Range Rover Evoque (KBA LAND ROVER/RANGE ROVER EVO. + LAND ROVER/RANGE ROVER EVOQUE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Range Rover Evoque
+Europe,Land Rover,Range Rover Sport,DE_KBA_FZ10,Germany series Land Rover | Range Rover Sport (KBA LAND ROVER/RANGE ROVER SPORT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Range Rover Sport
+Europe,Lexus,ES,DE_KBA_FZ10,Germany series Lexus | ES (KBA LEXUS/ES + LEXUS/GS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,ES
+Europe,Lexus,NX,DE_KBA_FZ10,Germany series Lexus | NX (KBA LEXUS/NX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,NX
+Europe,Lexus,RX,DE_KBA_FZ10,Germany series Lexus | RX (KBA LEXUS/RX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,RX
+Europe,,,DE_KBA_FZ10,Germany series Maserati | Ghibli (KBA MASERATI/GHIBLI),no_europe_series,,,Maserati,Ghibli
+Europe,Mazda,Mazda2,DE_KBA_FZ10,Germany series Mazda | Mazda2 (KBA MAZDA/2),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,Mazda2
+Europe,Mazda,Mazda3,DE_KBA_FZ10,Germany series Mazda | Mazda3 (KBA MAZDA/3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,Mazda3
+Europe,Mazda,Mazda6e,DE_KBA_FZ10,Germany series Mazda | Mazda6 (KBA MAZDA/6),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,Mazda6
+Europe,Mazda,CX-5,DE_KBA_FZ10,Germany series Mazda | CX-5 (KBA MAZDA/CX-5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,CX-5
+Europe,Mazda,MX-5 Miata,DE_KBA_FZ10,Germany series Mazda | MX-5 Miata (KBA MAZDA/MX-5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,MX-5 Miata
+Europe,Mercedes-Benz,A-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | A-Class (KBA MERCEDES/A-KLASSE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,A-Class
+Europe,Mercedes-Benz,AMG GT,DE_KBA_FZ10,Germany series Mercedes-Benz | AMG GT (KBA MERCEDES/AMG GT),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,AMG GT
+Europe,Mercedes-Benz,AMG GT 4 Door,DE_KBA_FZ10,Germany series Mercedes-Benz | AMG GT (KBA MERCEDES/AMG GT),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,AMG GT
+Europe,Mercedes-Benz,B-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | B-Class (KBA MERCEDES/B-KLASSE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,B-Class
+Europe,Mercedes-Benz,C-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | C-Class (KBA MERCEDES/C-KLASSE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,C-Class
+Europe,Mercedes-Benz,CLA,DE_KBA_FZ10,Germany series Mercedes-Benz | CLA (KBA MERCEDES/CLA-KLASSE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,CLA
+Europe,Mercedes-Benz,CLE,DE_KBA_FZ10,Germany series Mercedes-Benz | CLE (KBA MERCEDES/CLE + MERCEDES/E-KLASSE COUPE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,CLE
+Europe,Mercedes-Benz,Citan,DE_KBA_FZ10,Germany series Mercedes-Benz | Citan (KBA MERCEDES/CITAN),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,Citan
+Europe,Mercedes-Benz,EQT,DE_KBA_FZ10,Germany series Mercedes-Benz | Citan (KBA MERCEDES/CITAN),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,Citan
+Europe,Mercedes-Benz,E-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | E-Class (KBA MERCEDES/E-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,E-Class
+Europe,Mercedes-Benz,EQE,DE_KBA_FZ10,Germany series Mercedes-Benz | E-Class (KBA MERCEDES/E-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,E-Class
+Europe,Mercedes-Benz,G-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | G-Class (KBA MERCEDES/G-KLASSE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,G-Class
+Europe,Mercedes-Benz,GLA,DE_KBA_FZ10,Germany series Mercedes-Benz | GLA (KBA MERCEDES/GLA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLA
+Europe,Mercedes-Benz,EQA,DE_KBA_FZ10,Germany series Mercedes-Benz | GLA (KBA MERCEDES/GLA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLA
+Europe,Mercedes-Benz,GLC,DE_KBA_FZ10,"Germany series Mercedes-Benz | GLC (KBA MERCEDES/GLK, GLC)",de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,GLC
+Europe,Mercedes-Benz,GLE,DE_KBA_FZ10,"Germany series Mercedes-Benz | GLE (KBA MERCEDES/ML-KLASSE, GLE)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLE
+Europe,Mercedes-Benz,EQE SUV,DE_KBA_FZ10,"Germany series Mercedes-Benz | GLE (KBA MERCEDES/ML-KLASSE, GLE)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLE
+Europe,Mercedes-Benz,GLS,DE_KBA_FZ10,"Germany series Mercedes-Benz | GLS (KBA MERCEDES/GL-KLASSE, GLS)",de_group,low,EQS SUV assumed inside KBA GLS line (unverified),Mercedes-Benz,GLS
+Europe,Mercedes-Benz,EQS SUV,DE_KBA_FZ10,"Germany series Mercedes-Benz | GLS (KBA MERCEDES/GL-KLASSE, GLS)",de_group,low,EQS SUV assumed inside KBA GLS line (unverified),Mercedes-Benz,GLS
+Europe,Mercedes-Benz,S-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | S-Class (KBA MERCEDES/S-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,S-Class
+Europe,Mercedes-Benz,EQS,DE_KBA_FZ10,Germany series Mercedes-Benz | S-Class (KBA MERCEDES/S-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,S-Class
+Europe,Mercedes-Benz,Sprinter,DE_KBA_FZ10,Germany series Mercedes-Benz | Sprinter (KBA MERCEDES/SPRINTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,Sprinter
+Europe,Mercedes-Benz,V-Class,DE_KBA_FZ10,Germany series Mercedes-Benz | V-Class (KBA MERCEDES/V-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,V-Class
+Europe,Mercedes-Benz,EQV,DE_KBA_FZ10,Germany series Mercedes-Benz | V-Class (KBA MERCEDES/V-KLASSE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,V-Class
+Europe,Mercedes-Benz,Vito,DE_KBA_FZ10,Germany series Mercedes-Benz | Vito (KBA MERCEDES/VITO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,Vito
+Europe,MINI,Cooper,DE_KBA_FZ10,Germany series Mini | Mini (KBA MINI/MINI),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mini,Mini
+Europe,MINI,Countryman,DE_KBA_FZ10,Germany series Mini | Mini (KBA MINI/MINI),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mini,Mini
+Europe,MINI,Aceman,DE_KBA_FZ10,Germany series Mini | Mini (KBA MINI/MINI),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mini,Mini
+Europe,,,DE_KBA_FZ10,"Germany series Mitsubishi | Space Star (KBA MITSUBISHI/MIRAGE, SPACE STAR)",no_europe_series,,,Mitsubishi,Space Star
+Europe,Nissan,Juke,DE_KBA_FZ10,Germany series Nissan | Juke (KBA NISSAN/JUKE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Juke
+Europe,Nissan,Leaf,DE_KBA_FZ10,Germany series Nissan | Leaf (KBA NISSAN/LEAF),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Leaf
+Europe,Nissan,Qashqai,DE_KBA_FZ10,Germany series Nissan | Qashqai (KBA NISSAN/QASHQAI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Qashqai
+Europe,Nissan,Townstar,DE_KBA_FZ10,Germany series Nissan | Townstar (KBA NISSAN/NV200 + NISSAN/TOWNSTAR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Townstar
+Europe,Nissan,Rogue,DE_KBA_FZ10,Germany series Nissan | Rogue (KBA NISSAN/X-TRAIL),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Rogue
+Europe,Opel/Vauxhall,Astra,DE_KBA_FZ10,Germany series Opel | Astra (KBA OPEL/ASTRA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Astra
+Europe,Opel/Vauxhall,Combo,DE_KBA_FZ10,Germany series Opel | Combo (KBA OPEL/COMBO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Combo
+Europe,Opel/Vauxhall,Corsa,DE_KBA_FZ10,Germany series Opel | Corsa (KBA OPEL/CORSA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Corsa
+Europe,Opel/Vauxhall,Mokka,DE_KBA_FZ10,Germany series Opel | Mokka (KBA OPEL/MOKKA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Mokka
+Europe,,,DE_KBA_FZ10,Germany series Opel | Zafira Life (KBA OPEL/ZAFIRA + OPEL/ZAFIRA LIFE),no_europe_series,,,Opel,Zafira Life
+Europe,Peugeot,2008,DE_KBA_FZ10,Germany series Peugeot | 2008 (KBA PEUGEOT/2008),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,2008
+Europe,Peugeot,208,DE_KBA_FZ10,Germany series Peugeot | 208 (KBA PEUGEOT/208),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,208
+Europe,Peugeot,3008,DE_KBA_FZ10,Germany series Peugeot | 3008 (KBA PEUGEOT/3008),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,3008
+Europe,Peugeot,308,DE_KBA_FZ10,Germany series Peugeot | 308 (KBA PEUGEOT/308),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,308
+Europe,Peugeot,5008,DE_KBA_FZ10,Germany series Peugeot | 5008 (KBA PEUGEOT/5008),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,5008
+Europe,,,DE_KBA_FZ10,Germany series Peugeot | 508 (KBA PEUGEOT/508),no_europe_series,,,Peugeot,508
+Europe,Peugeot,Boxer,DE_KBA_FZ10,Germany series Peugeot | Boxer (KBA PEUGEOT/BOXER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,Boxer
+Europe,,,DE_KBA_FZ10,Germany series Peugeot | Rifter (KBA PEUGEOT/PARTNER + PEUGEOT/RIFTER),no_europe_series,,,Peugeot,Rifter
+Europe,Porsche,911,DE_KBA_FZ10,Germany series Porsche | 911 (KBA PORSCHE/911),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,911
+Europe,Porsche,718,DE_KBA_FZ10,Germany series Porsche | Boxster (KBA PORSCHE/BOXSTER),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Boxster
+Europe,Porsche,Cayenne,DE_KBA_FZ10,Germany series Porsche | Cayenne (KBA PORSCHE/CAYENNE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Cayenne
+Europe,Porsche,718,DE_KBA_FZ10,Germany series Porsche | Cayman (KBA PORSCHE/CAYMAN),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Cayman
+Europe,Porsche,Macan,DE_KBA_FZ10,Germany series Porsche | Macan (KBA PORSCHE/MACAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Macan
+Europe,Porsche,Panamera,DE_KBA_FZ10,Germany series Porsche | Panamera (KBA PORSCHE/PANAMERA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Panamera
+Europe,Renault,Austral,DE_KBA_FZ10,Germany series Renault | Austral (KBA RENAULT/AUSTRAL + RENAULT/KADJAR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Austral
+Europe,Renault,Captur,DE_KBA_FZ10,Germany series Renault | Captur (KBA RENAULT/CAPTUR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Captur
+Europe,Renault,Clio,DE_KBA_FZ10,Germany series Renault | Clio (KBA RENAULT/CLIO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Clio
+Europe,Renault,Espace,DE_KBA_FZ10,Germany series Renault | Espace (KBA RENAULT/ESPACE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Espace
+Europe,Renault,Kangoo,DE_KBA_FZ10,Germany series Renault | Kangoo (KBA RENAULT/KANGOO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Kangoo
+Europe,Renault,Master,DE_KBA_FZ10,Germany series Renault | Master (KBA RENAULT/MASTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Master
+Europe,Renault,Megane E-Tech,DE_KBA_FZ10,Germany series Renault | Megane (KBA RENAULT/MEGANE),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Megane
+Europe,Renault,Scenic E-Tech,DE_KBA_FZ10,Germany series Renault | Scenic (KBA RENAULT/SCENIC),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Scenic
+Europe,Renault,Trafic,DE_KBA_FZ10,Germany series Renault | Trafic (KBA RENAULT/TRAFIC),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Trafic
+Europe,Renault,Twingo E-Tech,DE_KBA_FZ10,Germany series Renault | Twingo (KBA RENAULT/TWINGO),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Twingo
+Europe,Seat,Ibiza,DE_KBA_FZ10,Germany series Seat | Ibiza (KBA SEAT/IBIZA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Seat,Ibiza
+Europe,Seat,Leon,DE_KBA_FZ10,Germany series Seat | Leon (KBA SEAT/LEON),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Seat,Leon
+Europe,Cupra,Leon,DE_KBA_FZ10,Germany series Seat | Leon (KBA SEAT/LEON),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Seat,Leon
+Europe,Skoda,Fabia,DE_KBA_FZ10,Germany series Skoda | Fabia (KBA SKODA/FABIA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Fabia
+Europe,Skoda,Karoq,DE_KBA_FZ10,Germany series Skoda | Karoq (KBA SKODA/KAROQ + SKODA/YETI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Karoq
+Europe,Skoda,Octavia,DE_KBA_FZ10,Germany series Skoda | Octavia (KBA SKODA/OCTAVIA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Octavia
+Europe,Skoda,Scala,DE_KBA_FZ10,Germany series Skoda | Scala (KBA SKODA/RAPID + SKODA/SCALA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Scala
+Europe,Skoda,Superb,DE_KBA_FZ10,Germany series Skoda | Superb (KBA SKODA/SUPERB),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Superb
+Europe,,,DE_KBA_FZ10,Germany series Smart | ForTwo (KBA SMART/FORTWO),no_europe_series,,,Smart,ForTwo
+Europe,Subaru,Crosstrek,DE_KBA_FZ10,Germany series Subaru | Crosstrek (KBA SUBARU/CROSSTREK + SUBARU/XV),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Subaru,Crosstrek
+Europe,Subaru,Forester,DE_KBA_FZ10,Germany series Subaru | Forester (KBA SUBARU/FORESTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Subaru,Forester
+Europe,,,DE_KBA_FZ10,Germany series Subaru | Impreza (KBA SUBARU/IMPREZA),no_europe_series,,,Subaru,Impreza
+Europe,Suzuki,S-Cross,DE_KBA_FZ10,Germany series Suzuki | S-Cross (KBA SUZUKI/S-CROSS + SUZUKI/SX4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Suzuki,S-Cross
+Europe,Suzuki,Swift,DE_KBA_FZ10,Germany series Suzuki | Swift (KBA SUZUKI/SWIFT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Suzuki,Swift
+Europe,Suzuki,Vitara/Grand Vitara,DE_KBA_FZ10,Germany series Suzuki | Vitara (KBA SUZUKI/VITARA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Suzuki,Vitara
+Europe,Suzuki,e Vitara,DE_KBA_FZ10,Germany series Suzuki | Vitara (KBA SUZUKI/VITARA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Suzuki,Vitara
+Europe,Tesla,Model S,DE_KBA_FZ10,Germany series Tesla | Model S (KBA TESLA/MODEL S),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Tesla,Model S
+Europe,Toyota,Aygo X,DE_KBA_FZ10,Germany series Toyota | Aygo (KBA TOYOTA/AYGO),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,Aygo
+Europe,Toyota,Corolla,DE_KBA_FZ10,Germany series Toyota | Corolla (KBA TOYOTA/COROLLA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Corolla
+Europe,Toyota,Corolla Cross,DE_KBA_FZ10,Germany series Toyota | Corolla (KBA TOYOTA/COROLLA),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Corolla
+Europe,Toyota,Land Cruiser,DE_KBA_FZ10,Germany series Toyota | Land Cruiser (KBA TOYOTA/LANDCRUISER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,Land Cruiser
+Europe,Toyota,Prius,DE_KBA_FZ10,Germany series Toyota | Prius (KBA TOYOTA/PRIUS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,Prius
+Europe,Toyota,RAV4,DE_KBA_FZ10,Germany series Toyota | RAV4 (KBA TOYOTA/RAV 4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,RAV4
+Europe,Toyota,Yaris,DE_KBA_FZ10,Germany series Toyota | Yaris (KBA TOYOTA/YARIS),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Yaris
+Europe,Toyota,Yaris Cross,DE_KBA_FZ10,Germany series Toyota | Yaris (KBA TOYOTA/YARIS),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Yaris
+Europe,Volkswagen,Caddy,DE_KBA_FZ10,Germany series Volkswagen | Caddy (KBA VW/CADDY),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Caddy
+Europe,Volkswagen,Crafter,DE_KBA_FZ10,Germany series Volkswagen | Crafter (KBA VW/CRAFTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Crafter
+Europe,Volkswagen,Golf,DE_KBA_FZ10,Germany series Volkswagen | Golf (KBA VW/GOLF),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Golf
+Europe,Volkswagen,Passat,DE_KBA_FZ10,Germany series Volkswagen | Passat (KBA VW/PASSAT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Passat
+Europe,Volkswagen,Polo,DE_KBA_FZ10,Germany series Volkswagen | Polo (KBA VW/POLO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Polo
+Europe,Volkswagen,Tiguan,DE_KBA_FZ10,Germany series Volkswagen | Tiguan (KBA VW/TIGUAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Tiguan
+Europe,Volkswagen,Touareg,DE_KBA_FZ10,Germany series Volkswagen | Touareg (KBA VW/TOUAREG),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Touareg
+Europe,Volkswagen,Touran,DE_KBA_FZ10,Germany series Volkswagen | Touran (KBA VW/TOURAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Touran
+Europe,,,DE_KBA_FZ10,Germany series Volkswagen | Transporter (KBA VW/TRANSPORTER),no_europe_series,,,Volkswagen,Transporter
+Europe,,,DE_KBA_FZ10,Germany series Volkswagen | up! (KBA VW/UP),no_europe_series,,,Volkswagen,up!
+Europe,Volvo,S60/V60,DE_KBA_FZ10,Germany series Volvo | S60 / V60 (KBA VOLVO/60),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,S60 / V60
+Europe,Volvo,S90/V90,DE_KBA_FZ10,Germany series Volvo | S90 / V90 (KBA VOLVO/80 + VOLVO/90 + VOLVO/XC70),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,S90 / V90
+Europe,Volvo,XC60,DE_KBA_FZ10,Germany series Volvo | XC60 (KBA VOLVO/XC60),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,XC60
+Europe,Volvo,XC90,DE_KBA_FZ10,Germany series Volvo | XC90 (KBA VOLVO/XC90),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,XC90
+Europe,,,DE_KBA_FZ10,Germany series Fiat | Tipo (KBA FIAT/TIPO),no_europe_series,,,Fiat,Tipo
+Europe,Alfa Romeo,Giulia,DE_KBA_FZ10,Germany series Alfa Romeo | Giulia (KBA ALFA ROMEO/ALFA GIULIA + ALFA ROMEO/GIULIA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alfa Romeo,Giulia
+Europe,,,DE_KBA_FZ10,Germany series Maserati | Levante (KBA MASERATI/LEVANTE),no_europe_series,,,Maserati,Levante
+Europe,Cupra,Ateca,DE_KBA_FZ10,Germany series Seat | Ateca (KBA SEAT/ATECA),de_rename,low,KBA SEAT ATECA = Seat+Cupra Ateca; Europe has only Cupra Ateca -> DE overstates,Seat,Ateca
+Europe,Tesla,Model X,DE_KBA_FZ10,Germany series Tesla | Model X (KBA TESLA/MODEL X),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Tesla,Model X
+Europe,Kia,Niro,DE_KBA_FZ10,Germany series Kia | Niro (KBA KIA/NIRO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Niro
+Europe,Peugeot,Expert,DE_KBA_FZ10,Germany series Peugeot | Expert (KBA PEUGEOT/EXPERT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,Expert
+Europe,Bentley,Bentayga,DE_KBA_FZ10,Germany series Bentley | Bentayga (KBA BENTLEY/BENTAYGA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Bentley,Bentayga
+Europe,Toyota,Proace,DE_KBA_FZ10,Germany series Toyota | Proace (KBA TOYOTA/PROACE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Proace
+Europe,Toyota,Proace City,DE_KBA_FZ10,Germany series Toyota | Proace (KBA TOYOTA/PROACE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Proace
+Europe,Toyota,Proace Max,DE_KBA_FZ10,Germany series Toyota | Proace (KBA TOYOTA/PROACE),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,Proace
+Europe,,,DE_KBA_FZ10,Germany series Audi | Q2 (KBA AUDI/Q2),no_europe_series,,,Audi,Q2
+Europe,Nissan,Primastar,DE_KBA_FZ10,Germany series Nissan | Primastar (KBA NISSAN/NV300 + NISSAN/PRIMASTAR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Primastar
+Europe,Toyota,C-HR,DE_KBA_FZ10,Germany series Toyota | C-HR (KBA TOYOTA/C-HR),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,C-HR
+Europe,Toyota,C-HR+,DE_KBA_FZ10,Germany series Toyota | C-HR (KBA TOYOTA/C-HR),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Toyota,C-HR
+Europe,Skoda,Kodiaq,DE_KBA_FZ10,Germany series Skoda | Kodiaq (KBA SKODA/KODIAQ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Kodiaq
+Europe,Alfa Romeo,Stelvio,DE_KBA_FZ10,Germany series Alfa Romeo | Stelvio (KBA ALFA ROMEO/STELVIO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alfa Romeo,Stelvio
+Europe,Subaru,Legacy/Outback,DE_KBA_FZ10,Germany series Subaru | Outback (KBA SUBARU/OUTBACK),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Subaru,Outback
+Europe,,,DE_KBA_FZ10,Germany series Volkswagen | Arteon (KBA VW/ARTEON),no_europe_series,,,Volkswagen,Arteon
+Europe,Opel/Vauxhall,Frontera,DE_KBA_FZ10,Germany series Opel | Frontera (KBA OPEL/CROSSLAND X + OPEL/FRONTERA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Frontera
+Europe,Opel/Vauxhall,Grandland,DE_KBA_FZ10,Germany series Opel | Grandland (KBA OPEL/GRANDLAND X),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Opel,Grandland
+Europe,Land Rover,Range Rover Velar,DE_KBA_FZ10,Germany series Land Rover | Range Rover Velar (KBA LAND ROVER/RANGE ROVER VELAR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Range Rover Velar
+Europe,Kia,Stonic,DE_KBA_FZ10,Germany series Kia | Stonic (KBA KIA/STONIC),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Stonic
+Europe,Volkswagen,T-Roc,DE_KBA_FZ10,Germany series Volkswagen | T-Roc (KBA VW/T-ROC),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,T-Roc
+Europe,BMW,X2,DE_KBA_FZ10,Germany series BMW | X2 (KBA BMW/X2),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,X2
+Europe,BMW,iX2,DE_KBA_FZ10,Germany series BMW | X2 (KBA BMW/X2),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BMW,X2
+Europe,Hyundai,Kona,DE_KBA_FZ10,Germany series Hyundai | Kona (KBA HYUNDAI/KONA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Kona
+Europe,Mitsubishi,Eclipse Cross,DE_KBA_FZ10,Germany series Mitsubishi | Eclipse Cross (KBA MITSUBISHI/ECLIPSE CROSS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mitsubishi,Eclipse Cross
+Europe,Seat,Arona,DE_KBA_FZ10,Germany series Seat | Arona (KBA SEAT/ARONA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Seat,Arona
+Europe,DS,7,DE_KBA_FZ10,Germany series DS | 7 (KBA DS/7 + DS/DS7 CROSSBACK),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",DS,7
+Europe,Volvo,XC40,DE_KBA_FZ10,Germany series Volvo | XC40 (KBA VOLVO/XC40),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Volvo,XC40
+Europe,Volvo,EX40,DE_KBA_FZ10,Germany series Volvo | XC40 (KBA VOLVO/XC40),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Volvo,XC40
+Europe,,,DE_KBA_FZ10,Germany series Alpine | A110 (KBA ALPINE/A110),no_europe_series,,,Alpine,A110
+Europe,Audi,Q8,DE_KBA_FZ10,Germany series Audi | Q8 (KBA AUDI/E-TRON + AUDI/Q8),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,Q8
+Europe,,,DE_KBA_FZ10,Germany series BMW | 8 Series (KBA BMW/8ER),no_europe_series,,,BMW,8 Series
+Europe,Rolls-Royce,Cullinan,DE_KBA_FZ10,Germany series Rolls-Royce | Cullinan (KBA ROLLS ROYCE/CULLINAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Rolls-Royce,Cullinan
+Europe,Audi,Q8,DE_KBA_FZ10,Germany series Audi | Q8 e-tron (KBA AUDI/E-TRON + AUDI/Q8),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,Q8 e-tron
+Europe,BMW,X7,DE_KBA_FZ10,Germany series BMW | X7 (KBA BMW/X7),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,X7
+Europe,Volkswagen,T-Cross,DE_KBA_FZ10,Germany series Volkswagen | T-Cross (KBA VW/T-CROSS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,T-Cross
+Europe,Tesla,Model 3,DE_KBA_FZ10,Germany series Tesla | Model 3 (KBA TESLA/MODEL 3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Tesla,Model 3
+Europe,Lexus,UX,DE_KBA_FZ10,Germany series Lexus | UX (KBA LEXUS/UX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,UX
+Europe,Toyota,Camry,DE_KBA_FZ10,Germany series Toyota | Camry (KBA TOYOTA/CAMRY),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,Camry
+Europe,Mazda,CX-30,DE_KBA_FZ10,Germany series Mazda | CX-30 (KBA MAZDA/CX-30),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,CX-30
+Europe,Mercedes-Benz,GLB,DE_KBA_FZ10,Germany series Mercedes-Benz | GLB (KBA MERCEDES/GLB),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLB
+Europe,Mercedes-Benz,EQB,DE_KBA_FZ10,Germany series Mercedes-Benz | GLB (KBA MERCEDES/GLB),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Mercedes-Benz,GLB
+Europe,,,DE_KBA_FZ10,Germany series Toyota | Supra (KBA TOYOTA/SUPRA),no_europe_series,,,Toyota,Supra
+Europe,Skoda,Kamiq,DE_KBA_FZ10,Germany series Skoda | Kamiq (KBA SKODA/KAMIQ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Kamiq
+Europe,Ford,Puma,DE_KBA_FZ10,Germany series Ford | Puma (KBA FORD/PUMA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Puma
+Europe,Porsche,Taycan,DE_KBA_FZ10,Germany series Porsche | Taycan (KBA PORSCHE/TAYCAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Porsche,Taycan
+Europe,Ford,Explorer,DE_KBA_FZ10,Germany series Ford | Explorer (KBA FORD/EXPLORER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Explorer
+Europe,,,DE_KBA_FZ10,Germany series MAN | TGE (KBA MAN/TGE),no_europe_series,,,MAN,TGE
+Europe,Land Rover,Defender,DE_KBA_FZ10,Germany series Land Rover | Defender (KBA LAND ROVER/DEFENDER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Land Rover,Defender
+Europe,Polestar,2,DE_KBA_FZ10,Germany series Polestar | 2 (KBA POLESTAR/2),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Polestar,2
+Europe,Volkswagen,ID.3,DE_KBA_FZ10,Germany series Volkswagen | ID.3 (KBA VW/ID.3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,ID.3
+Europe,Cupra,Formentor,DE_KBA_FZ10,Germany series Cupra | Formentor (KBA SEAT/FORMENTOR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cupra,Formentor
+Europe,,,DE_KBA_FZ10,Germany series Mazda | MX-30 (KBA MAZDA/MX-30),no_europe_series,,,Mazda,MX-30
+Europe,BMW,iX3,DE_KBA_FZ10,Germany series BMW | iX3 (KBA BMW/IX3 + BMW/X3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,iX3
+Europe,Ferrari,Roma,DE_KBA_FZ10,Germany series Ferrari | Roma (KBA FERRARI/ROMA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,Roma
+Europe,,,DE_KBA_FZ10,Germany series Suzuki | Swace (KBA SUZUKI/SWACE),no_europe_series,,,Suzuki,Swace
+Europe,Volkswagen,ID.4,DE_KBA_FZ10,"Germany series Volkswagen | ID.4 / ID.5 (KBA VW/ID.4 + VW/ID.4, ID.5)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Volkswagen,ID.4 / ID.5
+Europe,Volkswagen,ID.5,DE_KBA_FZ10,"Germany series Volkswagen | ID.4 / ID.5 (KBA VW/ID.4 + VW/ID.4, ID.5)",de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Volkswagen,ID.4 / ID.5
+Europe,Suzuki,Across,DE_KBA_FZ10,Germany series Suzuki | Across (KBA SUZUKI/ACROSS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Suzuki,Across
+Europe,Ferrari,SF90,DE_KBA_FZ10,Germany series Ferrari | SF90 (KBA FERRARI/SF90 + FERRARI/SF90 STRADALE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,SF90
+Europe,Ford,Mustang Mach-E,DE_KBA_FZ10,Germany series Ford | Mustang Mach-E (KBA FORD/MUSTANG MACH-E),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Mustang Mach-E
+Europe,Audi,e-tron GT,DE_KBA_FZ10,Germany series Audi | e-tron GT (KBA AUDI/E-TRON GT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Audi,e-tron GT
+Europe,,,DE_KBA_FZ10,Germany series Toyota | Mirai (KBA TOYOTA/MIRAI),no_europe_series,,,Toyota,Mirai
+Europe,Renault,Arkana,DE_KBA_FZ10,Germany series Renault | Arkana (KBA RENAULT/ARKANA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Arkana
+Europe,Skoda,Enyaq,DE_KBA_FZ10,Germany series Skoda | Enyaq (KBA SKODA/ENYAQ),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Skoda,Enyaq
+Europe,Skoda,Enyaq Coupe,DE_KBA_FZ10,Germany series Skoda | Enyaq (KBA SKODA/ENYAQ),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Skoda,Enyaq
+Europe,Audi,Q4,DE_KBA_FZ10,Germany series Audi | Q4 (KBA AUDI/Q4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q4
+Europe,Audi,Q4 Sportback,DE_KBA_FZ10,Germany series Audi | Q4 (KBA AUDI/Q4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q4
+Europe,Hyundai,Ioniq 5,DE_KBA_FZ10,Germany series Hyundai | Ioniq 5 (KBA HYUNDAI/IONIQ5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Ioniq 5
+Europe,Dacia,Spring,DE_KBA_FZ10,Germany series Dacia | Spring (KBA DACIA/SPRING),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Dacia,Spring
+Europe,Hyundai,Bayon,DE_KBA_FZ10,Germany series Hyundai | Bayon (KBA HYUNDAI/BAYON),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Bayon
+Europe,BMW,iX,DE_KBA_FZ10,Germany series BMW | iX (KBA BMW/IX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,iX
+Europe,Lamborghini,Urus,DE_KBA_FZ10,Germany series Lamborghini | Urus (KBA LAMBORGHINI/URUS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lamborghini,Urus
+Europe,Tesla,Model Y,DE_KBA_FZ10,Germany series Tesla | Model Y (KBA TESLA/MODEL Y),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Tesla,Model Y
+Europe,DS,4,DE_KBA_FZ10,Germany series DS | 4 (KBA DS/4 + DS/DS4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",DS,4
+Europe,Hyundai,Staria,DE_KBA_FZ10,Germany series Hyundai | Staria (KBA HYUNDAI/STARIA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Staria
+Europe,Kia,EV6,DE_KBA_FZ10,Germany series Kia | EV6 (KBA KIA/EV6),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV6
+Europe,Volkswagen,Taigo,DE_KBA_FZ10,Germany series Volkswagen | Taigo (KBA VW/TAIGO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Taigo
+Europe,Cupra,Born,DE_KBA_FZ10,Germany series Cupra | Born (KBA SEAT/BORN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cupra,Born
+Europe,,,DE_KBA_FZ10,Germany series MG | HS / EHS (KBA MG ROEWE/RX6),no_europe_series,,,MG,HS / EHS
+Europe,MG,ZS,DE_KBA_FZ10,Germany series MG | ZS (KBA MG ROEWE/ZS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,ZS
+Europe,Volvo,C40,DE_KBA_FZ10,Germany series Volvo | C40 (KBA VOLVO/C40),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,C40
+Europe,BMW,i4,DE_KBA_FZ10,Germany series BMW | i4 (KBA BMW/4ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,i4
+Europe,Lynk & Co,01,DE_KBA_FZ10,Germany series Lynk & Co | 01 (KBA LYNK & CO/01),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lynk & Co,01
+Europe,Dacia,Jogger,DE_KBA_FZ10,Germany series Dacia | Jogger (KBA DACIA/JOGGER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Dacia,Jogger
+Europe,,,DE_KBA_FZ10,Germany series MG | MG5 (KBA MG ROEWE/5),no_europe_series,,,MG,MG5
+Europe,Mercedes-Benz,SL,DE_KBA_FZ10,Germany series Mercedes-Benz | SL (KBA MERCEDES/SL),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,SL
+Europe,,,DE_KBA_FZ10,Germany series Fiat | Ulysse (KBA FIAT/ULYSSE),no_europe_series,,,Fiat,Ulysse
+Europe,Volkswagen,ID. Buzz,DE_KBA_FZ10,Germany series Volkswagen | ID. Buzz (KBA VW/ID. BUZZ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,ID. Buzz
+Europe,Alfa Romeo,Tonale,DE_KBA_FZ10,Germany series Alfa Romeo | Tonale (KBA ALFA ROMEO/TONALE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alfa Romeo,Tonale
+Europe,Ferrari,296,DE_KBA_FZ10,Germany series Ferrari | 296 (KBA FERRARI/296 + FERRARI/296 GTB),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,296
+Europe,Mazda,CX-60,DE_KBA_FZ10,Germany series Mazda | CX-60 (KBA MAZDA/CX-60),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,CX-60
+Europe,Nissan,Ariya,DE_KBA_FZ10,Germany series Nissan | Ariya (KBA NISSAN/ARIYA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Nissan,Ariya
+Europe,Subaru,Solterra,DE_KBA_FZ10,Germany series Subaru | Solterra (KBA SUBARU/SOLTERRA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Subaru,Solterra
+Europe,Toyota,bZ4X,DE_KBA_FZ10,Germany series Toyota | bZ4X (KBA TOYOTA/BZ4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,bZ4X
+Europe,Maserati,Grecale,DE_KBA_FZ10,Germany series Maserati | Grecale (KBA MASERATI/GRECALE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Maserati,Grecale
+Europe,BMW,i7,DE_KBA_FZ10,Germany series BMW | i7 (KBA BMW/7ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,i7
+Europe,Smart,#1,DE_KBA_FZ10,Germany series Smart | #1 (KBA SMART/1),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Smart,#1
+Europe,MG,MG4,DE_KBA_FZ10,Germany series MG | MG4 (KBA MG ROEWE/4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",MG,MG4
+Europe,MG,MG4 Urban,DE_KBA_FZ10,Germany series MG | MG4 (KBA MG ROEWE/4),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",MG,MG4
+Europe,BMW,iX1,DE_KBA_FZ10,Germany series BMW | iX1 (KBA BMW/X1),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,iX1
+Europe,Lotus,Emira,DE_KBA_FZ10,Germany series Lotus | Emira (KBA LOTUS/EMIRA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lotus,Emira
+Europe,Peugeot,408,DE_KBA_FZ10,Germany series Peugeot | 408 (KBA PEUGEOT/408),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Peugeot,408
+Europe,BMW,XM,DE_KBA_FZ10,Germany series BMW | XM (KBA BMW/XM),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,XM
+Europe,BYD,Atto 3,DE_KBA_FZ10,Germany series BYD | Atto 3 (KBA BYD/ATTO 3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Atto 3
+Europe,,,DE_KBA_FZ10,Germany series Genesis | G70 (KBA HYUNDAI/G70),no_europe_series,,,Genesis,G70
+Europe,Genesis,G80,DE_KBA_FZ10,Germany series Genesis | G80 (KBA HYUNDAI/G80),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Genesis,G80
+Europe,Genesis,GV60,DE_KBA_FZ10,Germany series Genesis | GV60 (KBA HYUNDAI/GV60),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Genesis,GV60
+Europe,Genesis,GV70,DE_KBA_FZ10,Germany series Genesis | GV70 (KBA HYUNDAI/GV70),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Genesis,GV70
+Europe,Hyundai,Ioniq 6,DE_KBA_FZ10,Germany series Hyundai | Ioniq 6 (KBA HYUNDAI/IONIQ6),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Ioniq 6
+Europe,GWM,Ora 03,DE_KBA_FZ10,Germany series GWM | Ora 03 (KBA GWM/FUNKY CAT + GWM/ORA 03),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",GWM,Ora 03
+Europe,GWM,Wey 05,DE_KBA_FZ10,Germany series GWM | Wey 05 (KBA GWM/COFFEE 01 + GWM/WEY 05),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",GWM,Wey 05
+Europe,Ineos,Grenadier,DE_KBA_FZ10,Germany series Ineos | Grenadier (KBA INEOS/GRENADIER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ineos,Grenadier
+Europe,Maserati,GranTurismo,DE_KBA_FZ10,Germany series Maserati | GranTurismo (KBA MASERATI/GRANTURISMO),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Maserati,GranTurismo
+Europe,Mitsubishi,ASX,DE_KBA_FZ10,Germany series Mitsubishi | ASX (KBA MITSUBISHI/ASX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mitsubishi,ASX
+Europe,Nio,ET5,DE_KBA_FZ10,Germany series NIO | ET5 (KBA NIO/ET5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",NIO,ET5
+Europe,Lexus,RZ,DE_KBA_FZ10,Germany series Lexus | RZ (KBA LEXUS/RZ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,RZ
+Europe,Honda,ZR-V,DE_KBA_FZ10,Germany series Honda | ZR-V (KBA HONDA/ZR-V),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,ZR-V
+Europe,Jeep,Avenger,DE_KBA_FZ10,Germany series Jeep | Avenger (KBA JEEP/AVENGER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jeep,Avenger
+Europe,Jeep,Grand Cherokee,DE_KBA_FZ10,Germany series Jeep | Grand Cherokee (KBA JEEP/GRAND CHEROKEE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jeep,Grand Cherokee
+Europe,Honda,e:Ny1,DE_KBA_FZ10,Germany series Honda | e:Ny1 (KBA HONDA/E:NY1),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,e:Ny1
+Europe,,,DE_KBA_FZ10,Germany series Lucid | Air (KBA LUCID/AIR),no_europe_series,,,Lucid,Air
+Europe,BMW,i5,DE_KBA_FZ10,Germany series BMW | i5 (KBA BMW/5ER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BMW,i5
+Europe,Lotus,Eletre,DE_KBA_FZ10,Germany series Lotus | Eletre (KBA LOTUS/ELETRE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lotus,Eletre
+Europe,KG Mobility,Torres,DE_KBA_FZ10,Germany series KG Mobility | Torres (KBA KGM/TORRES),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",KG Mobility,Torres
+Europe,Volkswagen,ID.7,DE_KBA_FZ10,Germany series Volkswagen | ID.7 (KBA VW/ID.7),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,ID.7
+Europe,Nio,EL6,DE_KBA_FZ10,Germany series NIO | EL6 (KBA NIO/EL6),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",NIO,EL6
+Europe,Ferrari,Purosangue,DE_KBA_FZ10,Germany series Ferrari | Purosangue (KBA FERRARI/PUROSANGUE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,Purosangue
+Europe,Fiat,600,DE_KBA_FZ10,Germany series Fiat | 600 (KBA FIAT/600),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Fiat,600
+Europe,,,DE_KBA_FZ10,Germany series Fisker | Ocean (KBA FISKER/OCEAN),no_europe_series,,,Fisker,Ocean
+Europe,GWM,Wey 03,DE_KBA_FZ10,Germany series GWM | Wey 03 (KBA GWM/COFFEE 02 + GWM/WEY 03),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",GWM,Wey 03
+Europe,Kia,EV9,DE_KBA_FZ10,Germany series Kia | EV9 (KBA KIA/EV9),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV9
+Europe,Rolls-Royce,Spectre,DE_KBA_FZ10,Germany series Rolls-Royce | Spectre (KBA ROLLS ROYCE/SPECTRE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Rolls-Royce,Spectre
+Europe,Smart,#3,DE_KBA_FZ10,Germany series Smart | #3 (KBA SMART/3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Smart,#3
+Europe,BYD,Dolphin,DE_KBA_FZ10,Germany series BYD | Dolphin (KBA BYD/DOLPHIN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Dolphin
+Europe,Ford,Transit Custom,DE_KBA_FZ10,Germany series Ford | Transit Custom (KBA FORD/TRANSIT CUSTOM),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Transit Custom
+Europe,Genesis,G90,DE_KBA_FZ10,Germany series Genesis | G90 (KBA HYUNDAI/G90),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Genesis,G90
+Europe,Mitsubishi,Colt,DE_KBA_FZ10,Germany series Mitsubishi | Colt (KBA MITSUBISHI/COLT),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mitsubishi,Colt
+Europe,Volvo,EX30,DE_KBA_FZ10,Germany series Volvo | EX30 (KBA VOLVO/EX30),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,EX30
+Europe,BYD,Seal,DE_KBA_FZ10,Germany series BYD | Seal (KBA BYD/SEAL),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BYD,Seal
+Europe,BYD,Seal 6 DM-i,DE_KBA_FZ10,Germany series BYD | Seal (KBA BYD/SEAL),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BYD,Seal
+Europe,BYD,Seal 5 DM-i,DE_KBA_FZ10,Germany series BYD | Seal (KBA BYD/SEAL),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",BYD,Seal
+Europe,Audi,Q6 e-tron,DE_KBA_FZ10,Germany series Audi | Q6 (KBA AUDI/Q6),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q6
+Europe,Audi,Q6 Sportback e-tron,DE_KBA_FZ10,Germany series Audi | Q6 (KBA AUDI/Q6),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Audi,Q6
+Europe,,,DE_KBA_FZ10,Germany series VinFast | VF8 (KBA VINFAST/VF 8),no_europe_series,,,VinFast,VF8
+Europe,Lexus,LBX,DE_KBA_FZ10,Germany series Lexus | LBX (KBA LEXUS/LBX),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,LBX
+Europe,Lexus,LM,DE_KBA_FZ10,Germany series Lexus | LM (KBA LEXUS/LM),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lexus,LM
+Europe,Renault,Rafale,DE_KBA_FZ10,Germany series Renault | Rafale (KBA RENAULT/RAFALE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Rafale
+Europe,MG,MG3,DE_KBA_FZ10,Germany series MG | MG3 (KBA MG ROEWE/3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,MG3
+Europe,BYD,Seal U,DE_KBA_FZ10,Germany series BYD | Seal U (KBA BYD/SEAL U),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Seal U
+Europe,GWM,Ora 07,DE_KBA_FZ10,Germany series GWM | Ora 07 (KBA GWM/ORA 07),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",GWM,Ora 07
+Europe,Xpeng,P7,DE_KBA_FZ10,Germany series Xpeng | P7 (KBA XPENG/P7),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Xpeng,P7
+Europe,Xpeng,P7+,DE_KBA_FZ10,Germany series Xpeng | P7 (KBA XPENG/P7),de_group,medium,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split); one KBA line -> several Europe series: validate as group",Xpeng,P7
+Europe,BYD,Tang,DE_KBA_FZ10,Germany series BYD | Tang (KBA BYD/TANG),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Tang
+Europe,Nio,EL8,DE_KBA_FZ10,Germany series NIO | EL8 (KBA NIO/ES8),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",NIO,EL8
+Europe,Xpeng,G9,DE_KBA_FZ10,Germany series Xpeng | G9 (KBA XPENG/G9),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Xpeng,G9
+Europe,Lotus,Emeya,DE_KBA_FZ10,Germany series Lotus | Emeya (KBA LOTUS/EMEYA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lotus,Emeya
+Europe,Polestar,3,DE_KBA_FZ10,Germany series Polestar | 3 (KBA POLESTAR/3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Polestar,3
+Europe,Polestar,4,DE_KBA_FZ10,Germany series Polestar | 4 (KBA POLESTAR/4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Polestar,4
+Europe,Renault,Symbioz,DE_KBA_FZ10,Germany series Renault | Symbioz (KBA RENAULT/SYMBIOZ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,Symbioz
+Europe,Alfa Romeo,Junior,DE_KBA_FZ10,Germany series Alfa Romeo | Junior (KBA ALFA ROMEO/JUNIOR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alfa Romeo,Junior
+Europe,Cupra,Tavascan,DE_KBA_FZ10,Germany series Cupra | Tavascan (KBA SEAT/TAVASCAN),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cupra,Tavascan
+Europe,Renault,5,DE_KBA_FZ10,Germany series Renault | 5 (KBA RENAULT/R5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,5
+Europe,Cupra,Terramar,DE_KBA_FZ10,Germany series Cupra | Terramar (KBA SEAT/TERRAMAR),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cupra,Terramar
+Europe,MG,Cyberster,DE_KBA_FZ10,Germany series MG | Cyberster (KBA MG ROEWE/CYBERSTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,Cyberster
+Europe,Mazda,CX-80,DE_KBA_FZ10,Germany series Mazda | CX-80 (KBA MAZDA/CX-80),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mazda,CX-80
+Europe,Xpeng,G6,DE_KBA_FZ10,Germany series Xpeng | G6 (KBA XPENG/G6),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Xpeng,G6
+Europe,Ford,Capri,DE_KBA_FZ10,Germany series Ford | Capri (KBA FORD/CAPRI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ford,Capri
+Europe,Kia,EV3,DE_KBA_FZ10,Germany series Kia | EV3 (KBA KIA/EV3),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV3
+Europe,Volvo,EX90,DE_KBA_FZ10,Germany series Volvo | EX90 (KBA VOLVO/EX90),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,EX90
+Europe,BYD,Sealion 7,DE_KBA_FZ10,Germany series BYD | Sealion 7 (KBA BYD/SEALION 7),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Sealion 7
+Europe,Leapmotor,C10,DE_KBA_FZ10,Germany series Leapmotor | C10 (KBA LEAPMOTOR/C10),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Leapmotor,C10
+Europe,Leapmotor,T03,DE_KBA_FZ10,Germany series Leapmotor | T03 (KBA LEAPMOTOR/T03),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Leapmotor,T03
+Europe,Skoda,Elroq,DE_KBA_FZ10,Germany series Skoda | Elroq (KBA SKODA/ELROQ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Skoda,Elroq
+Europe,Hyundai,Inster,DE_KBA_FZ10,Germany series Hyundai | Inster (KBA HYUNDAI/INSTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Inster
+Europe,,,DE_KBA_FZ10,Germany series VinFast | VF6 (KBA VINFAST/VF 6),no_europe_series,,,VinFast,VF6
+Europe,Alpine,A290,DE_KBA_FZ10,Germany series Alpine | A290 (KBA ALPINE/A290),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alpine,A290
+Europe,BYD,Atto 2,DE_KBA_FZ10,Germany series BYD | Atto 2 (KBA BYD/ATTO 2),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Atto 2
+Europe,Ferrari,12Cilindri,DE_KBA_FZ10,Germany series Ferrari | 12Cilindri (KBA FERRARI/12CILINDRI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,12Cilindri
+Europe,KG Mobility,Actyon,DE_KBA_FZ10,Germany series KG Mobility | Actyon (KBA KGM/ACTYON),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",KG Mobility,Actyon
+Europe,Lynk & Co,02,DE_KBA_FZ10,Germany series Lynk & Co | 02 (KBA LYNK & CO/02),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lynk & Co,02
+Europe,Volkswagen,Tayron,DE_KBA_FZ10,Germany series Volkswagen | Tayron (KBA VW/TAYRON),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volkswagen,Tayron
+Europe,Renault,4,DE_KBA_FZ10,Germany series Renault | 4 (KBA RENAULT/R4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Renault,4
+Europe,Smart,#5,DE_KBA_FZ10,Germany series Smart | #5 (KBA SMART/5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Smart,#5
+Europe,BYD,Dolphin Surf,DE_KBA_FZ10,Germany series BYD | Dolphin Surf (KBA BYD/DOLPHIN SURF),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",BYD,Dolphin Surf
+Europe,Dacia,Bigster,DE_KBA_FZ10,Germany series Dacia | Bigster (KBA DACIA/BIGSTER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Dacia,Bigster
+Europe,Fiat,Grande Panda,DE_KBA_FZ10,Germany series Fiat | Grande Panda (KBA FIAT/GRANDE PANDA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Fiat,Grande Panda
+Europe,DS,N°8,DE_KBA_FZ10,Germany series DS | 8 (KBA DS/8),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",DS,8
+Europe,Hyundai,Ioniq 9,DE_KBA_FZ10,Germany series Hyundai | Ioniq 9 (KBA HYUNDAI/IONIQ 9),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Hyundai,Ioniq 9
+Europe,MG,S5,DE_KBA_FZ10,Germany series MG | MGS5 EV (KBA MG ROEWE/S5),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,MGS5 EV
+Europe,Lynk & Co,08,DE_KBA_FZ10,Germany series Lynk & Co | 08 (KBA LYNK & CO/08),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Lynk & Co,08
+Europe,,,DE_KBA_FZ10,Germany series Lucid | Gravity (KBA LUCID/GRAVITY),no_europe_series,,,Lucid,Gravity
+Europe,Togg,T10F,DE_KBA_FZ10,Germany series Togg | T10F (KBA TOGG/T10F),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Togg,T10F
+Europe,,,DE_KBA_FZ10,Germany series Deepal | S05 (KBA DEEPAL/S05),no_europe_series,,,Deepal,S05
+Europe,,,DE_KBA_FZ10,Germany series Deepal | S07 (KBA DEEPAL/S07),no_europe_series,,,Deepal,S07
+Europe,Kia,EV4,DE_KBA_FZ10,Germany series Kia | EV4 (KBA KIA/EV4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV4
+Europe,Kia,PV5,DE_KBA_FZ10,Germany series Kia | PV5 (KBA KIA/PV5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,PV5
+Europe,Leapmotor,B10,DE_KBA_FZ10,Germany series Leapmotor | B10 (KBA LEAPMOTOR/B10),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Leapmotor,B10
+Europe,Omoda,9,DE_KBA_FZ10,Germany series Omoda | 9 (KBA OMODA/9),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Omoda,9
+Europe,Kia,EV5,DE_KBA_FZ10,Germany series Kia | EV5 (KBA KIA/EV5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV5
+Europe,Togg,T10X,DE_KBA_FZ10,Germany series Togg | T10X (KBA TOGG/T10X),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Togg,T10X
+Europe,Alpine,A390,DE_KBA_FZ10,Germany series Alpine | A390 (KBA ALPINE/A390),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Alpine,A390
+Europe,Cadillac,Optiq,DE_KBA_FZ10,Germany series Cadillac | Optiq (KBA CADILLAC/OPTIQ),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cadillac,Optiq
+Europe,Kia,K4,DE_KBA_FZ10,Germany series Kia | K4 (KBA KIA/K4),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,K4
+Europe,Mitsubishi,Grandis,DE_KBA_FZ10,Germany series Mitsubishi | Grandis (KBA MITSUBISHI/GRANDIS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mitsubishi,Grandis
+Europe,Honda,Prelude,DE_KBA_FZ10,Germany series Honda | Prelude (KBA HONDA/PRELUDE),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Honda,Prelude
+Europe,Jaecoo,7,DE_KBA_FZ10,Germany series Jaecoo | 7 (KBA JAECOO/7),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jaecoo,7
+Europe,MG,S6,DE_KBA_FZ10,Germany series MG | MGS6 EV (KBA MG ROEWE/S6),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,MGS6 EV
+Europe,Toyota,Urban Cruiser,DE_KBA_FZ10,Germany series Toyota | Urban Cruiser (KBA TOYOTA/URBAN CRUISER),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Toyota,Urban Cruiser
+Europe,Volvo,ES90,DE_KBA_FZ10,Germany series Volvo | ES90 (KBA VOLVO/ES90),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Volvo,ES90
+Europe,Zeekr,001,DE_KBA_FZ10,Germany series Zeekr | 001 (KBA ZEEKR/001),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Zeekr,001
+Europe,Zeekr,7X,DE_KBA_FZ10,Germany series Zeekr | 7X (KBA ZEEKR/7X),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Zeekr,7X
+Europe,Zeekr,X,DE_KBA_FZ10,Germany series Zeekr | X (KBA ZEEKR/X),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Zeekr,X
+Europe,Ferrari,849 Testarossa,DE_KBA_FZ10,Germany series Ferrari | 849 Testarossa (KBA FERRARI/849 TESTAROSSA),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,849 Testarossa
+Europe,Ferrari,Amalfi,DE_KBA_FZ10,Germany series Ferrari | Amalfi (KBA FERRARI/AMALFI),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Ferrari,Amalfi
+Europe,Kia,EV2,DE_KBA_FZ10,Germany series Kia | EV2 (KBA KIA/EV2),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,EV2
+Europe,MG,S9,DE_KBA_FZ10,Germany series MG | MGS9 (KBA MG ROEWE/S9),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,MGS9
+Europe,,,DE_KBA_FZ10,Germany series Dongfeng | Box (KBA DONGFENG/BOX),no_europe_series,,,Dongfeng,Box
+Europe,,,DE_KBA_FZ10,Germany series Fiat | Qubo L (KBA FIAT/QUBO),no_europe_series,,,Fiat,Qubo L
+Europe,Geely,EX5,DE_KBA_FZ10,Germany series Geely | EX5 (KBA GEELY/E5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Geely,EX5
+Europe,Geely,Starray,DE_KBA_FZ10,Germany series Geely | Starray EM-i (KBA GEELY/STARRAY),de_rename,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Geely,Starray EM-i
+Europe,Omoda,5,DE_KBA_FZ10,Germany series Omoda | 5 (KBA OMODA/5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Omoda,5
+Europe,Cupra,Raval,DE_KBA_FZ10,Germany series Cupra | Raval (KBA SEAT/RAVAL),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Cupra,Raval
+Europe,Jaecoo,5,DE_KBA_FZ10,Germany series Jaecoo | 5 (KBA JAECOO/5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Jaecoo,5
+Europe,Kia,Seltos,DE_KBA_FZ10,Germany series Kia | Seltos (KBA KIA/SELTOS),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Kia,Seltos
+Europe,Leapmotor,B05,DE_KBA_FZ10,Germany series Leapmotor | B05 (KBA LEAPMOTOR/B05),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Leapmotor,B05
+Europe,MG,IM5,DE_KBA_FZ10,Germany series MG | IM5 (KBA MG ROEWE/IM5),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",MG,IM5
+Europe,Mercedes-Benz,VLE,DE_KBA_FZ10,Germany series Mercedes-Benz | VLE (KBA MERCEDES/VL),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Mercedes-Benz,VLE
+Europe,Subaru,Uncharted,DE_KBA_FZ10,Germany series Subaru | Uncharted (KBA SUBARU/UNCHARTED),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Subaru,Uncharted
+Europe,Xpeng,X9,DE_KBA_FZ10,Germany series Xpeng | X9 (KBA XPENG/X9),de_same_name,high,"value = raw/data.csv Germany (= KBA FZ10, BMW BEV split)",Xpeng,X9
+Europe,,,DE_KBA_FZ10,Germany series Zeekr | 7GT (KBA ZEEKR/7GT),no_europe_series,,,Zeekr,7GT

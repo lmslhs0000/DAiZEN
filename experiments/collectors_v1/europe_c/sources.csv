@@ -1,0 +1,18 @@
+source_id,country,name,url,access,robots_checked_2026-10-15,min_interval_s,definition,publication_lag,status
+EUROPE_CALC_V1,Europe,europe_c 유럽 합계 계산기,collect_europe.py,local,-,-,"아래 나라 출처 합 + 안 덮인 나라 몫 추정(EEA 2025 나라 몫 × 계절 계수)",가장 늦은 입력(독일 KBA 약 5일; 영국 분기는 추정),built+tested(≤2026-07)
+SE_MOBILITYSWEDEN,Sweden,Mobility Sweden Månadsrapport Nyregistreringar (xlsx),https://mobilitysweden.se/statistik/Nyregistreringar_per_manad_1,"목록 HTML → 기사 HTML → xlsx",robots.txt 비어 있음(허용),2.5,"nyregistrerade personbilar (nya), 시트 'PB - Fabrikat och modell'",다음 달 1~3일,built; 2026-07 xlsx 1개 받음
+CH_AUTOSCHWEIZ,Switzerland,auto-schweiz ModellePW<연도>.xlsx (누계),https://www.auto.swiss/ (첫 화면 링크 wp-content/uploads/<연>/<월>/ModellePW<연도>.xlsx),HTML + xlsx,Disallow 빈칸(허용),2.5,"Immatrikulationen neuer PW CH+FL (ASTRA/MOFIS); 월 = 누계 차이",다음 달 초,built; 표본(2026-01~09) 사용
+FI_TRAFICOM_105,Finland,Traficom PxWeb 표 105 (mallisarja × alue × kuukausi),https://trafi2.stat.fi/PXWeb/api/v1/fi/TraFi/Ensirekisteroinnit/050_ensirek_tau_105.px,PxWeb POST(JSON) 1회,robots.txt 없음(404),3.0,"henkilöautojen ensirekisteröinnit(신차); 지역 MA1+Ulkomaat+Tuntematon",다음 달 첫 주,built; 2026-07 질의 1회(응답 약 70초)
+IE_SIMI,Ireland,SIMI 월간 모델별 등록(JSON),(주소 미확인: 표본 json 만 있음),캐시 파일만,-,-,"SIMI new passenger car registrations; 2025-07 합계 = EEA IE(26,738 vs 26,758)",다음 달 1일,offline only
+IE_CSO_TEM20,Ireland,CSO PxStat TEM20 (New Private Cars Licensed for the First Time),https://ws.cso.ie/public/api.restful/PxStat.Data.Cube_API.ReadDataset/TEM20/CSV/1.0/en,CSV 전체(약 12MB),robots.txt 없음(404),2.5,"면허 개시 기준; 연 합계는 EEA 와 같으나(0.965) 달 배치가 달라 계산기에서 쓰지 않음",다음 달 중순,built; 표본 사용
+RO_DGPCI,Romania,DGPCI 월간 등록 묶음 rar (<YYYYMM>_Autoturisme.xlsx),(주소 미확인: dgpci.mai.gov.ro 자바스크립트 앱; data.gov.ro 에 없음),rar(--url 로 지정),"data.gov.ro: Disallow /api/, Crawl-delay 10",10.5,"înmatriculări vehicule noi M1+M1G, 시트 Descriere_Comerciala",다음 달 1일,built; 표본(2026-07) 사용
+LU_SNCA_DELTA,Luxembourg,SNCA opérations delta (data.public.lu),https://data.public.lu/fr/datasets/operations-delta-des-vehicules-au-luxembourg/,쪽 HTML + xlsx(약 8MB),robots.txt 없음,2.5,"CODEOP=N(신규 등록), CATEU M1/M1G",다음 달 4~7일,built; 2026-07 xlsx 1개 받음
+PL_CEPIK,Poland,CEPiK (europe_b API 쪽 캐시 / 사람이 받은 대량 파일),"api.cepik.gov.pl — 요청 금지(2026-10-15 429). dane.gov.pl 1558 = API 링크 모음, 파일도 api.cepik.gov.pl/pliki",로컬 파일만,-,-,"신차(국내 구입 신차 + 개인 수입 신차) 승용",다음 달 초,design + offline(부분 자료라 계산기에서 미사용)
+DK_DMR,Denmark,DMR ESStatistik 전체 덤프(약 7GB XML),(받지 않음),-,-,-,설계만(README),-,design only
+DE_KBA_FZ10,Germany,KBA FZ10 (rules_jp_na_de/collect_germany.py),rules_jp_na_de,local,-,-,"Neuzulassungen Pkw; Germany 계열 → Europe 계열 de_links",다음 달 4~5일,input
+ES_DGT_MATRABA,Spain,DGT 등록 원자료(europe_a/collect_es.py),europe_a,local,-,-,신차 M1·M1G,약 45일,input
+NL_RDW,Netherlands,RDW Open Data(europe_a/collect_nl.py),europe_a,local,-,-,승용 최초 등록 = 네덜란드 최초 명의,수일,input
+UK_DFT_VEH0160,United Kingdom,DfT VEH0160 분기→월(europe_a/collect_uk.py),europe_a,local,-,-,처음 등록된 승용(중고 수입 소량 포함),분기 후 약 3개월(그 전 달은 추정),input
+FR_PFA_TOP100,France,PFA 상위 100 VP+VUL 누계 차이(europe_b/collect_fr.py),europe_b,local,-,-,상위 100 차종만,다음 달 1일,input
+IT_UNRAE_TOP50,Italy,UNRAE 상위 50(europe_b/collect_it.py),europe_b,local,-,-,상위 50 차종만,다음 달 1~2일,input
+EEA_CO2_2025P,EU27+NO+IS,EEA CO2 모니터링 2025 잠정(europe_b/eea_shares_2025.csv),europe_b,local,-,-,나라 몫·계절 계수 기준(+UK DfT·CH auto-schweiz),매년 6월 전년분,input

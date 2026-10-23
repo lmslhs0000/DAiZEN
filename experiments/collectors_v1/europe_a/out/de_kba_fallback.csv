@@ -1,0 +1,20 @@
+Country,Brand,Model,source_id,source_key,rule,confidence,note,kba_brand,kba_model
+Europe,Aston Martin,DBX,DE_KBA_FZ10_LONG,ASTON MARTIN | DBX,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,ASTON MARTIN,DBX
+Europe,Audi,Q9,DE_KBA_FZ10_LONG,AUDI | Q9,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,AUDI,Q9
+Europe,Cadillac,Vistiq,DE_KBA_FZ10_LONG,CADILLAC | VISTIQ,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,CADILLAC,VISTIQ
+Europe,Chery,Tiggo 9,DE_KBA_FZ10_LONG,CHERY | TIGGO9,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,CHERY,TIGGO9
+Europe,Dacia,Logan,DE_KBA_FZ10_LONG,DACIA | LOGAN,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,DACIA,LOGAN
+Europe,Fiat,Doblo,DE_KBA_FZ10_LONG,FIAT | DOBLO,kba_line_regex:^E? ?DOBLO,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,FIAT,DOBLO
+Europe,Fiat,Ducato,DE_KBA_FZ10_LONG,FIAT | DUCATO,kba_line_regex:^DUCATO,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,FIAT,DUCATO
+Europe,Fiat,Scudo,DE_KBA_FZ10_LONG,FIAT | SCUDO,kba_line_regex:^E? ?SCUDO,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,FIAT,SCUDO
+Europe,Hyundai,Nexo,DE_KBA_FZ10_LONG,HYUNDAI | NEXO,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,HYUNDAI,NEXO
+Europe,Lada,Niva,DE_KBA_FZ10_LONG,LADA | NIVA,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,LADA,NIVA
+Europe,Lancia,Ypsilon,DE_KBA_FZ10_LONG,LANCIA | YPSILON,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,LANCIA,YPSILON
+Europe,Maxus,Mifa 9,DE_KBA_FZ10_LONG,MAXUS | MIFA 9,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,MAXUS,MIFA 9
+Europe,MG,IM6,DE_KBA_FZ10_LONG,MG ROEWE | IM6,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,MG ROEWE,IM6
+Europe,Mitsubishi,Outlander,DE_KBA_FZ10_LONG,MITSUBISHI | OUTLANDER,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,MITSUBISHI,OUTLANDER
+Europe,Nissan,Interstar,DE_KBA_FZ10_LONG,NISSAN | INTERSTAR,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,NISSAN,INTERSTAR
+Europe,Nissan,Micra,DE_KBA_FZ10_LONG,NISSAN | MICRA,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,NISSAN,MICRA
+Europe,Skoda,Peaq,DE_KBA_FZ10_LONG,SKODA | PEAQ,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,SKODA,PEAQ
+Europe,Toyota,Highlander,DE_KBA_FZ10_LONG,TOYOTA | HIGHLANDER,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,TOYOTA,HIGHLANDER
+Europe,Toyota,Hilux,DE_KBA_FZ10_LONG,TOYOTA | HILUX,kba_line_exact,medium,KBA line not used by our Germany series; value from data_audit_v1/kba_fz10_long,TOYOTA,HILUX
