@@ -1,0 +1,19 @@
+{
+  "model": "client_package_pipeline",
+  "rule": "delivery (no post-origin public actuals) + 80% intervals + reliability grade from pure-July package (packaging only)",
+  "origin": "2026-09",
+  "delivery": "D:\\daizen\\_real_202609\\experiments\\horizon_eval_v1\\production\\delivery_final_pipeline_hq3_20261029T220039_404754Z_8fff2e",
+  "delivery_sha256": "76d3c9c0532f39b8ae9eec46ca03968d1cc87d30c23d6b5e33fae8248186e482",
+  "intervals": "D:\\daizen\\_real_202609\\experiments\\horizon_eval_v1\\production\\intervals_20261029T220046_801144Z_b76d11",
+  "intervals_sha256": "0bce6c6c25d4dfded85e18a458df34431e83f8819c70f32dc9ea0d1aac1106dd",
+  "grade_from": "client_package_20261006T124750_849388Z_2cf467",
+  "interval_residual_run": "experiments/horizon_eval_v1/reports/fq_champ_20261005T205205_396558Z_059117",
+  "uses_public_actuals_after_origin": false,
+  "status_counts": {
+    "OK": 2225,
+    "OK_SHORT_HISTORY": 181,
+    "OK_CHRONOS_ONLY": 81,
+    "INSUFFICIENT_HISTORY": 21,
+    "INCOMPLETE_HISTORY": 7
+  }
+}

@@ -1,0 +1,321 @@
+market_scope,Brand,Model,event_type,event_month,announced_date,successor,confidence,source
+China,Nissan,Sentra,new_generation,2019-07,2019-04-16,,high,http://auto.sina.com.cn/newcar/x/2019-07-16/detail-ihytcitm2471042.shtml;https://en.wikipedia.org/wiki/Nissan_Sylphy
+China,Nissan,Sentra,major_facelift,2023-03,2023-03-10,,high,https://news.sina.com.cn/o/2023-03-11/doc-imykmfmm2915442.shtml
+China,Nissan,Sentra,price_reset,2025-02,2025-02-17,-25% (Sylphy Classic -36%),medium,https://finance.sina.com.cn/tech/roll/2025-02-17/doc-inekumne3361153.shtml
+China,Nissan,Sentra,new_generation,2026-02,2026-02-24,,high,http://auto.news18a.com/news/storys_233086.html
+China,Volkswagen,Sagitar,new_generation,2019-03,2019-03-18,,high,https://auto.sina.cn/newcar/x/2019-03-18/detail-ihsxncvh3560148.d.html?vt=33
+China,Volkswagen,Sagitar,major_facelift,2022-06,2022-06-28,,high,https://auto.ifeng.com/c/8HDmr9JbjOG
+China,Volkswagen,Sagitar,new_generation,2025-09,2025-09-09,,high,https://auto.sina.cn/newcar/2025-09-09/detail-infpxfwh0234293.d.html
+China,Volkswagen,Sagitar,price_reset,2026-03,2026-03-31,-30% (Sagitar S entry edition),medium,https://www.autohome.com.cn/news/202603/1313247.html
+China,Toyota,Camry,new_generation,2017-11,2017-11-16,,high,https://www.chinanews.com.cn/m/auto/2017/11-17/8378930.shtml
+China,Toyota,Camry,major_facelift,2021-02,2021-02-25,,high,https://www.cqn.com.cn/auto/content/2021-02/26/content_8669098.htm
+China,Toyota,Camry,new_generation,2024-03,2023-11,,high,https://auto.news18a.com/news/storys_171840.html
+China,Wuling,Hongguang,new_generation,2018-09,2018-09-06,,high,https://auto.sina.cn/newcar/x/2018-09-06/detail-ihitesuy9909326.d.html;https://en.wikipedia.org/wiki/Wuling_Hongguang
+China,Wuling,Hongguang,new_generation,2024-09,2024-09-06,,medium,https://en.wikipedia.org/wiki/Wuling_Hongguang;https://finance.sina.com.cn/roll/2024-09-29/doc-incquvzy3600195.shtml
+China,Volkswagen,Tiguan,new_generation,2016-12,2016-12-15,,high,https://www.pcauto.com.cn/nation/920/9201012.html;https://en.wikipedia.org/wiki/Volkswagen_Tiguan
+China,Volkswagen,Tiguan,major_facelift,2021-08,2021-08-20,,high,https://auto.sina.cn/zz/xc/2021-08-22/detail-ikqciyzm2881142.d.html
+China,Volkswagen,Tiguan,new_generation,2024-05,2024-05-30,,high,https://auto.sina.com.cn/newcar/2024-05-30/detail-inawifty5459988.shtml;https://en.wikipedia.org/wiki/Volkswagen_Tiguan
+China,Geely,Boyue,major_facelift,2019-09,2019-09-05,,high,https://www.autohome.com.cn/news/201909/943904.html
+China,Geely,Boyue,successor_launch,2022-10,2022-10-26,Boyue L,medium,http://www.news.cn/auto/20221028/518a5900b0f8451dbc74ecaf2f843a44/c.html;https://en.wikipedia.org/wiki/Geely_Boyue
+China,Geely,Boyue,new_generation,2024-06,2024-06-27,,medium,https://auto.news18a.com/news/storys_173127.html;https://en.wikipedia.org/wiki/Geely_Boyue
+China,Volkswagen,Tayron,new_generation,2018-10,2018-10-22,,high,https://chejiahao.m.autohome.com.cn/info/2862437
+China,Volkswagen,Tayron,major_facelift,2022-08,2022-08-23,,high,https://auto.cnjiwang.com/qcxcss_1130/202208/3621771.html;https://www.inabr.com/news/15373
+China,Volkswagen,Tayron,new_generation,2025-03,2025-03-01,,high,http://www.news.cn/auto/20250302/126ba05b05ab47ddb7481e629b2dceea/c.html
+China,Audi,Q5L,new_generation,2018-07,2018-07-06,,high,https://auto.sina.cn/newcar/x/2018-07-06/detail-ihexfcvk7986066.d.html
+China,Audi,Q5L,major_facelift,2021-05,2021-05-28,,high,https://m.ithome.com/html/554285.htm
+China,Audi,Q5L,new_generation,2026-01,2025-04-23,,high,https://www.ithome.com/0/910/786.htm;https://k.sina.cn/article_7857141524_1d4527714019028h3o.html
+China,Changan,Eado,new_generation,2018-03,2018-03-27,,high,https://car.tom.com/201803/1024907775.html
+China,Changan,Eado,major_facelift,2020-03,2020-03-27,,high,https://auto.sina.cn/newcar/x/2020-03-27/detail-iimxxsth1910706.d.html?vt=4;https://en.wikipedia.org/wiki/Changan_Eado
+China,Changan,Eado,new_generation,2024-03,2024-03-20,,high,https://db.m.auto.sohu.com/model_3347/a/765610676_122143;https://en.wikipedia.org/wiki/Changan_Eado
+China,Changan,Eado,major_facelift,2025-09,2025-09-07,,medium,https://auto.sina.com.cn/newcar/2025-09-07/detail-infpqkmf1655697.shtml;https://en.wikipedia.org/wiki/Changan_Eado
+China,Geely,Binyue,new_generation,2018-10,2018-08,,high,https://auto.sina.cn/newcar/x/2018-10-31/detail-ihnfikvc9534292.d.html;https://en.wikipedia.org/wiki/Geely_Coolray
+China,Geely,Binyue,major_facelift,2022-08,2022-08-09,,high,http://www.news.cn/auto/20220810/b7addf3703464fedb2042416724a1b42/c.html;https://en.wikipedia.org/wiki/Geely_Coolray
+China,Geely,Binyue,major_facelift,2023-05,2023-05-18,,medium,http://www.news.cn/auto/20230518/eeb328d772ca46888c10f4330056ba92/c.html;https://en.wikipedia.org/wiki/Geely_Coolray
+China,Geely,Binyue,price_reset,2024-07,2024-07-15,-12% (1.5L entry edition),medium,https://auto.news18a.com/news/storys_173309.html
+China,Geely,Binyue,major_facelift,2024-11,2024-11-27,,medium,https://hao.yiche.com/wenzhang/96401460/;https://en.wikipedia.org/wiki/Geely_Coolray
+China,Geely,Monjaro,new_generation,2021-07,2021-04,,high,https://auto.sina.cn/newcar/x/2021-07-20/detail-ikqciyzk6611481.d.html
+China,Buick,GL8,new_generation,2016-11,2016-11-05,,high,https://www.saicmotor.com/m/xwzx/xwk/2016/45102.shtml
+China,Buick,GL8,major_facelift,2020-05,2020-03,,high,https://auto.ifeng.com/c/7wD9vRAd0HQ;https://en.wikipedia.org/wiki/Buick_GL8
+China,Buick,GL8,major_facelift,2024-10,2024-10-31,,medium,https://www.gm.com.cn/zh/home/newsroom.detail.html/Pages/news/cn/zh/2024/oct/1031-buick.html
+China,Nissan,Altima,new_generation,2018-12,2018-12-18,,high,https://chejiahao.m.autohome.com.cn/info/3107581
+China,Nissan,Altima,major_facelift,2022-09,2022-09-30,,high,https://auto.ifeng.com/c/8Jj5aFcJSmx
+China,Nissan,Altima,price_reset,2025-02,2025-02-17,-29%,medium,https://finance.sina.com.cn/tech/roll/2025-02-17/doc-inekumne3361153.shtml;https://finance.sina.com.cn/tech/digi/2024-09-13/doc-incnzezq5660127.shtml
+China,Nissan,Altima,major_facelift,2025-11,2025-11-21,,medium,https://auto.zol.com.cn/1085/10851160.html;https://www.ithome.com/0/906/760.htm
+China,Toyota,Frontlander,new_generation,2022-01,2022-01-06,,high,https://auto.sina.cn/newcar/x/2022-01-06/detail-ikyamrmz3570291.d.html
+China,Toyota,Frontlander,price_reset,2025-03,2025-03-08,-30%,medium,https://news.qq.com/rain/a/20250308A07DDF00
+China,Honda,XR-V,new_generation,2022-08,2022-08-28,,high,https://www.sohu.com/a/580656657_120892863
+China,Haval,Big Dog,new_generation,2020-09,2020-09-25,,high,https://auto.sina.cn/newcar/x/2020-09-25/detail-iivhuipp6469626.d.html
+China,Haval,Big Dog,new_generation,2023-02,2023-02-27,,high,https://www.xchuxing.com/article/73344
+China,BYD,Tang,new_generation,2018-06,2018-04-25,,high,http://auto.sina.com.cn/newcar/x/2018-06-26/detail-ihencxtu7078555.shtml;https://en.wikipedia.org/wiki/BYD_Tang
+China,BYD,Tang,major_facelift,2021-04,2021-04-19,,medium,https://news.qq.com/rain/a/20210420A04I8100;https://en.wikipedia.org/wiki/BYD_Tang
+China,BYD,Tang,price_reset,2024-02,2024-02-28,-14%,high,https://carnewschina.com/2024/02/28/byd-launches-2024-han-sedan-and-tang-suv-14-cheaper-than-previous-version-updating-to-800v/;https://news.metal.com/newscontent/102638301-byd-han-tang-honor-editions-hit-market
+China,Buick,Regal,new_generation,2017-07,2017-07-21,,high,https://www.chinanews.com.cn/m/auto/2017/07-25/8286762.shtml
+China,Buick,Regal,major_facelift,2020-08,2020-08-28,,high,https://www.saicmotor.com/chinese/xwzx/xwk/2020/53978.shtml
+China,Buick,Regal,price_reset,2025-02,2025-02-28,-33%,high,https://auto.ifeng.com/c/8hLhe06CkW5;https://www.163.com/dy/article/JPI8LG2K05278VE8.html;https://auto.ifeng.com/c/8RgT7gB0QUD
+China,BYD,Qin L,new_generation,2024-05,2024-04-25,,high,https://cnevpost.com/2024/05/28/byd-launches-qin-l-seal-06-sedans/
+China,BYD,Qin L,new_generation,2025-03,2025-02,,medium,https://electrek.co/2025/03/24/byd-launches-sleek-qin-l-ev-with-smart-tech-for-under-17000/
+China,Wuling,Bingo,new_generation,2023-03,2023-03-29,,high,https://m.xchuxing.com/article/76012
+China,Volkswagen,Golf,new_generation,2020-11,2020-11-07,,high,https://auto.sina.cn/newcar/x/2020-11-07/detail-iiznezxs0519803.d.html
+China,Volkswagen,Golf,major_facelift,2024-11,2024-11-30,,high,https://auto.hangzhou.com.cn/news/content/2024-12/02/content_8820527.html
+China,MG,MG5,new_generation,2020-11,2020-11-08,,high,https://auto.sina.cn/news/2020-11-08/detail-iiznezxs0711799.d.html
+China,MG,MG5,major_facelift,2024-09,2024-09-13,,medium,https://auto.ifeng.com/c/8crkr8kib8W
+China,Audi,Q3,new_generation,2019-04,2019-04-16,,high,https://www.news18a.com/news/storys_132445.html
+China,Chery,Arrizo 8,new_generation,2022-09,2022-09-26,,high,https://auto.sina.cn/newcar/2022-09-26/detail-imqqsmrp0572371.d.html?vt=4&pos=25
+China,Chery,Arrizo 8,major_facelift,2025-03,2025-03-01,,high,https://www.ithome.com/0/838/188.htm;https://auto.cri.cn/20250324/f662f60b-8527-3ed5-8100-6c1e70fd90d1.html
+China,GAC Trumpchi,M8,new_generation,2017-12,2017-11,,high,https://www.chinanews.com.cn/m/auto/2017/12-31/8413209.shtml;https://en.wikipedia.org/wiki/Trumpchi_M8
+China,GAC Trumpchi,M8,major_facelift,2020-06,2020-06-15,,high,https://www.autohome.com.cn/news/202006/1003982.html?from=m&platform-key=pc
+China,GAC Trumpchi,M8,new_generation,2022-11,2022-08,,high,https://www.xincheping.com/news/139823.html;https://en.wikipedia.org/wiki/Trumpchi_M8
+China,Cadillac,CT5,new_generation,2019-11,2019-11-18,,high,https://www.autohome.com.cn/news/201911/948161.html
+China,Cadillac,CT5,major_facelift,2024-01,2024-01-02,,high,https://db.m.auto.sohu.com/model_5625/a/748896720_121020395
+China,Cadillac,CT5,price_reset,2025-03,2025-02-18,-25%,medium,https://www.sohu.com/a/868077460_100202083
+China,Changan,UNI-V,new_generation,2022-03,2022-03-21,,high,https://auto.sina.cn/newcar/2022-03-21/detail-imcwipih9670314.d.html
+China,Changan,UNI-V,major_facelift,2024-03,2024-03-20,,high,https://db.m.auto.sohu.com/model_7000/a/765783004_121924536
+China,Leapmotor,C11,new_generation,2021-09,2021-09-28,,high,https://en.wikipedia.org/wiki/Leapmotor_C11;https://cnevpost.com/2025/07/11/leapmotor-launches-updated-c11/
+China,Leapmotor,C11,major_facelift,2025-07,2025-07,,high,https://cnevpost.com/2025/07/11/leapmotor-launches-updated-c11/;https://en.wikipedia.org/wiki/Leapmotor_C11
+China,Mercedes-Benz,GLB,new_generation,2019-11,2019-11-28,,high,https://auto.sina.cn/newcar/2019-11-29/detail-iihnzhfz2597976.d.html
+China,Mercedes-Benz,GLB,major_facelift,2023-08,2023-08-27,,high,https://db.m.auto.sohu.com/model_5858/a/715433910_114822
+China,NIO,EL6,new_generation,2023-05,2023-04-18,,high,https://auto.ifeng.com/c/8Q3Uzu3SNFJ;https://en.wikipedia.org/wiki/Nio_ES6
+China,NIO,EL6,major_facelift,2025-05,2025-05-10,,high,https://www.nio.cn/news/20250516001;https://en.wikipedia.org/wiki/Nio_ES6
+China,Volkswagen,Lavida,new_generation,2018-05,2018-04,,high,https://auto.sina.cn/newcar/x/2018-05-25/detail-ihaysviy8699640.d.html;https://en.wikipedia.org/wiki/Volkswagen_Lavida
+China,Volkswagen,Lavida,major_facelift,2022-06,2022-06-23,,high,https://auto.gasgoo.com/news/202206/24I70305296C107.shtml;https://en.wikipedia.org/wiki/Volkswagen_Lavida
+China,Volkswagen,Lavida,new_generation,2025-11,2025-11-17,,high,https://www.saicmotor.com/chinese/xwzx/xwk/2025/63170.shtml;https://en.wikipedia.org/wiki/Volkswagen_Lavida
+China,Haval,H6,new_generation,2017-04,2017-04-19,,high,https://auto.cri.cn/2017-04-19/d8768bff-1d1f-23d6-f1f7-8bfd97479105.html;https://en.wikipedia.org/wiki/Haval_H6
+China,Haval,H6,new_generation,2020-08,2020-07,,high,https://auto.sina.com.cn/newcar/x/2020-08-30/detail-iivhuipp1568970.shtml;https://en.wikipedia.org/wiki/Haval_H6
+China,Haval,H6,major_facelift,2024-06,2024-04,,high,https://auto.news18a.com/news/storys_173072.html;https://en.wikipedia.org/wiki/Haval_H6
+China,Honda,CR-V,new_generation,2017-07,2017-07-09,,high,https://auto.sohu.com/20170709/n500502267.shtml
+China,Honda,CR-V,major_facelift,2020-07,2020-07-10,,high,https://auto.sina.cn/newcar/x/2020-07-10/detail-iirczymm1678598.d.html
+China,Honda,CR-V,new_generation,2022-09,2022-09-28,,high,https://www.aqsiqauto.com/newcars/info/11003.html;https://en.wikipedia.org/wiki/Honda_CR-V_(sixth_generation)
+China,Changan,CS75PLUS,new_generation,2019-09,2019-09-05,,high,https://auto.news18a.com/news/storys_136610.html;https://en.wikipedia.org/wiki/Changan_CS75_Plus
+China,Changan,CS75PLUS,major_facelift,2022-02,2022-02-28,,high,https://auto.sina.cn/newcar/2022-02-28/detail-imcwipih5818493.d.html;https://en.wikipedia.org/wiki/Changan_CS75_Plus
+China,Changan,CS75PLUS,major_facelift,2023-04,2023-04-26,,high,http://www.news.cn/auto/20230428/6731d402d2fe49ad86aeb61f301f5155/c.html;https://en.wikipedia.org/wiki/Changan_CS75_Plus
+China,Changan,CS75PLUS,new_generation,2024-09,2024-07,,high,https://www.cqn.com.cn/auto/content/2024-09/25/content_9069758.htm;https://en.wikipedia.org/wiki/Changan_CS75_Plus
+China,Tesla,Model 3,price_reset,2023-01,2023-01-06,-14%,high,https://cnevpost.com/2023/01/06/tesla-significantly-cuts-prices-in-china/
+China,Tesla,Model 3,major_facelift,2023-10,2023-09-01,,high,https://cnevpost.com/2023/09/01/tesla-launches-revamped-model-3-in-china/
+China,Audi,A6L,new_generation,2019-01,2019-01-15,,high,https://auto.sina.cn/newcar/x/2019-01-15/detail-ihqfskcn7414872.d.html
+China,Audi,A6L,major_facelift,2022-08,2022-08-06,,high,http://www.xinhuanet.com/auto/20220808/684cd77093d74160a1c63d2d77f81c72/c.html
+China,Audi,A6L,new_generation,2026-03,2026-03-10,,high,https://m.gasgoo.com/news/70451412.html;https://www.audi.cn/zh/audi_brand/news_experience/news20260310.html
+China,Audi,A6L,price_reset,2026-03,2026-03-10,-25%,medium,https://m.gasgoo.com/news/70451412.html;https://www.audi.cn/zh/audi_brand/news_experience/news20260310.html;http://www.xinhuanet.com/auto/20220808/684cd77093d74160a1c63d2d77f81c72/c.html
+China,BMW,3 Series,new_generation,2019-06,2019-06-03,,high,https://auto.news18a.com/news/storys_134358.html
+China,BMW,3 Series,major_facelift,2022-08,2022-08-26,,high,https://www.autohome.com.cn/news/202208/1259779.html
+China,Mercedes-Benz,C-Class,major_facelift,2018-10,2018-10-25,,high,https://auto.sina.cn/newcar/x/2018-10-25/detail-ifxeuwws8089712.d.html
+China,Mercedes-Benz,C-Class,new_generation,2021-08,2021-08-27,,high,https://www.autohome.com.cn/news/202108/1195381.html
+China,BMW,5 Series,new_generation,2017-06,2017-06-14,,high,https://www.press.bmwgroup.com/china/article/detail/T0271946ZH_CN/%E5%85%A8%E6%96%B0bmw-5%E7%B3%BBli%E5%B0%86%E4%BA%8E6%E6%9C%8823%E6%97%A5%E5%85%A8%E5%9B%BD%E4%B8%8A%E5%B8%82?language=zh_CN
+China,BMW,5 Series,major_facelift,2020-09,2020-09,,high,https://auto.news18a.com/news/storys_148988.html
+China,BMW,5 Series,new_generation,2024-01,2024-01-25,,high,https://www.bmw-brilliance.cn/cn/zh/news/news/2024-1-25.html
+China,Buick,Envision Plus,new_generation,2021-06,2021-06-19,,high,https://news.gm.com.cn/zh/home/newsroom.detail.html/Pages/news/cn/zh/2021/Jun/0619-buick.html
+China,Buick,Envision Plus,major_facelift,2024-06,2024-06-07,,medium,https://www.ithome.com/0/812/818.htm;https://auto.sina.cn/zz/hy/2024-09-24/detail-incqfnks9317141.d.html
+China,Buick,Envision Plus,price_reset,2024-09,2024-09-24,-26%,high,https://auto.sina.cn/zz/hy/2024-09-24/detail-incqfnks9317141.d.html;https://www.ithome.com/0/812/818.htm
+China,Audi,A4L,new_generation,2016-09,2016-09-10,,high,https://auto.sina.cn/newcar/x/2016-09-10/detail-ifxvukhv8043670.d.html
+China,Audi,A4L,major_facelift,2020-04,2020-04-10,,high,https://www.sohu.com/a/387013694_430921
+China,Chery,X70,new_generation,2018-08,2018-08-18,,medium,https://auto.gasgoo.com/News/2018/08/20100147147I70058051C102.shtml;https://en.wikipedia.org/wiki/Jetour_X70
+China,Chery,X70,major_facelift,2019-08,2019-08-27,,medium,https://auto.sina.cn/newcar/x/2019-08-27/detail-ihytcitn2371165.d.html;https://en.wikipedia.org/wiki/Jetour_X70
+China,Hongqi,H5,new_generation,2018-04,2018-04-25,,high,https://m.cqn.com.cn/auto/content/2018-04/25/content_5705180.htm
+China,Hongqi,H5,new_generation,2022-07,2022-07-26,,high,https://www.faw.com.cn/fawcn/373694/373706/5538925/index.html;https://en.wikipedia.org/wiki/Hongqi_H5
+China,Hongqi,H5,price_reset,2026-05,2026-05-20,-24%,medium,https://chejiahao.m.autohome.com.cn/info/25577837;https://www.faw.com.cn/fawcn/373694/373706/5538925/index.html
+China,Geely,EX2,new_generation,2024-10,2024-10-09,,high,https://carnewschina.com/2024/10/10/geely-geome-xingyuan-entered-market-starting-at-9900-usd-offers-310-km-and-410-km-ranges/;https://autonews.gasgoo.com/articles/ev/70034570
+China,AION,S,new_generation,2019-05,2018-11,,high,https://en.wikipedia.org/wiki/GAC_Aion_S;https://en.wikipedia.org/wiki/Aion_S
+China,Toyota,Highlander,major_facelift,2018-03,2018-03-06,,high,https://auto.sina.cn/newcar/x/2018-03-06/detail-ifxipenn7460112.d.html
+China,Toyota,Highlander,new_generation,2021-06,2021-06-25,,high,https://auto.sina.cn/newcar/2021-06-25/detail-ikqcfnca3222915.d.html
+China,Toyota,Highlander,price_reset,2024-05,2024-05-31,-16%,high,https://auto.sina.cn/newcar/2024-05-31/detail-inaxcnay0551491.d.html
+China,Toyota,Highlander,price_reset,2025-09,2025-09-26,-12%,medium,https://www.pcauto.com.cn/nation/5011/50117767.html
+China,Chevrolet,Monza,new_generation,2019-03,2019-03-21,,high,https://en.wikipedia.org/wiki/Chevrolet_Monza_(China)
+China,Chevrolet,Monza,major_facelift,2022-09,2022-09-13,,high,https://news.gm.com.cn/zh/home.detail.html/Pages/news/cn/zh/2022/Sept/0913-chevrolet-monza.html/;https://en.wikipedia.org/wiki/Chevrolet_Monza_(China)
+China,Nissan,Rogue,major_facelift,2017-04,2017-04-06,,medium,https://auto.sina.cn/newcar/x/2017-04-06/detail-ifyecezv2421830.d.html
+China,Nissan,Rogue,new_generation,2021-07,2021-07-30,,medium,http://www.news.cn/auto/20210802/567a1b6925434cdaaec0dc3d880fda42/c.html
+China,Changan,CS55PLUS,new_generation,2019-11,2019-11-22,,high,http://auto.news18a.com/news/storys_137954.html
+China,Changan,CS55PLUS,new_generation,2021-09,2021-09-06,,medium,https://auto.sina.cn/newcar/x/2021-09-06/detail-iktzqtyt3374584.d.html
+China,Changan,CS55PLUS,major_facelift,2023-09,2023-09-15,,high,https://auto.sina.cn/newcar/2023-09-15/detail-imzmpsiq4296544.d.html
+China,Changan,CS55PLUS,new_generation,2025-09,2025-09-25,,medium,http://www.news.cn/auto/20250930/9f9a4843a696425384fd0ccf9141af56/c.html
+China,Audi,A3,major_facelift,2017-04,2017-04-19,,high,https://auto.sina.cn/newcar/2017-04-19/detail-ifyeimqc4781032.d.html
+China,Audi,A3,new_generation,2021-01,2021-01-23,,high,https://auto.sina.cn/newcar/2021-01-23/detail-ikftssap0023207.d.html
+China,Audi,A3,major_facelift,2024-11,2024-11-01,,high,https://news.qq.com/rain/a/20241101A09FLD00;https://www.sohu.com/a/823560471_120008039
+China,Audi,A3,price_reset,2024-11,2024-11-01,-18%,high,https://news.qq.com/rain/a/20241101A09FLD00;https://www.sohu.com/a/823560471_120008039
+China,Roewe,RX5,new_generation,2016-07,2016-06-09,,high,https://www.saicmotor.com/chinese/xwzx/xwk/2016/44156.shtml;https://en.wikipedia.org/wiki/Roewe_RX5
+China,Roewe,RX5,new_generation,2022-08,2022-03,,high,https://www.12365auto.com/xcdg/20220805/484945.shtml;https://en.wikipedia.org/wiki/Roewe_RX5
+China,GAC Trumpchi,GS4,major_facelift,2018-06,2018-06-16,,medium,https://auto.sina.cn/newcar/x/2018-06-16/detail-ihcyszsa5862901.d.html;https://en.wikipedia.org/wiki/Trumpchi_GS4
+China,GAC Trumpchi,GS4,new_generation,2019-11,2019-09,,high,https://auto.sina.cn/newcar/x/2019-11-15/detail-iihnzahi1165849.d.html;https://en.wikipedia.org/wiki/Trumpchi_GS4
+China,GAC Trumpchi,GS4,successor_launch,2024-04,2024-03,GS4 MAX,medium,https://m.gasgoo.com/news/70389482.html;https://en.wikipedia.org/wiki/Trumpchi_GS4
+China,Chery,Tiggo 5X,new_generation,2017-09,2017-09-27,,high,https://auto.sina.cn/allnews/2017-09-27/detail-ifymksyw4393539.d.html
+China,Chery,Tiggo 5X,price_reset,2019-06,2019-06-18,-25%,medium,https://auto.ifeng.com/c/7nbRelSbxaa;https://auto.sina.cn/allnews/2017-09-27/detail-ifymksyw4393539.d.html
+China,Chery,Tiggo 5X,major_facelift,2020-07,2020-07-16,,high,https://auto.china.com/new/14767.html;https://en.wikipedia.org/wiki/Chery_Tiggo_5x
+China,Chery,Tiggo 5X,new_generation,2024-12,2024-12,,medium,https://www.sohu.com/a/841327895_100146152;https://en.wikipedia.org/wiki/Chery_Tiggo_5x
+China,Mazda,Mazda3,new_generation,2019-09,2019-09-26,,high,https://www.sohu.com/a/343936358_372650
+China,Mazda,Mazda3,price_reset,2023-07,2023-07-05,-22%,high,https://db.m.auto.sohu.com/model_5031/a/694805503_383172
+China,Tank,300,new_generation,2020-12,2020-12-17,,high,https://auto.sina.cn/newcar/2020-12-18/detail-iiznezxs7526094.d.html
+China,Tank,300,major_facelift,2025-03,2025-03-10,,high,https://www.news.cn/auto/20250317/a724ca02ea6d4f44a1b1c8539a83f9c6/c.html
+China,GAC Trumpchi,GS3,new_generation,2017-08,2017-08-26,,high,https://m.pcauto.com.cn/x/1053/10537076.html
+China,GAC Trumpchi,GS3,major_facelift,2020-10,2020-10-01,,high,https://auto.ifeng.com/c/80D9A78hJqc;https://en.wikipedia.org/wiki/Trumpchi_GS3
+China,GAC Trumpchi,GS3,new_generation,2023-03,2023-02-20,,high,https://auto.sina.cn/newcar/2023-03-08/detail-imyketft4467017.d.html;https://en.wikipedia.org/wiki/Trumpchi_GS3
+China,Wuling,Rongguang,new_generation,2026-03,2026-03-09,,medium,https://www.autohome.com.cn/news/202603/1312794.html;https://en.wikipedia.org/wiki/Wuling_Rongguang
+China,BMW,X5,new_generation,2018-12,2018-12-07,,high,https://auto.sohu.com/20181207/n557616101.shtml
+China,BMW,X5,price_reset,2022-03,2022-03-31,-14%,medium,https://www.tmtpost.com/6063541.html;http://www.bmw-brilliance.cn/cn/zh/news/news/2022-3-31-2.html
+China,BMW,X5,major_facelift,2023-08,2023-08-27,,high,https://news.qq.com/rain/a/20230827A03E3600
+China,Buick,LaCrosse,new_generation,2016-03,2016-03-18,,high,https://auto.sina.cn/newcar/x/2016-03-18/detail-ifxqnskh0971927.d.html
+China,Buick,LaCrosse,major_facelift,2019-03,2019-03-29,,high,https://m.cqn.com.cn/zgzlb/content/2019-04/03/content_6967347.htm;https://en.wikipedia.org/wiki/Buick_LaCrosse
+China,Buick,LaCrosse,new_generation,2023-05,2023-05-15,,high,https://auto.sina.cn/newcar/2023-05-15/detail-imytetut1265269.d.html;https://en.wikipedia.org/wiki/Buick_LaCrosse
+China,Buick,LaCrosse,price_reset,2023-05,2023-05-15,-18%,medium,https://www.tfcaijing.com/article/page/75635375625137557764456146717169624b31346e773d3d
+China,AITO,M9,new_generation,2023-12,2023-09-25,,high,https://cnevpost.com/2023/12/26/huawei-backed-aito-officially-launches-m9/
+China,AITO,M9,new_generation,2026-05,2026-03-04,,medium,https://cnevpost.com/2026/05/27/huawei-backed-aito-launches-updated-m9-suv/
+China,Tesla,Model Y,new_generation,2021-01,2021-01-01,,high,https://www.teslarati.com/tesla-model-y-price-china/;https://cnevpost.com/2025/01/10/tesla-launches-facelifted-model-y-china/
+China,Tesla,Model Y,price_reset,2021-07,2021-07-08,-19% (new RWD entry trim),medium,https://electrek.co/2021/07/08/tesla-launches-cheaper-rwd-model-y-china/
+China,Tesla,Model Y,price_reset,2023-01,2023-01-06,-10% to -13%,high,https://cnevpost.com/2023/01/06/tesla-significantly-cuts-prices-in-china/
+China,Tesla,Model Y,major_facelift,2025-01,2025-01-10,,high,https://cnevpost.com/2025/01/10/tesla-launches-facelifted-model-y-china/
+China,Toyota,Corolla,new_generation,2019-08,2019-08-08,,medium,https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)
+China,Toyota,Corolla,major_facelift,2025-12,2025-11,,high,https://www.ithome.com/0/906/686.htm;https://chejiahao.autohome.com.cn/info/24483738;https://en.wikipedia.org/wiki/Toyota_Corolla_(E210)
+China,Volkswagen,Passat NMS,new_generation,2018-10,2018-10-31,,high,https://www.csvw.com/campaign/mediadownload-allnewpassat-news01.html;https://en.wikipedia.org/wiki/Volkswagen_Passat_(North_America_and_China)
+China,Volkswagen,Passat NMS,major_facelift,2021-08,2021-05-11,,high,https://www.sohu.com/a/486050158_120378760;https://www.163.com/dy/article/G9O696GH0527A5SS.html
+China,Volkswagen,Passat NMS,successor_launch,2024-09,2024-09-10,Passat Pro,medium,https://www.sohu.com/a/807944420_430526;https://en.wikipedia.org/wiki/Volkswagen_Passat_(North_America_and_China)
+China,Toyota,RAV4,new_generation,2019-10,2019-10-25,,medium,https://www.autohome.com.cn/news/201910/948199.html
+China,Toyota,RAV4,new_generation,2025-11,2025-11-21,,high,https://chejiahao.autohome.com.cn/info/24379861;https://db.m.auto.sohu.com/model_6066/a/671104942_99994080;https://www.carscoops.com/2025/11/toyota-rav4-twins-debut-in-china-with-larger-screens-and-ice-option/
+China,Geely,Emgrand,major_facelift,2018-05,2018-05,,medium,https://en.wikipedia.org/wiki/Geely_Emgrand
+China,Geely,Emgrand,new_generation,2021-08,2021-08-28,,high,https://www.lanjinger.com/d/165686;https://en.wikipedia.org/wiki/Geely_Emgrand
+China,Geely,Emgrand,new_generation,2025-11,2025-10-11,,high,https://www.news.cn/auto/20251122/c27a67a9a0b3441ca85e1d67a71c0a9c/c.html;https://en.wikipedia.org/wiki/Geely_Emgrand
+China,Chery,Tiggo 8,new_generation,2018-04,2018-04-25,,high,https://m.news18a.com/news/storys_121595.html;https://en.wikipedia.org/wiki/Chery_Tiggo_8
+China,Chery,Tiggo 8,major_facelift,2020-10,2020-10-16,,medium,https://finance.ifeng.com/c/80bxarM8xEB;https://en.wikipedia.org/wiki/Chery_Tiggo_8
+China,Chery,Tiggo 8,new_generation,2025-11,2025-09,,high,https://auto.sina.com.cn/newcar/2025-11-10/detail-infwmzta7059532.shtml;https://en.wikipedia.org/wiki/Chery_Tiggo_8
+China,Mercedes-Benz,E-Class,new_generation,2016-08,2016-08-22,,medium,https://auto.sina.cn/newcar/x/2016-08-22/detail-ifxvcsrn8947709.d.html
+China,Mercedes-Benz,E-Class,major_facelift,2020-09,2020-09-25,,medium,https://auto.sina.cn/newcar/x/2020-09-25/detail-iivhvpwy8842420.d.html
+China,Mercedes-Benz,E-Class,new_generation,2023-12,2023-12-14,,medium,https://auto.sina.cn/newcar/2023-12-14/detail-imzxzafn0938871.d.html
+China,BYD,Dolphin Surf,new_generation,2023-04,2023-04-18,,high,https://cnevpost.com/2023/04/26/byd-officially-launches-seagull/;https://en.wikipedia.org/wiki/BYD_Seagull
+China,BYD,Dolphin Surf,price_reset,2024-03,2024-03-06,-5% (Glory Edition),high,https://cnevpost.com/2024/03/06/byd-refreshes-cheapest-model-seagull/;https://en.wikipedia.org/wiki/BYD_Seagull
+China,BYD,Dolphin Surf,major_facelift,2025-02,2025-02-10,,medium,https://en.wikipedia.org/wiki/BYD_Seagull;https://carnewschina.com/2025/02/10/byd-released-the-new-gods-eye-driving-assistance-system/
+China,Mercedes-Benz,GLC,major_facelift,2018-10,2018-10-17,,medium,https://www.sohu.com/a/260200135_115333;https://en.wikipedia.org/wiki/Mercedes-Benz_GLC
+China,Mercedes-Benz,GLC,major_facelift,2019-08,2019-08-24,,medium,https://www.chinapev.com/baic/benz/the-china-only-2020-benz-glc-l-facelift-is-ready-in-china-market-price-starts-at-392800-yuan/
+China,Mercedes-Benz,GLC,new_generation,2023-04,2023-01-10,,high,https://www.pcauto.com.cn/nation/3713/37136262.html;https://www.sohu.com/a/628138451_290112;https://www.pcauto.com.cn/nation/3674/36745595.html
+China,BYD,Atto 3,new_generation,2022-02,2022-02,,medium,https://cnevpost.com/2024/03/04/byd-launches-updated-yuan-plus/
+China,BYD,Atto 3,price_reset,2024-03,2024-03-04,-12% (Glory Edition),medium,https://cnevpost.com/2024/03/04/byd-launches-updated-yuan-plus/
+China,BYD,Atto 3,major_facelift,2025-03,2025-03-05,,medium,https://www.sohu.com/a/867156429_430526
+China,BYD,Atto 3,new_generation,2026-05,2026-05-21,,medium,http://www.news.cn/auto/20260525/63682501133a454eb7118a80df3f9482/c.html
+China,Honda,Breeze,new_generation,2019-11,2019-11-30,,medium,https://auto.sina.cn/newcar/x/2019-11-30/detail-iihnzahi4438091.d.html
+China,Honda,Breeze,new_generation,2022-12,2022-12-23,,high,https://www.sohu.com/a/619993751_430526;https://en.wikipedia.org/wiki/Honda_Breeze
+China,Toyota,Wildlander,new_generation,2020-02,2020-02-28,,medium,https://auto.ifeng.com/c/7uRCDORiIS8
+China,Toyota,Wildlander,new_generation,2025-11,2025-11-20,,high,https://www.ithome.com/0/898/861.htm;https://finance.yahoo.com/news/toyotas-smarter-cars-now-china-101700871.html
+China,Toyota,Avalon,new_generation,2019-03,2019-03-22,,medium,https://www.autohome.com.cn/news/201903/931651.html
+China,Toyota,Avalon,major_facelift,2022-03,2022-03-28,,medium,https://en.wikipedia.org/wiki/Toyota_Avalon
+China,Toyota,Avalon,major_facelift,2024-07,2024-07-12,,high,https://www.sohu.com/a/792747694_430526;https://en.wikipedia.org/wiki/Toyota_Avalon
+China,Hongqi,HS5,new_generation,2019-05,2019-05-26,,medium,https://www.sohu.com/a/316476668_430526
+China,Hongqi,HS5,major_facelift,2023-05,2023-04-18,,high,https://auto.ifeng.com/c/8PxjGPWJq8r;https://en.wikipedia.org/wiki/Hongqi_HS5
+China,Hongqi,HS5,major_facelift,2026-08,2026-08-21,,medium,https://www.ithome.com/0/992/490.htm
+China,BYD,Song Pro NEV,new_generation,2019-07,2019-07-11,,medium,https://www.diandong.com/news/115075.html;https://en.wikipedia.org/wiki/BYD_Song_Pro
+China,BYD,Song Pro NEV,major_facelift,2021-12,2021-12-23,,high,https://beareyes.com.cn/2/lib/202112/23/20211223008.htm;https://en.wikipedia.org/wiki/BYD_Song_Pro
+China,BYD,Song Pro NEV,major_facelift,2023-05,2023-05-25,,high,https://m.guokr.com/article/464027;https://en.wikipedia.org/wiki/BYD_Song_Pro
+China,BYD,Song Pro NEV,price_reset,2024-03,2024-03-01,-15% (Honor Edition),high,https://cnevpost.com/2024/03/01/byd-launches-updated-song-pro-dm-i/;https://en.wikipedia.org/wiki/BYD_Song_Pro
+China,BYD,Song Pro NEV,major_facelift,2024-09,2024-09-23,,high,https://cnevpost.com/2024/09/23/byd-launches-sealion-05-2nd-gen-song-pro-dm-i/;https://en.wikipedia.org/wiki/BYD_Song_Pro
+China,AION,Y,new_generation,2021-04,2020-11,,medium,https://en.wikipedia.org/wiki/Aion_Y;https://zh.wikipedia.org/wiki/%E5%9F%83%E5%AE%89Y
+China,AION,Y,major_facelift,2022-09,2022-09-27,,high,https://www.autohome.com.cn/news/202209/1264356.html;https://en.wikipedia.org/wiki/Aion_Y
+China,AION,Y,price_reset,2024-03,2024-03-03,-17% (new entry trim),medium,https://cnevpost.com/2024/03/03/gac-aion-adds-new-trim-aion-y-plus-drops-price/
+China,AION,Y,successor_launch,2026-04,2026-01,AION N60,high,https://en.wikipedia.org/wiki/Aion_N60;https://carnewschina.com/2026/04/28/gac-aion-n60-minivan-alike-ev-launched-in-china-at-16090-usd-with-lidar/
+China,Honda,Vezel,major_facelift,2019-06,2019-06-18,,medium,http://auto.sina.com.cn/newcar/x/2019-06-18/detail-ihytcitk6130390.shtml
+China,Honda,Vezel,new_generation,2022-11,2022-11-30,,medium,https://www.inabr.com/news/15904
+China,Ford,Territory,new_generation,2019-01,2018-09,,high,https://www.ford.com.cn/newsroom/2019/20190122/;https://en.wikipedia.org/wiki/Ford_Territory_(China)
+China,Ford,Territory,major_facelift,2020-05,2020-05-20,,medium,https://m.mp.oeeee.com/a/BAAFRD000020200520323250.html;https://en.wikipedia.org/wiki/Ford_Territory_(China)
+China,Ford,Territory,successor_launch,2022-03,2021-11,Equator Sport (领睿) - exported as Territory,medium,https://auto.gasgoo.com/news/202203/28I70295574C107.shtml;https://en.wikipedia.org/wiki/Ford_Equator_Sport
+China,Changan,Lumin,new_generation,2022-06,2022-04,,high,https://h5.cqliving.com/info/detail/96733419.html?cid=96733419&cqxhlwdc=3f;https://en.wikipedia.org/wiki/Changan_Lumin
+China,Volvo,XC60,new_generation,2017-12,2017-12-20,,medium,https://auto.sina.cn/newcar/x/2017-12-20/detail-ifypvuqe4018569.d.html
+China,Volvo,XC60,major_facelift,2021-06,2021-06-11,,medium,https://auto.sina.com.cn/newcar/x/2021-06-11/detail-ikqcfnaz9592251.shtml
+China,Volvo,XC60,major_facelift,2025-06,2025-06-07,,medium,https://db.m.auto.sohu.com/model_1527/a/907099596_120597067
+China,BYD,Seal 06,new_generation,2024-05,2024-04,,high,https://cnevpost.com/2024/05/28/byd-launches-qin-l-seal-06-sedans/;https://en.wikipedia.org/wiki/BYD_Seal_06_DM-i
+China,Lynk & Co,03,new_generation,2018-10,2018-09,,high,https://www.12365auto.com/xcdg/20181019/361197.shtml;https://en.wikipedia.org/wiki/Lynk_%26_Co_03
+China,Lynk & Co,03,major_facelift,2022-09,2022-09-23,,high,https://auto.sina.com.cn/newcar/x/2022-09-23/detail-imqqsmrp0258331.shtml;https://en.wikipedia.org/wiki/Lynk_%26_Co_03
+China,Lynk & Co,03,major_facelift,2025-10,2025-10-17,,high,https://auto.sina.com.cn/newcar/x/2025-10-17/detail-infufkhf5997360.shtml;https://en.wikipedia.org/wiki/Lynk_%26_Co_03
+China,Jetta,VS5,new_generation,2019-09,2019-09-05,,medium,https://www.sohu.com/a/338972875_122155
+China,Jetta,VS5,major_facelift,2024-04,2024-04-25,,medium,https://db.m.auto.sohu.com/model_1001/a/774230016_115342
+China,BYD,UP,new_generation,2024-03,2024-03-26,,medium,https://cnevpost.com/2024/03/26/byd-launches-yuan-up/
+China,BYD,UP,price_reset,2025-07,2025-07-30,-25% (new entry trim without ADAS),medium,https://cnevpost.com/2025/07/30/byd-launches-lower-priced-yuan-up-variant/
+China,Honda,Inspire,new_generation,2018-10,2018-10-25,,medium,https://auto.sina.cn/newcar/x/2018-10-25/detail-ihmxrkzw7807088.d.html
+China,Honda,Inspire,major_facelift,2021-11,2021-11-12,,medium,https://www.autochat.com.cn/zixun/a-22285.html
+China,Honda,Inspire,new_generation,2023-07,2023-07-03,,medium,https://www.pcauto.com.cn/nation/3836/38364855.html
+China,Ford,Mondeo,major_facelift,2016-11,2016-11,,medium,https://www.swjrw.com/news/22251.html
+China,Ford,Mondeo,new_generation,2022-04,2022-04-13,,high,https://auto.sina.cn/newcar/2022-04-13/detail-imcwiwst1613593.d.html?vt=4&pos=25;https://en.wikipedia.org/wiki/Ford_Mondeo_(fifth_generation)
+China,Ford,Mondeo,major_facelift,2025-12,2025-11,,high,https://auto.sina.com.cn/newcar/2025-12-04/detail-infzhtse3074126.shtml;https://en.wikipedia.org/wiki/Ford_Mondeo_(fifth_generation)
+China,Cadillac,XT5,new_generation,2016-04,2016-04-12,,medium,https://www.chinanews.com/auto/2016/04-13/7832300.shtml
+China,Cadillac,XT5,major_facelift,2019-06,2019-06-17,,high,https://www.saicmotor.com/chinese/xwzx/xwk/2019/51913.shtml
+China,Cadillac,XT5,new_generation,2024-09,2024-09-28,,medium,https://db.m.auto.sohu.com/model_5011/a/812130862_430526
+China,Geely,Binrui,new_generation,2018-08,2018-08-30,,high,https://auto.sina.cn/newcar/x/2018-08-30/detail-ihiixzkm2643598.d.html;https://en.wikipedia.org/wiki/Geely_Binrui
+China,Geely,Binrui,major_facelift,2020-12,2020-12-24,,medium,https://auto.gasgoo.com/news/202012/25I70235548C107.shtml;https://en.wikipedia.org/wiki/Geely_Binrui
+China,Geely,Binrui,major_facelift,2022-05,2022-03,,medium,http://www.xinhuanet.com/auto/20220521/a8fdb607e14e429286ae50c3d9537de4/c.html;https://en.wikipedia.org/wiki/Geely_Binrui
+China,Zeekr,001,new_generation,2021-10,2021-04,,medium,https://en.wikipedia.org/wiki/Zeekr_001
+China,Zeekr,001,major_facelift,2024-02,2024-02-27,,high,https://cnevpost.com/2024/02/27/zeekr-launches-refreshed-zeekr-001/;https://en.wikipedia.org/wiki/Zeekr_001
+China,Zeekr,001,price_reset,2024-02,2024-02-27,-10% to -15%,high,https://cnevpost.com/2024/02/27/zeekr-launches-refreshed-zeekr-001/
+China,Chery,QQ,new_generation,2021-12,2021-07,,medium,http://www.news.cn/auto/20211229/7d20baf947fb464a91d401e11db1ad0a/c.html;https://en.wikipedia.org/wiki/Chery_QQ_Ice_Cream
+China,Chery,QQ,new_generation,2026-03,2025-08,,medium,https://carnewschina.com/2026/03/31/chery-qq3-ev-launches-with-56879-orders-prices-from-8200-usd/;https://en.wikipedia.org/wiki/Chery_QQ3
+China,Wuling,Hongguang MINIEV,new_generation,2020-07,2020-07,,high,https://en.wikipedia.org/wiki/Wuling_Hongguang_Mini_EV;http://www.news.cn/auto/20250223/b0b3bc70b2b64402904aeae2684db9cb/c.html
+China,Wuling,Hongguang MINIEV,new_generation,2025-02,2024-12,,medium,https://en.wikipedia.org/wiki/Wuling_Hongguang_Mini_EV;http://www.news.cn/auto/20250223/b0b3bc70b2b64402904aeae2684db9cb/c.html
+China,BYD,Qin Plus,new_generation,2021-03,2021-01,,high,https://en.wikipedia.org/wiki/BYD_Qin_Plus
+China,BYD,Qin Plus,price_reset,2023-02,2023-02-10,-12%,medium,https://www.ithome.com/0/672/564.htm;https://carnewschina.com/2023/02/11/2023-byd-qin-plus-dm-i-launched-in-china-price-starts-at-14600-usd/;https://en.wikipedia.org/wiki/BYD_Qin_Plus
+China,BYD,Qin Plus,price_reset,2024-02,2024-02-19,-20%,high,https://m.gasgoo.com/news/70383008.html;https://www.ithome.com/0/672/564.htm;https://en.wikipedia.org/wiki/BYD_Qin_Plus
+China,BYD,Qin Plus,major_facelift,2025-02,2025-01,,medium,https://carnewschina.com/2025/01/23/new-byd-qin-plus-dm-i-arrived-at-dealers-in-china-price-may-start-at-12300-usd/;https://en.wikipedia.org/wiki/BYD_Qin_Plus
+China,Honda,Accord,new_generation,2018-04,2018-04-16,,high,https://www.chinanews.com.cn/m/auto/2018/04-17/8492983.shtml
+China,Honda,Accord,major_facelift,2021-10,2021-10-09,,high,https://www.honda.com.cn/news/20211009.html
+China,Honda,Accord,new_generation,2023-05,2023-05-20,,high,https://auto.news18a.com/news/storys_168414.html
+China,Honda,Accord,major_facelift,2025-03,2025-03-20,,medium,https://auto.news18a.com/news/storys_176513.html
+China,Volkswagen,Magotan,new_generation,2016-07,2016-07-27,,high,https://www.autohome.com.cn/news/201607/891069.html
+China,Volkswagen,Magotan,major_facelift,2019-12,2019-12-18,,high,http://auto.news18a.com/news/storys_139031.html
+China,Volkswagen,Magotan,new_generation,2024-07,2024-07-09,,high,https://www.autohome.com.cn/news/202407/1298319.html
+China,Volkswagen,Bora,new_generation,2018-06,2018-06-29,,high,http://auto.news18a.com/news/storys_123628.html
+China,Volkswagen,Bora,major_facelift,2022-06,2022-06-28,,high,http://www.news.cn/auto/20220628/c82cb486df704d37bb7e7c008dd87471/c.html
+China,Honda,Civic,new_generation,2016-04,2016-04-12,,high,http://auto.cnr.cn/zxss/20160413/t20160413_521866431.shtml
+China,Honda,Civic,major_facelift,2019-05,2019-05-17,,medium,https://www.autohome.com.cn/news/201905/936268.html
+China,Honda,Civic,new_generation,2021-09,2021-09-24,,high,https://www.honda.com.cn/news/20210924.html
+China,Honda,Civic,major_facelift,2025-03,2025-03-01,,high,https://www.ithome.com/0/834/578.htm
+China,Toyota,Levin,major_facelift,2017-05,2017-05-22,,medium,http://auto.sina.com.cn/newcar/x/2017-05-22/detail-ifyfkqiv6634631.shtml
+China,Toyota,Levin,new_generation,2019-05,2019-05-20,,high,http://info.xcar.com.cn/201905/news_2038553_1.html
+China,Toyota,Levin,major_facelift,2023-03,2023-03-23,,high,https://auto.ifeng.com/c/8OQC86AWmA0
+China,Toyota,Levin,major_facelift,2025-12,2025-12-21,,medium,https://www.autohome.com.cn/news/202512/1311313.html;https://auto.ifeng.com/c/8pHB8Y9rimg
+China,BYD,Han,new_generation,2020-07,2020-07,,high,https://en.wikipedia.org/wiki/BYD_Han
+China,BYD,Han,major_facelift,2022-04,2022-04-10,,high,https://www.xchuxing.com/article/48841;https://en.wikipedia.org/wiki/BYD_Han
+China,BYD,Han,price_reset,2024-02,2024-02-28,-11%,high,https://carnewschina.com/2024/02/28/byd-launches-2024-han-sedan-and-tang-suv-14-cheaper-than-previous-version-updating-to-800v/
+China,Nissan,Qashqai,major_facelift,2019-04,2019-04-08,,high,https://auto.sina.cn/newcar/x/2019-04-08/detail-ihvhiewr4110670.d.html
+China,Nissan,Qashqai,new_generation,2023-08,2023-08-16,,high,http://www.xinhuanet.com/auto/20230817/f0cf4d4680b24cd7abcd3742039d63f7/c.html
+China,Nissan,Qashqai,major_facelift,2024-10,2024-10-20,,medium,https://www.sohu.com/a/818376370_430526
+China,BYD,Dolphin,new_generation,2021-08,2021-04,,high,https://en.wikipedia.org/wiki/BYD_Dolphin;https://www.xchuxing.com/article/37199
+China,BYD,Dolphin,price_reset,2024-02,2024-02-23,-15%,high,https://cnevpost.com/2024/02/23/byd-launches-refreshed-dolphin/;http://www.news.cn/auto/20240223/7b514f877e9a4cb6bb16d057f8c31b4a/c.html
+China,BYD,Dolphin,major_facelift,2025-02,2024-12-09,,medium,https://carnewschina.com/2024/12/10/new-byd-dolphin-electric-hatchback-specs-revealed-in-china/;https://paultan.org/2025/03/05/byd-dolphin-facelift-in-china-new-looks-gods-eye-c-adas-larger-8-8-inch-instrument-display-from-rm60k/;https://en.wikipedia.org/wiki/BYD_Dolphin
+China,BMW,X3,new_generation,2018-07,2018-04-26,,high,http://www.bmw-brilliance.cn/cn/zh/news/news/2018-4-26.html;https://auto.sina.cn/newcar/x/2018-07-03/detail-ihevauxi8340953.d.html
+China,BMW,X3,major_facelift,2021-08,2021-08-10,,high,https://auto.sina.cn/newcar/2021-08-10/detail-ikqciyzm0669211.d.html
+China,BMW,X3,new_generation,2025-02,2024-08-30,,high,https://www.ithome.com/0/830/832.htm;https://auto.sina.cn/news/2024-08-30/detail-incmkumq2447429.d.html
+China,Hyundai,Elantra,new_generation,2020-10,2020-10-25,,high,https://auto.sina.cn/newcar/x/2020-10-25/detail-iiznctkc7600023.d.html
+China,Hyundai,Elantra,major_facelift,2023-08,2023-08-25,,high,https://db.m.auto.sohu.com/model_1988/a/714900311_120892863
+China,Geely,Preface,new_generation,2020-11,2020-11-01,,high,https://www.autohome.com.cn/news/202011/1061115.html
+China,Geely,Preface,major_facelift,2024-10,2024-10-27,,medium,https://auto.zol.com.cn/912/9129342.html
+China,Volkswagen,Tharu,new_generation,2018-10,2018-10-31,,high,https://www.xincheping.com/cehua/123138.html
+China,Volkswagen,Tharu,major_facelift,2023-03,2023-03-30,,high,https://www.pcauto.com.cn/nation/3673/36735195.html
+China,Toyota,Corolla Cross,new_generation,2022-01,2022-01-20,,high,http://www.news.cn/auto/20220121/bf154051c4a64aae808f18788d3f463d/c.html
+China,Toyota,Corolla Cross,major_facelift,2025-10,2025-10-28,,medium,https://www.ithome.com/0/893/071.htm
+China,Geely,Boyue L,new_generation,2022-10,2022-10-26,,high,https://news.qq.com/rain/a/20221027A01XJ200
+China,Geely,Boyue L,major_facelift,2025-05,2025-05-13,,medium,https://www.shenxuanche.com/news/594721;https://hao.yiche.com/wenzhang/100908419/
+China,Geely,Boyue L,price_reset,2025-05,2025-05-13,-14%,medium,https://hao.yiche.com/wenzhang/100908419/;https://auto.gasgoo.com/news/202405/21I70392914C109.shtml
+China,BMW,X1,new_generation,2016-05,2016-04-26,,high,https://auto.sina.cn/newcar/x/2016-05-20/detail-ifxsktkr5820112.d.html;https://www.press.bmwgroup.com/china/article/detail/T0259490ZH_CN/%E5%85%A8%E6%96%B0bmw-x1%E9%95%BF%E8%BD%B4%E8%B7%9D%E7%89%88%E5%8C%97%E4%BA%AC%E8%BD%A6%E5%B1%95%E5%85%A8%E7%90%83%E9%A6%96%E5%8F%91-%E5%9B%BD%E4%BA%A7%E5%85%A5%E9%97%A8%E8%B1%AA%E5%8D%8Esuv%E5%B8%82%E5%9C%BA%E8%BF%8E%E6%9D%A5%E6%96%B0%E6%A0%87%E6%9D%86-%E5%8D%8E%E6%99%A8%E5%AE%9D%E9%A9%AC%E5%8D%B3%E6%97%A5%E5%90%AF%E5%8A%A8%E5%AE%A2%E6%88%B7%E9%A2%84%E8%AE%A2-%E5%94%AE%E4%BB%B728-6%E4%B8%87%E8%B5%B7?language=zh_CN
+China,BMW,X1,major_facelift,2019-10,2019-09,,high,https://www.press.bmwgroup.com/china/article/detail/T0301866ZH_CN/%E6%B4%BB%E5%87%BA%E5%B9%B8%E7%A6%8F%E6%84%9F%EF%BC%8C-%E7%A7%80%E5%87%BA%E5%9E%8B%E5%BC%8F%E6%84%9F?language=zh_CN;https://www.sohu.com/a/340064506_372652
+China,BMW,X1,new_generation,2023-04,2023-04,,medium,https://finance.sina.cn/2023-04-25/detail-imyrrekr3830819.d.html?from=wap;https://en.wikipedia.org/wiki/BMW_X1_(U11)
+China,Volkswagen,T-Roc,new_generation,2018-07,2018-07-30,,high,http://auto.sina.com.cn/newcar/x/2018-07-30/detail-ihhacrcc7401508.shtml
+China,Volkswagen,T-Roc,major_facelift,2023-04,2023-03-22,,high,https://www.autohome.com.cn/news/202304/1283150.html;https://www.pcauto.com.cn/teach/3652/36526055.html
+China,Chery,Tiggo 7,new_generation,2016-09,2016-04-24,,high,https://en.wikipedia.org/wiki/Chery_Tiggo_7;https://auto.sina.cn/newcar/x/2016-09-20/detail-ifxvyqwa3632058.d.html
+China,Chery,Tiggo 7,new_generation,2020-03,2019-12-23,,high,https://en.wikipedia.org/wiki/Chery_Tiggo_7;https://www.sohu.com/a/378822892_250147
+China,Chery,Tiggo 7,new_generation,2024-11,2024-11-01,,medium,https://www.12365auto.com/xcdg/20241101/536996.shtml;https://en.wikipedia.org/wiki/Chery_Tiggo_7
+China,Chery,Tiggo 7,new_generation,2026-04,2026-03-02,,medium,https://en.wikipedia.org/wiki/Chery_Tiggo_7;https://www.ithome.com/0/937/166.htm;https://auto.cnr.cn/cz/20260409/t20260409_527578763.shtml
+China,Chery,Tiggo 7,price_reset,2026-04,2026-04-08,-26%,medium,https://www.ithome.com/0/937/166.htm;https://www.12365auto.com/xcdg/20241101/536996.shtml
+China,Xiaomi,SU7,new_generation,2024-03,2023-12-28,,high,https://carnewschina.com/2024/03/28/xiaomi-su7-launched-with-830-km-range-starts-at-29900-usd/;https://en.wikipedia.org/wiki/Xiaomi_SU7
+China,Xiaomi,SU7,major_facelift,2026-03,2026-01-07,,high,https://www.ithome.com/0/930/773.htm;https://en.wikipedia.org/wiki/Xiaomi_SU7
+China,AITO,M7,new_generation,2022-07,2022-07-04,,high,https://en.wikipedia.org/wiki/AITO_M7
+China,AITO,M7,major_facelift,2023-09,2023-09-12,,high,https://aito.auto/news/m7-new-launch-20230912/
+China,AITO,M7,price_reset,2023-09,2023-09-12,-14%,high,https://k.sina.com.cn/article_7857141524_1d45277140190266h4.html;https://aito.auto/news/m7-new-launch-20230912/
+China,AITO,M7,new_generation,2025-09,2025-08-25,,high,https://www.nbd.com.cn/articles/2025-09-23/4072056.html;https://finance.sina.com.cn/stock/t/2025-08-25/doc-infnewrc9106403.shtml;https://en.wikipedia.org/wiki/AITO_M7
+China,BYD,Destroyer 05,new_generation,2022-03,2022-03-17,,high,http://www.news.cn/auto/20220318/1834b94b31cc4f388ff2e528b30853a3/c.html
+China,BYD,Destroyer 05,price_reset,2023-04,2023-04-28,-15%,high,https://www.sohu.com/a/671227544_121285101
+China,BYD,Destroyer 05,price_reset,2024-02,2024-02-19,-22%,high,https://auto.sina.cn/newcar/x/2024-02-19/detail-inaipzvn5424030.d.html?vt=4&pos=25
+China,BYD,Destroyer 05,successor_launch,2025-02,2025-01-07,Seal 05 DM-i,medium,https://en.wikipedia.org/wiki/BYD_Seal_05_DM-i;https://finance.sina.com.cn/tech/digi/2025-02-02/doc-ineiatax8509415.shtml
+China,Buick,Verano,new_generation,2021-09,2021-09-10,,high,http://www.news.cn/auto/20210914/72222d55cb8d486bb149f5da6df3d000/c.html
+China,Geely,Panda,new_generation,2023-02,2022-12-30,,high,https://auto.sina.cn/newcar/x/2023-02-06/detail-imyeurrf6310958.d.html;https://www.sohu.com/a/625385052_121445780
+China,Li Auto,L6,new_generation,2024-04,2024-04-18,,high,https://cnevpost.com/2024/04/18/li-auto-launches-li-l6/
+China,Li Auto,L6,major_facelift,2026-07,2026-06-16,,high,https://cnevpost.com/2026/07/16/li-auto-launches-revamped-l6/;https://cnevpost.com/2026/06/16/li-auto-to-launch-refreshed-l6-july/
+China,Toyota,Sienna,new_generation,2021-10,2021-10-30,,high,https://new.v5auto.com/index.php/Ch/Cms/News/infoDetail/id/12579/bID/475
+China,Denza,D9,new_generation,2022-08,2022-06,,high,https://auto.sina.cn/newcar/2022-08-23/detail-imizirav9397474.d.html
+China,Mercedes-Benz,A-Class,new_generation,2018-11,2018-11-23,,medium,https://www.pcauto.com.cn/nation/1371/13714723.html
+China,Mercedes-Benz,A-Class,major_facelift,2023-03,2023-03-18,,high,https://db.m.auto.sohu.com/model_5515/a/677508704_121504992
+China,Volkswagen,Teramont,new_generation,2017-03,2017-03-29,,high,https://www.autohome.com.cn/news/201703/900144.html
+China,Volkswagen,Teramont,major_facelift,2021-04,2021-04-19,,high,https://www.pcauto.com.cn/nation/2479/24790956.html
+China,Volkswagen,Teramont,major_facelift,2025-03,2025-03-10,,high,https://auto.sina.cn/newcar/2025-03-10/detail-inepeazk0659816.d.html
+China,Volkswagen,Teramont,price_reset,2025-03,2025-03-10,-15%,medium,https://auto.sina.cn/newcar/2025-03-10/detail-inepeazk0659816.d.html;https://db.m.auto.sohu.com/model_5156/a/725778422_114822
+China,GAC Trumpchi,M6,new_generation,2019-01,2019-01-02,,high,https://auto.sina.cn/newcar/x/2019-01-02/detail-ihqfskcn3473899.d.html
+China,GAC Trumpchi,M6,major_facelift,2021-05,2021-05-01,,high,https://www.163.com/auto/article/G8TRGJUM0008856R.html

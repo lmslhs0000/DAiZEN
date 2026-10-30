@@ -1,0 +1,685 @@
+﻿model,scope,scope_value,part,metric,value,n
+seasonal_naive,overall,all,front,pooled_wape,35.397288485670195,7818
+seasonal_naive,overall,all,middle,pooled_wape,28.932921817536027,7818
+seasonal_naive,overall,all,back,pooled_wape,32.56079889384291,7818
+seasonal_naive,overall,all,main,pooled_wape,32.29700306568304,23454
+seasonal_naive,group,A,front,pooled_wape,31.49972538417244,2633
+seasonal_naive,group,A,middle,pooled_wape,25.443572390162238,2633
+seasonal_naive,group,A,back,pooled_wape,28.08938440898234,2633
+seasonal_naive,group,A,main,pooled_wape,28.344227394439006,7899
+seasonal_naive,group,A,front,median_wape,27.489835662304827,2633
+seasonal_naive,group,A,middle,median_wape,22.37775770868275,2633
+seasonal_naive,group,A,back,median_wape,21.06659735083558,2633
+seasonal_naive,group,A,all,alarm_share,18.63527028737815,7899
+seasonal_naive,group,B,front,pooled_wape,49.812052795113146,2050
+seasonal_naive,group,B,middle,pooled_wape,40.873784079826336,2050
+seasonal_naive,group,B,back,pooled_wape,48.695297652377675,2050
+seasonal_naive,group,B,main,pooled_wape,46.460378175772384,6150
+seasonal_naive,group,B,front,median_wape,40.46459632077837,2048
+seasonal_naive,group,B,middle,median_wape,33.4650014522219,2049
+seasonal_naive,group,B,back,median_wape,34.7278382361952,2046
+seasonal_naive,group,B,all,alarm_share,35.29220250691844,6143
+seasonal_naive,group,C,front,pooled_wape,61.667483056246326,3135
+seasonal_naive,group,C,middle,pooled_wape,53.2942988241971,3135
+seasonal_naive,group,C,back,pooled_wape,61.18089602799577,3135
+seasonal_naive,group,C,main,pooled_wape,58.714225969479735,9405
+seasonal_naive,group,C,front,median_wape,53.57142857142857,3050
+seasonal_naive,group,C,middle,median_wape,47.15447154471545,3095
+seasonal_naive,group,C,back,median_wape,48.77450980392157,3117
+seasonal_naive,group,C,all,alarm_share,49.751673504642625,9262
+seasonal_naive,market,Canada,front,pooled_wape,31.55791788310942,1162
+seasonal_naive,market,Canada,middle,pooled_wape,25.818489448700475,1162
+seasonal_naive,market,Canada,back,pooled_wape,29.878529858341874,1162
+seasonal_naive,market,Canada,main,pooled_wape,29.084979063383923,3486
+seasonal_naive,market,China,front,pooled_wape,48.42927937799531,1448
+seasonal_naive,market,China,middle,pooled_wape,41.14405162307736,1448
+seasonal_naive,market,China,back,pooled_wape,53.967425209820995,1448
+seasonal_naive,market,China,main,pooled_wape,47.84691873696455,4344
+seasonal_naive,market,Europe,front,pooled_wape,27.624843346159473,1329
+seasonal_naive,market,Europe,middle,pooled_wape,22.09833242859586,1329
+seasonal_naive,market,Europe,back,pooled_wape,24.043790422766712,1329
+seasonal_naive,market,Europe,main,pooled_wape,24.588988732507346,3987
+seasonal_naive,market,Germany,front,pooled_wape,39.14602366247554,1270
+seasonal_naive,market,Germany,middle,pooled_wape,32.36303267730255,1270
+seasonal_naive,market,Germany,back,pooled_wape,33.04645444039642,1270
+seasonal_naive,market,Germany,main,pooled_wape,34.851836926724836,3810
+seasonal_naive,market,Japan,front,pooled_wape,33.59902534556033,603
+seasonal_naive,market,Japan,middle,pooled_wape,26.658101323878718,603
+seasonal_naive,market,Japan,back,pooled_wape,22.959098880675135,603
+seasonal_naive,market,Japan,main,pooled_wape,27.738741850038064,1809
+seasonal_naive,market,South Korea,front,pooled_wape,42.80364923747277,823
+seasonal_naive,market,South Korea,middle,pooled_wape,32.308767269722374,823
+seasonal_naive,market,South Korea,back,pooled_wape,34.4358718679322,823
+seasonal_naive,market,South Korea,main,pooled_wape,36.51609612504245,2469
+seasonal_naive,market,United States,front,pooled_wape,26.11327106380995,1183
+seasonal_naive,market,United States,middle,pooled_wape,21.379688973380862,1183
+seasonal_naive,market,United States,back,pooled_wape,22.374583039970528,1183
+seasonal_naive,market,United States,main,pooled_wape,23.28918102572045,3549
+seasonal_naive,origin,2022-07,front,pooled_wape,37.38522521941998,1357
+seasonal_naive,origin,2022-07,middle,pooled_wape,30.892984005218473,1357
+seasonal_naive,origin,2022-07,back,pooled_wape,30.57097886607865,1357
+seasonal_naive,origin,2022-07,main,pooled_wape,32.94972936357237,4071
+seasonal_naive,origin,2023-01,front,pooled_wape,36.20519215314089,1477
+seasonal_naive,origin,2023-01,middle,pooled_wape,29.610591543695854,1477
+seasonal_naive,origin,2023-01,back,pooled_wape,32.19779903389807,1477
+seasonal_naive,origin,2023-01,main,pooled_wape,32.67119424357827,4431
+seasonal_naive,origin,2023-07,front,pooled_wape,35.16034285600148,1556
+seasonal_naive,origin,2023-07,middle,pooled_wape,28.71923442649274,1556
+seasonal_naive,origin,2023-07,back,pooled_wape,30.88756315570541,1556
+seasonal_naive,origin,2023-07,main,pooled_wape,31.589046812733212,4668
+seasonal_naive,origin,2024-01,front,pooled_wape,34.39746603209243,1658
+seasonal_naive,origin,2024-01,middle,pooled_wape,28.294437512160975,1658
+seasonal_naive,origin,2024-01,back,pooled_wape,32.536349817857364,1658
+seasonal_naive,origin,2024-01,main,pooled_wape,31.742751120703588,4974
+seasonal_naive,origin,2024-07,front,pooled_wape,34.06878663131119,1770
+seasonal_naive,origin,2024-07,middle,pooled_wape,27.419404251516905,1770
+seasonal_naive,origin,2024-07,back,pooled_wape,36.51986242134961,1770
+seasonal_naive,origin,2024-07,main,pooled_wape,32.66935110139257,5310
+xgb_c0,overall,all,front,pooled_wape,23.478740670730456,7818
+xgb_c0,overall,all,middle,pooled_wape,28.183850280947926,7818
+xgb_c0,overall,all,back,pooled_wape,35.088890189151314,7818
+xgb_c0,overall,all,main,pooled_wape,28.917160380276567,23454
+xgb_c0,group,A,front,pooled_wape,20.704235622899876,2633
+xgb_c0,group,A,middle,pooled_wape,23.90268877581802,2633
+xgb_c0,group,A,back,pooled_wape,29.410874583110065,2633
+xgb_c0,group,A,main,pooled_wape,24.67259966060932,7899
+xgb_c0,group,A,front,median_wape,17.670961306330472,2633
+xgb_c0,group,A,middle,median_wape,19.453170616218202,2633
+xgb_c0,group,A,back,median_wape,21.702995743792414,2633
+xgb_c0,group,A,all,alarm_share,14.976579313837194,7899
+xgb_c0,group,B,front,pooled_wape,28.469370771738806,2050
+xgb_c0,group,B,middle,pooled_wape,37.28465059154634,2050
+xgb_c0,group,B,back,pooled_wape,48.50094130226592,2050
+xgb_c0,group,B,main,pooled_wape,38.08498755518369,6150
+xgb_c0,group,B,front,median_wape,23.850538614740707,2048
+xgb_c0,group,B,middle,median_wape,28.449323082041463,2049
+xgb_c0,group,B,back,median_wape,33.7359680565074,2046
+xgb_c0,group,B,all,alarm_share,26.17613543871073,6143
+xgb_c0,group,C,front,pooled_wape,57.98478797260051,3135
+xgb_c0,group,C,middle,pooled_wape,73.94878039223144,3135
+xgb_c0,group,C,back,pooled_wape,90.25556109688296,3135
+xgb_c0,group,C,main,pooled_wape,74.06304315390497,9405
+xgb_c0,group,C,front,median_wape,62.71616558988386,3050
+xgb_c0,group,C,middle,median_wape,83.14524885183707,3095
+xgb_c0,group,C,back,median_wape,114.37914989928653,3117
+xgb_c0,group,C,all,alarm_share,62.988555387605274,9262
+xgb_c0,market,Canada,front,pooled_wape,16.742212863587117,1162
+xgb_c0,market,Canada,middle,pooled_wape,25.54359354116024,1162
+xgb_c0,market,Canada,back,pooled_wape,30.817974711713834,1162
+xgb_c0,market,Canada,main,pooled_wape,24.367927038820397,3486
+xgb_c0,market,China,front,pooled_wape,31.270476055271015,1448
+xgb_c0,market,China,middle,pooled_wape,40.99471110586925,1448
+xgb_c0,market,China,back,pooled_wape,58.1507117492731,1448
+xgb_c0,market,China,main,pooled_wape,43.47196630347113,4344
+xgb_c0,market,Europe,front,pooled_wape,21.56321276326644,1329
+xgb_c0,market,Europe,middle,pooled_wape,21.998783483674774,1329
+xgb_c0,market,Europe,back,pooled_wape,26.443798937634053,1329
+xgb_c0,market,Europe,main,pooled_wape,23.33526506152509,3987
+xgb_c0,market,Germany,front,pooled_wape,28.389747528060777,1270
+xgb_c0,market,Germany,middle,pooled_wape,32.88488831614357,1270
+xgb_c0,market,Germany,back,pooled_wape,39.363305750728166,1270
+xgb_c0,market,Germany,main,pooled_wape,33.54598053164417,3810
+xgb_c0,market,Japan,front,pooled_wape,23.81198042590616,603
+xgb_c0,market,Japan,middle,pooled_wape,24.3987662771652,603
+xgb_c0,market,Japan,back,pooled_wape,24.51740052963905,603
+xgb_c0,market,Japan,main,pooled_wape,24.242715744236804,1809
+xgb_c0,market,South Korea,front,pooled_wape,27.61933846255533,823
+xgb_c0,market,South Korea,middle,pooled_wape,31.20430517086565,823
+xgb_c0,market,South Korea,back,pooled_wape,37.15846129474635,823
+xgb_c0,market,South Korea,main,pooled_wape,31.994034976055776,2469
+xgb_c0,market,United States,front,pooled_wape,15.571850989641158,1183
+xgb_c0,market,United States,middle,pooled_wape,19.665284211441175,1183
+xgb_c0,market,United States,back,pooled_wape,23.319266434308584,1183
+xgb_c0,market,United States,main,pooled_wape,19.518800545130304,3549
+xgb_c0,origin,2022-07,front,pooled_wape,22.70855115667485,1357
+xgb_c0,origin,2022-07,middle,pooled_wape,28.716932915973924,1357
+xgb_c0,origin,2022-07,back,pooled_wape,32.43407084690173,1357
+xgb_c0,origin,2022-07,main,pooled_wape,27.9531849731835,4071
+xgb_c0,origin,2023-01,front,pooled_wape,24.726560536561756,1477
+xgb_c0,origin,2023-01,middle,pooled_wape,27.30418595293641,1477
+xgb_c0,origin,2023-01,back,pooled_wape,34.555967933594445,1477
+xgb_c0,origin,2023-01,main,pooled_wape,28.862238141030872,4431
+xgb_c0,origin,2023-07,front,pooled_wape,20.48856365416499,1556
+xgb_c0,origin,2023-07,middle,pooled_wape,27.71422137547441,1556
+xgb_c0,origin,2023-07,back,pooled_wape,32.378326088984615,1556
+xgb_c0,origin,2023-07,main,pooled_wape,26.860370372874673,4668
+xgb_c0,origin,2024-01,front,pooled_wape,25.51305843583832,1658
+xgb_c0,origin,2024-01,middle,pooled_wape,29.5719267673204,1658
+xgb_c0,origin,2024-01,back,pooled_wape,36.492830478829525,1658
+xgb_c0,origin,2024-01,main,pooled_wape,30.525938560662752,4974
+xgb_c0,origin,2024-07,front,pooled_wape,24.044058071440727,1770
+xgb_c0,origin,2024-07,middle,pooled_wape,27.678005268445112,1770
+xgb_c0,origin,2024-07,back,pooled_wape,39.451307559995186,1770
+xgb_c0,origin,2024-07,main,pooled_wape,30.391123633293674,5310
+xgb_c1,overall,all,front,pooled_wape,22.73610760801437,7818
+xgb_c1,overall,all,middle,pooled_wape,27.739208564592836,7818
+xgb_c1,overall,all,back,pooled_wape,34.67237788844348,7818
+xgb_c1,overall,all,main,pooled_wape,28.382564687016895,23454
+xgb_c1,group,A,front,pooled_wape,20.256589632520875,2633
+xgb_c1,group,A,middle,pooled_wape,23.97615806010935,2633
+xgb_c1,group,A,back,pooled_wape,29.70273790817556,2633
+xgb_c1,group,A,main,pooled_wape,24.645161866935265,7899
+xgb_c1,group,A,front,median_wape,17.09473081639107,2633
+xgb_c1,group,A,middle,median_wape,19.239184706979273,2633
+xgb_c1,group,A,back,median_wape,22.085957118047684,2633
+xgb_c1,group,A,all,alarm_share,15.255095581719205,7899
+xgb_c1,group,B,front,pooled_wape,28.864216246280176,2050
+xgb_c1,group,B,middle,pooled_wape,37.87159749469903,2050
+xgb_c1,group,B,back,pooled_wape,49.254938961087596,2050
+xgb_c1,group,B,main,pooled_wape,38.66358423402227,6150
+xgb_c1,group,B,front,median_wape,23.87465784714071,2048
+xgb_c1,group,B,middle,median_wape,28.642934084633332,2049
+xgb_c1,group,B,back,median_wape,34.91536868820088,2046
+xgb_c1,group,B,all,alarm_share,26.908676542405992,6143
+xgb_c1,group,C,front,pooled_wape,48.571217667282134,3135
+xgb_c1,group,C,middle,pooled_wape,61.86405797649022,3135
+xgb_c1,group,C,back,pooled_wape,75.39195762640027,3135
+xgb_c1,group,C,main,pooled_wape,61.94241109005754,9405
+xgb_c1,group,C,front,median_wape,51.079107668964795,3050
+xgb_c1,group,C,middle,median_wape,58.678630156571785,3095
+xgb_c1,group,C,back,median_wape,74.05182418851956,3117
+xgb_c1,group,C,all,alarm_share,55.905851867847126,9262
+xgb_c1,market,Canada,front,pooled_wape,16.425557598783215,1162
+xgb_c1,market,Canada,middle,pooled_wape,25.083283146132473,1162
+xgb_c1,market,Canada,back,pooled_wape,29.62604102322727,1162
+xgb_c1,market,Canada,main,pooled_wape,23.711627256047652,3486
+xgb_c1,market,China,front,pooled_wape,30.847957192619102,1448
+xgb_c1,market,China,middle,pooled_wape,40.721404945823586,1448
+xgb_c1,market,China,back,pooled_wape,57.91328406217226,1448
+xgb_c1,market,China,main,pooled_wape,43.16088206687164,4344
+xgb_c1,market,Europe,front,pooled_wape,20.1829270492424,1329
+xgb_c1,market,Europe,middle,pooled_wape,21.536414363300203,1329
+xgb_c1,market,Europe,back,pooled_wape,26.37374979080246,1329
+xgb_c1,market,Europe,main,pooled_wape,22.69769706778169,3987
+xgb_c1,market,Germany,front,pooled_wape,28.01119059252233,1270
+xgb_c1,market,Germany,middle,pooled_wape,32.34283886621443,1270
+xgb_c1,market,Germany,back,pooled_wape,39.22365702247697,1270
+xgb_c1,market,Germany,main,pooled_wape,33.19256216040458,3810
+xgb_c1,market,Japan,front,pooled_wape,22.75650550994882,603
+xgb_c1,market,Japan,middle,pooled_wape,23.94535486487434,603
+xgb_c1,market,Japan,back,pooled_wape,23.89070033495311,603
+xgb_c1,market,Japan,main,pooled_wape,23.530853569925423,1809
+xgb_c1,market,South Korea,front,pooled_wape,26.64116769823893,823
+xgb_c1,market,South Korea,middle,pooled_wape,31.310787174510587,823
+xgb_c1,market,South Korea,back,pooled_wape,37.5117559690115,823
+xgb_c1,market,South Korea,main,pooled_wape,31.82123694725367,2469
+xgb_c1,market,United States,front,pooled_wape,14.942773971482925,1183
+xgb_c1,market,United States,middle,pooled_wape,19.023473208776796,1183
+xgb_c1,market,United States,back,pooled_wape,22.51920273700777,1183
+xgb_c1,market,United States,main,pooled_wape,18.828483305755828,3549
+xgb_c1,origin,2022-07,front,pooled_wape,22.36342129091651,1357
+xgb_c1,origin,2022-07,middle,pooled_wape,28.594042756932236,1357
+xgb_c1,origin,2022-07,back,pooled_wape,32.628050152294094,1357
+xgb_c1,origin,2022-07,main,pooled_wape,27.86183806671428,4071
+xgb_c1,origin,2023-01,front,pooled_wape,24.367928000103547,1477
+xgb_c1,origin,2023-01,middle,pooled_wape,27.220868591888088,1477
+xgb_c1,origin,2023-01,back,pooled_wape,34.11317454296765,1477
+xgb_c1,origin,2023-01,main,pooled_wape,28.567323711653092,4431
+xgb_c1,origin,2023-07,front,pooled_wape,20.050438786808346,1556
+xgb_c1,origin,2023-07,middle,pooled_wape,27.24351868695286,1556
+xgb_c1,origin,2023-07,back,pooled_wape,32.3718182796528,1556
+xgb_c1,origin,2023-07,main,pooled_wape,26.555258584471336,4668
+xgb_c1,origin,2024-01,front,pooled_wape,24.526500552985386,1658
+xgb_c1,origin,2024-01,middle,pooled_wape,29.025503894416577,1658
+xgb_c1,origin,2024-01,back,pooled_wape,35.60440532430824,1658
+xgb_c1,origin,2024-01,main,pooled_wape,29.718803257236733,4974
+xgb_c1,origin,2024-07,front,pooled_wape,22.522307403043317,1770
+xgb_c1,origin,2024-07,middle,pooled_wape,26.732030487080603,1770
+xgb_c1,origin,2024-07,back,pooled_wape,38.54845280617495,1770
+xgb_c1,origin,2024-07,main,pooled_wape,29.26759689876629,5310
+xgb_c2,overall,all,front,pooled_wape,22.7961995201716,7818
+xgb_c2,overall,all,middle,pooled_wape,27.873777766265235,7818
+xgb_c2,overall,all,back,pooled_wape,34.68849007532626,7818
+xgb_c2,overall,all,main,pooled_wape,28.45282245392103,23454
+xgb_c2,group,A,front,pooled_wape,20.275478925404556,2633
+xgb_c2,group,A,middle,pooled_wape,24.071552153909465,2633
+xgb_c2,group,A,back,pooled_wape,29.723976580021738,2633
+xgb_c2,group,A,main,pooled_wape,24.690335886445254,7899
+xgb_c2,group,A,front,median_wape,17.141135699636525,2633
+xgb_c2,group,A,middle,median_wape,19.60534599134209,2633
+xgb_c2,group,A,back,median_wape,22.05482243890801,2633
+xgb_c2,group,A,all,alarm_share,15.533611849601215,7899
+xgb_c2,group,B,front,pooled_wape,29.3880242618578,2050
+xgb_c2,group,B,middle,pooled_wape,38.58594868169916,2050
+xgb_c2,group,B,back,pooled_wape,49.81497433628641,2050
+xgb_c2,group,B,main,pooled_wape,39.26298242661446,6150
+xgb_c2,group,B,front,median_wape,24.24981280613757,2048
+xgb_c2,group,B,middle,median_wape,29.890993003350555,2049
+xgb_c2,group,B,back,median_wape,35.79527011935778,2046
+xgb_c2,group,B,all,alarm_share,27.510988116555428,6143
+xgb_c2,group,C,front,pooled_wape,47.97540286927383,3135
+xgb_c2,group,C,middle,pooled_wape,60.99711141702915,3135
+xgb_c2,group,C,back,pooled_wape,73.87917357917215,3135
+xgb_c2,group,C,main,pooled_wape,60.95056262182504,9405
+xgb_c2,group,C,front,median_wape,49.46017583519297,3050
+xgb_c2,group,C,middle,median_wape,56.91450219682489,3095
+xgb_c2,group,C,back,median_wape,68.7745205618701,3117
+xgb_c2,group,C,all,alarm_share,54.65342258691427,9262
+xgb_c2,market,Canada,front,pooled_wape,16.638723904487573,1162
+xgb_c2,market,Canada,middle,pooled_wape,25.394241697134422,1162
+xgb_c2,market,Canada,back,pooled_wape,30.005338408065008,1162
+xgb_c2,market,Canada,main,pooled_wape,24.012768003229002,3486
+xgb_c2,market,China,front,pooled_wape,30.987675133364068,1448
+xgb_c2,market,China,middle,pooled_wape,40.73029587509997,1448
+xgb_c2,market,China,back,pooled_wape,57.59109702979987,1448
+xgb_c2,market,China,main,pooled_wape,43.103022679421294,4344
+xgb_c2,market,Europe,front,pooled_wape,20.196934101751722,1329
+xgb_c2,market,Europe,middle,pooled_wape,21.896821242414266,1329
+xgb_c2,market,Europe,back,pooled_wape,26.85399247162751,1329
+xgb_c2,market,Europe,main,pooled_wape,22.982582605264497,3987
+xgb_c2,market,Germany,front,pooled_wape,28.03908770375848,1270
+xgb_c2,market,Germany,middle,pooled_wape,32.740365642516004,1270
+xgb_c2,market,Germany,back,pooled_wape,39.62296547946674,1270
+xgb_c2,market,Germany,main,pooled_wape,33.46747294191374,3810
+xgb_c2,market,Japan,front,pooled_wape,22.766276867992172,603
+xgb_c2,market,Japan,middle,pooled_wape,24.081564713162205,603
+xgb_c2,market,Japan,back,pooled_wape,23.67927680454384,603
+xgb_c2,market,Japan,main,pooled_wape,23.509039461899405,1809
+xgb_c2,market,South Korea,front,pooled_wape,26.610554223473557,823
+xgb_c2,market,South Korea,middle,pooled_wape,31.076804005932193,823
+xgb_c2,market,South Korea,back,pooled_wape,37.773770472770856,823
+xgb_c2,market,South Korea,main,pooled_wape,31.82037623405887,2469
+xgb_c2,market,United States,front,pooled_wape,14.959340379554071,1183
+xgb_c2,market,United States,middle,pooled_wape,19.090145286401473,1183
+xgb_c2,market,United States,back,pooled_wape,22.42777517632612,1183
+xgb_c2,market,United States,main,pooled_wape,18.825753614093887,3549
+xgb_c2,origin,2022-07,front,pooled_wape,22.498096462798298,1357
+xgb_c2,origin,2022-07,middle,pooled_wape,29.020424690654224,1357
+xgb_c2,origin,2022-07,back,pooled_wape,33.02492194249865,1357
+xgb_c2,origin,2022-07,main,pooled_wape,28.181147698650392,4071
+xgb_c2,origin,2023-01,front,pooled_wape,24.49084217420792,1477
+xgb_c2,origin,2023-01,middle,pooled_wape,27.772835193153867,1477
+xgb_c2,origin,2023-01,back,pooled_wape,34.739759019089554,1477
+xgb_c2,origin,2023-01,main,pooled_wape,29.001145462150447,4431
+xgb_c2,origin,2023-07,front,pooled_wape,19.957933373032017,1556
+xgb_c2,origin,2023-07,middle,pooled_wape,27.037848625870115,1556
+xgb_c2,origin,2023-07,back,pooled_wape,32.26270495419638,1556
+xgb_c2,origin,2023-07,main,pooled_wape,26.419495651032836,4668
+xgb_c2,origin,2024-01,front,pooled_wape,24.562840431583442,1658
+xgb_c2,origin,2024-01,middle,pooled_wape,28.900977983107165,1658
+xgb_c2,origin,2024-01,back,pooled_wape,35.289126043098854,1658
+xgb_c2,origin,2024-01,main,pooled_wape,29.584314819263152,4974
+xgb_c2,origin,2024-07,front,pooled_wape,22.631764422234806,1770
+xgb_c2,origin,2024-07,middle,pooled_wape,26.78601952700158,1770
+xgb_c2,origin,2024-07,back,pooled_wape,38.0597804835075,1770
+xgb_c2,origin,2024-07,main,pooled_wape,29.159188144247963,5310
+xgb_c3,overall,all,front,pooled_wape,23.063640832280495,7818
+xgb_c3,overall,all,middle,pooled_wape,28.37703872098151,7818
+xgb_c3,overall,all,back,pooled_wape,34.73284768861365,7818
+xgb_c3,overall,all,main,pooled_wape,28.72450908062522,23454
+xgb_c3,group,A,front,pooled_wape,20.589323721578985,2633
+xgb_c3,group,A,middle,pooled_wape,24.61936716390493,2633
+xgb_c3,group,A,back,pooled_wape,29.85417063196349,2633
+xgb_c3,group,A,main,pooled_wape,25.020953839149133,7899
+xgb_c3,group,A,front,median_wape,17.18104813338926,2633
+xgb_c3,group,A,middle,median_wape,20.213028034748813,2633
+xgb_c3,group,A,back,median_wape,22.606134940680267,2633
+xgb_c3,group,A,all,alarm_share,15.343714394227117,7899
+xgb_c3,group,B,front,pooled_wape,29.69710979070853,2050
+xgb_c3,group,B,middle,pooled_wape,39.26784071299617,2050
+xgb_c3,group,B,back,pooled_wape,49.84033466445738,2050
+xgb_c3,group,B,main,pooled_wape,39.60176172272069,6150
+xgb_c3,group,B,front,median_wape,24.269903248978032,2048
+xgb_c3,group,B,middle,median_wape,30.643463780230476,2049
+xgb_c3,group,B,back,median_wape,34.14762887826835,2046
+xgb_c3,group,B,all,alarm_share,28.145857073091324,6143
+xgb_c3,group,C,front,pooled_wape,47.29054676454842,3135
+xgb_c3,group,C,middle,pooled_wape,60.24217632740412,3135
+xgb_c3,group,C,back,pooled_wape,72.60075063534995,3135
+xgb_c3,group,C,main,pooled_wape,60.04449124243416,9405
+xgb_c3,group,C,front,median_wape,48.85950509210734,3050
+xgb_c3,group,C,middle,median_wape,54.14119870574386,3095
+xgb_c3,group,C,back,median_wape,62.65416456576116,3117
+xgb_c3,group,C,all,alarm_share,53.23904124379184,9262
+xgb_c3,market,Canada,front,pooled_wape,17.531085099019304,1162
+xgb_c3,market,Canada,middle,pooled_wape,25.82821809879879,1162
+xgb_c3,market,Canada,back,pooled_wape,29.753856770628335,1162
+xgb_c3,market,Canada,main,pooled_wape,24.371053322815474,3486
+xgb_c3,market,China,front,pooled_wape,31.59345634470576,1448
+xgb_c3,market,China,middle,pooled_wape,41.68256648624781,1448
+xgb_c3,market,China,back,pooled_wape,57.87816818706851,1448
+xgb_c3,market,China,main,pooled_wape,43.71806367267402,4344
+xgb_c3,market,Europe,front,pooled_wape,20.113841429199542,1329
+xgb_c3,market,Europe,middle,pooled_wape,22.263249499160022,1329
+xgb_c3,market,Europe,back,pooled_wape,27.137245658000186,1329
+xgb_c3,market,Europe,main,pooled_wape,23.17144552878658,3987
+xgb_c3,market,Germany,front,pooled_wape,28.478910614652687,1270
+xgb_c3,market,Germany,middle,pooled_wape,33.179296205623075,1270
+xgb_c3,market,Germany,back,pooled_wape,39.52781478948272,1270
+xgb_c3,market,Germany,main,pooled_wape,33.7286738699195,3810
+xgb_c3,market,Japan,front,pooled_wape,22.529021779427765,603
+xgb_c3,market,Japan,middle,pooled_wape,24.742703687884138,603
+xgb_c3,market,Japan,back,pooled_wape,23.344493420262527,603
+xgb_c3,market,Japan,main,pooled_wape,23.53873962919148,1809
+xgb_c3,market,South Korea,front,pooled_wape,26.898352246528617,823
+xgb_c3,market,South Korea,middle,pooled_wape,30.92418778539739,823
+xgb_c3,market,South Korea,back,pooled_wape,36.835250846664216,823
+xgb_c3,market,South Korea,main,pooled_wape,31.552596959530074,2469
+xgb_c3,market,United States,front,pooled_wape,15.14301509572008,1183
+xgb_c3,market,United States,middle,pooled_wape,19.275860467381385,1183
+xgb_c3,market,United States,back,pooled_wape,22.33397548370908,1183
+xgb_c3,market,United States,main,pooled_wape,18.917617015603515,3549
+xgb_c3,origin,2022-07,front,pooled_wape,22.798472577798385,1357
+xgb_c3,origin,2022-07,middle,pooled_wape,30.13008780962314,1357
+xgb_c3,origin,2022-07,back,pooled_wape,33.281400571702456,1357
+xgb_c3,origin,2022-07,main,pooled_wape,28.736653653041326,4071
+xgb_c3,origin,2023-01,front,pooled_wape,25.18866067683995,1477
+xgb_c3,origin,2023-01,middle,pooled_wape,28.092157687134765,1477
+xgb_c3,origin,2023-01,back,pooled_wape,34.156573655527225,1477
+xgb_c3,origin,2023-01,main,pooled_wape,29.14579733983398,4431
+xgb_c3,origin,2023-07,front,pooled_wape,20.211503067055165,1556
+xgb_c3,origin,2023-07,middle,pooled_wape,27.408703696862062,1556
+xgb_c3,origin,2023-07,back,pooled_wape,32.55254138674161,1556
+xgb_c3,origin,2023-07,main,pooled_wape,26.724249383552944,4668
+xgb_c3,origin,2024-01,front,pooled_wape,24.81118374569022,1658
+xgb_c3,origin,2024-01,middle,pooled_wape,29.212897835281158,1658
+xgb_c3,origin,2024-01,back,pooled_wape,35.59793867122507,1658
+xgb_c3,origin,2024-01,main,pooled_wape,29.87400675073215,4974
+xgb_c3,origin,2024-07,front,pooled_wape,22.502516937640085,1770
+xgb_c3,origin,2024-07,middle,pooled_wape,27.257704707281217,1770
+xgb_c3,origin,2024-07,back,pooled_wape,38.0146198238091,1770
+xgb_c3,origin,2024-07,main,pooled_wape,29.2582804895768,5310
+xgb_c4,overall,all,front,pooled_wape,22.840352072981418,7818
+xgb_c4,overall,all,middle,pooled_wape,28.045004688983386,7818
+xgb_c4,overall,all,back,pooled_wape,35.1157900006896,7818
+xgb_c4,overall,all,main,pooled_wape,28.6670489208848,23454
+xgb_c4,group,A,front,pooled_wape,20.4354783293272,2633
+xgb_c4,group,A,middle,pooled_wape,23.8226377326111,2633
+xgb_c4,group,A,back,pooled_wape,29.13048557273762,2633
+xgb_c4,group,A,main,pooled_wape,24.462867211558642,7899
+xgb_c4,group,A,front,median_wape,17.14061122239687,2633
+xgb_c4,group,A,middle,median_wape,19.321983206537777,2633
+xgb_c4,group,A,back,median_wape,21.79209233950326,2633
+xgb_c4,group,A,all,alarm_share,15.166476769211293,7899
+xgb_c4,group,B,front,pooled_wape,29.04674579372446,2050
+xgb_c4,group,B,middle,pooled_wape,38.92828637975799,2050
+xgb_c4,group,B,back,pooled_wape,50.63398633980137,2050
+xgb_c4,group,B,main,pooled_wape,39.536339504427936,6150
+xgb_c4,group,B,front,median_wape,23.290501034876698,2048
+xgb_c4,group,B,middle,median_wape,27.944856432866747,2049
+xgb_c4,group,B,back,median_wape,32.896690905316525,2046
+xgb_c4,group,B,all,alarm_share,27.462152042975745,6143
+xgb_c4,group,C,front,pooled_wape,47.109728977996845,3135
+xgb_c4,group,C,middle,pooled_wape,67.72496939337356,3135
+xgb_c4,group,C,back,pooled_wape,89.5963331523789,3135
+xgb_c4,group,C,main,pooled_wape,68.1436771745831,9405
+xgb_c4,group,C,front,median_wape,49.4772593110407,3050
+xgb_c4,group,C,middle,median_wape,69.09011623332924,3095
+xgb_c4,group,C,back,median_wape,94.65433631908186,3117
+xgb_c4,group,C,all,alarm_share,58.37832001727489,9262
+xgb_c4,market,Canada,front,pooled_wape,16.524569193553663,1162
+xgb_c4,market,Canada,middle,pooled_wape,24.723814718551473,1162
+xgb_c4,market,Canada,back,pooled_wape,29.53078677944223,1162
+xgb_c4,market,Canada,main,pooled_wape,23.593056897182453,3486
+xgb_c4,market,China,front,pooled_wape,30.779178458936887,1448
+xgb_c4,market,China,middle,pooled_wape,41.33274545875205,1448
+xgb_c4,market,China,back,pooled_wape,58.58872964677255,1448
+xgb_c4,market,China,main,pooled_wape,43.56688452148717,4344
+xgb_c4,market,Europe,front,pooled_wape,20.449298039168966,1329
+xgb_c4,market,Europe,middle,pooled_wape,21.318956378274436,1329
+xgb_c4,market,Europe,back,pooled_wape,26.301169323410534,1329
+xgb_c4,market,Europe,main,pooled_wape,22.68980791361798,3987
+xgb_c4,market,Germany,front,pooled_wape,28.22198827751315,1270
+xgb_c4,market,Germany,middle,pooled_wape,32.48228934563484,1270
+xgb_c4,market,Germany,back,pooled_wape,38.58730069121793,1270
+xgb_c4,market,Germany,main,pooled_wape,33.097192771455305,3810
+xgb_c4,market,Japan,front,pooled_wape,22.081591868840487,603
+xgb_c4,market,Japan,middle,pooled_wape,23.635007573805083,603
+xgb_c4,market,Japan,back,pooled_wape,23.42407939719793,603
+xgb_c4,market,Japan,main,pooled_wape,23.046892946614502,1809
+xgb_c4,market,South Korea,front,pooled_wape,27.108518383965254,823
+xgb_c4,market,South Korea,middle,pooled_wape,31.38161377689637,823
+xgb_c4,market,South Korea,back,pooled_wape,37.99562973550919,823
+xgb_c4,market,South Korea,main,pooled_wape,32.1619206321236,2469
+xgb_c4,market,United States,front,pooled_wape,15.273099908901969,1183
+xgb_c4,market,United States,middle,pooled_wape,19.68301720229149,1183
+xgb_c4,market,United States,back,pooled_wape,23.59545392847104,1183
+xgb_c4,market,United States,main,pooled_wape,19.517190346554838,3549
+xgb_c4,origin,2022-07,front,pooled_wape,23.109270116203525,1357
+xgb_c4,origin,2022-07,middle,pooled_wape,29.661915502088704,1357
+xgb_c4,origin,2022-07,back,pooled_wape,33.73536943575623,1357
+xgb_c4,origin,2022-07,main,pooled_wape,28.83551835134949,4071
+xgb_c4,origin,2023-01,front,pooled_wape,24.399120313351887,1477
+xgb_c4,origin,2023-01,middle,pooled_wape,27.589451808022535,1477
+xgb_c4,origin,2023-01,back,pooled_wape,34.68187199991837,1477
+xgb_c4,origin,2023-01,main,pooled_wape,28.89014804043093,4431
+xgb_c4,origin,2023-07,front,pooled_wape,19.71506484867264,1556
+xgb_c4,origin,2023-07,middle,pooled_wape,27.425864454991004,1556
+xgb_c4,origin,2023-07,back,pooled_wape,32.24207088123247,1556
+xgb_c4,origin,2023-07,main,pooled_wape,26.461000061632035,4668
+xgb_c4,origin,2024-01,front,pooled_wape,24.352719214624283,1658
+xgb_c4,origin,2024-01,middle,pooled_wape,29.091330868462702,1658
+xgb_c4,origin,2024-01,back,pooled_wape,36.16427475291328,1658
+xgb_c4,origin,2024-01,main,pooled_wape,29.869441612000088,4974
+xgb_c4,origin,2024-07,front,pooled_wape,22.825097328575247,1770
+xgb_c4,origin,2024-07,middle,pooled_wape,26.673283887233755,1770
+xgb_c4,origin,2024-07,back,pooled_wape,38.70845540676572,1770
+xgb_c4,origin,2024-07,main,pooled_wape,29.402278874191577,5310
+xgb_c5,overall,all,front,pooled_wape,22.690772208642823,7818
+xgb_c5,overall,all,middle,pooled_wape,27.646239089613104,7818
+xgb_c5,overall,all,back,pooled_wape,34.209101035774914,7818
+xgb_c5,overall,all,main,pooled_wape,28.18203744467695,23454
+xgb_c5,group,A,front,pooled_wape,20.497006982694476,2633
+xgb_c5,group,A,middle,pooled_wape,23.916056512218418,2633
+xgb_c5,group,A,back,pooled_wape,29.092271948696105,2633
+xgb_c5,group,A,main,pooled_wape,24.501778481203,7899
+xgb_c5,group,A,front,median_wape,17.10149535825949,2633
+xgb_c5,group,A,middle,median_wape,19.691772946681454,2633
+xgb_c5,group,A,back,median_wape,21.05641426185084,2633
+xgb_c5,group,A,all,alarm_share,14.938599822762374,7899
+xgb_c5,group,B,front,pooled_wape,29.26535784894293,2050
+xgb_c5,group,B,middle,pooled_wape,39.139381627295016,2050
+xgb_c5,group,B,back,pooled_wape,50.19837788040025,2050
+xgb_c5,group,B,main,pooled_wape,39.53437245221273,6150
+xgb_c5,group,B,front,median_wape,24.045041923602465,2048
+xgb_c5,group,B,middle,median_wape,28.398371334451383,2049
+xgb_c5,group,B,back,median_wape,32.77776425904269,2046
+xgb_c5,group,B,all,alarm_share,27.201692983884097,6143
+xgb_c5,group,C,front,pooled_wape,42.09176779803002,3135
+xgb_c5,group,C,middle,pooled_wape,57.32732009803458,3135
+xgb_c5,group,C,back,pooled_wape,73.54161978697715,3135
+xgb_c5,group,C,main,pooled_wape,57.653569227680585,9405
+xgb_c5,group,C,front,median_wape,40.39070662339347,3050
+xgb_c5,group,C,middle,median_wape,49.401778505559555,3095
+xgb_c5,group,C,back,median_wape,58.79563378743799,3117
+xgb_c5,group,C,all,alarm_share,48.747570719067156,9262
+xgb_c5,market,Canada,front,pooled_wape,16.760902401484604,1162
+xgb_c5,market,Canada,middle,pooled_wape,25.164582897838265,1162
+xgb_c5,market,Canada,back,pooled_wape,29.03843443875344,1162
+xgb_c5,market,Canada,main,pooled_wape,23.654639912692105,3486
+xgb_c5,market,China,front,pooled_wape,31.05618734563679,1448
+xgb_c5,market,China,middle,pooled_wape,40.683224009702414,1448
+xgb_c5,market,China,back,pooled_wape,57.06943013645621,1448
+xgb_c5,market,China,main,pooled_wape,42.93628049726514,4344
+xgb_c5,market,Europe,front,pooled_wape,19.636728434112452,1329
+xgb_c5,market,Europe,middle,pooled_wape,21.083326042803375,1329
+xgb_c5,market,Europe,back,pooled_wape,25.662074592582712,1329
+xgb_c5,market,Europe,main,pooled_wape,22.127376356499514,3987
+xgb_c5,market,Germany,front,pooled_wape,27.98202349275193,1270
+xgb_c5,market,Germany,middle,pooled_wape,31.73604875999879,1270
+xgb_c5,market,Germany,back,pooled_wape,37.5429584183905,1270
+xgb_c5,market,Germany,main,pooled_wape,32.42034355704707,3810
+xgb_c5,market,Japan,front,pooled_wape,22.005947119060487,603
+xgb_c5,market,Japan,middle,pooled_wape,23.36446499841221,603
+xgb_c5,market,Japan,back,pooled_wape,22.780131421120775,603
+xgb_c5,market,Japan,main,pooled_wape,22.716847846197822,1809
+xgb_c5,market,South Korea,front,pooled_wape,27.090471890490818,823
+xgb_c5,market,South Korea,middle,pooled_wape,30.9313005434775,823
+xgb_c5,market,South Korea,back,pooled_wape,37.71317526463927,823
+xgb_c5,market,South Korea,main,pooled_wape,31.911649232869195,2469
+xgb_c5,market,United States,front,pooled_wape,15.080393692739634,1183
+xgb_c5,market,United States,middle,pooled_wape,19.363480334398044,1183
+xgb_c5,market,United States,back,pooled_wape,22.884025413542204,1183
+xgb_c5,market,United States,main,pooled_wape,19.10929981355996,3549
+xgb_c5,origin,2022-07,front,pooled_wape,23.20982350068282,1357
+xgb_c5,origin,2022-07,middle,pooled_wape,29.650595937441974,1357
+xgb_c5,origin,2022-07,back,pooled_wape,33.44098029036473,1357
+xgb_c5,origin,2022-07,main,pooled_wape,28.76713324282984,4071
+xgb_c5,origin,2023-01,front,pooled_wape,24.510553204762555,1477
+xgb_c5,origin,2023-01,middle,pooled_wape,27.22690757262909,1477
+xgb_c5,origin,2023-01,back,pooled_wape,33.81290318973886,1477
+xgb_c5,origin,2023-01,main,pooled_wape,28.516787989043504,4431
+xgb_c5,origin,2023-07,front,pooled_wape,19.66648429839978,1556
+xgb_c5,origin,2023-07,middle,pooled_wape,26.787478664757497,1556
+xgb_c5,origin,2023-07,back,pooled_wape,31.881270959074136,1556
+xgb_c5,origin,2023-07,main,pooled_wape,26.111744640743808,4668
+xgb_c5,origin,2024-01,front,pooled_wape,24.03840472899239,1658
+xgb_c5,origin,2024-01,middle,pooled_wape,28.33914361025292,1658
+xgb_c5,origin,2024-01,back,pooled_wape,34.81085975647852,1658
+xgb_c5,origin,2024-01,main,pooled_wape,29.06280269857461,4974
+xgb_c5,origin,2024-07,front,pooled_wape,22.26764424461937,1770
+xgb_c5,origin,2024-07,middle,pooled_wape,26.476094590945156,1770
+xgb_c5,origin,2024-07,back,pooled_wape,37.08595628041539,1770
+xgb_c5,origin,2024-07,main,pooled_wape,28.609898371993307,5310
+xgb_c6,overall,all,front,pooled_wape,22.8617677864412,7818
+xgb_c6,overall,all,middle,pooled_wape,27.998024836595768,7818
+xgb_c6,overall,all,back,pooled_wape,34.76100894010026,7818
+xgb_c6,overall,all,main,pooled_wape,28.540267187712413,23454
+xgb_c6,group,A,front,pooled_wape,20.627904448032066,2633
+xgb_c6,group,A,middle,pooled_wape,24.306797140198917,2633
+xgb_c6,group,A,back,pooled_wape,29.690064866625413,2633
+xgb_c6,group,A,main,pooled_wape,24.8749221516188,7899
+xgb_c6,group,A,front,median_wape,17.305849397833818,2633
+xgb_c6,group,A,middle,median_wape,19.890339944662177,2633
+xgb_c6,group,A,back,median_wape,21.850363974472955,2633
+xgb_c6,group,A,all,alarm_share,15.39435371566021,7899
+xgb_c6,group,B,front,pooled_wape,29.58991661764151,2050
+xgb_c6,group,B,middle,pooled_wape,39.375147208487064,2050
+xgb_c6,group,B,back,pooled_wape,50.605234331596016,2050
+xgb_c6,group,B,main,pooled_wape,39.85676605257486,6150
+xgb_c6,group,B,front,median_wape,24.304395895198123,2048
+xgb_c6,group,B,middle,median_wape,28.988694241715503,2049
+xgb_c6,group,B,back,median_wape,33.17969865155818,2046
+xgb_c6,group,B,all,alarm_share,27.527266807748656,6143
+xgb_c6,group,C,front,pooled_wape,42.517244936168346,3135
+xgb_c6,group,C,middle,pooled_wape,57.35768640354329,3135
+xgb_c6,group,C,back,pooled_wape,73.7452517249831,3135
+xgb_c6,group,C,main,pooled_wape,57.873394354898245,9405
+xgb_c6,group,C,front,median_wape,40.61695901359,3050
+xgb_c6,group,C,middle,median_wape,47.873200643740084,3095
+xgb_c6,group,C,back,median_wape,57.386458131688585,3117
+xgb_c6,group,C,all,alarm_share,48.03498164543295,9262
+xgb_c6,market,Canada,front,pooled_wape,17.010476943056602,1162
+xgb_c6,market,Canada,middle,pooled_wape,25.44197111600882,1162
+xgb_c6,market,Canada,back,pooled_wape,28.752527480477124,1162
+xgb_c6,market,Canada,main,pooled_wape,23.73499184651418,3486
+xgb_c6,market,China,front,pooled_wape,31.377860670866593,1448
+xgb_c6,market,China,middle,pooled_wape,41.31463884520706,1448
+xgb_c6,market,China,back,pooled_wape,58.050833267821396,1448
+xgb_c6,market,China,main,pooled_wape,43.58111092796502,4344
+xgb_c6,market,Europe,front,pooled_wape,19.741211543613442,1329
+xgb_c6,market,Europe,middle,pooled_wape,20.901675790772074,1329
+xgb_c6,market,Europe,back,pooled_wape,25.54513473367299,1329
+xgb_c6,market,Europe,main,pooled_wape,22.06267402268617,3987
+xgb_c6,market,Germany,front,pooled_wape,28.61553828051348,1270
+xgb_c6,market,Germany,middle,pooled_wape,32.84377617284163,1270
+xgb_c6,market,Germany,back,pooled_wape,38.44737616492424,1270
+xgb_c6,market,Germany,main,pooled_wape,33.30223020609312,3810
+xgb_c6,market,Japan,front,pooled_wape,21.808201969950915,603
+xgb_c6,market,Japan,middle,pooled_wape,23.80935205789626,603
+xgb_c6,market,Japan,back,pooled_wape,23.656173071429972,603
+xgb_c6,market,Japan,main,pooled_wape,23.091242366425718,1809
+xgb_c6,market,South Korea,front,pooled_wape,27.29282286380517,823
+xgb_c6,market,South Korea,middle,pooled_wape,31.28000805257384,823
+xgb_c6,market,South Korea,back,pooled_wape,38.32169784652048,823
+xgb_c6,market,South Korea,main,pooled_wape,32.298176254299825,2469
+xgb_c6,market,United States,front,pooled_wape,15.138433478909523,1183
+xgb_c6,market,United States,middle,pooled_wape,19.675060060644295,1183
+xgb_c6,market,United States,back,pooled_wape,23.488593645170308,1183
+xgb_c6,market,United States,main,pooled_wape,19.43402906157471,3549
+xgb_c6,origin,2022-07,front,pooled_wape,23.24404045420825,1357
+xgb_c6,origin,2022-07,middle,pooled_wape,30.199123216118227,1357
+xgb_c6,origin,2022-07,back,pooled_wape,33.9323172805843,1357
+xgb_c6,origin,2022-07,main,pooled_wape,29.125160316970256,4071
+xgb_c6,origin,2023-01,front,pooled_wape,25.137974666611488,1477
+xgb_c6,origin,2023-01,middle,pooled_wape,27.702481004405595,1477
+xgb_c6,origin,2023-01,back,pooled_wape,34.278080492171185,1477
+xgb_c6,origin,2023-01,main,pooled_wape,29.039512054396088,4431
+xgb_c6,origin,2023-07,front,pooled_wape,19.51187297967862,1556
+xgb_c6,origin,2023-07,middle,pooled_wape,26.787978346019276,1556
+xgb_c6,origin,2023-07,back,pooled_wape,32.6309837022548,1556
+xgb_c6,origin,2023-07,main,pooled_wape,26.3102783426509,4668
+xgb_c6,origin,2024-01,front,pooled_wape,24.45747756973355,1658
+xgb_c6,origin,2024-01,middle,pooled_wape,28.78988082578697,1658
+xgb_c6,origin,2024-01,back,pooled_wape,34.91851174787551,1658
+xgb_c6,origin,2024-01,main,pooled_wape,29.38862338113201,4974
+xgb_c6,origin,2024-07,front,pooled_wape,22.224471937070877,1770
+xgb_c6,origin,2024-07,middle,pooled_wape,26.77632902789276,1770
+xgb_c6,origin,2024-07,back,pooled_wape,38.030090378511424,1770
+xgb_c6,origin,2024-07,main,pooled_wape,29.01029711449169,5310
+xgb_c7,overall,all,front,pooled_wape,23.556527844446027,7818
+xgb_c7,overall,all,middle,pooled_wape,28.67124406755049,7818
+xgb_c7,overall,all,back,pooled_wape,34.848448891856236,7818
+xgb_c7,overall,all,main,pooled_wape,29.025406934617582,23454
+xgb_c7,group,A,front,pooled_wape,21.350205720939876,2633
+xgb_c7,group,A,middle,pooled_wape,24.875417525910375,2633
+xgb_c7,group,A,back,pooled_wape,29.740797774854666,2633
+xgb_c7,group,A,main,pooled_wape,25.322140340568307,7899
+xgb_c7,group,A,front,median_wape,17.86424591917485,2633
+xgb_c7,group,A,middle,median_wape,20.819354208128953,2633
+xgb_c7,group,A,back,median_wape,21.811458613785078,2633
+xgb_c7,group,A,all,alarm_share,15.50829218888467,7899
+xgb_c7,group,B,front,pooled_wape,30.278913652406338,2050
+xgb_c7,group,B,middle,pooled_wape,40.527765041387106,2050
+xgb_c7,group,B,back,pooled_wape,50.95403746858677,2050
+xgb_c7,group,B,main,pooled_wape,40.58690538746007,6150
+xgb_c7,group,B,front,median_wape,24.23972193063633,2048
+xgb_c7,group,B,middle,median_wape,29.423581982021403,2049
+xgb_c7,group,B,back,median_wape,32.81055758307245,2046
+xgb_c7,group,B,all,alarm_share,27.85284063161322,6143
+xgb_c7,group,C,front,pooled_wape,42.73820279069883,3135
+xgb_c7,group,C,middle,pooled_wape,58.413753308807614,3135
+xgb_c7,group,C,back,pooled_wape,73.72472947293376,3135
+xgb_c7,group,C,main,pooled_wape,58.29222852414673,9405
+xgb_c7,group,C,front,median_wape,41.02237783890188,3050
+xgb_c7,group,C,middle,median_wape,47.22827017022092,3095
+xgb_c7,group,C,back,median_wape,54.6805913885572,3117
+xgb_c7,group,C,all,alarm_share,47.86223277909738,9262
+xgb_c7,market,Canada,front,pooled_wape,17.49718972629828,1162
+xgb_c7,market,Canada,middle,pooled_wape,25.901296978065343,1162
+xgb_c7,market,Canada,back,pooled_wape,29.18955304335308,1162
+xgb_c7,market,Canada,main,pooled_wape,24.1960132492389,3486
+xgb_c7,market,China,front,pooled_wape,32.481755019292656,1448
+xgb_c7,market,China,middle,pooled_wape,42.09517659690105,1448
+xgb_c7,market,China,back,pooled_wape,58.05441398102716,1448
+xgb_c7,market,China,main,pooled_wape,44.21044853240696,4344
+xgb_c7,market,Europe,front,pooled_wape,20.18400178089865,1329
+xgb_c7,market,Europe,middle,pooled_wape,21.348134065232866,1329
+xgb_c7,market,Europe,back,pooled_wape,25.509788564592117,1329
+xgb_c7,market,Europe,main,pooled_wape,22.34730813690788,3987
+xgb_c7,market,Germany,front,pooled_wape,29.548698077958722,1270
+xgb_c7,market,Germany,middle,pooled_wape,33.24124197711895,1270
+xgb_c7,market,Germany,back,pooled_wape,38.23546069081203,1270
+xgb_c7,market,Germany,main,pooled_wape,33.67513358196324,3810
+xgb_c7,market,Japan,front,pooled_wape,22.19524099457689,603
+xgb_c7,market,Japan,middle,pooled_wape,24.68017866410893,603
+xgb_c7,market,Japan,back,pooled_wape,23.805471784127793,603
+xgb_c7,market,Japan,main,pooled_wape,23.560297147604533,1809
+xgb_c7,market,South Korea,front,pooled_wape,27.92049157714374,823
+xgb_c7,market,South Korea,middle,pooled_wape,30.75840561698279,823
+xgb_c7,market,South Korea,back,pooled_wape,38.22390131450186,823
+xgb_c7,market,South Korea,main,pooled_wape,32.30093283620946,2469
+xgb_c7,market,United States,front,pooled_wape,15.633221742987688,1183
+xgb_c7,market,United States,middle,pooled_wape,20.547022433383276,1183
+xgb_c7,market,United States,back,pooled_wape,23.749713007263022,1183
+xgb_c7,market,United States,main,pooled_wape,19.97665239454466,3549
+xgb_c7,origin,2022-07,front,pooled_wape,23.984401203628526,1357
+xgb_c7,origin,2022-07,middle,pooled_wape,31.212698241271024,1357
+xgb_c7,origin,2022-07,back,pooled_wape,34.1772291012462,1357
+xgb_c7,origin,2022-07,main,pooled_wape,29.79144284871525,4071
+xgb_c7,origin,2023-01,front,pooled_wape,26.044435820710532,1477
+xgb_c7,origin,2023-01,middle,pooled_wape,28.665398500500295,1477
+xgb_c7,origin,2023-01,back,pooled_wape,34.13870855856688,1477
+xgb_c7,origin,2023-01,main,pooled_wape,29.616180959925902,4431
+xgb_c7,origin,2023-07,front,pooled_wape,20.221084608672744,1556
+xgb_c7,origin,2023-07,middle,pooled_wape,27.107996648844075,1556
+xgb_c7,origin,2023-07,back,pooled_wape,32.22956268930292,1556
+xgb_c7,origin,2023-07,main,pooled_wape,26.51954798227324,4668
+xgb_c7,origin,2024-01,front,pooled_wape,25.200285539451635,1658
+xgb_c7,origin,2024-01,middle,pooled_wape,29.17553241404754,1658
+xgb_c7,origin,2024-01,back,pooled_wape,35.370890382097755,1658
+xgb_c7,origin,2024-01,main,pooled_wape,29.91556944519898,4974
+xgb_c7,origin,2024-07,front,pooled_wape,22.62283539680682,1770
+xgb_c7,origin,2024-07,middle,pooled_wape,27.49046347792551,1770
+xgb_c7,origin,2024-07,back,pooled_wape,38.32426018083558,1770
+xgb_c7,origin,2024-07,main,pooled_wape,29.47918635185597,5310

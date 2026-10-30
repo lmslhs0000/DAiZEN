@@ -1,0 +1,103 @@
+market_scope,Brand,Model,event_type,event_month,announced_date,successor,confidence,source
+South Korea,Hyundai,Grandeur,new_generation,2016-11,2016-10-25,,high,https://ko.wikipedia.org/wiki/현대_그랜저;https://www.seoul.co.kr/news/economy/car/2016/11/23/20161123021010;https://www.autoview.co.kr/ko-kr/articles/60158
+South Korea,Hyundai,Grandeur,major_facelift,2019-11,2019-10,,high,https://ko.wikipedia.org/wiki/현대_그랜저;https://www.segye.com/newsView/20191119504484;https://www.seoul.co.kr/news/economy/car/2019/10/25/20191025023011
+South Korea,Hyundai,Grandeur,new_generation,2022-11,2022-10-19,,high,https://ko.wikipedia.org/wiki/현대_그랜저;https://www.hyundaimotorgroup.com/ko/story/CONT0000000000059378;https://www.ajunews.com/view/20221019110948790
+South Korea,Hyundai,Grandeur,major_facelift,2026-05,2026-04-28,,high,https://ko.wikipedia.org/wiki/현대_그랜저;https://www.top-rider.com/article/view/trd202605140001;https://www.starnewskorea.com/business-life/2026/05/14/2026051317551863454
+South Korea,Kia,Sorento,major_facelift,2017-07,,,high,https://ko.wikipedia.org/wiki/기아_쏘렌토;https://www.seoul.co.kr/news/economy/car/2017/07/21/20170721020002
+South Korea,Kia,Sorento,new_generation,2020-03,2020-02-04,,high,https://ko.wikipedia.org/wiki/기아_쏘렌토;https://www.seoul.co.kr/news/economy/car/2020/02/05/20200205023012
+South Korea,Kia,Sorento,major_facelift,2023-08,2023-07-25,,high,https://ko.wikipedia.org/wiki/기아_쏘렌토;http://news.bizwatch.co.kr/article/industry/2023/07/25/0006;https://www.hankyung.com/article/202308176542Y
+South Korea,Kia,Carnival,major_facelift,2018-03,,,high,https://ko.wikipedia.org/wiki/기아_카니발;https://www.hankookilbo.com/news/article/201803131170303074
+South Korea,Kia,Carnival,new_generation,2020-08,2020-06-24,,high,https://ko.wikipedia.org/wiki/기아_카니발;https://www.seoul.co.kr/news/economy/car/2020/06/25/20200625020021;https://www.etoday.co.kr/news/view/1909859
+South Korea,Kia,Carnival,major_facelift,2023-11,2023-10-27,,high,https://ko.wikipedia.org/wiki/기아_카니발;https://www.etnews.com/20231027000159;https://jasonryu.net/2023/11/07/upcoming-kia-started-pre-sale-contract-of-the-new-carnival/
+South Korea,Hyundai,Elantra,new_generation,2015-09,,,high,https://ko.wikipedia.org/wiki/현대_아반떼;https://sports.khan.co.kr/article/201509091903093
+South Korea,Hyundai,Elantra,major_facelift,2018-09,,,high,https://ko.wikipedia.org/wiki/현대_아반떼;https://namu.wiki/w/현대%20아반떼/6세대
+South Korea,Hyundai,Elantra,new_generation,2020-04,2020-03-11,,high,https://ko.wikipedia.org/wiki/현대_아반떼;https://namu.wiki/w/현대%20아반떼/7세대
+South Korea,Hyundai,Elantra,major_facelift,2023-03,,,high,https://www.hyundaimotorgroup.com/ko/news/CONT0000000000081170;https://www.etnews.com/20230313000119;https://ko.wikipedia.org/wiki/현대_아반떼
+South Korea,Hyundai,Elantra,new_generation,2026-08,2026-06-26,,high,https://ko.wikipedia.org/wiki/현대_아반떼;https://www.ket.kr/mobile/article.html?no=39877
+South Korea,Hyundai,Sonata,major_facelift,2017-03,,,high,https://ko.wikipedia.org/wiki/현대_쏘나타;https://www.hankookilbo.com/news/article/201703081572630102
+South Korea,Hyundai,Sonata,new_generation,2019-03,2019-03-06,,high,https://www.hankookilbo.com/news/article/201903061459096517;https://namu.wiki/w/현대%20쏘나타/8세대
+South Korea,Hyundai,Sonata,major_facelift,2023-05,2023-03-27,,high,https://www.hyundaimotorgroup.com/ko/news/CONT0000000000082824;https://www.hankyung.com/article/202304200637i;https://www.hyundai.com/kr/ko/brand/brandstory/model/sonata-history/2023-sonata-the-edge
+South Korea,Hyundai,Santa Fe,major_facelift,2015-06,,,high,https://www.seoul.co.kr/news/economy/car/2015/06/04/20150604800092;https://www.motorgraph.com/news/articleView.html?idxno=6827
+South Korea,Hyundai,Santa Fe,new_generation,2018-02,2018-02-06,,high,https://www.hankookilbo.com/news/article/201802061644786813;https://www.etoday.co.kr/news/view/1592066;https://ko.wikipedia.org/wiki/현대_싼타페
+South Korea,Hyundai,Santa Fe,major_facelift,2020-07,2020-06-03,,high,https://www.etoday.co.kr/news/view/1912291;https://www.seoul.co.kr/news/economy/car/2020/06/30/20200630500227;https://www.top-rider.com/article/view/trd202006030003
+South Korea,Hyundai,Santa Fe,new_generation,2023-08,2023-07-18,,high,https://www.hyundaimotorgroup.com/ko/news/CONT0000000000101354;https://ko.wikipedia.org/wiki/현대_싼타페
+South Korea,Kia,Sportage,new_generation,2015-09,2015-09-02,,high,https://ko.wikipedia.org/wiki/기아_스포티지;https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02168086609496184
+South Korea,Kia,Sportage,major_facelift,2018-07,2018-07-24,,high,https://ko.wikipedia.org/wiki/기아_스포티지;https://namu.wiki/w/기아%20스포티지/4세대
+South Korea,Kia,Sportage,new_generation,2021-07,2021-05-31,,high,https://ko.wikipedia.org/wiki/기아_스포티지;https://namu.wiki/w/기아%20스포티지/5세대;https://www.khan.co.kr/article/202107061035001/
+South Korea,Kia,Sportage,major_facelift,2024-11,2024-10-24,,high,https://ko.wikipedia.org/wiki/기아_스포티지;https://namu.wiki/w/기아%20스포티지/5세대
+South Korea,Hyundai,Palisade,new_generation,2018-12,2018-11-28,,high,https://ko.wikipedia.org/wiki/현대_팰리세이드;https://namu.wiki/w/현대%20팰리세이드/1세대
+South Korea,Hyundai,Palisade,major_facelift,2022-05,2022-04-07,,high,https://www.busan.com/view/busan/view.php?code=2022051808530806384;https://biz.newdaily.co.kr/site/data/html/2022/05/18/2022051800013.html;https://ko.wikipedia.org/wiki/현대_팰리세이드
+South Korea,Hyundai,Palisade,new_generation,2025-01,2024-12-06,,high,https://www.hyundaimotorgroup.com/ko/news/CONT0000000000167851;https://www.khan.co.kr/article/202412201351001;https://www.seoul.co.kr/news/economy/car/2024/12/06/20241206500083
+South Korea,Kia,Seltos,new_generation,2019-07,2019-06-20,,high,https://www.hankookilbo.com/news/article/201907181439363356;https://www.hankookilbo.com/news/article/201906260940719027
+South Korea,Kia,Seltos,major_facelift,2022-07,2022-06-30,,high,https://www.hankyung.com/car/article/202206306600g;https://www.hyundai.co.kr/news/CONT0000000000039625;https://ko.wikipedia.org/wiki/기아_셀토스
+South Korea,Kia,Seltos,new_generation,2026-01,2025-12-01,,high,https://www.hyundaimotorgroup.com/ko/news/kia-all-new-seltos-sales-launch;https://www.top-rider.com/article/view/trd202601260001;https://ko.wikipedia.org/wiki/기아_셀토스
+South Korea,Kia,K5,new_generation,2015-07,2015-04,,high,https://ko.wikipedia.org/wiki/기아_K5;https://namu.wiki/w/기아%20K5/2세대
+South Korea,Kia,K5,major_facelift,2018-01,,,high,https://ko.wikipedia.org/wiki/기아_K5;https://namu.wiki/w/기아%20K5/2세대
+South Korea,Kia,K5,new_generation,2019-12,2019-11-12,,high,https://ko.wikipedia.org/wiki/기아_K5;https://namu.wiki/w/기아%20K5/3세대
+South Korea,Kia,K5,major_facelift,2023-11,2023-10-25,,high,https://namu.wiki/w/기아%20K5/3세대;https://ko.wikipedia.org/wiki/기아_K5;https://www.top-rider.com/article/view/trd202311020005
+South Korea,Genesis,G80,major_facelift,2016-07,2016-06,,medium,https://ko.wikipedia.org/wiki/제네시스_G80
+South Korea,Genesis,G80,new_generation,2020-03,2020-03-05,,high,https://ko.wikipedia.org/wiki/제네시스_G80;https://namu.wiki/w/제네시스%20G80/3세대;https://www.asiae.co.kr/article/2020033012000221265&mobile=Y
+South Korea,Genesis,G80,major_facelift,2023-12,2023-12-13,,high,https://newsroom.genesis.com/231226-genesis-launches-newly-designed-g80-in-korea/;https://www.genesis.com/kr/ko/support/pr-center/detail.html?seq=0000000452
+South Korea,Hyundai,Tucson,new_generation,2015-03,2015-03-03,,high,https://ko.wikipedia.org/wiki/현대_투싼;https://namu.wiki/w/현대%20투싼/3세대
+South Korea,Hyundai,Tucson,major_facelift,2018-08,2018-03,,high,https://namu.wiki/w/현대%20투싼/3세대;https://en.wikipedia.org/wiki/Hyundai_Tucson;https://ko.wikipedia.org/wiki/현대_투싼
+South Korea,Hyundai,Tucson,new_generation,2020-09,2020-09-03,,high,https://ko.wikipedia.org/wiki/현대_투싼;https://namu.wiki/w/현대%20투싼/4세대
+South Korea,Hyundai,Tucson,major_facelift,2023-12,2023-11-21,,high,https://ko.wikipedia.org/wiki/현대_투싼;https://namu.wiki/w/현대%20투싼/4세대
+South Korea,Kia,Ray,major_facelift,2017-12,,,medium,https://ko.wikipedia.org/wiki/기아_레이
+South Korea,Kia,Ray,major_facelift,2022-09,2022-08-10,,high,https://www.etoday.co.kr/news/view/2162292;https://www.hyundaimotorgroup.com/ko/story/CONT0000000000050972;https://ko.wikipedia.org/wiki/기아_레이
+South Korea,Hyundai,Kona,new_generation,2017-06,2017-06-13,,high,https://ko.wikipedia.org/wiki/현대_코나;https://namu.wiki/w/현대%20코나/1세대
+South Korea,Hyundai,Kona,major_facelift,2020-10,2020-08-26,,high,https://ko.wikipedia.org/wiki/현대_코나;https://namu.wiki/w/현대%20코나/1세대
+South Korea,Hyundai,Kona,new_generation,2023-01,2022-12-20,,high,https://ko.wikipedia.org/wiki/현대_코나;https://namu.wiki/w/현대%20코나/2세대
+South Korea,Kia,Picanto,major_facelift,2015-01,,,medium,https://ko.wikipedia.org/wiki/기아_모닝
+South Korea,Kia,Picanto,new_generation,2017-01,2017-01-04,,high,https://ko.wikipedia.org/wiki/기아_모닝;https://namu.wiki/w/기아%20모닝/3세대
+South Korea,Kia,Picanto,major_facelift,2020-05,,,medium,https://ko.wikipedia.org/wiki/기아_모닝;https://namu.wiki/w/기아%20모닝/3세대
+South Korea,Kia,Picanto,major_facelift,2023-07,,,high,https://www.ajunews.com/view/20230704091100752;https://www.hyundaimotorgroup.com/ko/news/CONT0000000000099787;https://jasonryu.net/2023/07/04/new-model-kia-the-new-morning/
+South Korea,Mercedes-Benz,E-Class,new_generation,2016-06,2016-01-11,,high,https://www.hankookilbo.com/news/article/201603090984288264;https://namu.wiki/w/메르세데스-벤츠%20E클래스/10세대
+South Korea,Mercedes-Benz,E-Class,major_facelift,2020-10,2020-03-03,,high,https://www.top-rider.com/article/view/trd202009280004;https://m.carisyou.com/magazine/NEWCARINTRO/76574;https://namu.wiki/w/메르세데스-벤츠%20E클래스/10세대
+South Korea,Mercedes-Benz,E-Class,new_generation,2024-01,2023-04,,high,https://www.mercedes-benz.co.kr/passengercars/brand/news-events/news-story/2024/news-20240123.html;https://www.mercedes-benz.co.kr/passengercars/brand/news-events/news-story/2023/news-20231208.html
+South Korea,Kia,K8,new_generation,2021-04,2021-02-17,,high,https://ko.wikipedia.org/wiki/기아_K8;https://namu.wiki/w/기아%20K8
+South Korea,Kia,K8,major_facelift,2024-08,2024-07-29,,high,https://ko.wikipedia.org/wiki/기아_K8;https://namu.wiki/w/기아%20K8
+South Korea,Genesis,GV80,new_generation,2020-01,2020-01-01,,high,https://www.genesis.com/kr/ko/brand-news-detail.html?news_seq=210;https://www.seoul.co.kr/news/economy/car/2020/01/02/20200102021028;https://ko.wikipedia.org/wiki/제네시스_GV80
+South Korea,Genesis,GV80,major_facelift,2023-10,2023-09-27,,high,https://www.ajunews.com/view/20231011102945088;https://www.hyundaimotorgroup.com/ko/news/CONT0000000000115083;https://ko.wikipedia.org/wiki/제네시스_GV80
+South Korea,Hyundai,Staria,new_generation,2021-04,2021-03-11,,high,https://ko.wikipedia.org/wiki/현대_스타리아;https://namu.wiki/w/현대%20스타리아
+South Korea,Hyundai,Staria,major_facelift,2025-12,,,high,https://www.hankyung.com/article/202512178387g;https://www.mt.co.kr/industry/2025/12/17/2025121709280480873
+South Korea,Genesis,GV70,new_generation,2020-12,2020-10,,high,https://ko.wikipedia.org/wiki/제네시스_GV70;https://www.genesis.com/kr/ko/support/pr-center/detail.html?seq=0000000287
+South Korea,Genesis,GV70,major_facelift,2024-05,2024-04-26,,high,https://www.seoul.co.kr/news/economy/2024/04/26/20240426500045;https://jasonryu.net/2024/05/08/new-car-revised-genesis-gv70/
+South Korea,Kia,Niro,new_generation,2016-03,2016-02,,high,https://ko.wikipedia.org/wiki/기아_니로;https://www.hankookilbo.com/news/article/201603161719485363
+South Korea,Kia,Niro,major_facelift,2019-03,2019-02-28,,high,https://www.hankookilbo.com/news/article/201903071473386801;https://ko.wikipedia.org/wiki/기아_니로
+South Korea,Kia,Niro,new_generation,2022-01,2021-11-25,,high,https://www.ajunews.com/view/20220117093626821;https://ko.wikipedia.org/wiki/기아_니로
+South Korea,Kia,Niro,major_facelift,2026-03,2026-01-20,,high,https://www.mt.co.kr/industry/2026/01/20/2026012009410083452;https://www.hyundaimotorgroup.com/ko/news/kia-the-new-niro-sales-launch
+South Korea,BMW,5 Series,new_generation,2017-02,2016-10-13,,high,https://www.khan.co.kr/article/201702211738001;https://namu.wiki/w/BMW%205시리즈/7세대
+South Korea,BMW,5 Series,major_facelift,2020-10,2020-05-27,,high,https://m.carisyou.com/magazine/NEWCARINTRO/76573;https://namu.wiki/w/BMW%205시리즈/7세대
+South Korea,BMW,5 Series,new_generation,2023-10,2023-05,,high,https://www.etnews.com/20230904000207;https://biz.newdaily.co.kr/site/data/html/2023/05/25/2023052500041.html;https://m.go.seoul.co.kr/news/economy/car/2023/10/05/20231005500028?cp=en
+South Korea,Hyundai,Casper,new_generation,2021-09,2021-09-01,,high,http://biz.newdaily.co.kr/site/data/html/2021/09/01/2021090100016.html;https://ko.wikipedia.org/wiki/현대_캐스퍼
+South Korea,Hyundai,Casper,major_facelift,2024-10,2024-08-16,,high,https://www.carguy.kr/news/articleView.html?idxno=50897;https://m.carisyou.com/magazine/NEWCARINTRO/77052;https://ko.wikipedia.org/wiki/현대_캐스퍼
+South Korea,Tesla,Model Y,new_generation,2021-02,2019-03-14,,high,https://m.etnews.com/20210212000009;https://www.fnnews.com/news/202104021444424502;https://en.wikipedia.org/wiki/Tesla_Model_Y
+South Korea,Tesla,Model Y,major_facelift,2025-04,2025-01-10,,high,https://www.autoview.co.kr/ko-kr/articles/94138;https://www.top-rider.com/article/view/trd202504020004;https://en.wikipedia.org/wiki/Tesla_Model_Y
+South Korea,Hyundai,Ioniq 5,new_generation,2021-04,2021-02-23,,high,https://www.seoul.co.kr/news/economy/car/2021/04/15/20210415500190;https://m.etnews.com/20210226000045;https://ko.wikipedia.org/wiki/현대_아이오닉_5
+South Korea,Hyundai,Ioniq 5,major_facelift,2024-03,,,high,https://www.etnews.com/20240304000197;https://ko.wikipedia.org/wiki/현대_아이오닉_5
+South Korea,Renault Korea,Arkana,new_generation,2020-03,2019-03,,high,https://www.seoul.co.kr/news/economy/car/2020/02/21/20200221500164;https://ko.wikipedia.org/wiki/르노코리아_XM3
+South Korea,KG Mobility,Tivoli,new_generation,2015-01,2014-12-22,,high,https://ko.wikipedia.org/wiki/쌍용_티볼리;https://namu.wiki/w/KGM%20티볼리
+South Korea,KG Mobility,Tivoli,major_facelift,2019-06,,,high,https://ko.wikipedia.org/wiki/쌍용_티볼리;https://namu.wiki/w/KGM%20티볼리
+South Korea,KG Mobility,Tivoli,major_facelift,2023-06,,,high,https://www.top-rider.com/article/view/trd202306010002;https://www.ajunews.com/view/20230531153252566;https://namu.wiki/w/KGM%20티볼리
+South Korea,Hyundai,Venue,new_generation,2019-07,2019-04,,high,https://ko.wikipedia.org/wiki/현대_베뉴;https://namu.wiki/w/현대%20베뉴/1세대;https://en.wikipedia.org/wiki/Hyundai_Venue
+South Korea,Genesis,G90,new_generation,2015-12,2015-11-23,,high,https://www.seoul.co.kr/news/economy/car/2015/11/25/20151125021027;https://ko.wikipedia.org/wiki/제네시스_G90
+South Korea,Genesis,G90,major_facelift,2018-11,2018-11-08,,high,https://www.etoday.co.kr/news/view/1684955;https://www.hankookilbo.com/news/article/201811271300324351;https://ko.wikipedia.org/wiki/제네시스_G90
+South Korea,Genesis,G90,new_generation,2021-12,2021-11-30,,high,https://www.ajunews.com/view/20211214094011588;https://www.fnnews.com/news/202112141046470263;https://ko.wikipedia.org/wiki/제네시스_G90
+South Korea,Chevrolet,Trax,major_facelift,2016-10,2016-02-12,,high,https://ko.wikipedia.org/wiki/쉐보레_트랙스;https://edaily.co.kr/News/Read?mediaCodeNo=257&newsId=02997926612549536;https://en.wikipedia.org/wiki/Chevrolet_Trax
+South Korea,Chevrolet,Trax,new_generation,2023-03,2022-10,,high,https://ko.wikipedia.org/wiki/쉐보레_트랙스;https://en.wikipedia.org/wiki/Chevrolet_Trax
+South Korea,KG Mobility,Torres,new_generation,2022-07,2022-06-13,,high,https://www.seoul.co.kr/news/economy/car/2022/06/13/20220613500014;https://ko.wikipedia.org/wiki/쌍용_토레스
+South Korea,KG Mobility,Torres,major_facelift,2026-05,,,high,https://zdnet.co.kr/view/?no=20260520081300;https://www.starnewskorea.com/business-life/2026/05/20/2026051908320538650;https://ko.wikipedia.org/wiki/KGM_토레스
+South Korea,Kia,EV6,new_generation,2021-08,2021-03-09,,medium,https://ko.wikipedia.org/wiki/기아_EV6
+South Korea,Kia,EV6,major_facelift,2024-05,2024-05-02,,high,https://www.hyundaimotorgroup.com/ko/amp/CONT0000000000149363;https://www.etoday.co.kr/news/view/2359714;https://ko.wikipedia.org/wiki/기아_EV6
+South Korea,Renault Korea,Grand Koleos,new_generation,2024-09,2024-06-27,,high,https://ko.wikipedia.org/wiki/르노_그랑_콜레오스;https://economist.co.kr/article/view/ecn202407180004;https://www.etnews.com/20240701000198
+South Korea,Chevrolet,TrailBlazer,new_generation,2020-01,2019-04-16,,high,https://en.wikipedia.org/wiki/Chevrolet_Trailblazer_(crossover);https://www.newsis.com/view/?id=NISX20200116_0000890833
+South Korea,Chevrolet,TrailBlazer,major_facelift,2023-07,,,high,https://www.autocast.kr/article/view/atc202307190003;https://www.g-enews.com/article/Industry/2023/07/202307190941351098bf11c0d58c_1
+South Korea,Tesla,Model 3,new_generation,2019-08,2016-03-31,,high,https://www.khan.co.kr/article/201908131001001;https://www.cnet.co.kr/view/?no=20191111182621;https://en.wikipedia.org/wiki/Tesla_Model_3
+South Korea,Tesla,Model 3,major_facelift,2024-04,2023-09-01,,high,https://www.autocast.kr/article/view/atc202404040002;https://economist.co.kr/article/view/ecn202404040029;https://en.wikipedia.org/wiki/Tesla_Model_3
+South Korea,Mercedes-Benz,GLC,new_generation,2016-01,,,medium,https://namu.wiki/w/메르세데스-벤츠%20GLC
+South Korea,Mercedes-Benz,GLC,major_facelift,2020-01,2019-03,,high,https://www.etoday.co.kr/news/view/1844616;https://www.motorgraph.com/news/articleView.html?idxno=24785;https://en.wikipedia.org/wiki/Mercedes-Benz_GLC
+South Korea,Mercedes-Benz,GLC,new_generation,2023-07,2022-06-01,,medium,https://namu.wiki/w/메르세데스-벤츠%20GLC;https://en.wikipedia.org/wiki/Mercedes-Benz_GLC
+South Korea,Kia,EV3,new_generation,2024-07,2024-05-23,,high,https://ko.wikipedia.org/wiki/기아_EV3;https://www.hankyung.com/article/202406043503g
+South Korea,Mercedes-Benz,S-Class,major_facelift,2017-09,2017-04,,medium,https://namu.wiki/w/메르세데스-벤츠%20S클래스(W222)
+South Korea,Mercedes-Benz,S-Class,new_generation,2021-04,2020-09-02,,high,https://m.seoul.co.kr/news/economy/car/2021/04/28/20210428500222;https://www.top-rider.com/article/view/trd202104280003;https://en.wikipedia.org/wiki/Mercedes-Benz_S-Class_(W223)
+South Korea,Mercedes-Benz,S-Class,major_facelift,2026-08,2026-01-29,,high,https://www.starnewskorea.com/business-life/2026/08/18/2026081809403513043;https://www.mt.co.kr/industry/2026/05/18/2026051811071573312;https://www.mercedes-benz.co.kr/passengercars/brand/news-events/news-story/2026/news-20260130.html

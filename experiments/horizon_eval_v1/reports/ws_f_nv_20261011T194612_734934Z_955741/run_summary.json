@@ -1,0 +1,136 @@
+{
+  "model": "ws_f_nv",
+  "mode": "scale_part",
+  "rule": "['Canada', 'Europe', 'Germany', 'Japan', 'South Korea', 'United States']의 ['middle', 'back'] 묶음 합 = 0.5 × second + 0.5 × first (공통 차종 기준, 묶음 안 비율 유지)",
+  "sources": [
+    "experiments/horizon_eval_v1/reports/ws_f_20261011T194608_804808Z_97574c",
+    "experiments/horizon_eval_v1/reports/naive_member_20261010T122217_360751Z_b1c870"
+  ],
+  "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+  "origins": [
+    "2022-07",
+    "2023-01",
+    "2023-07",
+    "2024-01",
+    "2024-07"
+  ],
+  "check_origin": "2025-07",
+  "trained_models": 0,
+  "status_counts": [
+    {
+      "origin": "2022-07",
+      "prediction_status": "INCOMPLETE_HISTORY",
+      "n": 1
+    },
+    {
+      "origin": "2022-07",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 162
+    },
+    {
+      "origin": "2022-07",
+      "prediction_status": "OK",
+      "n": 1369
+    },
+    {
+      "origin": "2022-07",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 34
+    },
+    {
+      "origin": "2023-01",
+      "prediction_status": "INCOMPLETE_HISTORY",
+      "n": 1
+    },
+    {
+      "origin": "2023-01",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 171
+    },
+    {
+      "origin": "2023-01",
+      "prediction_status": "OK",
+      "n": 1483
+    },
+    {
+      "origin": "2023-01",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 10
+    },
+    {
+      "origin": "2023-07",
+      "prediction_status": "INCOMPLETE_HISTORY",
+      "n": 1
+    },
+    {
+      "origin": "2023-07",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 195
+    },
+    {
+      "origin": "2023-07",
+      "prediction_status": "OK",
+      "n": 1565
+    },
+    {
+      "origin": "2023-07",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 16
+    },
+    {
+      "origin": "2024-01",
+      "prediction_status": "INCOMPLETE_HISTORY",
+      "n": 1
+    },
+    {
+      "origin": "2024-01",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 196
+    },
+    {
+      "origin": "2024-01",
+      "prediction_status": "OK",
+      "n": 1664
+    },
+    {
+      "origin": "2024-01",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 17
+    },
+    {
+      "origin": "2024-07",
+      "prediction_status": "INCOMPLETE_HISTORY",
+      "n": 2
+    },
+    {
+      "origin": "2024-07",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 197
+    },
+    {
+      "origin": "2024-07",
+      "prediction_status": "OK",
+      "n": 1775
+    },
+    {
+      "origin": "2024-07",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 11
+    },
+    {
+      "origin": "2025-07",
+      "prediction_status": "INSUFFICIENT_HISTORY",
+      "n": 232
+    },
+    {
+      "origin": "2025-07",
+      "prediction_status": "OK",
+      "n": 1985
+    },
+    {
+      "origin": "2025-07",
+      "prediction_status": "UNSEEN_SERIES",
+      "n": 15
+    }
+  ]
+}
