@@ -1,0 +1,29 @@
+﻿Country,Brand,Model,status,reason
+Germany,Tesla,Cybertruck,NOT_SOLD,현재 판매 안함
+Germany,Chevrolet,silverado,NOT_SOLD,현재 판매 안함
+Germany,Chevrolet,tahoe,NOT_SOLD,현재 판매 안함
+Germany,gmc,sierra,NOT_SOLD,현재 판매 안함
+Germany,Chevrolet,TrailBlazer,NOT_SOLD,현재 판매 안함
+Germany,Ford,F-250,NOT_SOLD,현재 판매 안함
+United States,Ford,F-250,AGGREGATED_SERIES,F-Series로 통합 집계됨
+Europe,gmc,sierra,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Europe,Chevrolet,TrailBlazer,NOT_SOLD,현재 판매 안함
+Europe,Ford,F-250,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Tesla,Cybertruck,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Chevrolet,silverado,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Chevrolet,tahoe,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,gmc,sierra,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Hyundai,g90,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Chevrolet,TrailBlazer,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+Japan,Ford,F-250,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+China,Tesla,Cybertruck,NOT_SOLD,현재 판매 안함
+China,Hyundai,Ioniq 5,NOT_SOLD,현재 판매 안함
+China,Chevrolet,silverado,NOT_SOLD,현재 판매 안함
+China,Chevrolet,tahoe,NOT_SOLD,현재 판매 안함
+China,gmc,sierra,NO_PUBLIC_DATA,정확한 공개 판매 데이터 부족
+China,Chevrolet,TrailBlazer,NOT_SOLD,현재 판매 안함
+China,Ford,F-250,NOT_SOLD,현재 판매 안함
+Canada,Ford,F-250,AGGREGATED_SERIES,F-Series로 통합 집계됨
+South Korea,Chevrolet,silverado,NOT_SOLD,현재 판매 안함
+South Korea,Ford,F-250,NOT_SOLD,현재 판매 안함
+South Korea,Volkswagen,Tiguan,NOT_SOLD,현재 판매 안함

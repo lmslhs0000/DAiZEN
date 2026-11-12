@@ -1,0 +1,51 @@
+﻿Brand,Model,sales_last12,resolved,source_key,equal,diff,missing,collect_status
+Subaru,Crosstrek,22743.0,False,subaru-xv-crosstrek-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Kia,K4,12406.0,False,kia-forte-sales-figures;kia-k4-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,GLC,9264.0,False,mercedes-benz-glc-class-sales-figures;mercedes-benz-glc-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Subaru,Outback,7814.0,False,subaru-outback-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,GLE,5934.0,True,mercedes-benz-m-class-sales-figures,0,2,1,NOT_POSTED/OK
+Land Rover,Range Rover Sport,3247.0,True,land-rover-range-rover-sport-sales,2,0,1,NOT_POSTED/OK
+Toyota,Crown Signia,3121.0,False,toyota-crown-signia-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Lincoln,Corsair,2721.0,True,lincoln-mkc-sales-figures-usa-canada,2,0,1,NOT_POSTED/OK
+Mercedes-Benz,G-Class,2197.0,False,mercedes-benz-g-class-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+BMW,i4,1470.0,False,bmw-i4-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Kia,EV4,1448.0,False,kia-ev4-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Rivian,R1T,1305.0,False,rivian-r1t-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+BMW,X2,1286.0,False,bmw-x2-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Polestar,3,1247.0,False,polestar-3-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Volvo,EX30,1126.0,False,volvo-ex30-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Kia,EV5,885.0,False,kia-ev5-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+VinFast,VF8,804.0,False,vinfast-vf8-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Lucid,Air,762.0,False,lucid-air-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Audi,A6,717.0,False,audi-a6-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Land Rover,Range Rover Evoque,653.0,True,land-rover-range-rover-evoque-sales,2,0,1,NOT_POSTED/OK
+Polestar,2,638.0,False,polestar-2-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Audi,Q4 e-tron,561.0,False,audi-q4-etron-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Subaru,BRZ,539.0,False,subaru-brz-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Lucid,Gravity,449.0,False,lucid-gravity-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Volvo,60-Series,440.0,False,volvo-60-series-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,AMG GT,320.0,True,mercedes-amg-gt-sales-figures-usa-canada,0,2,1,NOT_POSTED/OK
+Maserati,Grecale,274.0,False,maserati-grecale-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Porsche,Panamera,257.0,False,porsche-panamera-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Porsche,Boxster,218.0,False,porsche-boxster-sales-figures;porsche-718-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Porsche,Cayman,212.0,False,porsche-cayman-sales-figures;porsche-718-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Porsche,Taycan,207.0,False,porsche-taycan-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Honda,Prelude,198.0,False,honda-prelude-sales-figures-usa-canada,0,0,3,NO_CA_MONTHLY_TABLE
+Land Rover,Discovery Sport,196.0,False,usa-canada-land-rover-discovery-sport-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+BMW,i5,179.0,False,bmw-i5-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Volvo,90-Series,135.0,False,volvo-90-series-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Lexus,LC,134.0,False,lexus-lc-sales-figures;usa-canada-lexus-lc500-sales-stats-monthly-yearly (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Bentley,Bentayga,124.0,False,usa-bentley-bentayga-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Volvo,EX90,103.0,False,volvo-ex90-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,GLS,95.0,True,mercedes-benz-gl-class-sales-figures,0,2,1,NOT_POSTED/OK
+Mercedes-Benz,A-Class,93.0,False,mercedes-benz-a-class-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Volvo,C40,91.0,False,volvo-c40-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,EQS SUV,56.0,False,mercedes-benz-eqs-suv-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+VinFast,VF9,54.0,False,vinfast-vf9-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+BMW,i7,46.0,False,bmw-i7-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Jaguar,XF,45.0,False,jaguar-xf-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Audi,e-tron GT,33.0,False,audi-e-tron-gt-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Toyota,Mirai,31.0,False,toyota-mirai-sales-figures-usa-canada-monthly-yearly (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Mercedes-Benz,EQS,23.0,False,mercedes-benz-eqs-sedan-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE
+Maserati,GranTurismo,20.0,False,usa-canada-maserati-granturismo-sales-figures (Canada annual table only),0,0,3,NO_CA_MONTHLY_TABLE
+Maserati,MC20,3.0,False,maserati-mc20-sales-figures,0,0,3,NO_CA_MONTHLY_TABLE

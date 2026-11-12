@@ -1,0 +1,24 @@
+{
+  "model": "ic_champ",
+  "rule": "(hq) event rules: sibling_launch / new_generation / powertrain_switch factors learned from past events finished by origin",
+  "parts": [
+    "back"
+  ],
+  "per_market": false,
+  "events": {
+    "experiments/global_lifecycle_v1/research/events_europe.csv": "a06eecb0f3a39737ffaf549b98a746bd9be31b275759c66ef516371c0f551b63",
+    "experiments/global_lifecycle_v1/research/events_japan.csv": "7b5c0ca8f207a9e9ab66a504fd954d6f2dabe18fb954ea51a27f050a99e4da41",
+    "experiments/global_lifecycle_v1/research/events_korea.csv": "3fdb13d4a907677c9253875c925dddfde1e0aa3cf04537de72713582567b45f3",
+    "experiments/global_lifecycle_v1/research/events_na_ext_part1.csv": "d105a6db2d3bc978b06482c439c6c3bbba011375a6fbf95cfd74f3d9e5314954",
+    "experiments/global_lifecycle_v1/research/events_na_ext_part2.csv": "63a98310893823345c54db2202e1903388791e81955f9784e6290a00b6fb9eca",
+    "experiments/global_lifecycle_v1/research/events_na_ext_part3.csv": "8c086b29b547734436e727cc90478d2306d61c135a5bf99fbf80b43b975fb2f0",
+    "experiments/global_lifecycle_v1/research/events_north_america.csv": "b0d35198c771fe904144b3cd2e9fb2cd15d0c3794a66e232bc350e366e8af0f2",
+    "experiments/global_lifecycle_v1/research/events_north_america_ext.csv": "fd4dc1cf82f0c8f13279ff280d1c6b5812d66504debc02147202117fc9b1b5e6",
+    "experiments/china_lifecycle_v2/research/events_china_v2_merged.csv": "1fddb8aeb24f2bd27fdb08eda54c617e2b84395b5d2f91caa8507878a7cff754",
+    "experiments/data_audit_v1/events_v3/nonchina/events_v3_nonchina.csv": "0d4e0f936ed7b0cb5457be540cd158d247b83dbf3ffe1e9329a7009b79d987dc",
+    "experiments/data_audit_v1/events_v3/china/events_v3_china.csv": "2142784e9ff1db17a5ac0133b22890f2ce0b9087db4857c37d1051774714aa9e"
+  },
+  "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+  "trained_models": 0,
+  "source": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\ic_disc_20261013T035313_409154Z_3ac475"
+}

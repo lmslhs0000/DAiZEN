@@ -1,0 +1,796 @@
+﻿slug,Brand,Model,sales_last12,confidence
+model-y-1881,Tesla,Model Y,638496.0,high
+xingyuan-2407,Geely,EX2,533691.0,medium
+byd-yuan-up-2326,BYD,UP,395211.0,medium
+yuan-up-dm-i-2621,BYD,UP,395211.0,medium
+seagull-2190,BYD,Dolphin Surf,391272.0,medium
+model-3-1776,Tesla,Model 3,342404.0,high
+hongguang-mini-ev-1837,Wuling,Hongguang MINIEV,296993.0,high
+qin-plus-dm-1885,BYD,Qin Plus,286011.0,high
+qin-plus-ev-1904,BYD,Qin Plus,286011.0,high
+binyue-1597,Geely,Binyue,273345.0,high
+ea1-1942,BYD,Dolphin,266284.0,high
+yu7-2525,Xiaomi,YU7,260179.0,medium
+tiggo7-1339,Chery,Tiggo 7,254401.0,high
+song-pro-dm-1704,BYD,Song Pro NEV,253152.0,medium
+sylphy-192,Nissan,Sentra,246331.0,high
+sylphy-e-power-1975,Nissan,Sentra,246331.0,high
+sealion06-dm-2530,BYD,Sealion 06,245951.0,medium
+sealion06-ev-2531,BYD,Sealion 06,245951.0,medium
+boyuel-2126,Geely,Boyue L,219483.0,high
+tiggo5x-1495,Chery,Tiggo 5X,218620.0,high
+tai7-2561,Fangchengbao,Tai 7,216466.0,medium
+tai7-ev-2711,Fangchengbao,Tai 7,216466.0,medium
+lavida-480,Volkswagen,Lavida,214814.0,high
+lavida-pro-2551,Volkswagen,Lavida,214814.0,high
+xingyue-l-1936,Geely,Monjaro,202087.0,high
+sagitar-582,Volkswagen,Sagitar,198324.0,high
+qin-l-dm-i-2351,BYD,Qin L,198241.0,medium
+qin-l-ev-2476,BYD,Qin L,198241.0,medium
+tiggo8-1540,Chery,Tiggo 8,194083.0,high
+tiggo8-48v-2136,Chery,Tiggo 8,194083.0,high
+camry-265,Toyota,Camry,194081.0,high
+camry-hev-266,Toyota,Camry,194081.0,high
+mg4-ev-2048,MG,MG4,191220.0,high
+tiguan-l-1364,Volkswagen,Tiguan,184500.0,medium
+toyota-rav4-592,Toyota,RAV4,182369.0,high
+rav4-fhev-1736,Toyota,RAV4,182369.0,high
+rav4-phev-1911,Toyota,RAV4,182369.0,high
+magotan-581,Volkswagen,Magotan,180625.0,high
+magotan-gte-1760,Volkswagen,Magotan,180625.0,high
+xiaomi-su7-2343,Xiaomi,SU7,179602.0,medium
+emgrand-337,Geely,Emgrand,178921.0,medium
+emgrand-ev-336,Geely,Emgrand,178921.0,medium
+passat-482,Volkswagen,Passat NMS,177641.0,high
+passat-phev-1648,Volkswagen,Passat NMS,177641.0,high
+bigdog-1853,Haval,Big Dog,173909.0,high
+corolla-cross-2038,Toyota,Corolla Cross,173411.0,high
+corolla-cross-hev-2229,Toyota,Corolla Cross,173411.0,high
+leapmotor-c10-ev-2314,Leapmotor,C10,173184.0,medium
+leapmotor-c10-reev-2315,Leapmotor,C10,173184.0,medium
+m7-2051,AITO,M7,170858.0,high
+aito-m7-ev-2567,AITO,M7,170858.0,high
+m7-phev-2624,AITO,M7,170858.0,high
+deepal-s05-ev-2426,Deepal,S05,169208.0,medium
+deepal-s05-reev-2425,Deepal,S05,169208.0,medium
+li-i6-2566,Li Auto,i6,164834.0,high
+tayron-1581,Volkswagen,Tayron,162741.0,high
+tayron-gte-1777,Volkswagen,Tayron,162741.0,high
+honda-cr-v-156,Honda,CR-V,154573.0,high
+envision-493,Buick,Envision Plus,150277.0,high
+envision-plus-48v-2146,Buick,Envision Plus,150277.0,high
+changan-x5-plus-2346,Changan,X5 PLUS,149832.0,medium
+eado-123,Changan,Eado,148357.0,high
+xpeng-mona-m03-2402,Xpeng,MONA M03,146425.0,medium
+changan-cs75-114,Changan,CS75PLUS,145935.0,high
+bmw-3-series-302,BMW,3 Series,145237.0,high
+haval-h6-138,Haval,H6,141958.0,high
+audi-a6l-573,Audi,A6L,140716.0,high
+audi-a6l-48v-2026,Audi,A6L,140716.0,high
+audi-a6l-fhev-2734,Audi,A6L,140716.0,high
+yuan-plus-2025,BYD,Atto 3,139137.0,high
+territory-1656,Ford,Territory,136282.0,low
+byd-seal-05-dm-i-2464,BYD,Seal 05 DM-i,135366.0,medium
+x70-1589,Chery,X70,133425.0,high
+boyue-660,Geely,Boyue,133174.0,high
+galaxy-e5-2386,Geely,EX5,131977.0,medium
+es8-1614,NIO,EL8,131524.0,high
+harrier-2001,Toyota,Frontlander,129597.0,high
+seal-06-dm-i-2350,BYD,Seal 06,129579.0,medium
+hongqi-h5-1537,Hongqi,H5,128546.0,high
+h5-2040,Hongqi,H5,128546.0,high
+h5-48v-2080,Hongqi,H5,128546.0,high
+h5-fhev-2081,Hongqi,H5,128546.0,high
+e-class-phev-1922,Mercedes-Benz,E-Class,127643.0,high
+benz-e-class-48v-2122,Mercedes-Benz,E-Class,127643.0,high
+benz-e-class-4,Mercedes-Benz,E-Class,127643.0,high
+qiyuan-q05-2296,Changan Nevo,Q05,127399.0,medium
+arrizo-8-2098,Chery,Arrizo 8,122537.0,high
+aito-m8-reev-2500,AITO,M8,122056.0,medium
+aito-m8-ev-2546,AITO,M8,122056.0,medium
+accord-hybrid-1636,Honda,Accord,121823.0,high
+accord-252,Honda,Accord,121823.0,high
+accord-phev-2211,Honda,Accord,121823.0,high
+b10-2481,Leapmotor,B10,120801.0,medium
+b10-reev-2601,Leapmotor,B10,120801.0,medium
+xingrui-1861,Geely,Preface,120472.0,high
+audi-q5-575,Audi,Q5L,115681.0,high
+avalon-1665,Toyota,Avalon,114190.0,high
+avalon-hybrid-1666,Toyota,Avalon,114190.0,high
+benz-glc-1344,Mercedes-Benz,GLC,112884.0,high
+glc-ev-2749,Mercedes-Benz,GLC,112884.0,high
+lumin-2034,Changan,Lumin,112264.0,high
+binguo-s-2549,Wuling,Bingo S,110967.0,medium
+mg-5-451,MG,MG5,110415.0,high
+changan-cs55cs55-plus-1418,Changan,CS55PLUS,107166.0,high
+zeekr-7x-2400,Zeekr,7X,103114.0,medium
+bmw-5-series-303,BMW,5 Series,102911.0,high
+bmw-530le-304,BMW,5 Series,102911.0,high
+bz3x-2470,Toyota,bZ3X,101706.0,medium
+arcfox-t1-2565,BAIC BJEV,T1,99454.0,medium
+a10-2615,Leapmotor,A10,96750.0,medium
+wildlander-1791,Toyota,Wildlander,95910.0,high
+wildlander-fhev-1792,Toyota,Wildlander,95910.0,high
+d9-bev-2125,Denza,D9,94902.0,high
+d9-phev-2124,Denza,D9,94902.0,high
+denza-d9-dm-2478,Denza,D9,94902.0,high
+bestune-xiaoma-2348,Bestune,Pony,94706.0,medium
+tharu-1583,Volkswagen,Tharu XR,94422.0,high
+benz-c-class-48v-2121,Mercedes-Benz,C-Class,92805.0,high
+benz-c-class-3,Mercedes-Benz,C-Class,92805.0,high
+trumpchi-gs3-1448,GAC Trumpchi,GS3,92687.0,high
+galaxy-a7-2521,Geely,A7 EM,92586.0,medium
+sienna-1987,Toyota,Sienna,91383.0,high
+jetour-freedomer-2453,Chery,Jetour Ziyouzhe,89833.0,medium
+li-auto-2341,Li Auto,L6,87561.0,high
+song-l-dm-i-2383,BYD,L DM-i,87018.0,medium
+wey-gaoshan-phev-2286,WEY,Gaoshan,86210.0,medium
+destroyer-05-1996,BYD,Destroyer 05,86197.0,high
+b01-2524,Leapmotor,B01,86133.0,high
+breeze-fhev-1844,Honda,Breeze,85709.0,high
+breeze-1750,Honda,Breeze,85709.0,high
+orlando-1584,Chevrolet,Aveo,85383.0,low
+highlander-264,Toyota,Highlander,83605.0,high
+highlander-fhev-2088,Toyota,Highlander,83605.0,high
+galaxy-starship7-2439,Geely,Galaxy Starship 7,83377.0,medium
+x-2714,Geely,Galaxy Starship 7,83377.0,medium
+aito-m9-bev-2324,AITO,M9,82706.0,medium
+aito-m9-reev-2325,AITO,M9,82706.0,medium
+c11-1957,Leapmotor,C11,82620.0,high
+c11-reev-2225,Leapmotor,C11,82620.0,high
+bwm-x3-1532,BMW,X3,82496.0,high
+aion-i60-reev-2588,AION,i60,82372.0,medium
+aion-i60-ev-2589,AION,i60,82372.0,medium
+song-ultra-ev-2622,BYD,Ultra,82100.0,medium
+song-ultra-dm-i-2710,BYD,Ultra,82100.0,medium
+lvxingzhe-2240,Chery,Jetour Traveller,81725.0,medium
+traveller-c-dm-2590,Chery,Jetour Traveller,81725.0,medium
+corolla-586,Toyota,Corolla,81528.0,high
+elantra-41,Hyundai,Elantra,81161.0,high
+panda-mini-2176,Geely,Panda,79103.0,medium
+sea-lion-05-ev-2477,BYD,05 EV,77977.0,medium
+audi-a5l-2527,Audi,A5L,76549.0,medium
+audi-a5l-sportback-2516,Audi,A5L,76549.0,medium
+tank-300-1889,Tank,300,74494.0,high
+bj30-1913,BAIC BJ,BJ30,74327.0,high
+dreamer-2007,Voyah,Dreamer,74107.0,high
+dreamer-phev-2226,Voyah,Dreamer,74107.0,high
+zeekr-9x-phev-2562,Zeekr,9X,72841.0,medium
+han-dm-1833,BYD,Han,72272.0,high
+han-bev-1829,BYD,Han,72272.0,high
+pegas-1458,Kia,Pegas,72194.0,high
+audi-a3-574,Audi,A3,71621.0,high
+nevo-q07-2492,Changan Nevo,Q07,71541.0,medium
+leapmotor-c16-ev-2392,Leapmotor,C16,69422.0,high
+leapmotor-c16-reev-2379,Leapmotor,C16,69422.0,high
+t03-1825,Leapmotor,T03,69094.0,high
+menglong-phev-2273,Haval,Raptor PHEV,66959.0,medium
+tai-3-2488,Fangchengbao,Tai 3,66452.0,medium
+deepal-s7-bev-2203,Deepal,S07,65940.0,medium
+deepal-s7-reev-2204,Deepal,S07,65940.0,medium
+fulwin-a9l-2519,Chery,A9L,65818.0,medium
+galaxy-m9-2538,Geely,M9,65749.0,medium
+dasheng-2099,Chery,Jetour Dasheng,64862.0,high
+jetour-dasheng-phev-2215,Chery,Jetour Dasheng,64862.0,high
+tang-dm-71,BYD,Tang,64738.0,high
+tang-ev-1668,BYD,Tang,64738.0,high
+icar-v23-2437,Chery,iCAR ClassV23,64460.0,medium
+firefly-2503,NIO,Firefly,64088.0,medium
+x5-48v-2021,BMW,X5,63849.0,high
+x5-2089,BMW,X5,63849.0,high
+xingyao-8-2491,Geely,Galaxy Starshine 8,62861.0,medium
+qiyuan-a06-2271,Changan Nevo,A06,61704.0,medium
+hs5-1684,Hongqi,HS5,61355.0,high
+onvo-l90-2544,NIO,L90,61121.0,high
+qashqai-191,Nissan,Qashqai,60843.0,high
+trumpchi-m8-1492,GAC Trumpchi,M8,60548.0,high
+m8-fhev-2114,GAC Trumpchi,M8,60548.0,high
+tiggo-9-2214,Chery,Tiggo 9,59689.0,medium
+im-ls6-2260,IM Motors,LS6,58843.0,medium
+fangchengbao-leopard5-2278,Fangchengbao,Leopard 5,58692.0,medium
+aion-ut-2462,AION,UT,58535.0,medium
+wuling-binguo-pro-2716,Wuling,Pro,57990.0,medium
+teana-190,Nissan,Altima,57753.0,high
+lynkco-08-em-p-2249,Lynk & Co,08 EM-P,56468.0,medium
+bora-577,Volkswagen,Bora,56076.0,high
+lacross-502,Buick,LaCrosse,55532.0,high
+tiggo-3x-1509,Chery,Tiggo 3X,55291.0,high
+roewe-i5-1594,Roewe,i5,54182.0,high
+e-qm5-1901,Hongqi,E-QM5,54016.0,high
+crown-fhev-1941,Toyota,Crown Kluger,53886.0,high
+crown-kluger-2095,Toyota,Crown Kluger,53886.0,high
+granvia-2156,Toyota,Granvia,52862.0,medium
+xpeng-p7-2433,Xpeng,P7+,50793.0,medium
+lynk-co-10-bev-2715,Lynk & Co,10,50740.0,high
+lynk-co-10-em-p-2539,Lynk & Co,10,50740.0,high
+deepal-l06-bev-2575,Deepal,L06,50699.0,medium
+saic-h5-reev-2568,Shangjie,H5,50693.0,medium
+saic-h5-ev-2569,Shangjie,H5,50693.0,medium
+lynkco-03-1591,Lynk & Co,03,50303.0,high
+lynkco-03-2129,Lynk & Co,03,50303.0,high
+aion-rt-2431,AION,RT,49202.0,medium
+bj40-reev-2506,BAIC BJ,BJ40 REEV,48775.0,high
+onvo-l60-2416,NIO,L60,48200.0,high
+new-mondeo-96,Ford,Mondeo,48140.0,high
+mondeo-hev-2282,Ford,Mondeo,48140.0,high
+mondeo-83,Ford,Mondeo,48140.0,high
+lafa-5-2582,Leapmotor,Lafa5,47874.0,medium
+qq3-ev-2623,Chery,QQ3 EV,47805.0,medium
+xpeng-g6-2222,Xpeng,G6,46929.0,medium
+uni-z-2340,Changan,UNI-Z,46780.0,medium
+cadillac-xt5-667,Cadillac,XT5,46685.0,high
+xt5-48v-2090,Cadillac,XT5,46685.0,high
+bmw-x1-301,BMW,X1,46244.0,high
+x1-phev-1553,BMW,X1,46244.0,high
+lynkco-900-2479,Lynk & Co,900,46147.0,medium
+xingchen-2105,Wuling,Xingchi,46123.0,high
+sea-lion-05-dm-i-2404,BYD,Sealion 05 DM-i,46028.0,medium
+luxeed-r7-2438,Luxeed,R7,46010.0,medium
+luxeed-r7-reev-2469,Luxeed,R7,46010.0,medium
+aion-v-1819,AION,V,45994.0,high
+arrizo-5-656,Chery,Arrizo 5,45748.0,high
+dongfeng-aeolus-l7-2360,Dongfeng Aeolus,L7,45677.0,medium
+dongfeng-aeolus-l7-bev-2719,Dongfeng Aeolus,L7,45677.0,medium
+aion-y-1916,AION,Y,45228.0,high
+trumpchi-gs8-1347,GAC Trumpchi,GS8,45008.0,high
+m6-bev-2636,AITO,M6,44805.0,medium
+m6-reev-2637,AITO,M6,44805.0,medium
+buick-gl8-phev-2335,Buick,GL8 EV,44582.0,medium
+vs5-1725,Jetta,VS5,44498.0,high
+haval-h9-140,Haval,H9,44210.0,high
+audi-a4l-572,Audi,A4L,43418.0,high
+starlight-560-2604,Wuling,Starlight 560 EV,42333.0,medium
+starlight-560-bev-2605,Wuling,Starlight 560 EV,42333.0,medium
+xingguang-560-phev-2592,Wuling,Starlight 560 EV,42333.0,medium
+avatr-07-2427,Avatr,07,41826.0,medium
+tank-500-phev-2236,Tank,500 EV,41693.0,medium
+free-reev-1945,Voyah,Free,41583.0,high
+free-bev-1946,Voyah,Free,41583.0,high
+seltos-2196,Kia,Seltos,40985.0,medium
+hongguang-527,Wuling,Hongguang,40947.0,high
+buick-gl8-498,Buick,GL8,40909.0,high
+buick-gl8-48v-2139,Buick,GL8,40909.0,high
+zeekr-1967,Zeekr,001,40589.0,high
+seal-2071,BYD,Seal,40305.0,high
+seal-dm-i-2245,BYD,Seal,40305.0,high
+uni-v-2002,Changan,UNI-V,40171.0,high
+inspire-1605,Honda,Inspire,39076.0,high
+nammi-01-2310,Dongfeng,Nammi 01,38111.0,medium
+fulwin-t9-2337,Chery,T9,37996.0,medium
+zeekr-007-2295,Zeekr,007,37343.0,medium
+x-trail-183,Nissan,Rogue,37017.0,high
+x-trail-2097,Nissan,Rogue,37017.0,high
+volvo-xc60-48v-2083,Volvo,XC60,36838.0,high
+arcfox-t5-2287,BAIC BJEV,T5,36447.0,medium
+t5-reev-2602,BAIC BJEV,T5,36447.0,medium
+mazda-cx-5-109,Mazda,CX-5,36445.0,high
+xingyao-6-2556,Geely,Galaxy Starshine 6,36028.0,medium
+hongguang-bev-2754,Wuling,Hongguang EV,35935.0,low
+l7-plus-2584,Chery,L7 PLUS,35777.0,medium
+n7-2489,Nissan,N7,35684.0,medium
+starlight-730-2557,Wuling,Starlight 730,35228.0,medium
+starlight-730-phev-2559,Wuling,Starlight 730,35228.0,medium
+stelato-s9t-ev-2542,Stelato,S9T,35014.0,medium
+stelato-s9t-reev-2543,Stelato,S9T,35014.0,medium
+good-cat-1879,ORA,03,34911.0,high
+nio-et5-touring-2221,NIO,ET5T,34891.0,high
+aion-s-1691,AION,S,34751.0,high
+xc70-phev-2581,Volvo,XC70,34302.0,medium
+tucson-l-2155,Hyundai,Tucson,34122.0,high
+tucson-l-fhev-2148,Hyundai,Tucson,34122.0,high
+tank-400-phev-2274,Tank,400 EV,33771.0,medium
+beijing-40-22,BAIC BJ,BJ40,33363.0,high
+li-auto-i8-2545,Li Auto,i8,32900.0,high
+nautilus-1895,Lincoln,Nautilus,32610.0,high
+byd-e7-2507,BYD,e7,32501.0,medium
+arcfox-s5-2311,BAIC BJEV,S5,32293.0,medium
+s5-reev-2630,BAIC BJEV,S5,32293.0,medium
+arcfox-s5-bev-2746,BAIC BJEV,S5,32293.0,medium
+audi-q3-576,Audi,Q3,32244.0,high
+ora-5-2603,ORA,5 EV,31802.0,medium
+l9-2116,Li Auto,L9,31781.0,high
+ct5-1726,Cadillac,CT5,31371.0,high
+xpeng-x9-2313,Xpeng,X9,31355.0,medium
+x9-reev-2609,Xpeng,X9,31355.0,medium
+xpeng-x9-bev-2742,Xpeng,X9,31355.0,medium
+seal-06gt-ev-2422,BYD,06GT,31183.0,medium
+yueyi-03-2474,Bestune,Yueyi 03,31110.0,medium
+seal-06-dm-touring-edition-2529,BYD,06 DM-i,30843.0,medium
+p7-1811,Xpeng,P7,30410.0,high
+voyah-courage-2415,Voyah,Courage,30317.0,medium
+06-1835,Lynk & Co,06,30196.0,high
+nami-06-2502,Dongfeng,Nammi 06,29967.0,medium
+lynkco-07-em-p-2354,Lynk & Co,07 EM-P,29702.0,high
+g7-2511,Xpeng,G7,29678.0,medium
+denza-n8l-dm-2572,Denza,N8L,29631.0,medium
+d19-bev-2635,Leapmotor,D19,29555.0,high
+d19-reev-2634,Leapmotor,D19,29555.0,high
+regal-501,Buick,Regal,29494.0,high
+hongqi-hs3-phev-2393,Hongqi,HS3 PHEV,29396.0,medium
+starlight-730-ev-2558,Wuling,Starlight 730 EV,29210.0,medium
+menglong-2505,Haval,Raptor,29136.0,medium
+xia-dm-2456,BYD,Xia,28936.0,medium
+civic-162,Honda,Civic,28547.0,high
+civic-hev-2160,Honda,Civic,28547.0,high
+e008-bev-2374,Dongfeng ePi,ep008,28514.0,medium
+e008-reev-2375,Dongfeng ePi,ep008,28514.0,medium
+t-roc-1528,Volkswagen,T-Roc,28491.0,high
+sonata-1830,Hyundai,Sonata,28401.0,high
+sonata-37,Hyundai,Sonata,28401.0,high
+qiyuan-a07-ev-2250,Changan Nevo,A07,28199.0,medium
+qiyuan-a07-phev-2251,Changan Nevo,A07,28199.0,medium
+edge-87,Ford,Edge L,28032.0,high
+n6-phev-2591,Nissan,N6,27959.0,medium
+yixuan-1732,Dongfeng Aeolus,Yixuan,27455.0,high
+tank-300-phev-2359,Tank,300 EV,27355.0,medium
+lamando-492,Volkswagen,Lamando L,27333.0,high
+showjet-ev-1976,Cowin,Pro EV,27273.0,high
+electra-e7-2664,Buick,Electra E7,27254.0,medium
+va3-1724,Jetta,VA3,26763.0,high
+trumpchi-m6-1630,GAC Trumpchi,M6,26223.0,high
+yueye-plus-2327,Baojun,Plus,26209.0,medium
+sportage-217,Kia,Sportage,26056.0,high
+sportage-fhev-2101,Kia,Sportage,26056.0,high
+mazda-ez-6-2440,Mazda,Mazda6e,25922.0,medium
+wuling-binguo-2169,Wuling,Bingo,25794.0,medium
+denza-z9gt-dm-2405,Denza,Z9 GT,25428.0,medium
+denza-z9gt-ev-2435,Denza,Z9 GT,25428.0,medium
+ez-60-reev-2563,Mazda,CX-6e,25389.0,medium
+ez-60-ev-2564,Mazda,CX-6e,25389.0,medium
+aeolus-l8-2532,Dongfeng Aeolus,L8,25303.0,medium
+l8-reev-2135,Li Auto,L8,24889.0,high
+s60-48v-2082,Volvo,S60,24213.0,high
+roewe-m7-dmh-2540,Roewe,M7 DMH,24200.0,medium
+es6-1699,NIO,EL6,24188.0,high
+trumpchi-e8-2258,GAC Trumpchi,E8,24001.0,medium
+empow55-1930,GAC Trumpchi,Empow,23685.0,high
+empow55-fhev-2111,GAC Trumpchi,Empow,23685.0,high
+hs6-phev-2570,Hongqi,HS6 PHEV,23598.0,medium
+kx1-1565,Kia,Stonic,23009.0,high
+haoyue-l-2191,Geely,Haoyue L,22778.0,medium
+nx8-bev-2611,Nissan,NX8,22762.0,medium
+nx8-reev-2619,Nissan,NX8,22762.0,medium
+roewe-d6-2497,Roewe,D6,22669.0,medium
+tang-l-ev-2486,BYD,Tang L,22315.0,medium
+tang-l-dm-2487,BYD,Tang L,22315.0,medium
+s3-2726,BAIC BJEV,S3,22223.0,medium
+mg-6-452,MG,MG6,21949.0,high
+mg-6-phev-1557,MG,MG6,21949.0,high
+hyundai-ix35-31,Hyundai,ix35,21816.0,high
+tavendor-2094,Volkswagen,Tavendor,21795.0,high
+trumpchi-s7-phev-2465,GAC Trumpchi,S7,21614.0,medium
+jetour-g700-2520,Chery,G700,20990.0,medium
+polestones-01-phev-2275,ROX,01,20836.0,medium
+icar-v27-2607,Chery,iCAR V27,20805.0,medium
+n60-2631,AION,N60,20674.0,medium
+fulwin-t11-2574,Chery,T11,20335.0,medium
+smart-1-2168,Smart,smart#1,20295.0,medium
+han-l-ev-2484,BYD,Yi L,20148.0,medium
+han-l-dm-2485,BYD,Yi L,20148.0,medium
+glb-1754,Mercedes-Benz,GLB,19953.0,high
+prado-588,Toyota,Land Cruiser Prado,19891.0,high
+zeekr-007gt-2739,Zeekr,007GT,19758.0,medium
+8x-2626,Zeekr,8X,19646.0,medium
+golf-578,Volkswagen,Golf,19565.0,high
+golf-gti-579,Volkswagen,Golf,19565.0,high
+custo-1934,Hyundai,Custo,19521.0,high
+g9-2018,Xpeng,G9,19510.0,high
+212-t01-2430,212,T01,19456.0,high
+odyssey-hybrid-1677,Honda,Odyssey,19303.0,high
+odyssey-246,Honda,Odyssey,19303.0,high
+maextro-s800-reev-2553,Maextro,S800,19169.0,medium
+maextro-s800-bev-2552,Maextro,S800,19169.0,medium
+vs8-2526,Jetta,VS8,19134.0,medium
+tank-500-2023,Tank,500,19037.0,high
+lynkco-z20-2424,Lynk & Co,Z20,18142.0,medium
+hr-v-2197,Honda,HR-V,18074.0,medium
+hr-v-fhev-2216,Honda,HR-V,18074.0,medium
+es9-2722,NIO,ES9,18018.0,medium
+bz7-2620,Toyota,bZ7,18014.0,medium
+teramont-1378,Volkswagen,Teramont,18013.0,high
+lingzhi-177,Forthing,Lingzhi,17908.0,high
+deepal-gl07-ev-2412,Deepal,L07,17889.0,medium
+deepal-gl07-reev-2413,Deepal,L07,17889.0,medium
+lanshan-phev-2193,WEY,Lanshan,17844.0,medium
+xingyao-7-2669,Geely,Galaxy Starshine 7,17591.0,medium
+huajing-s-phev-2608,Wuling,Huajing S,17551.0,medium
+z7-2671,Shangjie,Z7,17177.0,medium
+landian-e5-2188,Landian,e5,17163.0,medium
+hongqi-h5-phev-2472,Hongqi,H5 PHEV,16951.0,medium
+jetour-shanhai-t1-2423,Chery,T1,16876.0,medium
+v9-2668,Luxeed,V9,16841.0,medium
+electra-encasa-bev-2618,Buick,Electra Encasa,16656.0,medium
+electra-encasa-phev-2598,Buick,Electra Encasa,16656.0,medium
+m5-1991,AITO,M5,16652.0,high
+m5-ev-2066,AITO,M5,16652.0,high
+bz3-2184,Toyota,bZ3,16614.0,medium
+avatr-12-2297,Avatr,12,16214.0,medium
+da-tang-ev-2737,BYD,Datang,16202.0,medium
+ls9-2583,IM Motors,LS9,16069.0,medium
+e007-bev-2329,Dongfeng ePi,ep007,15741.0,medium
+e007-reev-2535,Dongfeng ePi,ep007,15741.0,medium
+seal-07-dm-i-2395,BYD,Seal 07 DM-i,15672.0,medium
+changan-cs35-113,Changan,CS35PLUS,15665.0,high
+fulwin-x3-2537,Chery,X3,15555.0,medium
+xiaolong-max-phev-2244,Haval,MAX,15306.0,medium
+haval-xiaolong-phev-2206,Haval,MAX,15306.0,medium
+starlight-s-ev-2387,Wuling,Starlight S,15299.0,medium
+starlight-s-phev-2388,Wuling,Starlight S,15299.0,medium
+hongqi-h6-2174,Hongqi,H6,15153.0,medium
+bz5-2510,Toyota,bZ5,15119.0,medium
+i3-2047,BMW,i3,15096.0,high
+hongqi-hs3-2208,Hongqi,HS3,14728.0,medium
+tank700-2328,Tank,700 EV,14624.0,medium
+roewe-rx5-692,Roewe,RX5,14529.0,high
+idera-9x-2617,Volkswagen,ID. ERA 9X,14513.0,high
+trumpchi-gs4-259,GAC Trumpchi,GS4,14497.0,medium
+trumpchi-gs4-phev-1423,GAC Trumpchi,GS4,14497.0,medium
+c5-x-1933,Citroen,C5 X,14492.0,high
+c5-x-phev-1974,Citroen,C5 X,14492.0,high
+volvo-s90-1370,Volvo,S90,14356.0,high
+volvo-s90-48v-2084,Volvo,S90,14356.0,high
+qq-1977,Chery,QQ,14346.0,high
+xinhai-s7-2414,Forthing,S7,14237.0,medium
+kunlun-2158,Cowin,Kunlun,14204.0,medium
+x-2667,Chery,T9L,14173.0,medium
+forthing-t5-evo-1898,Forthing,T5 Evo,14032.0,high
+im-l6-2344,IM Motors,L6,13913.0,medium
+refine-369,JAC,M3,13892.0,high
+gx-2724,Xpeng,GX,13879.0,medium
+xpeng-gx-reev-2747,Xpeng,GX,13879.0,medium
+xpeng-gx-bev-2748,Xpeng,GX,13879.0,medium
+xc60-phev-1716,Volvo,XC60 PHEV,13367.0,high
+icon-1771,Geely,ICON,13234.0,high
+icon-48v-2138,Geely,ICON,13234.0,high
+mhero-m817-2580,M-Hero,M817,13220.0,medium
+li-mega-2322,Li Auto,MEGA,13099.0,high
+lynkco-09-48v-1961,Lynk & Co,09,12905.0,high
+forthing-t5-1652,Forthing,T5,12670.0,high
+x90-1676,Chery,X90,12531.0,high
+ix1-2269,BMW,iX1,12478.0,medium
+taishan-phev-2594,Voyah,Taishan,12454.0,medium
+smart-5-2418,Smart,smart#5,12412.0,medium
+smart-5-phev-2550,Smart,smart#5,12412.0,medium
+jetour-shanhai-l7-phev-2399,Chery,L7,12391.0,low
+z-2030,Lincoln,Zephyr,12244.0,high
+stelato-s9-2432,Stelato,S9,12140.0,medium
+stelato-s9-reev-2498,Stelato,S9,12140.0,medium
+ls8-2638,IM Motors,LS8,12091.0,medium
+zeekr-x-2201,Zeekr,X,12070.0,medium
+deepal-s09-reev-2494,Deepal,S09,12024.0,medium
+yunhai-ev-2389,Baojun,Yunhai,11976.0,medium
+yunhai-phev-2390,Baojun,Yunhai,11976.0,medium
+mg7-2180,MG,MG7,11956.0,medium
+kia-k3-208,Kia,Forte,11813.0,high
+k3-bev-1780,Kia,Forte,11813.0,high
+k3-phev-1679,Kia,Forte,11813.0,high
+audi-e5-sportback-2547,Audi,E5 Sportback,11762.0,medium
+haval-h5-137,Haval,H5,11714.0,high
+kunlun-ihd-2338,Cowin,Kunlun EV,11678.0,medium
+deepal-g318-2391,Deepal,G318,11624.0,medium
+wangpai-m7-2218,BAW,Ruisheng Wangpai M7,11523.0,high
+bao8-2436,Fangchengbao,Leopard 8,11354.0,medium
+cavalier-1336,Chevrolet,Onix,11345.0,high
+et5-2115,NIO,ET5,11086.0,high
+id4-crozz-1893,Volkswagen,ID.4 CROZZ,10847.0,high
+id3-1959,Volkswagen,ID.3,10607.0,high
+uni-t-1782,Changan,UNI-T,10479.0,high
+xt4-1572,Cadillac,XT4,10313.0,high
+xt4-48v-2091,Cadillac,XT4,10313.0,high
+oshan-520-2493,Changan,Oshan 520,10294.0,medium
+range-rover-evoque-48v-2086,Land Rover,Range Rover Evoque,10265.0,high
+xuandu-1951,Cowin,Xuandu,10188.0,high
+xuandu-ev-2397,Cowin,Xuandu,10188.0,high
+vw-cc-583,Volkswagen,CC,10132.0,high
+z7t-2672,Shangjie,Z7T,9926.0,medium
+honor-121,Kaicene,Honor S,9895.0,high
+explorer-1802,Ford,Explorer,9864.0,high
+exeed-txl-1678,Exeed,TXL,9711.0,high
+x-2717,MG,4X,9651.0,medium
+ev2-2076,JMEV,EV2,9575.0,high
+luxeed-s7-2280,Luxeed,S7,9386.0,medium
+vs7-1768,Jetta,VS7,8999.0,high
+xinghai-t5-2606,Forthing,Xinghai T5,8963.0,medium
+electra-l7-2571,Buick,Electra L7,8957.0,medium
+haohan-hev-2285,Dongfeng Aeolus,Haohan,8927.0,medium
+venucia-vx6-2279,Nissan,VX6,8914.0,medium
+audi-q6l-e-tron-2554,Audi,Q6L e-tron,8731.0,medium
+audi-q6l-e-tron-sportback-2555,Audi,Q6L e-tron,8731.0,medium
+ec6-1859,NIO,EC6,8725.0,high
+cowin-shiyue-2294,Cowin,Shiyue,8624.0,medium
+mazda3-axela-108,Mazda,Mazda3,8568.0,high
+e7x-2663,Audi,E7X,8537.0,medium
+x7-1820,BAIC,X7,8488.0,high
+besturn-b70-605,Bestune,B70,8381.0,high
+hyptec-ht-2289,Hyptec,HT,8190.0,medium
+e-c-elysee-1841,Citroen,e-Elysee,8161.0,high
+levin-267,Toyota,Levin,8062.0,high
+levin-hev-268,Toyota,Levin,8062.0,high
+talagon-1909,Volkswagen,Talagon,8056.0,high
+peugeot408-548,Peugeot,408,8051.0,high
+roewe-d7-dmh-2253,Roewe,D7,7990.0,medium
+roewe-d7-ev-2254,Roewe,D7,7990.0,medium
+tank-400-2466,Tank,400,7940.0,medium
+maxus-g50-1642,Maxus,G50,7886.0,high
+h9-1832,Hongqi,H9,7849.0,high
+taishan-x8-phev-2675,Voyah,X8,7742.0,medium
+taishan-x8-bev-2760,Voyah,X8,7742.0,medium
+starlight-phev-2268,Wuling,Starlight,7513.0,medium
+xingguang-ev-2355,Wuling,Starlight,7513.0,medium
+a-class-1622,Mercedes-Benz,A-Class,7448.0,high
+electra-e5-2189,Buick,Electra E5,7388.0,medium
+qin-ev-654,BYD,Qin EV,7303.0,high
+xinghai-v9-phev-2376,Forthing,V9,7150.0,medium
+sealion-07-ev-2352,BYD,Sealion 7,7086.0,low
+vezel-247,Honda,Vezel,7063.0,high
+et5-reev-2597,Exeed,ET5,6903.0,medium
+sterra-et-2302,Exeed,ET,6831.0,medium
+sterra-et-reev-2385,Exeed,ET,6831.0,medium
+ford-bronco-2358,Ford,Bronco,6760.0,medium
+bronco-reev-2674,Ford,Bronco,6760.0,medium
+bronco-bev-2673,Ford,Bronco,6760.0,medium
+lynkco-01-1496,Lynk & Co,01,6514.0,high
+lynkco-01-hev-2057,Lynk & Co,01,6514.0,high
+chery-eq-427,Chery,Little Ant,6449.0,high
+xc40-1692,Volvo,XC40,6430.0,high
+xc40-48v-2085,Volvo,XC40,6430.0,high
+xingge-1984,Honda,Integra,6346.0,high
+honda-integra-fhev-2238,Honda,Integra,6346.0,high
+arcfox-koala-2239,BAIC BJEV,Arcfox Kaola,6250.0,medium
+bmw-2-series-662,BMW,2 Series,6108.0,high
+seal-07-ev-2666,BYD,Seal 07 EV,5977.0,medium
+tiggo9-c-dm-2406,Chery,9 C-DM,5963.0,medium
+xiangwang-s9-2523,GAC Trumpchi,S9,5909.0,medium
+caocao-60-2200,CaoCao,Cao Cao 60,5589.0,high
+a7l-1998,Audi,A7L,5335.0,high
+a7l-48v-2536,Audi,A7L,5335.0,high
+showjet-1801,Cowin,Xuanjie,5284.0,high
+tayron-x-1812,Volkswagen,Tayron X,5182.0,high
+livan-blue-balloon-2548,Livan,Balloon,5097.0,medium
+sl03-ev-2078,Deepal,SL03,5062.0,high
+sl03-reev-2079,Deepal,SL03,5062.0,high
+benz-v-class-678,Mercedes-Benz,V-Class,5001.0,high
+vito-236,Mercedes-Benz,Vito,4983.0,high
+galaxy-l7-2219,Geely,L7,4895.0,medium
+mifa-9-2052,Maxus,MIFA 9,4895.0,high
+mifa-9-phev-2364,Maxus,MIFA 9,4895.0,high
+viloran-1784,Volkswagen,Viloran,4884.0,high
+monza-1661,Chevrolet,Monza,4859.0,high
+monza-48v-2142,Chevrolet,Monza,4859.0,high
+hongqi-hs7-phev-2380,Hongqi,HS7 PHEV,4819.0,medium
+mazda-cx-50-2207,Mazda,CX-50,4801.0,medium
+mazda-cx-50-hev-2284,Mazda,CX-50,4801.0,medium
+bigdog-phev-2183,Haval,Plus,4739.0,medium
+exeed-vx-2173,Exeed,VX,4716.0,medium
+k5-1815,Kia,K5,4706.0,high
+e3-1737,BYD,e3,4681.0,high
+c5-aircross-1455,Citroen,C5 Aircross,4572.0,high
+q4-e-tron-2042,Audi,Q4 e-tron,4560.0,high
+honda-p7-2475,Honda,P7,4504.0,medium
+verano-nb-494,Buick,Verano,4489.0,high
+jaguar-xfl-1345,Jaguar,XFL,4407.0,high
+binrui-1590,Geely,Binrui,4406.0,high
+wey-v9x-2718,WEY,V9X,4378.0,medium
+fengguang-s560-1472,DFSK,S560,4331.0,high
+q6-2068,Audi,Q6,4242.0,high
+e300-1632,JMEV,EV3,4206.0,high
+haoji-2075,Dongfeng Aeolus,Haoji,4154.0,high
+galaxy-l6-2247,Geely,L6,4142.0,medium
+bmw-i5-2306,BMW,i5,4105.0,medium
+santafe-43,Hyundai,Santa Fe,4090.0,high
+q2l-1582,Audi,Q2L,4054.0,high
+eqb-1980,Mercedes-Benz,EQB,3996.0,high
+smart-3-2224,Smart,smart#3,3989.0,medium
+maxus-g10-465,Maxus,G10,3903.0,high
+box-1856,Jemmell,Box,3868.0,high
+sterra-es-2265,Exeed,ES,3770.0,medium
+sterra-es-reev-2467,Exeed,ES,3770.0,medium
+yueyi-07-2508,Bestune,Yueyi 07,3766.0,medium
+century-2147,Buick,Century,3764.0,medium
+galaxy-e8-2304,Geely,E8,3700.0,medium
+cla-bev-2593,Mercedes-Benz,CLA,3677.0,high
+cla-ev-2613,Mercedes-Benz,CLA,3677.0,high
+elexio-2573,Hyundai,EO,3638.0,high
+zhuiguang-bev-2166,Voyah,Passion,3537.0,medium
+voyah-zhuiguang-phev-2259,Voyah,Passion,3537.0,medium
+avancier-1351,Honda,Avancier,3534.0,high
+pathfinder-2299,Nissan,Pathfinder,3529.0,medium
+fulwin-t8-2459,Chery,T8,3511.0,medium
+mercedes-benz-eq-e-suv-2202,Mercedes-Benz,EQE SUV,3509.0,high
+cr-v-phev-1886,Honda,CR-V EV,3504.0,high
+yangwang-u8-2277,Yangwang,U8,3488.0,medium
+v900-2600,Geely,V900,3478.0,medium
+elysion-fhev-1721,Honda,Elysion,3414.0,high
+elysion-155,Honda,Elysion,3414.0,high
+fengguang580-677,DFSK,Fengguang 580,3377.0,high
+yueyi-08-bev-2708,Bestune,Yueyi 08,3338.0,medium
+yueyi-08-reev-2709,Bestune,Yueyi 08,3338.0,medium
+yi-1955,JMEV,Yi,3257.0,high
+jiachen-2020,Wuling,Jiachen,3204.0,high
+hyptec-hl-2480,Hyptec,HL,3172.0,medium
+hyptec-hl-reev-2541,Hyptec,HL,3172.0,medium
+geometry-1680,Geometry,A,3162.0,high
+hongqi-hq9-phev-2381,Hongqi,HQ9 PHEV,3120.0,medium
+id4-x-1903,Volkswagen,ID.4 X,3107.0,high
+qiyuan-a05-2270,Changan Nevo,A05,3002.0,medium
+boyue-rev-2625,Geely,REV,2906.0,medium
+venucia-1950,Nissan,Venucia V-Online,2896.0,high
+escape-1772,Ford,Escape,2882.0,high
+escape-energi-1781,Ford,Escape,2882.0,high
+duomi-2518,Chery,QQ Duomi,2848.0,medium
+corsair-1808,Lincoln,Corsair,2789.0,high
+song-l-2292,BYD,L EV,2770.0,medium
+lingzhi-1551,Forthing,Lingzhi EV,2725.0,high
+cx-30-1803,Mazda,CX-30,2712.0,high
+cx-30-ev-1937,Mazda,CX-30,2712.0,high
+ev6-1949,Skyworth,EV6,2652.0,high
+honda-lingxi-l-2410,Honda,Lingxi L,2644.0,medium
+fulwin-a8-2300,Chery,A8,2561.0,medium
+x7-1731,Changan,X7 PLUS,2501.0,high
+jetta-va7-2448,Jetta,VA7,2392.0,medium
+honda-xr-v-157,Honda,XR-V,2385.0,high
+u7-ev-2515,Yangwang,U7,2381.0,medium
+u7-dm-2528,Yangwang,U7,2381.0,medium
+leapmotor-d99-bev-2745,Leapmotor,D99,2374.0,medium
+leapmotor-d99-reev-2744,Leapmotor,D99,2374.0,medium
+honda-ur-v-1402,Honda,UR-V,2339.0,high
+peugeot-5008-1412,Peugeot,5008,2330.0,high
+sea-lion-07-2509,BYD,Sealion 07 DM-i,2324.0,medium
+wangpai-m7-bev-2577,BAW,Ruisheng Wangpai M7 EV,2281.0,medium
+eqe-2073,Mercedes-Benz,EQE,2230.0,high
+yiwei-ev3-2205,JAC,Yiwei 3,2221.0,medium
+trumpchi-e9-2194,GAC Trumpchi,e9,2217.0,medium
+mg-es5-2428,MG,ES5,2139.0,low
+tiangong-06-2473,Hongqi,Tiangong 06,2078.0,medium
+mifa-7-bev-2369,Maxus,MIFA 7,2028.0,medium
+mifa-7-phev-2370,Maxus,MIFA 7,2028.0,medium
+t-1892,BAIC BJEV,Arcfox Alpha T,2000.0,high
+uni-2067,Jemmell,uni,1882.0,high
+velite-6-1635,Buick,Velite 6,1839.0,high
+g50-phev-2468,Maxus,G50 PHEV,1834.0,medium
+binguo-plus-2320,Wuling,Plus,1759.0,medium
+hongqi-eh7-2318,Hongqi,EH7,1706.0,medium
+rising-f7-2171,SAIC,F7,1669.0,medium
+peugeot-4008-1348,Peugeot,4008,1668.0,high
+x-2677,Exeed,EX7,1649.0,medium
+cadillac-ct6-517,Cadillac,CT6,1645.0,high
+e2-1727,BYD,e2,1643.0,high
+s-2056,BAIC BJEV,Arcfox Alpha S,1626.0,high
+peugeot508-549,Peugeot,508,1615.0,high
+lynkco-09-em-p-1986,Lynk & Co,09 EM-P,1607.0,high
+refine-rf8-phev-2357,JAC,RF8 PHEV,1522.0,medium
+fengguang500-1866,DFSK,Fengon 500,1516.0,high
+hongqi-tiangong08-2434,Hongqi,Tiangong 08,1516.0,medium
+lyriq-2028,Cadillac,Lyriq,1476.0,high
+uni-k-1896,Changan,UNI-K,1456.0,high
+bz4x-2123,Toyota,bZ4X,1454.0,medium
+bz4x-2151,Toyota,bZ4X,1454.0,medium
+s600-bev-2632,Hyptec,S600,1444.0,medium
+s600-reev-2633,Hyptec,S600,1444.0,medium
+venucia-d60-1474,Nissan,D60,1442.0,high
+tiguan-l-phev-1647,Volkswagen,Tiguan L ePro,1430.0,high
+roewe-d5x-dmh-2307,Roewe,D5X DMH,1389.0,medium
+imax8-ev-2036,Roewe,iMAX8 EV,1334.0,high
+roewe-imax8-phev-2429,Roewe,iMAX8 EV,1334.0,high
+exeed-1845,Exeed,LX,1298.0,low
+cadillac-gt4-2199,Cadillac,GT4,1289.0,medium
+s90-phev-1714,Volvo,S90 PHEV,1273.0,high
+zhuiguang-l-phev-2629,Voyah,Passion L,1270.0,medium
+mocha-phev-2015,WEY,Mocha PHEV,1222.0,high
+kia-ev5-2291,Kia,EV5,1211.0,medium
+tiida-qida-184,Nissan,Tiida,1209.0,high
+60s-1997,Livan,60s,1191.0,high
+beijing-60-2182,BAIC BJ,BJ60,1153.0,high
+wangpai-m8-bev-2586,BAW,Ruisheng M8 EV,1130.0,medium
+fengguang-330-196,DFSK,Fengon 330,1056.0,high
+aviator-1809,Lincoln,Aviator,1055.0,high
+livan8-2447,Livan,8,1043.0,medium
+xt6-1702,Cadillac,XT6,999.0,high
+xt6-48v-2092,Cadillac,XT6,999.0,high
+livan-7-2248,Livan,7,982.0,medium
+carnival-214,Kia,Carnival,959.0,high
+aipao-2308,JAC,Aipao,945.0,medium
+lynkco-06-phev-1847,Lynk & Co,06 EM-P,927.0,high
+lynkco-06-em-p-2267,Lynk & Co,06 EM-P,927.0,high
+venucia-da-v-phev-2213,Nissan,V DD-i,906.0,medium
+denza-z9-dm-2450,Denza,Z9,891.0,medium
+denza-z9-ev-2451,Denza,Z9,891.0,medium
+hyptec-gt-2220,Hyptec,GT,888.0,medium
+hedmos-06-2504,Dongfeng,HEDMOS 06,877.0,medium
+swm-dahu-2321,SWM,SWM,850.0,low
+g05-1733,SWM,G05,849.0,high
+et7-2017,NIO,ET7,841.0,high
+zhengcheng-528,Wuling,Zhengcheng,832.0,high
+volvo-em90-2378,Volvo,EM90,815.0,medium
+volvo-ex30-2377,Volvo,EX30,811.0,low
+ens2-2373,Honda,e:NS2,801.0,medium
+denza-n7-2242,Denza,N7,778.0,medium
+qx60-1990,Infiniti,QX60,777.0,high
+bj60-reev-2514,BAIC BJ,BJ60 REEV,724.0,medium
+roewe-rx9-2181,Roewe,RX9,695.0,low
+roewe-rx9-phev-2576,Roewe,RX9,695.0,low
+discovery-sport-48v-2087,Land Rover,Discovery Sport,689.0,high
+yuanbao-2109,BAW,Yuanbao,676.0,high
+qiyuan-e07-2442,Changan Nevo,E07,657.0,medium
+hq9-48v-2093,Hongqi,HQ9,652.0,high
+sehol-qx-phev-2255,JAC,QX PHEV,645.0,medium
+peugeo408x-2185,Peugeot,408X,626.0,medium
+eqa-1979,Mercedes-Benz,EQA,599.0,high
+zeekr-mix-2408,Zeekr,MIX,594.0,medium
+ls7-2167,IM Motors,LS7,577.0,medium
+ls7-2041,IM Motors,LS7,577.0,medium
+fengguang-380-2016,DFSK,Fengon 380,571.0,high
+yichi-05-2730,JMEV,Yichi 05,547.0,low
+jetour-shanhai-l9-2281,Chery,L9,541.0,low
+smart-6-2725,Smart,smart#6,539.0,medium
+equator-2004,Ford,Equator,475.0,low
+everest-384,Ford,Equator,475.0,low
+infiniti-qx50-200,Infiniti,QX50,461.0,high
+vistiq-2665,Cadillac,Vistiq,460.0,medium
+malibu-510,Chevrolet,Malibu,451.0,high
+sportage-r-220,Kia,Sportage Ace,430.0,high
+geometry-e-2045,Geometry,E Firefly,428.0,high
+flash-cat-2152,ORA,Lightning Cat,422.0,high
+xingchen-1952,Wuling,Xingchen,378.0,high
+xingchen-fhev-2120,Wuling,Xingchen,378.0,high
+g90-2064,Maxus,G90,372.0,high
+e-hs9-1883,Hongqi,E-HS9,368.0,high
+hyptec-a800-2560,Hyptec,A800,321.0,medium
+joyear-s50-1550,Forthing,S50EV,280.0,high
+polestar-4-2317,Polestar,4,274.0,low
+imax8-1851,Roewe,iMAX8,272.0,high
+optiq-2336,Cadillac,Optiq,258.0,medium
+ballet-cat-2063,ORA,Ba Lei Mao,254.0,high
+tourneo-2005,Ford,Tourneo,252.0,medium
+ec7-2186,NIO,EC7,248.0,high
+refine-rf8-2356,JAC,RF8,239.0,medium
+trumpchi-es9-2257,GAC Trumpchi,ES9,216.0,medium
+maxus-g70-2367,Maxus,G70,207.0,medium
+levc-l380-2419,LEVC,L380,194.0,high
+yichi-01-2733,JMEV,Yichi 01,188.0,medium
+mg-cyberster-2252,MG,Cyberster,181.0,low
+levin-gt-1938,Toyota,Levin GT,177.0,high
+levin-gt-fhev-2234,Toyota,Levin GT,177.0,high
+r7-2118,SAIC,R7,159.0,high
+benz-gla-1,Mercedes-Benz,GLA,150.0,high
+yichi-05s-2731,JMEV,05S,147.0,low
+ix3-1877,BMW,iX3,114.0,high
+hongqi-guoya-2421,Hongqi,Guoya,110.0,medium
+mhero-917-bev-2578,M-Hero,917,100.0,low
+mhero-917-reev-2579,M-Hero,917,100.0,low
+sonet-2330,Kia,Sonet,96.0,low
+wangpai-m8-reev-2585,BAW,Ruisheng M8,89.0,low
+frigate-07-2157,BYD,Frigate 07,87.0,medium
+volvo-ex90-2721,Volvo,EX90,82.0,low
+im-l7-2055,IM Motors,L7,67.0,high
+equinox-1417,Chevrolet,Equinox,63.0,high
+equinox-plus-2334,Chevrolet,Equinox,63.0,high
+equinox-48v-2143,Chevrolet,Equinox,63.0,high
+volvo-es90-2720,Volvo,ES90,53.0,low
+hongqi-guoyao-2372,Hongqi,Guoyao,51.0,medium
+e-pace-1570,Jaguar,E-Pace,41.0,high
+jianghuai-x8-plus-2272,JAC,X8 E,40.0,low
+inspire-phev-2233,Honda,Inspire EV,40.0,medium
+hongqi-guoli-2371,Hongqi,Guoli,33.0,high
+yangwang-u9-2394,Yangwang,U9,31.0,medium
+ariya-2096,Nissan,Ariya,29.0,high
+z6-2035,Changan,Oshan Z6,27.0,high
+venza-2011,Toyota,Venza,25.0,high
+venza-fhev-2039,Toyota,Venza,25.0,high
+d1-1860,BYD,D1,25.0,high
+z6-phev-2106,Changan,Oshan Z6 iDD,20.0,medium
+es600-2008,Dongfeng PSA,ES600,19.0,high
+kicks-1438,Nissan,Kicks,18.0,high
+touran-489,Volkswagen,Touran,9.0,high
+d60-bev-1706,Nissan,D60EV,6.0,high
+victory-1848,Wuling,Victory,4.0,high
+blazer-1779,Chevrolet,Blazer,3.0,high
+blazer-48v-2144,Chevrolet,Blazer,3.0,high
+evos-1999,Ford,EVOS,1.0,high
+menlo-1761,Chevrolet,Menlo,1.0,high
+hyptec-ssr-2288,Hyptec,SSR,1.0,medium
+fengguang-mini-1965,DFSK,MINIEV,0.0,high
+aion-lx-1743,AION,LX,0.0,high
+fengshen-e70-1471,Dongfeng Aeolus,E70,0.0,high
+8s-1700,Haima,8S,0.0,high
+e10x-1897,JAC,E10X (Huaxianzi),0.0,high

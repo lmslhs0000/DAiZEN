@@ -1,0 +1,170 @@
+[
+  {
+    "Country": "China",
+    "method": "A",
+    "candidate_id": 2,
+    "parameters": {
+      "hidden_size": 16,
+      "epochs": 100
+    },
+    "validation_score": 834.6242887824478,
+    "cohort_series": 362,
+    "status": "OK"
+  },
+  {
+    "Country": "China",
+    "method": "B",
+    "candidate_id": 4,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 50
+    },
+    "validation_score": 244.51057164978408,
+    "cohort_series": 400,
+    "status": "OK"
+  },
+  {
+    "Country": "Europe",
+    "method": "A",
+    "candidate_id": 1,
+    "parameters": {
+      "hidden_size": 16,
+      "epochs": 50
+    },
+    "validation_score": 68.62469067352424,
+    "cohort_series": 310,
+    "status": "OK"
+  },
+  {
+    "Country": "Europe",
+    "method": "B",
+    "candidate_id": 3,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 20
+    },
+    "validation_score": 77.41182347754447,
+    "cohort_series": 328,
+    "status": "OK"
+  },
+  {
+    "Country": "Germany",
+    "method": "A",
+    "candidate_id": 2,
+    "parameters": {
+      "hidden_size": 16,
+      "epochs": 100
+    },
+    "validation_score": 389.0176526369893,
+    "cohort_series": 273,
+    "status": "OK"
+  },
+  {
+    "Country": "Germany",
+    "method": "B",
+    "candidate_id": 3,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 20
+    },
+    "validation_score": 151.601336434077,
+    "cohort_series": 296,
+    "status": "OK"
+  },
+  {
+    "Country": "United States",
+    "method": "A",
+    "candidate_id": 0,
+    "parameters": {
+      "hidden_size": 16,
+      "epochs": 20
+    },
+    "validation_score": 71.47053735862953,
+    "cohort_series": 252,
+    "status": "OK"
+  },
+  {
+    "Country": "United States",
+    "method": "B",
+    "candidate_id": 5,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 100
+    },
+    "validation_score": 150.65164689363908,
+    "cohort_series": 260,
+    "status": "OK"
+  },
+  {
+    "Country": "Canada",
+    "method": "A",
+    "candidate_id": 5,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 100
+    },
+    "validation_score": 43.93593070365175,
+    "cohort_series": 247,
+    "status": "OK"
+  },
+  {
+    "Country": "Canada",
+    "method": "B",
+    "candidate_id": 5,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 100
+    },
+    "validation_score": 98.24101163367106,
+    "cohort_series": 250,
+    "status": "OK"
+  },
+  {
+    "Country": "South Korea",
+    "method": "A",
+    "candidate_id": 5,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 100
+    },
+    "validation_score": 93.76988890370521,
+    "cohort_series": 176,
+    "status": "OK"
+  },
+  {
+    "Country": "South Korea",
+    "method": "B",
+    "candidate_id": 4,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 50
+    },
+    "validation_score": 105.34044279634254,
+    "cohort_series": 183,
+    "status": "OK"
+  },
+  {
+    "Country": "Japan",
+    "method": "A",
+    "candidate_id": 4,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 50
+    },
+    "validation_score": 35.250062762917445,
+    "cohort_series": 125,
+    "status": "OK"
+  },
+  {
+    "Country": "Japan",
+    "method": "B",
+    "candidate_id": 4,
+    "parameters": {
+      "hidden_size": 32,
+      "epochs": 50
+    },
+    "validation_score": 35.590670786584546,
+    "cohort_series": 127,
+    "status": "OK"
+  }
+]

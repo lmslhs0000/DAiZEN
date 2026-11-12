@@ -1,0 +1,11 @@
+﻿model,status,in_common,rows
+seasonal_naive,OK,False,249
+seasonal_naive,OK,True,23454
+xgb_c0,OK,True,23454
+xgb_c1,OK,True,23454
+xgb_c2,OK,True,23454
+xgb_c3,OK,True,23454
+xgb_c4,OK,True,23454
+xgb_c5,OK,True,23454
+xgb_c6,OK,True,23454
+xgb_c7,OK,True,23454

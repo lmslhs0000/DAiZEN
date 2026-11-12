@@ -1,0 +1,8 @@
+{
+  "model": "client_package",
+  "rule": "final delivery + 80% intervals + per-series reliability grade (packaging only, no model change)",
+  "intervals": "experiments/horizon_eval_v1/production\\intervals_20261006T123945_797091Z_2631a9\\future_24m_with_intervals.csv",
+  "intervals_sha256": "e27a77233b9b4b162eb0c784838cde4f523a839c8c5b97b87d4e9694beff972c",
+  "reliability": "experiments/horizon_eval_v1/production\\series_reliability_20261006T094234_870220Z_2b3829\\series_reliability.csv",
+  "reliability_sha256": "012954234991b112de34ad043b4cc517a36d95afefdfbcff314a9172eec46705"
+}

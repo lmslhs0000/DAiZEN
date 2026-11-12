@@ -1,0 +1,151 @@
+﻿rank,Brand,Model,sales_2019_2022h1,already_researched,in_discontinuation_audit
+1,Nissan,Sentra,1729794.0,True,False
+2,Volkswagen,Lavida,1488640.0,True,False
+3,Haval,H6,1302247.0,False,False
+4,Toyota,Corolla,1128976.0,False,False
+5,Wuling,Hongguang,983648.0,True,False
+6,Volkswagen,Sagitar,957750.0,True,False
+7,Honda,CR-V,788595.0,False,False
+8,Geely,Boyue,773026.0,False,False
+9,Wuling,Hongguang MINIEV,767273.0,True,False
+10,Toyota,Levin,761756.0,False,False
+11,Volkswagen,Bora,745456.0,True,False
+12,Honda,Accord,730198.0,False,False
+13,Honda,Civic,706152.0,False,False
+14,Toyota,Camry,689809.0,False,False
+15,Geely,Emgrand,682688.0,False,False
+16,Volkswagen,Tiguan,621729.0,False,False
+17,Honda,XR-V,587266.0,False,False
+18,BMW,5 Series,583742.0,False,False
+19,Toyota,RAV4,576123.0,False,False
+20,Nissan,Qashqai,575221.0,False,False
+21,Volkswagen,Passat NMS,571953.0,True,False
+22,Volkswagen,Magotan,557010.0,False,False
+23,Buick,GL8,525997.0,False,False
+24,Mercedes-Benz,E-Class,517881.0,True,False
+25,BMW,3 Series,517188.0,True,False
+26,Buick,Envision Plus,516212.0,False,False
+27,Changan,CS75PLUS,513766.0,True,False
+28,Audi,A6L,511566.0,False,False
+29,Mercedes-Benz,GLC,511451.0,False,False
+30,Honda,Vezel,509365.0,True,False
+31,Tesla,Model 3,506419.0,False,False
+32,Volkswagen,Tayron,502509.0,True,False
+33,Mercedes-Benz,C-Class,498126.0,False,False
+34,Audi,A4L,497423.0,False,False
+35,Audi,Q5L,495996.0,False,False
+36,Chery,Tiggo 8,490820.0,False,False
+37,Geely,Binyue,481219.0,True,False
+38,Nissan,Rogue,468406.0,False,False
+39,Volkswagen,Tharu,460943.0,True,False
+40,Nissan,Altima,455421.0,False,False
+41,BMW,X3,447390.0,True,False
+42,Changan,Eado,443502.0,False,False
+43,Chevrolet,Monza,419313.0,True,False
+44,Hyundai,Elantra,406833.0,False,False
+45,Honda,Breeze,396107.0,False,False
+46,Chery,X70,389173.0,True,False
+47,Buick,Regal,387221.0,False,False
+48,Tesla,Model Y,377529.0,True,False
+49,Roewe,RX5,376134.0,True,False
+50,Toyota,Avalon,352489.0,False,False
+51,GAC Trumpchi,GS4,351270.0,False,False
+52,Toyota,Highlander,349903.0,False,False
+53,Volkswagen,T-Roc,345630.0,True,False
+54,Hongqi,HS5,325325.0,True,False
+55,BMW,X1,318759.0,False,False
+56,Volkswagen,Golf,316005.0,False,False
+57,Mazda,Mazda3,310268.0,False,False
+58,BYD,Han,288270.0,True,False
+59,Toyota,Wildlander,283161.0,False,False
+60,Volvo,XC60,270416.0,False,False
+61,Audi,Q3,265470.0,False,False
+62,Chery,Tiggo 5X,263008.0,True,False
+63,Audi,A3,250365.0,False,False
+64,Wuling,Rongguang,236781.0,False,False
+65,Hongqi,H5,232797.0,True,False
+66,Changan,CS55PLUS,232103.0,False,False
+67,Chery,Tiggo 7,230632.0,False,False
+68,Geely,Binrui,229774.0,False,False
+69,MG,MG5,224481.0,False,False
+70,Lynk & Co,03,222489.0,False,False
+71,Mercedes-Benz,A-Class,215369.0,False,False
+72,Nissan,Tiida,205535.0,False,False
+73,Jetta,VS5,199634.0,True,False
+74,Geely,Preface,196553.0,True,False
+75,Cadillac,XT5,196359.0,False,False
+76,Kia,Sportage Ace,194578.0,False,False
+77,Forthing,Lingzhi,193785.0,False,False
+78,Honda,Inspire,193046.0,False,False
+79,AION,S,187164.0,False,False
+80,Chevrolet,Malibu,186379.0,False,False
+81,Volkswagen,Teramont,185964.0,False,False
+82,Honda,Avancier,183008.0,False,False
+83,Changan,UNI-T,177203.0,False,False
+84,DFSK,Fengguang 580,177001.0,False,False
+85,Haval,Big Dog,173897.0,False,False
+86,Buick,Verano,173374.0,False,False
+87,MG,MG6,172635.0,False,False
+88,BYD,Tang,172164.0,False,False
+89,Kia,Pegas,170372.0,False,False
+90,Cadillac,XT4,170037.0,False,False
+91,GAC Trumpchi,GS3,166221.0,False,False
+92,Hyundai,ix35,165318.0,False,False
+93,Buick,LaCrosse,159425.0,False,False
+94,Wuling,Sunshine,159016.0,False,False
+95,GAC Trumpchi,M8,152434.0,False,False
+96,Honda,Odyssey,151591.0,False,False
+97,Audi,Q2L,147911.0,False,False
+98,Chevrolet,Equinox,144056.0,False,False
+99,Dongfeng Aeolus,Yixuan,143856.0,False,False
+100,Ford,Territory,142948.0,True,False
+101,Mercedes-Benz,GLB,142088.0,False,False
+102,GAC Trumpchi,M6,140982.0,False,False
+103,Cadillac,CT5,140847.0,False,False
+104,Honda,Elysion,140016.0,False,False
+105,Forthing,T5,137738.0,False,False
+106,Tank,300,133407.0,True,False
+107,BYD,Qin Plus,132600.0,True,False
+108,Lynk & Co,01,132329.0,False,False
+109,Chery,Little Ant,126561.0,False,False
+110,Jetta,VA3,123996.0,False,False
+111,Volvo,S90,123161.0,False,False
+112,Chery,QQ,120096.0,True,False
+113,DFSK,S560,117101.0,False,False
+114,Lincoln,Corsair,109537.0,False,False
+115,Nissan,D60,109347.0,False,False
+116,Xpeng,P7,105896.0,False,False
+117,NIO,EL6,105263.0,False,False
+118,Geely,Monjaro,104864.0,True,False
+119,Honda,UR-V,103590.0,False,False
+120,Mazda,CX-5,102853.0,False,False
+121,Mercedes-Benz,GLA,102454.0,False,False
+122,Ford,Mondeo,98936.0,False,False
+123,Nissan,Kicks,98471.0,False,False
+124,Chery,X90,95579.0,False,False
+125,Wuling,Victory,95531.0,False,False
+126,Chevrolet,Onix,93014.0,False,False
+127,Jetta,VS7,92553.0,False,False
+128,GAC Trumpchi,GS8,90348.0,False,False
+129,BYD,Dolphin,88112.0,True,False
+130,Volkswagen,CC,86925.0,False,False
+131,BYD,Qin EV,86690.0,False,False
+132,Cadillac,XT6,86364.0,False,False
+133,ORA,03,86220.0,False,False
+134,Kia,Forte,85952.0,False,False
+135,Ford,Escape,85157.0,False,False
+136,Maxus,G50,83628.0,False,False
+137,Wuling,Xingchen,83173.0,False,False
+138,JAC,M3,82105.0,False,False
+139,Kia,Stonic,81830.0,False,False
+140,Volvo,S60,81102.0,False,False
+141,Lynk & Co,06,79969.0,False,False
+142,BYD,e2,76782.0,False,False
+143,Dongfeng Aeolus,E70,76766.0,False,False
+144,AION,Y,76360.0,True,False
+145,Leapmotor,T03,75449.0,True,False
+146,Hyundai,Tucson,74841.0,False,False
+147,BAIC BJ,BJ40,74451.0,False,False
+148,Cadillac,CT6,66603.0,False,False
+149,GAC Trumpchi,Empow,66000.0,False,False
+150,Volkswagen,Teramont X,65873.0,False,False

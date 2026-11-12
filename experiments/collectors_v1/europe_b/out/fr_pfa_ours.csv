@@ -1,0 +1,1299 @@
+Country_part,Brand,Model,Month,monthly,n_names,status,segment
+FR,Alfa Romeo,Junior,2026-04,255.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-05,241.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-06,467.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-07,261.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-08,344.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-09,483.0,1,ok,VP
+FR,Alpine,A290,2026-04,275.0,1,ok,VP
+FR,Alpine,A290,2026-05,271.0,1,ok,VP
+FR,Alpine,A290,2026-06,720.0,1,ok,VP
+FR,Alpine,A290,2026-07,354.0,1,ok,VP
+FR,Alpine,A290,2026-08,202.0,1,ok,VP
+FR,Alpine,A290,2026-09,637.0,1,ok,VP
+FR,Audi,A3,2026-04,984.0,1,ok,VP
+FR,Audi,A3,2026-05,749.0,1,ok,VP
+FR,Audi,A3,2026-06,1087.0,1,ok,VP
+FR,Audi,A3,2026-07,688.0,1,ok,VP
+FR,Audi,A3,2026-08,554.0,1,ok,VP
+FR,Audi,A3,2026-09,655.0,1,ok,VP
+FR,Audi,Q3,2026-04,395.0,1,ok,VP
+FR,Audi,Q3,2026-05,377.0,1,ok,VP
+FR,Audi,Q3,2026-06,543.0,1,ok,VP
+FR,Audi,Q3,2026-07,299.0,1,ok,VP
+FR,Audi,Q3,2026-08,226.0,1,ok,VP
+FR,Audi,Q3,2026-09,380.0,1,ok,VP
+FR,Audi,Q3 Sportback,2026-05,,1,prev_missing,VP
+FR,Audi,Q4,2026-04,492.0,1,ok,VP
+FR,Audi,Q4,2026-05,393.0,1,ok,VP
+FR,Audi,Q4,2026-06,339.0,1,ok,VP
+FR,Audi,Q4 Sportback,2026-04,357.0,1,ok,VP
+FR,Audi,Q4 Sportback,2026-05,342.0,1,ok,VP
+FR,BMW,1 Series,2026-04,838.0,1,ok,VP
+FR,BMW,1 Series,2026-05,985.0,1,ok,VP
+FR,BMW,1 Series,2026-06,1223.0,1,ok,VP
+FR,BMW,1 Series,2026-07,527.0,1,ok,VP
+FR,BMW,1 Series,2026-08,281.0,1,ok,VP
+FR,BMW,1 Series,2026-09,693.0,1,ok,VP
+FR,BMW,X1,2026-04,632.0,1,ok,VP
+FR,BMW,X1,2026-05,1460.0,1,ok,VP
+FR,BMW,X1,2026-06,1218.0,1,ok,VP
+FR,BMW,X1,2026-07,862.0,1,ok,VP
+FR,BMW,X1,2026-08,588.0,1,ok,VP
+FR,BMW,X1,2026-09,1023.0,1,ok,VP
+FR,BMW,iX1,2026-04,763.0,1,ok,VP
+FR,BMW,iX1,2026-05,870.0,1,ok,VP
+FR,BMW,iX1,2026-06,1187.0,1,ok,VP
+FR,BMW,iX1,2026-07,967.0,1,ok,VP
+FR,BMW,iX1,2026-08,709.0,1,ok,VP
+FR,BMW,iX1,2026-09,714.0,1,ok,VP
+FR,BMW,iX2,2026-04,345.0,1,ok,VP
+FR,BMW,iX2,2026-05,386.0,1,ok,VP
+FR,BMW,iX2,2026-06,451.0,1,ok,VP
+FR,BMW,iX2,2026-07,387.0,1,ok,VP
+FR,BMW,iX2,2026-08,315.0,1,ok,VP
+FR,BMW,iX3,2026-05,,1,prev_missing,VP
+FR,BMW,iX3,2026-06,929.0,1,ok,VP
+FR,BMW,iX3,2026-07,778.0,1,ok,VP
+FR,BMW,iX3,2026-08,504.0,1,ok,VP
+FR,BMW,iX3,2026-09,558.0,1,ok,VP
+FR,BYD,Atto 2,2026-04,,1,prev_missing,VP
+FR,BYD,Atto 2,2026-05,1018.0,1,ok,VP
+FR,BYD,Atto 2,2026-06,2197.0,1,ok,VP
+FR,BYD,Atto 2,2026-07,896.0,1,ok,VP
+FR,BYD,Atto 2,2026-08,668.0,1,ok,VP
+FR,BYD,Atto 2,2026-09,1339.0,1,ok,VP
+FR,BYD,Seal U,2026-06,,1,prev_missing,VP
+FR,BYD,Seal U,2026-07,724.0,1,ok,VP
+FR,BYD,Seal U,2026-08,521.0,1,ok,VP
+FR,BYD,Seal U,2026-09,739.0,1,ok,VP
+FR,Citroen,C3,2026-04,4885.0,2,ok,VP
+FR,Citroen,C3,2026-05,3515.0,2,ok,VP
+FR,Citroen,C3,2026-06,5085.0,2,ok,VP
+FR,Citroen,C3,2026-07,4082.0,2,ok,VP
+FR,Citroen,C3,2026-08,3588.0,2,ok,VP
+FR,Citroen,C3,2026-09,6227.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-04,2519.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-05,2348.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-06,2843.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-07,2756.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-08,1526.0,2,ok,VP
+FR,Citroen,C3 Aircross,2026-09,2571.0,2,ok,VP
+FR,Citroen,C4,2026-04,880.0,1,ok,VP
+FR,Citroen,C4,2026-05,676.0,1,ok,VP
+FR,Citroen,C4,2026-06,1376.0,1,ok,VP
+FR,Citroen,C4,2026-07,669.0,1,ok,VP
+FR,Citroen,C4,2026-08,376.0,1,ok,VP
+FR,Citroen,C4,2026-09,741.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-04,1627.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-05,1411.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-06,2237.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-07,1393.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-08,800.0,1,ok,VP
+FR,Citroen,C5 Aircross,2026-09,2029.0,1,ok,VP
+FR,Cupra,Born,2026-04,627.0,1,ok,VP
+FR,Cupra,Born,2026-05,433.0,1,ok,VP
+FR,Cupra,Born,2026-06,694.0,1,ok,VP
+FR,Cupra,Born,2026-07,359.0,1,ok,VP
+FR,Cupra,Born,2026-08,210.0,1,ok,VP
+FR,Cupra,Born,2026-09,308.0,1,ok,VP
+FR,Cupra,Formentor,2026-04,577.0,1,ok,VP
+FR,Cupra,Formentor,2026-05,477.0,1,ok,VP
+FR,Cupra,Formentor,2026-06,643.0,1,ok,VP
+FR,Cupra,Formentor,2026-07,393.0,1,ok,VP
+FR,Cupra,Formentor,2026-08,241.0,1,ok,VP
+FR,Cupra,Formentor,2026-09,260.0,1,ok,VP
+FR,DS,3,2026-04,176.0,1,ok,VP
+FR,DS,4,2026-04,525.0,1,ok,VP
+FR,DS,4,2026-05,379.0,1,ok,VP
+FR,DS,4,2026-06,484.0,1,ok,VP
+FR,DS,4,2026-07,415.0,1,ok,VP
+FR,DS,4,2026-08,201.0,1,ok,VP
+FR,DS,4,2026-09,236.0,1,ok,VP
+FR,Dacia,Bigster,2026-04,1590.0,1,ok,VP
+FR,Dacia,Bigster,2026-05,1370.0,1,ok,VP
+FR,Dacia,Bigster,2026-06,2276.0,1,ok,VP
+FR,Dacia,Bigster,2026-07,1086.0,1,ok,VP
+FR,Dacia,Bigster,2026-08,808.0,1,ok,VP
+FR,Dacia,Bigster,2026-09,1198.0,1,ok,VP
+FR,Dacia,Duster,2026-04,2790.0,1,ok,VP
+FR,Dacia,Duster,2026-05,2629.0,1,ok,VP
+FR,Dacia,Duster,2026-06,3101.0,1,ok,VP
+FR,Dacia,Duster,2026-07,1924.0,1,ok,VP
+FR,Dacia,Duster,2026-08,1713.0,1,ok,VP
+FR,Dacia,Duster,2026-09,2625.0,1,ok,VP
+FR,Dacia,Jogger,2026-04,1184.0,1,ok,VP
+FR,Dacia,Jogger,2026-05,1105.0,1,ok,VP
+FR,Dacia,Jogger,2026-06,1872.0,1,ok,VP
+FR,Dacia,Jogger,2026-07,738.0,1,ok,VP
+FR,Dacia,Jogger,2026-08,663.0,1,ok,VP
+FR,Dacia,Jogger,2026-09,917.0,1,ok,VP
+FR,Dacia,Sandero,2026-04,5353.0,1,ok,VP
+FR,Dacia,Sandero,2026-05,6000.0,1,ok,VP
+FR,Dacia,Sandero,2026-06,7747.0,1,ok,VP
+FR,Dacia,Sandero,2026-07,5245.0,1,ok,VP
+FR,Dacia,Sandero,2026-08,3299.0,1,ok,VP
+FR,Dacia,Sandero,2026-09,5212.0,1,ok,VP
+FR,Dacia,Spring,2026-04,588.0,1,ok,VP
+FR,Dacia,Spring,2026-05,458.0,1,ok,VP
+FR,Dacia,Spring,2026-06,1249.0,1,ok,VP
+FR,Dacia,Spring,2026-07,909.0,1,ok,VP
+FR,Dacia,Spring,2026-08,659.0,1,ok,VP
+FR,Dacia,Spring,2026-09,402.0,1,ok,VP
+FR,Fiat,500,2026-04,875.0,1,ok,VP
+FR,Fiat,500,2026-05,540.0,1,ok,VP
+FR,Fiat,500,2026-06,671.0,1,ok,VP
+FR,Fiat,500,2026-07,515.0,1,ok,VP
+FR,Fiat,500,2026-08,512.0,1,ok,VP
+FR,Fiat,500,2026-09,761.0,1,ok,VP
+FR,Fiat,600,2026-04,437.0,1,ok,VP
+FR,Fiat,600,2026-05,902.0,1,ok,VP
+FR,Fiat,600,2026-06,694.0,1,ok,VP
+FR,Fiat,600,2026-07,260.0,1,ok,VP
+FR,Fiat,600,2026-08,375.0,1,ok,VP
+FR,Fiat,600,2026-09,511.0,1,ok,VP
+FR,Fiat,Panda,2026-04,606.0,1,ok,VP
+FR,Fiat,Panda,2026-05,591.0,1,ok,VP
+FR,Fiat,Panda,2026-06,,2,"ok,prev_missing",VP
+FR,Fiat,Panda,2026-07,1707.0,2,ok,VP
+FR,Fiat,Panda,2026-08,1316.0,2,ok,VP
+FR,Fiat,Panda,2026-09,1431.0,2,ok,VP
+FR,Ford,Escape,2026-04,619.0,1,ok,VP
+FR,Ford,Escape,2026-05,592.0,1,ok,VP
+FR,Ford,Escape,2026-06,1393.0,1,ok,VP
+FR,Ford,Escape,2026-07,785.0,1,ok,VP
+FR,Ford,Escape,2026-08,437.0,1,ok,VP
+FR,Ford,Escape,2026-09,828.0,1,ok,VP
+FR,Ford,Explorer,2026-04,663.0,1,ok,VP
+FR,Ford,Explorer,2026-05,279.0,1,ok,VP
+FR,Ford,Explorer,2026-06,603.0,1,ok,VP
+FR,Ford,Explorer,2026-07,459.0,1,ok,VP
+FR,Ford,Explorer,2026-08,284.0,1,ok,VP
+FR,Ford,Explorer,2026-09,394.0,1,ok,VP
+FR,Ford,Puma,2026-04,965.0,1,ok,VP
+FR,Ford,Puma,2026-05,883.0,1,ok,VP
+FR,Ford,Puma,2026-06,1425.0,1,ok,VP
+FR,Ford,Puma,2026-07,569.0,1,ok,VP
+FR,Ford,Puma,2026-08,607.0,1,ok,VP
+FR,Ford,Puma,2026-09,1256.0,1,ok,VP
+FR,Hyundai,Inster,2026-04,493.0,1,ok,VP
+FR,Hyundai,Inster,2026-05,344.0,1,ok,VP
+FR,Hyundai,Inster,2026-06,496.0,1,ok,VP
+FR,Hyundai,Inster,2026-07,339.0,1,ok,VP
+FR,Hyundai,Inster,2026-08,377.0,1,ok,VP
+FR,Hyundai,Inster,2026-09,665.0,1,ok,VP
+FR,Hyundai,Kona,2026-04,1304.0,1,ok,VP
+FR,Hyundai,Kona,2026-05,1015.0,1,ok,VP
+FR,Hyundai,Kona,2026-06,1420.0,1,ok,VP
+FR,Hyundai,Kona,2026-07,1273.0,1,ok,VP
+FR,Hyundai,Kona,2026-08,873.0,1,ok,VP
+FR,Hyundai,Kona,2026-09,1546.0,1,ok,VP
+FR,Hyundai,Tucson,2026-04,1020.0,1,ok,VP
+FR,Hyundai,Tucson,2026-05,831.0,1,ok,VP
+FR,Hyundai,Tucson,2026-06,1335.0,1,ok,VP
+FR,Hyundai,Tucson,2026-07,988.0,1,ok,VP
+FR,Hyundai,Tucson,2026-08,531.0,1,ok,VP
+FR,Hyundai,Tucson,2026-09,735.0,1,ok,VP
+FR,Jaecoo,5,2026-07,,1,prev_missing,VP
+FR,Jaecoo,5,2026-08,757.0,1,ok,VP
+FR,Jaecoo,5,2026-09,1408.0,1,ok,VP
+FR,Jaecoo,7,2026-06,,1,prev_missing,VP
+FR,Jaecoo,7,2026-07,825.0,1,ok,VP
+FR,Jaecoo,7,2026-08,679.0,1,ok,VP
+FR,Jaecoo,7,2026-09,1167.0,1,ok,VP
+FR,Jeep,Avenger,2026-04,371.0,1,ok,VP
+FR,Jeep,Avenger,2026-05,585.0,1,ok,VP
+FR,Jeep,Avenger,2026-06,507.0,1,ok,VP
+FR,Jeep,Avenger,2026-07,271.0,1,ok,VP
+FR,Jeep,Avenger,2026-08,298.0,1,ok,VP
+FR,Jeep,Avenger,2026-09,533.0,1,ok,VP
+FR,Jeep,Compass,2026-04,,1,prev_missing,VP
+FR,Jeep,Compass,2026-05,263.0,1,ok,VP
+FR,Kia,EV2,2026-08,,1,prev_missing,VP
+FR,Kia,EV2,2026-09,1252.0,1,ok,VP
+FR,Kia,EV4,2026-04,778.0,1,ok,VP
+FR,Kia,EV4,2026-05,665.0,1,ok,VP
+FR,Kia,EV4,2026-06,782.0,1,ok,VP
+FR,Kia,EV4,2026-07,624.0,1,ok,VP
+FR,Kia,EV4,2026-08,681.0,1,ok,VP
+FR,Kia,EV4,2026-09,953.0,1,ok,VP
+FR,Kia,Niro,2026-04,449.0,1,ok,VP
+FR,Kia,Niro,2026-05,252.0,1,ok,VP
+FR,Kia,Niro,2026-06,642.0,1,ok,VP
+FR,Kia,Niro,2026-07,321.0,1,ok,VP
+FR,Kia,Niro,2026-08,177.0,1,ok,VP
+FR,Kia,Niro,2026-09,213.0,1,ok,VP
+FR,Kia,Picanto,2026-04,368.0,1,ok,VP
+FR,Kia,Picanto,2026-05,178.0,1,ok,VP
+FR,Kia,Picanto,2026-06,413.0,1,ok,VP
+FR,Kia,Sportage,2026-04,755.0,1,ok,VP
+FR,Kia,Sportage,2026-05,439.0,1,ok,VP
+FR,Kia,Sportage,2026-06,822.0,1,ok,VP
+FR,Kia,Sportage,2026-07,698.0,1,ok,VP
+FR,Kia,Sportage,2026-08,259.0,1,ok,VP
+FR,Kia,Sportage,2026-09,436.0,1,ok,VP
+FR,Kia,Stonic,2026-04,286.0,1,ok,VP
+FR,Leapmotor,T03,2026-04,328.0,1,ok,VP
+FR,Leapmotor,T03,2026-05,305.0,1,ok,VP
+FR,Leapmotor,T03,2026-06,550.0,1,ok,VP
+FR,Leapmotor,T03,2026-07,389.0,1,ok,VP
+FR,Leapmotor,T03,2026-08,364.0,1,ok,VP
+FR,Leapmotor,T03,2026-09,751.0,1,ok,VP
+FR,MG,MG3,2026-04,1004.0,1,ok,VP
+FR,MG,MG3,2026-05,812.0,1,ok,VP
+FR,MG,MG3,2026-06,1319.0,1,ok,VP
+FR,MG,MG3,2026-07,1092.0,1,ok,VP
+FR,MG,MG3,2026-08,591.0,1,ok,VP
+FR,MG,MG3,2026-09,949.0,1,ok,VP
+FR,MG,ZS,2026-04,873.0,1,ok,VP
+FR,MG,ZS,2026-05,782.0,1,ok,VP
+FR,MG,ZS,2026-06,1476.0,1,ok,VP
+FR,MG,ZS,2026-07,738.0,1,ok,VP
+FR,MG,ZS,2026-08,444.0,1,ok,VP
+FR,MG,ZS,2026-09,719.0,1,ok,VP
+FR,MINI,Cooper,2026-04,1010.0,1,ok,VP
+FR,MINI,Cooper,2026-05,975.0,1,ok,VP
+FR,MINI,Cooper,2026-06,1478.0,1,ok,VP
+FR,MINI,Cooper,2026-07,1046.0,1,ok,VP
+FR,MINI,Cooper,2026-08,1024.0,1,ok,VP
+FR,MINI,Cooper,2026-09,1185.0,1,ok,VP
+FR,MINI,Countryman,2026-04,618.0,1,ok,VP
+FR,MINI,Countryman,2026-05,845.0,1,ok,VP
+FR,MINI,Countryman,2026-06,1156.0,1,ok,VP
+FR,MINI,Countryman,2026-07,512.0,1,ok,VP
+FR,MINI,Countryman,2026-08,243.0,1,ok,VP
+FR,MINI,Countryman,2026-09,692.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-04,746.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-05,503.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-06,608.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-07,447.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-08,389.0,1,ok,VP
+FR,Mercedes-Benz,A-Class,2026-09,434.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-04,994.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-05,667.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-06,959.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-07,772.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-08,489.0,1,ok,VP
+FR,Mercedes-Benz,CLA,2026-09,1036.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-04,643.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-05,458.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-06,704.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-07,256.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-08,277.0,1,ok,VP
+FR,Mercedes-Benz,GLA,2026-09,756.0,1,ok,VP
+FR,Mercedes-Benz,GLC,2026-07,,1,prev_missing,VP
+FR,Mercedes-Benz,GLC,2026-08,561.0,1,ok,VP
+FR,Mercedes-Benz,GLC,2026-09,897.0,1,ok,VP
+FR,Nissan,Juke,2026-04,562.0,1,ok,VP
+FR,Nissan,Juke,2026-05,495.0,1,ok,VP
+FR,Nissan,Juke,2026-06,569.0,1,ok,VP
+FR,Nissan,Juke,2026-07,531.0,1,ok,VP
+FR,Nissan,Juke,2026-08,379.0,1,ok,VP
+FR,Nissan,Juke,2026-09,448.0,1,ok,VP
+FR,Nissan,Qashqai,2026-04,1804.0,1,ok,VP
+FR,Nissan,Qashqai,2026-05,1155.0,1,ok,VP
+FR,Nissan,Qashqai,2026-06,1470.0,1,ok,VP
+FR,Nissan,Qashqai,2026-07,792.0,1,ok,VP
+FR,Nissan,Qashqai,2026-08,519.0,1,ok,VP
+FR,Nissan,Qashqai,2026-09,827.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-04,1570.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-05,1248.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-06,1510.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-07,968.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-08,788.0,1,ok,VP
+FR,Opel/Vauxhall,Corsa,2026-09,870.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-04,641.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-05,370.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-06,885.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-07,854.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-08,687.0,1,ok,VP
+FR,Opel/Vauxhall,Frontera,2026-09,760.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-04,492.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-05,450.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-06,744.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-07,254.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-08,194.0,1,ok,VP
+FR,Opel/Vauxhall,Mokka,2026-09,271.0,1,ok,VP
+FR,Peugeot,2008,2026-04,3780.0,1,ok,VP
+FR,Peugeot,2008,2026-05,3259.0,1,ok,VP
+FR,Peugeot,2008,2026-06,5546.0,1,ok,VP
+FR,Peugeot,2008,2026-07,3716.0,1,ok,VP
+FR,Peugeot,2008,2026-08,2776.0,1,ok,VP
+FR,Peugeot,2008,2026-09,4191.0,1,ok,VP
+FR,Peugeot,208,2026-04,6469.0,1,ok,VP
+FR,Peugeot,208,2026-05,6024.0,1,ok,VP
+FR,Peugeot,208,2026-06,8530.0,1,ok,VP
+FR,Peugeot,208,2026-07,6026.0,1,ok,VP
+FR,Peugeot,208,2026-08,4241.0,1,ok,VP
+FR,Peugeot,208,2026-09,7860.0,1,ok,VP
+FR,Peugeot,3008,2026-04,3383.0,1,ok,VP
+FR,Peugeot,3008,2026-05,2812.0,1,ok,VP
+FR,Peugeot,3008,2026-06,3183.0,1,ok,VP
+FR,Peugeot,3008,2026-07,2475.0,1,ok,VP
+FR,Peugeot,3008,2026-08,2233.0,1,ok,VP
+FR,Peugeot,3008,2026-09,3184.0,1,ok,VP
+FR,Peugeot,308,2026-04,2539.0,1,ok,VP
+FR,Peugeot,308,2026-05,1972.0,1,ok,VP
+FR,Peugeot,308,2026-06,2307.0,1,ok,VP
+FR,Peugeot,308,2026-07,1912.0,1,ok,VP
+FR,Peugeot,308,2026-08,1048.0,1,ok,VP
+FR,Peugeot,308,2026-09,1909.0,1,ok,VP
+FR,Peugeot,408,2026-04,461.0,1,ok,VP
+FR,Peugeot,408,2026-05,333.0,1,ok,VP
+FR,Peugeot,408,2026-06,414.0,1,ok,VP
+FR,Peugeot,408,2026-07,419.0,1,ok,VP
+FR,Peugeot,408,2026-08,215.0,1,ok,VP
+FR,Peugeot,408,2026-09,244.0,1,ok,VP
+FR,Peugeot,5008,2026-04,1431.0,1,ok,VP
+FR,Peugeot,5008,2026-05,1323.0,1,ok,VP
+FR,Peugeot,5008,2026-06,1918.0,1,ok,VP
+FR,Peugeot,5008,2026-07,1884.0,1,ok,VP
+FR,Peugeot,5008,2026-08,928.0,1,ok,VP
+FR,Peugeot,5008,2026-09,1428.0,1,ok,VP
+FR,Renault,4,2026-04,835.0,1,ok,VP
+FR,Renault,4,2026-05,571.0,1,ok,VP
+FR,Renault,4,2026-06,1064.0,1,ok,VP
+FR,Renault,4,2026-07,737.0,1,ok,VP
+FR,Renault,4,2026-08,478.0,1,ok,VP
+FR,Renault,4,2026-09,1180.0,1,ok,VP
+FR,Renault,5,2026-04,3418.0,1,ok,VP
+FR,Renault,5,2026-05,2947.0,1,ok,VP
+FR,Renault,5,2026-06,4213.0,1,ok,VP
+FR,Renault,5,2026-07,3794.0,1,ok,VP
+FR,Renault,5,2026-08,2316.0,1,ok,VP
+FR,Renault,5,2026-09,5224.0,1,ok,VP
+FR,Renault,Austral,2026-04,1362.0,1,ok,VP
+FR,Renault,Austral,2026-05,1229.0,1,ok,VP
+FR,Renault,Austral,2026-06,1996.0,1,ok,VP
+FR,Renault,Austral,2026-07,956.0,1,ok,VP
+FR,Renault,Austral,2026-08,602.0,1,ok,VP
+FR,Renault,Austral,2026-09,1567.0,1,ok,VP
+FR,Renault,Captur,2026-04,2850.0,1,ok,VP
+FR,Renault,Captur,2026-05,2371.0,1,ok,VP
+FR,Renault,Captur,2026-06,2976.0,1,ok,VP
+FR,Renault,Captur,2026-07,1439.0,1,ok,VP
+FR,Renault,Captur,2026-08,758.0,1,ok,VP
+FR,Renault,Captur,2026-09,2370.0,1,ok,VP
+FR,Renault,Clio,2026-04,7215.0,2,ok,VP
+FR,Renault,Clio,2026-05,5177.0,2,ok,VP
+FR,Renault,Clio,2026-06,9986.0,2,ok,VP
+FR,Renault,Clio,2026-07,3649.0,2,ok,VP
+FR,Renault,Clio,2026-08,3338.0,2,ok,VP
+FR,Renault,Clio,2026-09,6302.0,2,ok,VP
+FR,Renault,Espace,2026-04,601.0,1,ok,VP
+FR,Renault,Espace,2026-05,670.0,1,ok,VP
+FR,Renault,Espace,2026-06,1019.0,1,ok,VP
+FR,Renault,Espace,2026-07,391.0,1,ok,VP
+FR,Renault,Espace,2026-08,189.0,1,ok,VP
+FR,Renault,Espace,2026-09,410.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-04,917.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-05,1289.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-06,2334.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-07,1185.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-08,937.0,1,ok,VP
+FR,Renault,Megane E-Tech,2026-09,1254.0,1,ok,VP
+FR,Renault,Rafale,2026-04,520.0,1,ok,VP
+FR,Renault,Rafale,2026-05,585.0,1,ok,VP
+FR,Renault,Rafale,2026-06,815.0,1,ok,VP
+FR,Renault,Rafale,2026-07,399.0,1,ok,VP
+FR,Renault,Rafale,2026-08,217.0,1,ok,VP
+FR,Renault,Rafale,2026-09,411.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-04,2114.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-05,1624.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-06,2495.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-07,2910.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-08,1745.0,1,ok,VP
+FR,Renault,Scenic E-Tech,2026-09,2738.0,1,ok,VP
+FR,Renault,Symbioz,2026-04,2763.0,1,ok,VP
+FR,Renault,Symbioz,2026-05,2147.0,1,ok,VP
+FR,Renault,Symbioz,2026-06,2502.0,1,ok,VP
+FR,Renault,Symbioz,2026-07,1588.0,1,ok,VP
+FR,Renault,Symbioz,2026-08,854.0,1,ok,VP
+FR,Renault,Symbioz,2026-09,2214.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-04,489.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-05,1004.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-06,2678.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-07,2564.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-08,1574.0,1,ok,VP
+FR,Renault,Twingo E-Tech,2026-09,4988.0,1,ok,VP
+FR,Seat,Ibiza,2026-04,711.0,1,ok,VP
+FR,Seat,Ibiza,2026-05,708.0,1,ok,VP
+FR,Seat,Ibiza,2026-06,836.0,1,ok,VP
+FR,Seat,Ibiza,2026-07,687.0,1,ok,VP
+FR,Seat,Ibiza,2026-08,616.0,1,ok,VP
+FR,Seat,Ibiza,2026-09,445.0,1,ok,VP
+FR,Skoda,Elroq,2026-04,1092.0,1,ok,VP
+FR,Skoda,Elroq,2026-05,1126.0,1,ok,VP
+FR,Skoda,Elroq,2026-06,982.0,1,ok,VP
+FR,Skoda,Elroq,2026-07,1341.0,1,ok,VP
+FR,Skoda,Elroq,2026-08,1410.0,1,ok,VP
+FR,Skoda,Elroq,2026-09,1457.0,1,ok,VP
+FR,Skoda,Enyaq,2026-04,498.0,1,ok,VP
+FR,Skoda,Enyaq,2026-05,517.0,1,ok,VP
+FR,Skoda,Enyaq,2026-06,572.0,1,ok,VP
+FR,Skoda,Enyaq,2026-07,388.0,1,ok,VP
+FR,Skoda,Enyaq,2026-08,594.0,1,ok,VP
+FR,Skoda,Enyaq,2026-09,784.0,1,ok,VP
+FR,Skoda,Fabia,2026-04,980.0,1,ok,VP
+FR,Skoda,Fabia,2026-05,888.0,1,ok,VP
+FR,Skoda,Fabia,2026-06,1129.0,1,ok,VP
+FR,Skoda,Fabia,2026-07,787.0,1,ok,VP
+FR,Skoda,Fabia,2026-08,650.0,1,ok,VP
+FR,Skoda,Fabia,2026-09,805.0,1,ok,VP
+FR,Skoda,Kamiq,2026-04,583.0,1,ok,VP
+FR,Skoda,Kamiq,2026-05,520.0,1,ok,VP
+FR,Skoda,Kamiq,2026-06,820.0,1,ok,VP
+FR,Skoda,Kamiq,2026-07,374.0,1,ok,VP
+FR,Skoda,Kamiq,2026-08,402.0,1,ok,VP
+FR,Skoda,Kamiq,2026-09,467.0,1,ok,VP
+FR,Skoda,Octavia,2026-04,656.0,1,ok,VP
+FR,Skoda,Octavia,2026-05,648.0,1,ok,VP
+FR,Skoda,Octavia,2026-06,781.0,1,ok,VP
+FR,Skoda,Octavia,2026-07,483.0,1,ok,VP
+FR,Skoda,Octavia,2026-08,364.0,1,ok,VP
+FR,Skoda,Octavia,2026-09,482.0,1,ok,VP
+FR,Suzuki,Swift,2026-04,1010.0,1,ok,VP
+FR,Suzuki,Swift,2026-05,561.0,1,ok,VP
+FR,Suzuki,Swift,2026-06,1299.0,1,ok,VP
+FR,Suzuki,Swift,2026-07,1088.0,1,ok,VP
+FR,Suzuki,Swift,2026-08,556.0,1,ok,VP
+FR,Suzuki,Swift,2026-09,1079.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-04,455.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-05,291.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-06,470.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-07,383.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-08,206.0,1,ok,VP
+FR,Suzuki,Vitara/Grand Vitara,2026-09,382.0,1,ok,VP
+FR,Tesla,Model 3,2026-04,367.0,1,ok,VP
+FR,Tesla,Model 3,2026-05,1561.0,1,ok,VP
+FR,Tesla,Model 3,2026-06,832.0,1,ok,VP
+FR,Tesla,Model 3,2026-07,23.0,1,ok,VP
+FR,Tesla,Model 3,2026-08,415.0,1,ok,VP
+FR,Tesla,Model 3,2026-09,855.0,1,ok,VP
+FR,Tesla,Model Y,2026-04,1456.0,1,ok,VP
+FR,Tesla,Model Y,2026-05,3874.0,1,ok,VP
+FR,Tesla,Model Y,2026-06,6635.0,1,ok,VP
+FR,Tesla,Model Y,2026-07,2401.0,1,ok,VP
+FR,Tesla,Model Y,2026-08,4622.0,1,ok,VP
+FR,Tesla,Model Y,2026-09,8183.0,1,ok,VP
+FR,Toyota,Aygo X,2026-04,1389.0,1,ok,VP
+FR,Toyota,Aygo X,2026-05,1059.0,1,ok,VP
+FR,Toyota,Aygo X,2026-06,1411.0,1,ok,VP
+FR,Toyota,Aygo X,2026-07,1304.0,1,ok,VP
+FR,Toyota,Aygo X,2026-08,888.0,1,ok,VP
+FR,Toyota,Aygo X,2026-09,769.0,1,ok,VP
+FR,Toyota,C-HR,2026-04,1113.0,1,ok,VP
+FR,Toyota,C-HR,2026-05,1146.0,1,ok,VP
+FR,Toyota,C-HR,2026-06,1566.0,1,ok,VP
+FR,Toyota,C-HR,2026-07,1266.0,1,ok,VP
+FR,Toyota,C-HR,2026-08,1013.0,1,ok,VP
+FR,Toyota,C-HR,2026-09,1010.0,1,ok,VP
+FR,Toyota,Corolla,2026-04,436.0,1,ok,VP
+FR,Toyota,Corolla,2026-05,506.0,1,ok,VP
+FR,Toyota,Corolla,2026-06,747.0,1,ok,VP
+FR,Toyota,Corolla,2026-07,776.0,1,ok,VP
+FR,Toyota,Corolla,2026-08,499.0,1,ok,VP
+FR,Toyota,Corolla,2026-09,615.0,1,ok,VP
+FR,Toyota,Yaris,2026-04,2769.0,1,ok,VP
+FR,Toyota,Yaris,2026-05,1982.0,1,ok,VP
+FR,Toyota,Yaris,2026-06,2823.0,1,ok,VP
+FR,Toyota,Yaris,2026-07,2531.0,1,ok,VP
+FR,Toyota,Yaris,2026-08,1985.0,1,ok,VP
+FR,Toyota,Yaris,2026-09,2338.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-04,2848.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-05,2357.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-06,2829.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-07,2295.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-08,1232.0,1,ok,VP
+FR,Toyota,Yaris Cross,2026-09,2170.0,1,ok,VP
+FR,Volkswagen,Golf,2026-04,961.0,1,ok,VP
+FR,Volkswagen,Golf,2026-05,830.0,1,ok,VP
+FR,Volkswagen,Golf,2026-06,1147.0,1,ok,VP
+FR,Volkswagen,Golf,2026-07,833.0,1,ok,VP
+FR,Volkswagen,Golf,2026-08,718.0,1,ok,VP
+FR,Volkswagen,Golf,2026-09,800.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-04,816.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-05,912.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-06,1155.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-07,560.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-08,214.0,1,ok,VP
+FR,Volkswagen,ID.3,2026-09,182.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-04,1216.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-05,1026.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-06,921.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-07,1291.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-08,1304.0,1,ok,VP
+FR,Volkswagen,ID.4,2026-09,1414.0,1,ok,VP
+FR,Volkswagen,Polo,2026-04,1442.0,1,ok,VP
+FR,Volkswagen,Polo,2026-05,2192.0,1,ok,VP
+FR,Volkswagen,Polo,2026-06,2486.0,1,ok,VP
+FR,Volkswagen,Polo,2026-07,1193.0,1,ok,VP
+FR,Volkswagen,Polo,2026-08,714.0,1,ok,VP
+FR,Volkswagen,Polo,2026-09,1473.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-04,1016.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-05,721.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-06,886.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-07,486.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-08,257.0,1,ok,VP
+FR,Volkswagen,T-Cross,2026-09,746.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-04,2008.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-05,1420.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-06,2006.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-07,1175.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-08,722.0,1,ok,VP
+FR,Volkswagen,T-Roc,2026-09,1205.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-04,432.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-05,388.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-06,630.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-07,342.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-08,177.0,1,ok,VP
+FR,Volkswagen,Taigo,2026-09,214.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-04,785.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-05,752.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-06,1226.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-07,695.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-08,533.0,1,ok,VP
+FR,Volkswagen,Tiguan,2026-09,804.0,1,ok,VP
+FR,Volvo,EX30,2026-04,,1,prev_missing,VP
+FR,Volvo,EX30,2026-05,266.0,1,ok,VP
+FR,Volvo,EX30,2026-06,481.0,1,ok,VP
+FR,Volvo,EX30,2026-07,460.0,1,ok,VP
+FR,Volvo,EX30,2026-09,,1,prev_missing,VP
+FR,Xpeng,G6,2026-04,559.0,1,ok,VP
+FR,Xpeng,G6,2026-05,583.0,1,ok,VP
+FR,Xpeng,G6,2026-06,702.0,1,ok,VP
+FR,Xpeng,G6,2026-07,619.0,1,ok,VP
+FR,Xpeng,G6,2026-08,409.0,1,ok,VP
+FR,Xpeng,G6,2026-09,552.0,1,ok,VP
+FR,Alfa Romeo,Junior,2026-04,255.0,1,ok,VP+VUL
+FR,Alfa Romeo,Junior,2026-05,241.0,1,ok,VP+VUL
+FR,Alfa Romeo,Junior,2026-06,467.0,1,ok,VP+VUL
+FR,Alfa Romeo,Junior,2026-07,261.0,1,ok,VP+VUL
+FR,Alfa Romeo,Junior,2026-08,344.0,1,ok,VP+VUL
+FR,Alfa Romeo,Junior,2026-09,483.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-04,275.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-05,271.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-06,720.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-07,354.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-08,202.0,1,ok,VP+VUL
+FR,Alpine,A290,2026-09,637.0,1,ok,VP+VUL
+FR,Audi,A3,2026-04,984.0,1,ok,VP+VUL
+FR,Audi,A3,2026-05,749.0,1,ok,VP+VUL
+FR,Audi,A3,2026-06,1087.0,1,ok,VP+VUL
+FR,Audi,A3,2026-07,688.0,1,ok,VP+VUL
+FR,Audi,A3,2026-08,554.0,1,ok,VP+VUL
+FR,Audi,A3,2026-09,655.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-04,395.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-05,377.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-06,543.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-07,299.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-08,226.0,1,ok,VP+VUL
+FR,Audi,Q3,2026-09,380.0,1,ok,VP+VUL
+FR,Audi,Q3 Sportback,2026-05,,1,prev_missing,VP+VUL
+FR,Audi,Q4,2026-04,492.0,1,ok,VP+VUL
+FR,Audi,Q4,2026-05,393.0,1,ok,VP+VUL
+FR,Audi,Q4,2026-06,339.0,1,ok,VP+VUL
+FR,Audi,Q4 Sportback,2026-04,357.0,1,ok,VP+VUL
+FR,Audi,Q4 Sportback,2026-05,342.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-04,838.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-05,985.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-06,1223.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-07,527.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-08,281.0,1,ok,VP+VUL
+FR,BMW,1 Series,2026-09,693.0,1,ok,VP+VUL
+FR,BMW,X1,2026-04,632.0,1,ok,VP+VUL
+FR,BMW,X1,2026-05,1460.0,1,ok,VP+VUL
+FR,BMW,X1,2026-06,1218.0,1,ok,VP+VUL
+FR,BMW,X1,2026-07,862.0,1,ok,VP+VUL
+FR,BMW,X1,2026-08,588.0,1,ok,VP+VUL
+FR,BMW,X1,2026-09,1023.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-04,763.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-05,870.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-06,1187.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-07,967.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-08,709.0,1,ok,VP+VUL
+FR,BMW,iX1,2026-09,714.0,1,ok,VP+VUL
+FR,BMW,iX2,2026-04,345.0,1,ok,VP+VUL
+FR,BMW,iX2,2026-05,386.0,1,ok,VP+VUL
+FR,BMW,iX2,2026-06,451.0,1,ok,VP+VUL
+FR,BMW,iX2,2026-07,387.0,1,ok,VP+VUL
+FR,BMW,iX2,2026-08,315.0,1,ok,VP+VUL
+FR,BMW,iX3,2026-05,,1,prev_missing,VP+VUL
+FR,BMW,iX3,2026-06,929.0,1,ok,VP+VUL
+FR,BMW,iX3,2026-07,778.0,1,ok,VP+VUL
+FR,BMW,iX3,2026-08,504.0,1,ok,VP+VUL
+FR,BMW,iX3,2026-09,558.0,1,ok,VP+VUL
+FR,BYD,Atto 2,2026-04,,1,prev_missing,VP+VUL
+FR,BYD,Atto 2,2026-05,1018.0,1,ok,VP+VUL
+FR,BYD,Atto 2,2026-06,2197.0,1,ok,VP+VUL
+FR,BYD,Atto 2,2026-07,896.0,1,ok,VP+VUL
+FR,BYD,Atto 2,2026-08,668.0,1,ok,VP+VUL
+FR,BYD,Atto 2,2026-09,1339.0,1,ok,VP+VUL
+FR,BYD,Seal U,2026-06,,1,prev_missing,VP+VUL
+FR,BYD,Seal U,2026-07,724.0,1,ok,VP+VUL
+FR,BYD,Seal U,2026-08,521.0,1,ok,VP+VUL
+FR,BYD,Seal U,2026-09,739.0,1,ok,VP+VUL
+FR,Citroen,Berlingo,2026-04,1558.0,2,ok,VP+VUL
+FR,Citroen,Berlingo,2026-05,1607.0,2,ok,VP+VUL
+FR,Citroen,Berlingo,2026-06,1591.0,2,ok,VP+VUL
+FR,Citroen,Berlingo,2026-07,979.0,2,ok,VP+VUL
+FR,Citroen,Berlingo,2026-08,672.0,2,ok,VP+VUL
+FR,Citroen,Berlingo,2026-09,1291.0,2,ok,VP+VUL
+FR,Citroen,C3,2026-04,5263.0,4,ok,VP+VUL
+FR,Citroen,C3,2026-05,3900.0,4,ok,VP+VUL
+FR,Citroen,C3,2026-06,5436.0,4,ok,VP+VUL
+FR,Citroen,C3,2026-07,4392.0,4,ok,VP+VUL
+FR,Citroen,C3,2026-08,3728.0,4,ok,VP+VUL
+FR,Citroen,C3,2026-09,6438.0,4,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-04,2535.0,3,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-05,2369.0,3,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-06,2854.0,3,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-07,2766.0,3,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-08,1539.0,3,ok,VP+VUL
+FR,Citroen,C3 Aircross,2026-09,2596.0,3,ok,VP+VUL
+FR,Citroen,C4,2026-04,,3,"ok,prev_missing",VP+VUL
+FR,Citroen,C4,2026-05,729.0,3,ok,VP+VUL
+FR,Citroen,C4,2026-06,1447.0,2,ok,VP+VUL
+FR,Citroen,C4,2026-07,722.0,2,ok,VP+VUL
+FR,Citroen,C4,2026-08,433.0,2,ok,VP+VUL
+FR,Citroen,C4,2026-09,,3,"ok,prev_missing",VP+VUL
+FR,Citroen,C5 Aircross,2026-04,1627.0,1,ok,VP+VUL
+FR,Citroen,C5 Aircross,2026-05,1411.0,1,ok,VP+VUL
+FR,Citroen,C5 Aircross,2026-06,2237.0,1,ok,VP+VUL
+FR,Citroen,C5 Aircross,2026-07,1393.0,1,ok,VP+VUL
+FR,Citroen,C5 Aircross,2026-08,800.0,1,ok,VP+VUL
+FR,Citroen,C5 Aircross,2026-09,,2,"ok,prev_missing",VP+VUL
+FR,Citroen,Jumper,2026-04,653.0,1,ok,VP+VUL
+FR,Citroen,Jumper,2026-05,614.0,1,ok,VP+VUL
+FR,Citroen,Jumper,2026-06,737.0,1,ok,VP+VUL
+FR,Citroen,Jumper,2026-07,528.0,1,ok,VP+VUL
+FR,Citroen,Jumper,2026-08,292.0,1,ok,VP+VUL
+FR,Citroen,Jumper,2026-09,489.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-04,802.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-05,810.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-06,990.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-07,749.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-08,488.0,1,ok,VP+VUL
+FR,Citroen,Jumpy,2026-09,792.0,1,ok,VP+VUL
+FR,Cupra,Born,2026-04,627.0,1,ok,VP+VUL
+FR,Cupra,Born,2026-05,433.0,1,ok,VP+VUL
+FR,Cupra,Born,2026-06,,2,"ok,prev_missing",VP+VUL
+FR,Cupra,Born,2026-07,370.0,2,ok,VP+VUL
+FR,Cupra,Born,2026-08,220.0,2,ok,VP+VUL
+FR,Cupra,Born,2026-09,308.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-04,577.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-05,477.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-06,643.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-07,393.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-08,241.0,1,ok,VP+VUL
+FR,Cupra,Formentor,2026-09,260.0,1,ok,VP+VUL
+FR,DS,3,2026-04,176.0,1,ok,VP+VUL
+FR,DS,4,2026-04,525.0,1,ok,VP+VUL
+FR,DS,4,2026-05,379.0,1,ok,VP+VUL
+FR,DS,4,2026-06,484.0,1,ok,VP+VUL
+FR,DS,4,2026-07,415.0,1,ok,VP+VUL
+FR,DS,4,2026-08,201.0,1,ok,VP+VUL
+FR,DS,4,2026-09,236.0,1,ok,VP+VUL
+FR,Dacia,Bigster,2026-04,1590.0,1,ok,VP+VUL
+FR,Dacia,Bigster,2026-05,,2,"ok,prev_missing",VP+VUL
+FR,Dacia,Bigster,2026-06,2302.0,2,ok,VP+VUL
+FR,Dacia,Bigster,2026-07,1103.0,2,ok,VP+VUL
+FR,Dacia,Bigster,2026-08,820.0,2,ok,VP+VUL
+FR,Dacia,Bigster,2026-09,1206.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-04,2935.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-05,2723.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-06,3199.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-07,1980.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-08,1787.0,2,ok,VP+VUL
+FR,Dacia,Duster,2026-09,2754.0,2,ok,VP+VUL
+FR,Dacia,Jogger,2026-04,1184.0,1,ok,VP+VUL
+FR,Dacia,Jogger,2026-05,1105.0,1,ok,VP+VUL
+FR,Dacia,Jogger,2026-06,1872.0,1,ok,VP+VUL
+FR,Dacia,Jogger,2026-07,738.0,1,ok,VP+VUL
+FR,Dacia,Jogger,2026-08,663.0,1,ok,VP+VUL
+FR,Dacia,Jogger,2026-09,917.0,1,ok,VP+VUL
+FR,Dacia,Sandero,2026-04,5365.0,2,ok,VP+VUL
+FR,Dacia,Sandero,2026-05,6007.0,2,ok,VP+VUL
+FR,Dacia,Sandero,2026-06,7764.0,2,ok,VP+VUL
+FR,Dacia,Sandero,2026-07,5256.0,2,ok,VP+VUL
+FR,Dacia,Sandero,2026-08,3320.0,2,ok,VP+VUL
+FR,Dacia,Sandero,2026-09,5245.0,2,ok,VP+VUL
+FR,Dacia,Spring,2026-04,588.0,1,ok,VP+VUL
+FR,Dacia,Spring,2026-05,458.0,1,ok,VP+VUL
+FR,Dacia,Spring,2026-06,1249.0,1,ok,VP+VUL
+FR,Dacia,Spring,2026-07,909.0,1,ok,VP+VUL
+FR,Dacia,Spring,2026-08,659.0,1,ok,VP+VUL
+FR,Dacia,Spring,2026-09,402.0,1,ok,VP+VUL
+FR,Fiat,500,2026-04,875.0,1,ok,VP+VUL
+FR,Fiat,500,2026-05,540.0,1,ok,VP+VUL
+FR,Fiat,500,2026-06,671.0,1,ok,VP+VUL
+FR,Fiat,500,2026-07,515.0,1,ok,VP+VUL
+FR,Fiat,500,2026-08,512.0,1,ok,VP+VUL
+FR,Fiat,500,2026-09,761.0,1,ok,VP+VUL
+FR,Fiat,600,2026-04,442.0,2,ok,VP+VUL
+FR,Fiat,600,2026-05,918.0,2,ok,VP+VUL
+FR,Fiat,600,2026-06,704.0,2,ok,VP+VUL
+FR,Fiat,600,2026-07,269.0,2,ok,VP+VUL
+FR,Fiat,600,2026-08,386.0,2,ok,VP+VUL
+FR,Fiat,600,2026-09,516.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-04,224.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-05,184.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-06,367.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-07,127.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-08,156.0,2,ok,VP+VUL
+FR,Fiat,Doblo,2026-09,266.0,2,ok,VP+VUL
+FR,Fiat,Ducato,2026-04,1747.0,1,ok,VP+VUL
+FR,Fiat,Ducato,2026-05,1367.0,1,ok,VP+VUL
+FR,Fiat,Ducato,2026-06,1579.0,1,ok,VP+VUL
+FR,Fiat,Ducato,2026-07,1338.0,1,ok,VP+VUL
+FR,Fiat,Ducato,2026-08,587.0,1,ok,VP+VUL
+FR,Fiat,Ducato,2026-09,769.0,1,ok,VP+VUL
+FR,Fiat,Panda,2026-04,606.0,1,ok,VP+VUL
+FR,Fiat,Panda,2026-05,591.0,1,ok,VP+VUL
+FR,Fiat,Panda,2026-06,,2,"ok,prev_missing",VP+VUL
+FR,Fiat,Panda,2026-07,1707.0,2,ok,VP+VUL
+FR,Fiat,Panda,2026-08,1316.0,2,ok,VP+VUL
+FR,Fiat,Panda,2026-09,1431.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-04,251.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-05,233.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-06,316.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-07,271.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-08,107.0,2,ok,VP+VUL
+FR,Fiat,Scudo,2026-09,254.0,2,ok,VP+VUL
+FR,Ford,Escape,2026-04,619.0,1,ok,VP+VUL
+FR,Ford,Escape,2026-05,592.0,1,ok,VP+VUL
+FR,Ford,Escape,2026-06,1393.0,1,ok,VP+VUL
+FR,Ford,Escape,2026-07,785.0,1,ok,VP+VUL
+FR,Ford,Escape,2026-08,437.0,1,ok,VP+VUL
+FR,Ford,Escape,2026-09,828.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-04,663.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-05,279.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-06,603.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-07,459.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-08,284.0,1,ok,VP+VUL
+FR,Ford,Explorer,2026-09,394.0,1,ok,VP+VUL
+FR,Ford,Puma,2026-04,986.0,2,ok,VP+VUL
+FR,Ford,Puma,2026-05,896.0,2,ok,VP+VUL
+FR,Ford,Puma,2026-06,1438.0,2,ok,VP+VUL
+FR,Ford,Puma,2026-07,576.0,2,ok,VP+VUL
+FR,Ford,Puma,2026-08,612.0,2,ok,VP+VUL
+FR,Ford,Puma,2026-09,1283.0,2,ok,VP+VUL
+FR,Ford,Ranger,2026-04,111.0,1,ok,VP+VUL
+FR,Ford,Ranger,2026-05,94.0,1,ok,VP+VUL
+FR,Ford,Ranger,2026-06,237.0,1,ok,VP+VUL
+FR,Ford,Ranger,2026-07,139.0,1,ok,VP+VUL
+FR,Ford,Ranger,2026-08,147.0,1,ok,VP+VUL
+FR,Ford,Ranger,2026-09,235.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-04,699.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-05,537.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-06,785.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-07,685.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-08,357.0,1,ok,VP+VUL
+FR,Ford,Transit,2026-09,522.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-04,1412.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-05,1420.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-06,1799.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-07,1422.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-08,960.0,1,ok,VP+VUL
+FR,Ford,Transit Custom,2026-09,1309.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-04,493.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-05,344.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-06,496.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-07,339.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-08,377.0,1,ok,VP+VUL
+FR,Hyundai,Inster,2026-09,665.0,1,ok,VP+VUL
+FR,Hyundai,Kona,2026-04,1321.0,2,ok,VP+VUL
+FR,Hyundai,Kona,2026-05,1026.0,2,ok,VP+VUL
+FR,Hyundai,Kona,2026-06,1427.0,2,ok,VP+VUL
+FR,Hyundai,Kona,2026-07,1285.0,2,ok,VP+VUL
+FR,Hyundai,Kona,2026-08,875.0,2,ok,VP+VUL
+FR,Hyundai,Kona,2026-09,1550.0,2,ok,VP+VUL
+FR,Hyundai,Tucson,2026-04,1020.0,1,ok,VP+VUL
+FR,Hyundai,Tucson,2026-05,831.0,1,ok,VP+VUL
+FR,Hyundai,Tucson,2026-06,1335.0,1,ok,VP+VUL
+FR,Hyundai,Tucson,2026-07,988.0,1,ok,VP+VUL
+FR,Hyundai,Tucson,2026-08,531.0,1,ok,VP+VUL
+FR,Hyundai,Tucson,2026-09,735.0,1,ok,VP+VUL
+FR,Ineos,Grenadier,2026-04,8.0,1,ok,VP+VUL
+FR,Ineos,Grenadier,2026-06,,1,prev_missing,VP+VUL
+FR,Jaecoo,5,2026-07,,1,prev_missing,VP+VUL
+FR,Jaecoo,5,2026-08,757.0,1,ok,VP+VUL
+FR,Jaecoo,5,2026-09,1408.0,1,ok,VP+VUL
+FR,Jaecoo,7,2026-06,,1,prev_missing,VP+VUL
+FR,Jaecoo,7,2026-07,825.0,1,ok,VP+VUL
+FR,Jaecoo,7,2026-08,679.0,1,ok,VP+VUL
+FR,Jaecoo,7,2026-09,1167.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-04,371.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-05,585.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-06,507.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-07,271.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-08,298.0,1,ok,VP+VUL
+FR,Jeep,Avenger,2026-09,533.0,1,ok,VP+VUL
+FR,Jeep,Compass,2026-04,,1,prev_missing,VP+VUL
+FR,Jeep,Compass,2026-05,263.0,1,ok,VP+VUL
+FR,Kia,EV2,2026-08,,1,prev_missing,VP+VUL
+FR,Kia,EV2,2026-09,1252.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-04,778.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-05,665.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-06,782.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-07,624.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-08,681.0,1,ok,VP+VUL
+FR,Kia,EV4,2026-09,953.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-04,449.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-05,252.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-06,642.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-07,321.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-08,177.0,1,ok,VP+VUL
+FR,Kia,Niro,2026-09,213.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-04,58.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-05,69.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-06,89.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-07,92.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-08,31.0,1,ok,VP+VUL
+FR,Kia,PV5,2026-09,45.0,1,ok,VP+VUL
+FR,Kia,Picanto,2026-04,368.0,1,ok,VP+VUL
+FR,Kia,Picanto,2026-05,178.0,1,ok,VP+VUL
+FR,Kia,Picanto,2026-06,413.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-04,755.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-05,439.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-06,822.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-07,698.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-08,259.0,1,ok,VP+VUL
+FR,Kia,Sportage,2026-09,436.0,1,ok,VP+VUL
+FR,Kia,Stonic,2026-04,286.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-04,124.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-05,99.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-06,109.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-07,144.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-08,60.0,1,ok,VP+VUL
+FR,Land Rover,Defender,2026-09,85.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-04,328.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-05,305.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-06,550.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-07,389.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-08,364.0,1,ok,VP+VUL
+FR,Leapmotor,T03,2026-09,751.0,1,ok,VP+VUL
+FR,MG,MG3,2026-04,1004.0,1,ok,VP+VUL
+FR,MG,MG3,2026-05,812.0,1,ok,VP+VUL
+FR,MG,MG3,2026-06,1319.0,1,ok,VP+VUL
+FR,MG,MG3,2026-07,1092.0,1,ok,VP+VUL
+FR,MG,MG3,2026-08,591.0,1,ok,VP+VUL
+FR,MG,MG3,2026-09,949.0,1,ok,VP+VUL
+FR,MG,ZS,2026-04,873.0,1,ok,VP+VUL
+FR,MG,ZS,2026-05,782.0,1,ok,VP+VUL
+FR,MG,ZS,2026-06,1476.0,1,ok,VP+VUL
+FR,MG,ZS,2026-07,738.0,1,ok,VP+VUL
+FR,MG,ZS,2026-08,444.0,1,ok,VP+VUL
+FR,MG,ZS,2026-09,719.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-04,1010.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-05,975.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-06,1478.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-07,1046.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-08,1024.0,1,ok,VP+VUL
+FR,MINI,Cooper,2026-09,1185.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-04,618.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-05,845.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-06,1156.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-07,512.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-08,243.0,1,ok,VP+VUL
+FR,MINI,Countryman,2026-09,692.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-04,746.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-05,503.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-06,608.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-07,447.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-08,389.0,1,ok,VP+VUL
+FR,Mercedes-Benz,A-Class,2026-09,434.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-04,994.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-05,667.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-06,959.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-07,772.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-08,489.0,1,ok,VP+VUL
+FR,Mercedes-Benz,CLA,2026-09,1036.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-04,206.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-05,182.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-06,325.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-07,294.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-08,80.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Citan,2026-09,135.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-04,643.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-05,458.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-06,704.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-07,256.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-08,277.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLA,2026-09,756.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLC,2026-07,,1,prev_missing,VP+VUL
+FR,Mercedes-Benz,GLC,2026-08,561.0,1,ok,VP+VUL
+FR,Mercedes-Benz,GLC,2026-09,897.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-04,684.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-05,655.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-06,913.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-07,1141.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-08,605.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Sprinter,2026-09,791.0,2,ok,VP+VUL
+FR,Mercedes-Benz,V-Class,2026-04,10.0,1,ok,VP+VUL
+FR,Mercedes-Benz,V-Class,2026-05,7.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Vito,2026-04,533.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Vito,2026-05,531.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Vito,2026-06,695.0,1,ok,VP+VUL
+FR,Mercedes-Benz,Vito,2026-07,,2,"ok,prev_missing",VP+VUL
+FR,Mercedes-Benz,Vito,2026-08,320.0,2,ok,VP+VUL
+FR,Mercedes-Benz,Vito,2026-09,529.0,2,ok,VP+VUL
+FR,Nissan,Juke,2026-04,562.0,1,ok,VP+VUL
+FR,Nissan,Juke,2026-05,495.0,1,ok,VP+VUL
+FR,Nissan,Juke,2026-06,569.0,1,ok,VP+VUL
+FR,Nissan,Juke,2026-07,531.0,1,ok,VP+VUL
+FR,Nissan,Juke,2026-08,379.0,1,ok,VP+VUL
+FR,Nissan,Juke,2026-09,448.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-04,229.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-05,145.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-06,207.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-07,177.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-08,66.0,1,ok,VP+VUL
+FR,Nissan,Primastar,2026-09,194.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-04,1804.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-05,1155.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-06,1470.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-07,792.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-08,519.0,1,ok,VP+VUL
+FR,Nissan,Qashqai,2026-09,827.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-04,30.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-05,26.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-06,36.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-07,30.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-08,14.0,1,ok,VP+VUL
+FR,Nissan,Townstar,2026-09,33.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-04,176.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-05,120.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-06,213.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-07,115.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-08,112.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Combo,2026-09,160.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-04,1585.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-05,1260.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-06,1543.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-07,982.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-08,815.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Corsa,2026-09,916.0,2,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-04,641.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-05,370.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-06,885.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-07,854.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-08,687.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Frontera,2026-09,760.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-04,492.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-05,450.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-06,744.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-07,254.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-08,194.0,1,ok,VP+VUL
+FR,Opel/Vauxhall,Mokka,2026-09,271.0,1,ok,VP+VUL
+FR,Peugeot,2008,2026-04,3819.0,2,ok,VP+VUL
+FR,Peugeot,2008,2026-05,3290.0,2,ok,VP+VUL
+FR,Peugeot,2008,2026-06,5609.0,2,ok,VP+VUL
+FR,Peugeot,2008,2026-07,3757.0,2,ok,VP+VUL
+FR,Peugeot,2008,2026-08,2815.0,2,ok,VP+VUL
+FR,Peugeot,2008,2026-09,4251.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-04,6977.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-05,6530.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-06,9186.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-07,6507.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-08,4726.0,2,ok,VP+VUL
+FR,Peugeot,208,2026-09,8520.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-04,3396.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-05,2820.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-06,3210.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-07,2488.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-08,2244.0,2,ok,VP+VUL
+FR,Peugeot,3008,2026-09,3196.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-04,2635.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-05,2060.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-06,2449.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-07,2018.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-08,1116.0,2,ok,VP+VUL
+FR,Peugeot,308,2026-09,2003.0,2,ok,VP+VUL
+FR,Peugeot,408,2026-04,461.0,1,ok,VP+VUL
+FR,Peugeot,408,2026-05,333.0,1,ok,VP+VUL
+FR,Peugeot,408,2026-06,414.0,1,ok,VP+VUL
+FR,Peugeot,408,2026-07,419.0,1,ok,VP+VUL
+FR,Peugeot,408,2026-08,215.0,1,ok,VP+VUL
+FR,Peugeot,408,2026-09,244.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-04,1431.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-05,1323.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-06,1918.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-07,1884.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-08,928.0,1,ok,VP+VUL
+FR,Peugeot,5008,2026-09,1428.0,1,ok,VP+VUL
+FR,Peugeot,Boxer,2026-04,727.0,2,ok,VP+VUL
+FR,Peugeot,Boxer,2026-05,649.0,2,ok,VP+VUL
+FR,Peugeot,Boxer,2026-06,922.0,1,ok,VP+VUL
+FR,Peugeot,Boxer,2026-07,661.0,1,ok,VP+VUL
+FR,Peugeot,Boxer,2026-08,475.0,1,ok,VP+VUL
+FR,Peugeot,Boxer,2026-09,558.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-04,1852.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-05,1300.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-06,1592.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-07,1094.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-08,678.0,1,ok,VP+VUL
+FR,Peugeot,Expert,2026-09,1232.0,1,ok,VP+VUL
+FR,Renault,4,2026-04,967.0,2,ok,VP+VUL
+FR,Renault,4,2026-05,807.0,2,ok,VP+VUL
+FR,Renault,4,2026-06,1221.0,2,ok,VP+VUL
+FR,Renault,4,2026-07,902.0,2,ok,VP+VUL
+FR,Renault,4,2026-08,592.0,2,ok,VP+VUL
+FR,Renault,4,2026-09,1295.0,2,ok,VP+VUL
+FR,Renault,5,2026-04,3689.0,2,ok,VP+VUL
+FR,Renault,5,2026-05,3161.0,2,ok,VP+VUL
+FR,Renault,5,2026-06,4499.0,2,ok,VP+VUL
+FR,Renault,5,2026-07,4047.0,2,ok,VP+VUL
+FR,Renault,5,2026-08,2441.0,2,ok,VP+VUL
+FR,Renault,5,2026-09,5452.0,2,ok,VP+VUL
+FR,Renault,Austral,2026-04,1362.0,1,ok,VP+VUL
+FR,Renault,Austral,2026-05,1229.0,1,ok,VP+VUL
+FR,Renault,Austral,2026-06,1996.0,1,ok,VP+VUL
+FR,Renault,Austral,2026-07,956.0,1,ok,VP+VUL
+FR,Renault,Austral,2026-08,602.0,1,ok,VP+VUL
+FR,Renault,Austral,2026-09,1567.0,1,ok,VP+VUL
+FR,Renault,Captur,2026-04,2917.0,2,ok,VP+VUL
+FR,Renault,Captur,2026-05,2417.0,2,ok,VP+VUL
+FR,Renault,Captur,2026-06,3025.0,2,ok,VP+VUL
+FR,Renault,Captur,2026-07,1474.0,2,ok,VP+VUL
+FR,Renault,Captur,2026-08,777.0,2,ok,VP+VUL
+FR,Renault,Captur,2026-09,2508.0,2,ok,VP+VUL
+FR,Renault,Clio,2026-04,8017.0,4,ok,VP+VUL
+FR,Renault,Clio,2026-05,5733.0,4,ok,VP+VUL
+FR,Renault,Clio,2026-06,10707.0,4,ok,VP+VUL
+FR,Renault,Clio,2026-07,4022.0,4,ok,VP+VUL
+FR,Renault,Clio,2026-08,3574.0,4,ok,VP+VUL
+FR,Renault,Clio,2026-09,6771.0,4,ok,VP+VUL
+FR,Renault,Espace,2026-04,601.0,1,ok,VP+VUL
+FR,Renault,Espace,2026-05,670.0,1,ok,VP+VUL
+FR,Renault,Espace,2026-06,1019.0,1,ok,VP+VUL
+FR,Renault,Espace,2026-07,391.0,1,ok,VP+VUL
+FR,Renault,Espace,2026-08,189.0,1,ok,VP+VUL
+FR,Renault,Espace,2026-09,410.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-04,2637.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-05,1816.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-06,3516.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-07,2286.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-08,1311.0,1,ok,VP+VUL
+FR,Renault,Kangoo,2026-09,2380.0,1,ok,VP+VUL
+FR,Renault,Master,2026-04,2673.0,4,ok,VP+VUL
+FR,Renault,Master,2026-05,2402.0,4,ok,VP+VUL
+FR,Renault,Master,2026-06,2888.0,4,ok,VP+VUL
+FR,Renault,Master,2026-07,2458.0,4,ok,VP+VUL
+FR,Renault,Master,2026-08,1123.0,4,ok,VP+VUL
+FR,Renault,Master,2026-09,2306.0,3,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-04,982.0,2,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-05,1313.0,2,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-06,2362.0,2,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-07,1212.0,2,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-08,945.0,2,ok,VP+VUL
+FR,Renault,Megane E-Tech,2026-09,1265.0,2,ok,VP+VUL
+FR,Renault,Rafale,2026-04,520.0,1,ok,VP+VUL
+FR,Renault,Rafale,2026-05,585.0,1,ok,VP+VUL
+FR,Renault,Rafale,2026-06,815.0,1,ok,VP+VUL
+FR,Renault,Rafale,2026-07,399.0,1,ok,VP+VUL
+FR,Renault,Rafale,2026-08,217.0,1,ok,VP+VUL
+FR,Renault,Rafale,2026-09,411.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-04,2114.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-05,1624.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-06,2495.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-07,2910.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-08,1745.0,1,ok,VP+VUL
+FR,Renault,Scenic E-Tech,2026-09,2738.0,1,ok,VP+VUL
+FR,Renault,Symbioz,2026-04,2792.0,2,ok,VP+VUL
+FR,Renault,Symbioz,2026-05,2158.0,2,ok,VP+VUL
+FR,Renault,Symbioz,2026-06,2561.0,2,ok,VP+VUL
+FR,Renault,Symbioz,2026-07,1658.0,2,ok,VP+VUL
+FR,Renault,Symbioz,2026-08,878.0,2,ok,VP+VUL
+FR,Renault,Symbioz,2026-09,2263.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-04,3300.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-05,2137.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-06,3406.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-07,2141.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-08,1171.0,2,ok,VP+VUL
+FR,Renault,Trafic,2026-09,2099.0,2,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-04,489.0,1,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-05,1004.0,1,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-06,2678.0,1,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-07,2564.0,1,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-08,1574.0,1,ok,VP+VUL
+FR,Renault,Twingo E-Tech,2026-09,4988.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-04,711.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-05,708.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-06,836.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-07,687.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-08,616.0,1,ok,VP+VUL
+FR,Seat,Ibiza,2026-09,445.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-04,1092.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-05,1126.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-06,982.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-07,1341.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-08,1410.0,1,ok,VP+VUL
+FR,Skoda,Elroq,2026-09,1457.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-04,498.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-05,517.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-06,572.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-07,388.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-08,594.0,1,ok,VP+VUL
+FR,Skoda,Enyaq,2026-09,784.0,1,ok,VP+VUL
+FR,Skoda,Fabia,2026-04,1007.0,2,ok,VP+VUL
+FR,Skoda,Fabia,2026-05,939.0,2,ok,VP+VUL
+FR,Skoda,Fabia,2026-06,1163.0,2,ok,VP+VUL
+FR,Skoda,Fabia,2026-07,818.0,2,ok,VP+VUL
+FR,Skoda,Fabia,2026-08,696.0,2,ok,VP+VUL
+FR,Skoda,Fabia,2026-09,860.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-04,604.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-05,541.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-06,850.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-07,380.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-08,408.0,2,ok,VP+VUL
+FR,Skoda,Kamiq,2026-09,482.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-04,688.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-05,686.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-06,817.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-07,495.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-08,384.0,2,ok,VP+VUL
+FR,Skoda,Octavia,2026-09,528.0,2,ok,VP+VUL
+FR,Suzuki,Swift,2026-04,1010.0,1,ok,VP+VUL
+FR,Suzuki,Swift,2026-05,561.0,1,ok,VP+VUL
+FR,Suzuki,Swift,2026-06,1299.0,1,ok,VP+VUL
+FR,Suzuki,Swift,2026-07,1088.0,1,ok,VP+VUL
+FR,Suzuki,Swift,2026-08,556.0,1,ok,VP+VUL
+FR,Suzuki,Swift,2026-09,1079.0,1,ok,VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-04,455.0,1,ok,VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-05,291.0,1,ok,VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-06,470.0,1,ok,VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-07,,2,"ok,prev_missing",VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-08,228.0,2,ok,VP+VUL
+FR,Suzuki,Vitara/Grand Vitara,2026-09,438.0,2,ok,VP+VUL
+FR,Tesla,Model 3,2026-04,367.0,1,ok,VP+VUL
+FR,Tesla,Model 3,2026-05,1561.0,1,ok,VP+VUL
+FR,Tesla,Model 3,2026-06,832.0,1,ok,VP+VUL
+FR,Tesla,Model 3,2026-07,23.0,1,ok,VP+VUL
+FR,Tesla,Model 3,2026-08,415.0,1,ok,VP+VUL
+FR,Tesla,Model 3,2026-09,855.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-04,1456.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-05,3874.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-06,6635.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-07,2401.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-08,4622.0,1,ok,VP+VUL
+FR,Tesla,Model Y,2026-09,8183.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-04,1389.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-05,1059.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-06,1411.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-07,1304.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-08,888.0,1,ok,VP+VUL
+FR,Toyota,Aygo X,2026-09,769.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-04,1113.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-05,1146.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-06,1566.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-07,1266.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-08,1013.0,1,ok,VP+VUL
+FR,Toyota,C-HR,2026-09,1010.0,1,ok,VP+VUL
+FR,Toyota,Corolla,2026-04,450.0,2,ok,VP+VUL
+FR,Toyota,Corolla,2026-05,512.0,2,ok,VP+VUL
+FR,Toyota,Corolla,2026-06,763.0,2,ok,VP+VUL
+FR,Toyota,Corolla,2026-07,797.0,2,ok,VP+VUL
+FR,Toyota,Corolla,2026-08,507.0,2,ok,VP+VUL
+FR,Toyota,Corolla,2026-09,641.0,2,ok,VP+VUL
+FR,Toyota,Hilux,2026-04,119.0,1,ok,VP+VUL
+FR,Toyota,Hilux,2026-05,97.0,1,ok,VP+VUL
+FR,Toyota,Hilux,2026-06,81.0,1,ok,VP+VUL
+FR,Toyota,Hilux,2026-07,41.0,1,ok,VP+VUL
+FR,Toyota,Hilux,2026-08,8.0,1,ok,VP+VUL
+FR,Toyota,Hilux,2026-09,37.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-04,286.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-05,297.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-06,295.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-07,288.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-08,140.0,1,ok,VP+VUL
+FR,Toyota,Proace,2026-09,244.0,1,ok,VP+VUL
+FR,Toyota,Yaris,2026-04,2830.0,2,ok,VP+VUL
+FR,Toyota,Yaris,2026-05,2159.0,2,ok,VP+VUL
+FR,Toyota,Yaris,2026-06,3007.0,2,ok,VP+VUL
+FR,Toyota,Yaris,2026-07,2719.0,2,ok,VP+VUL
+FR,Toyota,Yaris,2026-08,2059.0,2,ok,VP+VUL
+FR,Toyota,Yaris,2026-09,2471.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-04,2863.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-05,2402.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-06,2871.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-07,2311.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-08,1255.0,2,ok,VP+VUL
+FR,Toyota,Yaris Cross,2026-09,2186.0,2,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-04,237.0,1,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-05,176.0,1,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-06,203.0,1,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-07,148.0,1,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-08,87.0,1,ok,VP+VUL
+FR,Volkswagen,Caddy,2026-09,196.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-04,289.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-05,343.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-06,518.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-07,341.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-08,256.0,1,ok,VP+VUL
+FR,Volkswagen,Crafter,2026-09,492.0,1,ok,VP+VUL
+FR,Volkswagen,Golf,2026-04,1029.0,2,ok,VP+VUL
+FR,Volkswagen,Golf,2026-05,901.0,2,ok,VP+VUL
+FR,Volkswagen,Golf,2026-06,1257.0,2,ok,VP+VUL
+FR,Volkswagen,Golf,2026-07,899.0,2,ok,VP+VUL
+FR,Volkswagen,Golf,2026-08,793.0,2,ok,VP+VUL
+FR,Volkswagen,Golf,2026-09,846.0,2,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-04,146.0,1,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-05,145.0,1,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-06,160.0,1,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-07,246.0,1,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-08,154.0,1,ok,VP+VUL
+FR,Volkswagen,ID. Buzz,2026-09,306.0,1,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-04,842.0,2,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-05,950.0,2,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-06,1267.0,2,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-07,608.0,2,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-08,259.0,2,ok,VP+VUL
+FR,Volkswagen,ID.3,2026-09,194.0,2,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-04,1216.0,1,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-05,1026.0,1,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-06,921.0,1,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-07,1291.0,1,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-08,1304.0,1,ok,VP+VUL
+FR,Volkswagen,ID.4,2026-09,1414.0,1,ok,VP+VUL
+FR,Volkswagen,Polo,2026-04,1494.0,2,ok,VP+VUL
+FR,Volkswagen,Polo,2026-05,2259.0,2,ok,VP+VUL
+FR,Volkswagen,Polo,2026-06,2573.0,2,ok,VP+VUL
+FR,Volkswagen,Polo,2026-07,1218.0,2,ok,VP+VUL
+FR,Volkswagen,Polo,2026-08,762.0,2,ok,VP+VUL
+FR,Volkswagen,Polo,2026-09,1592.0,2,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-04,1016.0,1,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-05,721.0,1,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-06,886.0,1,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-07,486.0,1,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-08,257.0,1,ok,VP+VUL
+FR,Volkswagen,T-Cross,2026-09,746.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-04,2008.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-05,1420.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-06,2006.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-07,1175.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-08,722.0,1,ok,VP+VUL
+FR,Volkswagen,T-Roc,2026-09,1205.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-04,432.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-05,388.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-06,630.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-07,342.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-08,177.0,1,ok,VP+VUL
+FR,Volkswagen,Taigo,2026-09,214.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-04,785.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-05,752.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-06,1226.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-07,695.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-08,533.0,1,ok,VP+VUL
+FR,Volkswagen,Tiguan,2026-09,804.0,1,ok,VP+VUL
+FR,Volvo,EX30,2026-04,,1,prev_missing,VP+VUL
+FR,Volvo,EX30,2026-05,266.0,1,ok,VP+VUL
+FR,Volvo,EX30,2026-06,481.0,1,ok,VP+VUL
+FR,Volvo,EX30,2026-07,460.0,1,ok,VP+VUL
+FR,Volvo,EX30,2026-09,,1,prev_missing,VP+VUL
+FR,Xpeng,G6,2026-04,559.0,1,ok,VP+VUL
+FR,Xpeng,G6,2026-05,583.0,1,ok,VP+VUL
+FR,Xpeng,G6,2026-06,702.0,1,ok,VP+VUL
+FR,Xpeng,G6,2026-07,619.0,1,ok,VP+VUL
+FR,Xpeng,G6,2026-08,409.0,1,ok,VP+VUL
+FR,Xpeng,G6,2026-09,552.0,1,ok,VP+VUL

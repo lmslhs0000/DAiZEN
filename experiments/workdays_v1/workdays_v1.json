@@ -1,0 +1,36 @@
+{
+  "holidays_version": "0.105",
+  "years": [
+    2015,
+    2028
+  ],
+  "markets": {
+    "Canada": [
+      "CA"
+    ],
+    "China": [
+      "CN"
+    ],
+    "Europe": [
+      "DE",
+      "FR",
+      "GB",
+      "IT",
+      "ES"
+    ],
+    "Germany": [
+      "DE"
+    ],
+    "Japan": [
+      "JP"
+    ],
+    "South Korea": [
+      "KR"
+    ],
+    "United States": [
+      "US"
+    ]
+  },
+  "rule": "workdays = Mon-Fri - national public holidays on weekdays (+ China official working weekend days parsed from 'substituted from' names); Europe = mean of DE, FR, GB, IT, ES",
+  "sha256": "1146344f91ab28aa75db95d6eacfce6dac023a64101fb04fc41c4a664db5937e"
+}

@@ -1,0 +1,297 @@
+Country_part,Brand,Model,Month,n
+IT,Alfa Romeo,Junior,2026-04,970
+IT,Alfa Romeo,Junior,2026-07,782
+IT,Alfa Romeo,Junior,2026-08,550
+IT,Alfa Romeo,Tonale,2026-04,1068
+IT,Alfa Romeo,Tonale,2026-05,962
+IT,Audi,A3,2026-05,1425
+IT,Audi,A3,2026-06,1201
+IT,Audi,A3,2026-07,894
+IT,Audi,A3,2026-08,740
+IT,Audi,A3,2026-09,1624
+IT,Audi,Q3,2026-04,1936
+IT,Audi,Q3,2026-05,2168
+IT,Audi,Q3,2026-06,2218
+IT,Audi,Q3,2026-07,1919
+IT,Audi,Q3,2026-08,857
+IT,Audi,Q3,2026-09,1367
+IT,Audi,Q5,2026-04,848
+IT,Audi,Q5,2026-05,1064
+IT,Audi,Q5,2026-06,1246
+IT,Audi,Q5,2026-07,801
+IT,Audi,Q5,2026-08,568
+IT,Audi,Q5,2026-09,871
+IT,BMW,1 Series,2026-08,427
+IT,BMW,X1,2026-04,1928
+IT,BMW,X1,2026-05,1838
+IT,BMW,X1,2026-06,1648
+IT,BMW,X1,2026-07,1452
+IT,BMW,X1,2026-08,898
+IT,BMW,X1,2026-09,1794
+IT,BMW,X3,2026-04,1143
+IT,BMW,X3,2026-05,1056
+IT,BMW,X3,2026-06,896
+IT,BMW,X3,2026-07,853
+IT,BMW,X3,2026-08,452
+IT,BYD,Atto 2,2026-04,1557
+IT,BYD,Atto 2,2026-05,3818
+IT,BYD,Atto 2,2026-06,3780
+IT,BYD,Atto 2,2026-07,1567
+IT,BYD,Atto 2,2026-08,487
+IT,BYD,Atto 2,2026-09,1373
+IT,BYD,Seal U,2026-04,1590
+IT,BYD,Seal U,2026-07,1191
+IT,BYD,Seal U,2026-08,1490
+IT,BYD,Seal U,2026-09,2144
+IT,Citroen,C3,2026-04,3505
+IT,Citroen,C3,2026-05,3407
+IT,Citroen,C3,2026-06,3079
+IT,Citroen,C3,2026-07,2898
+IT,Citroen,C3,2026-08,1702
+IT,Citroen,C3,2026-09,2572
+IT,Citroen,C3 Aircross,2026-04,1696
+IT,Citroen,C3 Aircross,2026-05,1079
+IT,Citroen,C3 Aircross,2026-06,817
+IT,Cupra,Leon,2026-05,835
+IT,DR Motor,DR 5.0,2026-06,1208
+IT,DR Motor,DR 5.0,2026-07,823
+IT,DR Motor,DR 5.0,2026-08,599
+IT,DR Motor,DR 5.0,2026-09,1034
+IT,Dacia,Duster,2026-04,2081
+IT,Dacia,Duster,2026-05,2219
+IT,Dacia,Duster,2026-06,2491
+IT,Dacia,Duster,2026-07,2691
+IT,Dacia,Duster,2026-08,1225
+IT,Dacia,Duster,2026-09,2277
+IT,Dacia,Sandero,2026-04,4064
+IT,Dacia,Sandero,2026-05,4404
+IT,Dacia,Sandero,2026-06,4340
+IT,Dacia,Sandero,2026-07,4785
+IT,Dacia,Sandero,2026-08,2158
+IT,Dacia,Sandero,2026-09,3723
+IT,Dacia,Spring,2026-05,1447
+IT,Dacia,Spring,2026-06,1802
+IT,Fiat,500,2026-04,1492
+IT,Fiat,500,2026-05,2140
+IT,Fiat,500,2026-06,1551
+IT,Fiat,500,2026-07,1257
+IT,Fiat,500,2026-08,735
+IT,Fiat,500,2026-09,1502
+IT,Fiat,600,2026-04,2029
+IT,Fiat,600,2026-05,868
+IT,Fiat,600,2026-07,979
+IT,Fiat,600,2026-08,497
+IT,Fiat,Grande Panda,2026-04,3704
+IT,Fiat,Grande Panda,2026-05,2974
+IT,Fiat,Grande Panda,2026-06,3139
+IT,Fiat,Grande Panda,2026-07,2931
+IT,Fiat,Grande Panda,2026-08,1561
+IT,Fiat,Grande Panda,2026-09,3092
+IT,Fiat,Panda,2026-04,8571
+IT,Fiat,Panda,2026-05,8965
+IT,Fiat,Panda,2026-06,8255
+IT,Fiat,Panda,2026-07,8460
+IT,Fiat,Panda,2026-08,4685
+IT,Fiat,Panda,2026-09,10378
+IT,Ford,Escape,2026-04,1220
+IT,Ford,Escape,2026-06,874
+IT,Ford,Escape,2026-07,856
+IT,Ford,Puma,2026-04,2509
+IT,Ford,Puma,2026-05,2099
+IT,Ford,Puma,2026-06,2025
+IT,Ford,Puma,2026-07,1698
+IT,Ford,Puma,2026-08,999
+IT,Ford,Puma,2026-09,1470
+IT,Hyundai,Tucson,2026-04,1219
+IT,Hyundai,Tucson,2026-05,1136
+IT,Hyundai,Tucson,2026-06,1065
+IT,Hyundai,Tucson,2026-07,924
+IT,Hyundai,Tucson,2026-09,922
+IT,Hyundai,i20,2026-05,838
+IT,Hyundai,i20,2026-06,968
+IT,Hyundai,i20,2026-08,494
+IT,Hyundai,i20,2026-09,1187
+IT,Jaecoo,5,2026-09,891
+IT,Jaecoo,7,2026-04,1116
+IT,Jaecoo,7,2026-05,940
+IT,Jaecoo,7,2026-06,898
+IT,Jaecoo,7,2026-07,880
+IT,Jaecoo,7,2026-08,614
+IT,Jaecoo,7,2026-09,1233
+IT,Jeep,Avenger,2026-04,4350
+IT,Jeep,Avenger,2026-05,4004
+IT,Jeep,Avenger,2026-06,3001
+IT,Jeep,Avenger,2026-07,2603
+IT,Jeep,Avenger,2026-08,1566
+IT,Jeep,Avenger,2026-09,4092
+IT,Jeep,Compass,2026-04,1960
+IT,Jeep,Compass,2026-05,961
+IT,Jeep,Compass,2026-06,1149
+IT,Jeep,Compass,2026-07,945
+IT,Jeep,Compass,2026-08,561
+IT,Jeep,Compass,2026-09,835
+IT,Kia,Picanto,2026-04,1450
+IT,Kia,Picanto,2026-05,1253
+IT,Kia,Picanto,2026-06,1069
+IT,Kia,Picanto,2026-07,968
+IT,Kia,Picanto,2026-08,758
+IT,Kia,Picanto,2026-09,1398
+IT,Kia,Sportage,2026-04,2011
+IT,Kia,Sportage,2026-05,2102
+IT,Kia,Sportage,2026-06,2086
+IT,Kia,Sportage,2026-07,2007
+IT,Kia,Sportage,2026-08,1276
+IT,Kia,Sportage,2026-09,2088
+IT,Kia,Stonic,2026-07,913
+IT,Kia,Stonic,2026-08,503
+IT,Lancia,Ypsilon,2026-04,925
+IT,Leapmotor,B10,2026-08,470
+IT,Leapmotor,B10,2026-09,972
+IT,Leapmotor,T03,2026-04,4090
+IT,Leapmotor,T03,2026-05,4250
+IT,Leapmotor,T03,2026-06,2744
+IT,MG,MG3,2026-04,1198
+IT,MG,MG3,2026-05,2096
+IT,MG,MG3,2026-06,1049
+IT,MG,MG3,2026-07,845
+IT,MG,MG3,2026-08,805
+IT,MG,MG3,2026-09,1176
+IT,MG,ZS,2026-04,3742
+IT,MG,ZS,2026-05,2324
+IT,MG,ZS,2026-06,2317
+IT,MG,ZS,2026-07,1939
+IT,MG,ZS,2026-08,1316
+IT,MG,ZS,2026-09,2510
+IT,MINI,Cooper,2026-08,431
+IT,MINI,Countryman,2026-07,745
+IT,Mercedes-Benz,GLA,2026-04,1224
+IT,Mercedes-Benz,GLA,2026-05,1102
+IT,Mercedes-Benz,GLA,2026-06,1238
+IT,Mercedes-Benz,GLA,2026-07,1738
+IT,Mercedes-Benz,GLA,2026-08,552
+IT,Mercedes-Benz,GLA,2026-09,1299
+IT,Mercedes-Benz,GLC,2026-04,887
+IT,Mercedes-Benz,GLC,2026-06,892
+IT,Nissan,Juke,2026-07,760
+IT,Nissan,Juke,2026-09,863
+IT,Nissan,Qashqai,2026-04,1186
+IT,Nissan,Qashqai,2026-05,1081
+IT,Nissan,Qashqai,2026-06,1411
+IT,Nissan,Qashqai,2026-07,847
+IT,Nissan,Qashqai,2026-08,500
+IT,Nissan,Qashqai,2026-09,1783
+IT,Omoda,5,2026-04,1519
+IT,Omoda,5,2026-05,1366
+IT,Omoda,5,2026-06,1563
+IT,Omoda,5,2026-07,1224
+IT,Omoda,5,2026-08,1080
+IT,Omoda,5,2026-09,1444
+IT,Opel/Vauxhall,Corsa,2026-04,2468
+IT,Opel/Vauxhall,Corsa,2026-05,1758
+IT,Opel/Vauxhall,Corsa,2026-06,1907
+IT,Opel/Vauxhall,Corsa,2026-07,1513
+IT,Opel/Vauxhall,Corsa,2026-08,987
+IT,Opel/Vauxhall,Corsa,2026-09,1822
+IT,Opel/Vauxhall,Mokka,2026-05,891
+IT,Peugeot,2008,2026-04,2128
+IT,Peugeot,2008,2026-05,1743
+IT,Peugeot,2008,2026-06,1323
+IT,Peugeot,2008,2026-07,1122
+IT,Peugeot,2008,2026-08,678
+IT,Peugeot,2008,2026-09,1156
+IT,Peugeot,208,2026-04,3558
+IT,Peugeot,208,2026-05,3728
+IT,Peugeot,208,2026-06,3130
+IT,Peugeot,208,2026-07,2046
+IT,Peugeot,208,2026-08,1297
+IT,Peugeot,208,2026-09,1878
+IT,Peugeot,3008,2026-04,1265
+IT,Peugeot,3008,2026-05,1032
+IT,Peugeot,3008,2026-06,2566
+IT,Peugeot,3008,2026-07,860
+IT,Peugeot,3008,2026-08,608
+IT,Peugeot,3008,2026-09,3780
+IT,Renault,Captur,2026-04,2592
+IT,Renault,Captur,2026-05,2691
+IT,Renault,Captur,2026-06,2672
+IT,Renault,Captur,2026-07,1739
+IT,Renault,Captur,2026-08,1055
+IT,Renault,Captur,2026-09,2317
+IT,Renault,Clio,2026-04,2762
+IT,Renault,Clio,2026-05,2516
+IT,Renault,Clio,2026-06,2636
+IT,Renault,Clio,2026-07,3203
+IT,Renault,Clio,2026-08,1546
+IT,Renault,Clio,2026-09,2701
+IT,Renault,Symbioz,2026-06,818
+IT,Skoda,Fabia,2026-05,1012
+IT,Skoda,Fabia,2026-08,577
+IT,Skoda,Fabia,2026-09,781
+IT,Skoda,Kamiq,2026-08,462
+IT,Skoda,Kamiq,2026-09,845
+IT,Suzuki,Swift,2026-04,1084
+IT,Suzuki,Swift,2026-05,1298
+IT,Suzuki,Swift,2026-06,1556
+IT,Suzuki,Swift,2026-07,1416
+IT,Suzuki,Swift,2026-08,521
+IT,Suzuki,Swift,2026-09,1420
+IT,Suzuki,Vitara/Grand Vitara,2026-05,906
+IT,Suzuki,Vitara/Grand Vitara,2026-06,885
+IT,Suzuki,Vitara/Grand Vitara,2026-07,818
+IT,Suzuki,Vitara/Grand Vitara,2026-09,1046
+IT,Tesla,Model 3,2026-06,1543
+IT,Tesla,Model 3,2026-09,1142
+IT,Tesla,Model Y,2026-06,863
+IT,Tesla,Model Y,2026-09,990
+IT,Toyota,Aygo X,2026-04,3372
+IT,Toyota,Aygo X,2026-05,2814
+IT,Toyota,Aygo X,2026-06,2385
+IT,Toyota,Aygo X,2026-07,2245
+IT,Toyota,Aygo X,2026-08,1182
+IT,Toyota,Aygo X,2026-09,2042
+IT,Toyota,C-HR,2026-04,1544
+IT,Toyota,C-HR,2026-05,1214
+IT,Toyota,C-HR,2026-06,1170
+IT,Toyota,C-HR,2026-07,991
+IT,Toyota,C-HR,2026-08,827
+IT,Toyota,C-HR,2026-09,1367
+IT,Toyota,Yaris,2026-04,2633
+IT,Toyota,Yaris,2026-05,2556
+IT,Toyota,Yaris,2026-06,2945
+IT,Toyota,Yaris,2026-07,2580
+IT,Toyota,Yaris,2026-08,940
+IT,Toyota,Yaris,2026-09,2939
+IT,Toyota,Yaris Cross,2026-04,2921
+IT,Toyota,Yaris Cross,2026-05,3319
+IT,Toyota,Yaris Cross,2026-06,2983
+IT,Toyota,Yaris Cross,2026-07,2829
+IT,Toyota,Yaris Cross,2026-08,1210
+IT,Toyota,Yaris Cross,2026-09,3678
+IT,Volkswagen,Golf,2026-04,1306
+IT,Volkswagen,Golf,2026-05,1419
+IT,Volkswagen,Golf,2026-06,1086
+IT,Volkswagen,Golf,2026-07,986
+IT,Volkswagen,Golf,2026-08,653
+IT,Volkswagen,Golf,2026-09,1066
+IT,Volkswagen,Polo,2026-07,890
+IT,Volkswagen,Polo,2026-08,683
+IT,Volkswagen,Polo,2026-09,1413
+IT,Volkswagen,T-Cross,2026-04,2556
+IT,Volkswagen,T-Cross,2026-05,2287
+IT,Volkswagen,T-Cross,2026-06,1940
+IT,Volkswagen,T-Cross,2026-07,1526
+IT,Volkswagen,T-Cross,2026-08,1003
+IT,Volkswagen,T-Cross,2026-09,1716
+IT,Volkswagen,T-Roc,2026-04,3074
+IT,Volkswagen,T-Roc,2026-05,2644
+IT,Volkswagen,T-Roc,2026-06,2162
+IT,Volkswagen,T-Roc,2026-07,2071
+IT,Volkswagen,T-Roc,2026-08,1195
+IT,Volkswagen,T-Roc,2026-09,1913
+IT,Volkswagen,Tiguan,2026-04,1862
+IT,Volkswagen,Tiguan,2026-05,2050
+IT,Volkswagen,Tiguan,2026-06,2080
+IT,Volkswagen,Tiguan,2026-07,1669
+IT,Volkswagen,Tiguan,2026-08,850
+IT,Volkswagen,Tiguan,2026-09,1598
+IT,Volvo,XC40,2026-04,892

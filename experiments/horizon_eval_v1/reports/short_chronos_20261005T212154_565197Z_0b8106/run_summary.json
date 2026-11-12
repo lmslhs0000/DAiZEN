@@ -1,0 +1,29 @@
+{
+  "model": "short_chronos",
+  "rule": "(fu) short-history (3-11 consecutive months ending at origin), chronos2_ft checkpoint, per Country sorted (Brand, Model) chunks of 100 cross-learning, quantile 0.5, floor 0",
+  "input_sha256": "5347bcff6c995566bc9d850a05c1ed5a1bf7ffc155e9d7aef12cf5e651da3208",
+  "origins": [
+    "2022-07",
+    "2023-01",
+    "2023-07",
+    "2024-01",
+    "2024-07",
+    "2025-07"
+  ],
+  "horizon": 24,
+  "device": "cuda",
+  "finetuned_checkpoint_source": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\chronos2_ft_20261002T233302_503631Z_7d678c",
+  "finetuned_checkpoint_sha256": {
+    "2022-07": "0f2d2ad7f52bed63d7aee2d1e528f886a785170b7bdc1d7f2d68788fb1c2f70a",
+    "2023-01": "63dfdc0d0c94d39564d1264cb6d2106e55b93bf4576a8ee12e77f4a7fc7b5bee",
+    "2023-07": "d8ab94147daec7f14465321cebd7d9e955b6d5fe48bcf56b94393b18b3bf222a",
+    "2024-01": "a4fa32ca93ba0da7380d366ccda72ac18c147db72b1971c9a61d0ea755350bcd",
+    "2024-07": "1f8fdfb9ec9c6216ee0a05b1a280d12e59bf0cd60becd25c45eeb364c69c9d0b",
+    "2025-07": "f1674db2efa1463cb6284b5cc631359e443ccd37fc701276160159ee8e741393"
+  },
+  "model_id": "amazon/chronos-2",
+  "revision": "29ec3766d36d6f73f0696f85560a422f50e8498c",
+  "model_sha256": "ddcda3c7508bf2528087723e98a20707cc04b7f370ae275a9fd88078ddba4f42",
+  "trained_models": 0,
+  "reload_check": "PASS"
+}

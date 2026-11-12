@@ -1,0 +1,11 @@
+{
+  "model": "client_package_july_ic",
+  "rule": "July-origin delivery (no post-origin public actuals) + 80% intervals + reliability grade from pure-July package (packaging only)",
+  "delivery": "D:\\daizen\\experiments\\horizon_eval_v1\\production\\delivery_final_ic_hq3_20261013T035840_982492Z_436369",
+  "delivery_sha256": "d45fdbed7e52cdf609d8ca4863a88f6d1cf1d21a93d68ffe7441d11de39e040a",
+  "intervals": "D:\\daizen\\experiments\\horizon_eval_v1\\production\\intervals_20261013T035848_625730Z_5100e2",
+  "intervals_sha256": "e401febf17c7c73c72157cefa7b77f3de34549d9a8bbf171e54999f58932e831",
+  "grade_from": "client_package_20261006T124750_849388Z_2cf467",
+  "interval_residual_run": "experiments/horizon_eval_v1/reports/fq_champ_20261005T205205_396558Z_059117",
+  "uses_public_actuals_after_origin": false
+}

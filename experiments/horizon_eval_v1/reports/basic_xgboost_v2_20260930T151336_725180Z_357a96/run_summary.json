@@ -1,0 +1,87 @@
+{
+  "model": "basic_xgboost_v2",
+  "input_sha256": "5347bcff6c995566bc9d850a05c1ed5a1bf7ffc155e9d7aef12cf5e651da3208",
+  "origins": [
+    "2022-07",
+    "2023-01",
+    "2023-07",
+    "2024-01",
+    "2024-07"
+  ],
+  "rule": "시장별 주 점수 최저 후보(동률은 앞 번호), 후보 8개는 AGENTS.md 5.2절 순서",
+  "choice": {
+    "Canada": {
+      "candidate": "xgb_c4",
+      "parameters": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 200
+      },
+      "market_main": 23.593056897182453
+    },
+    "China": {
+      "candidate": "xgb_c5",
+      "parameters": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "market_main": 42.93628049726514
+    },
+    "Europe": {
+      "candidate": "xgb_c6",
+      "parameters": {
+        "max_depth": 5,
+        "learning_rate": 0.1,
+        "n_estimators": 200
+      },
+      "market_main": 22.06267402268617
+    },
+    "Germany": {
+      "candidate": "xgb_c5",
+      "parameters": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "market_main": 32.42034355704707
+    },
+    "Japan": {
+      "candidate": "xgb_c5",
+      "parameters": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "market_main": 22.716847846197822
+    },
+    "South Korea": {
+      "candidate": "xgb_c3",
+      "parameters": {
+        "max_depth": 3,
+        "learning_rate": 0.1,
+        "n_estimators": 500
+      },
+      "market_main": 31.552596959530074
+    },
+    "United States": {
+      "candidate": "xgb_c2",
+      "parameters": {
+        "max_depth": 3,
+        "learning_rate": 0.1,
+        "n_estimators": 200
+      },
+      "market_main": 18.825753614093887
+    }
+  },
+  "candidate_runs": {
+    "xgb_c0": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c0_20260930T144914_389564Z_cf7072",
+    "xgb_c1": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c1_20260930T145204_029253Z_c96767",
+    "xgb_c2": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c2_20260930T145501_611321Z_3300a8",
+    "xgb_c3": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c3_20260930T145739_259128Z_e98588",
+    "xgb_c4": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c4_20260930T150036_419748Z_20d0b4",
+    "xgb_c5": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c5_20260930T150321_884324Z_7c8efb",
+    "xgb_c6": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c6_20260930T150626_501247Z_ed0e91",
+    "xgb_c7": "D:\\daizen\\experiments\\horizon_eval_v1\\reports\\xgb_c7_20260930T150916_784370Z_a454e6"
+  }
+}

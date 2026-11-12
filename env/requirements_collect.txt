@@ -1,0 +1,10 @@
+# 수집기(experiments/collectors_v1) 환경 — 2026-10-15 처음 만든 PC 의 버전
+pandas==2.2.2
+numpy==2.0.0
+requests==2.32.3
+urllib3==2.7.0
+beautifulsoup4==4.12.3
+lxml==6.1.2
+openpyxl==3.1.5
+xlrd==2.0.2
+pdfplumber==0.11.10

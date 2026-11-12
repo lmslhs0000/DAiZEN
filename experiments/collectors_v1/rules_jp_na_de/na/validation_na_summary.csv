@@ -1,0 +1,13 @@
+﻿Country,scope,n,equal,diff,missing,equal_pct_count,equal_pct_sales
+Canada,all rows,840,488,42,310,58.1,71.12
+Canada,posted rows (excl. MISSING),530,488,42,0,92.08,92.8
+United States,all rows,855,693,74,88,81.05,95.05
+United States,posted rows (excl. MISSING),767,693,74,0,90.35,98.25
+ALL,all rows,1695,1181,116,398,69.68,92.39
+ALL,posted rows (excl. MISSING),1297,1181,116,0,91.06,97.76
+Canada,month 2026-05,280,205,19,56,73.21,86.86
+Canada,month 2026-06,280,202,22,56,72.14,86.65
+Canada,month 2026-07,280,81,1,198,28.93,39.22
+United States,month 2026-05,285,266,16,3,93.33,98.25
+United States,month 2026-06,285,264,18,3,92.63,98.15
+United States,month 2026-07,285,163,40,82,57.19,88.5

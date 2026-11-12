@@ -1,0 +1,284 @@
+﻿Country,Brand,Model,source_id,source_key,rule,confidence,note,priority,sales_last12
+South Korea,Kia,Sorento,KR_DANAWA_DOMESTIC,307:쏘렌토,sum_lines_absent0,medium,,1,103399.0
+South Korea,Kia,Sorento,KR_HMG_PRESS,Kia:쏘렌토,named_in_release,medium,release names only the top models of each segment; check only,9,103399.0
+South Korea,Hyundai,Grandeur,KR_HMC_IR,Grandeur (HG)|Grandeur (IG)|Grandeur (HEV)|Grandeur (IG HEV)|Grandeur (GN7)|Grandeur (GN7 HEV),sum_rows,high,,1,80630.0
+South Korea,Hyundai,Grandeur,KR_DANAWA_DOMESTIC,303:그랜저|303:그랜저 hybrid|303:그랜저HG|303:그랜저HG HEV|303:더 뉴 그랜저,sum_lines_absent0,medium,,2,80630.0
+South Korea,Hyundai,Grandeur,KR_HMG_PRESS,Hyundai:그랜저,named_in_release,medium,release names only the top models of each segment; check only,9,80630.0
+South Korea,Tesla,Model Y,KR_DANAWA_IMPORT,611:Model Y,sum_lines_absent0,medium,,1,80478.0
+South Korea,Kia,Sportage,KR_DANAWA_DOMESTIC,307:스포티지,sum_lines_absent0,medium,,1,67644.0
+South Korea,Kia,Sportage,KR_HMG_PRESS,Kia:스포티지,named_in_release,medium,release names only the top models of each segment; check only,9,67644.0
+South Korea,Kia,Carnival,KR_DANAWA_DOMESTIC,307:카니발,sum_lines_absent0,medium,,1,65657.0
+South Korea,Kia,Carnival,KR_HMG_PRESS,Kia:카니발,named_in_release,medium,release names only the top models of each segment; check only,9,65657.0
+South Korea,Hyundai,Elantra,KR_HMC_IR,Avante (AD)|Avante (CN7)|Avante (CN7 HEV)|Avante (CN8)|Avante (CN8 HEV),sum_rows,high,Avante (CN7 N) excluded (separate series Elantra N),1,63445.0
+South Korea,Hyundai,Elantra,KR_DANAWA_DOMESTIC,303:아반떼|303:디 올 뉴 아반떼,sum_lines_absent0,medium,,2,63445.0
+South Korea,Hyundai,Elantra,KR_HMG_PRESS,Hyundai:아반떼,named_in_release,medium,press figure includes Avante N (our Elantra N is separate),9,63445.0
+South Korea,Hyundai,Sonata,KR_DANAWA_DOMESTIC,303:LF쏘나타|303:LF쏘나타 HEV|303:LF쏘나타 PHEV|303:쏘나타|303:쏘나타 뉴 라이즈|303:쏘나타 뉴 라이즈 hybrid|303:쏘나타 뉴 라이즈 plug-in|303:쏘나타 디 엣지|303:쏘나타(YF),sum_lines_absent0,medium,includes the taxi (DN8 LPG); IR rows exclude it from 2024 -> Danawa is primary,1,58199.0
+South Korea,Hyundai,Sonata,KR_HMC_IR,Sonata (YF)|Sonata (LF)|Sonata (HEV)|Sonata (PHEV)|Sonata (DN8)|Sonata (DN8 HEV),sum_rows,high,From 2024-01 the IR file no longer includes Sonata taxi (DN8 LPG taxi) in the Sonata rows; ours includes taxi (= manufacturer press-release/Danawa definition); check only (definition differs),9,58199.0
+South Korea,Hyundai,Sonata,KR_HMG_PRESS,Hyundai:쏘나타,named_in_release,medium,release names only the top models of each segment; check only,9,58199.0
+South Korea,Hyundai,Porter II,KR_DANAWA_DOMESTIC,303:포터2|303:포터2 일렉트릭,sum_lines_absent0,medium,,1,54993.0
+South Korea,Hyundai,Porter II,KR_HMG_PRESS,Hyundai:포터,named_in_release,medium,release names only the top models of each segment; check only,9,54993.0
+South Korea,Kia,Seltos,KR_DANAWA_DOMESTIC,307:셀토스,sum_lines_absent0,medium,,1,53053.0
+South Korea,Kia,Seltos,KR_HMG_PRESS,Kia:셀토스,named_in_release,medium,release names only the top models of each segment; check only,9,53053.0
+South Korea,Kia,Ray,KR_DANAWA_DOMESTIC,307:레이|307:레이 EV,sum_lines_absent0,medium,,1,49174.0
+South Korea,Kia,Ray,KR_HMG_PRESS,Kia:레이,named_in_release,medium,release names only the top models of each segment; check only,9,49174.0
+South Korea,Hyundai,Palisade,KR_HMC_IR,Palisade (LX2)|Palisade (LX3)|Palisade (LX3 HEV),sum_rows,high,,1,46085.0
+South Korea,Hyundai,Palisade,KR_DANAWA_DOMESTIC,303:디 올 뉴 팰리세이드|303:팰리세이드,sum_lines_absent0,medium,,2,46085.0
+South Korea,Hyundai,Palisade,KR_HMG_PRESS,Hyundai:팰리세이드,named_in_release,medium,release names only the top models of each segment; check only,9,46085.0
+South Korea,Hyundai,Santa Fe,KR_HMC_IR,Santa-Fe (DM)|Santa-Fe (TM)|Santa-Fe (TM HEV)|Santa-Fe (MX5)|Santa-Fe (MX5 HEV)|SantaFe PHEV (MX5 PHEV),sum_rows,high,Santa-Fe (Long)/(NC) = Maxcruz (separate nameplate) excluded,1,45718.0
+South Korea,Hyundai,Santa Fe,KR_DANAWA_DOMESTIC,303:싼타페,sum_lines_absent0,medium,'맥스크루즈' excluded,2,45718.0
+South Korea,Hyundai,Santa Fe,KR_HMG_PRESS,Hyundai:싼타페,named_in_release,medium,release names only the top models of each segment; check only,9,45718.0
+South Korea,Hyundai,Tucson,KR_HMC_IR,Tucson (TL)|Tucson (NX4)|Tucson (NX4 HEV),sum_rows,high,Tucson (LMFC) = Tucson fuel-cell excluded,1,45077.0
+South Korea,Hyundai,Tucson,KR_DANAWA_DOMESTIC,303:투싼|303:투싼(2017),sum_lines_absent0,medium,,2,45077.0
+South Korea,Hyundai,Tucson,KR_HMG_PRESS,Hyundai:투싼,named_in_release,medium,release names only the top models of each segment; check only,9,45077.0
+South Korea,Hyundai,Kona,KR_HMC_IR,Kona|Kona (HEV)|Kona (EV)|Kona (OS)|Kona (OS HEV)|Kona (OS EV)|Kona (SX2)|Kona (SX2 HEV)|Kona (SX2 EV),sum_rows,high,Kona (OS N) excluded from 2021-07 (no separate Kona N series in our data),1,35930.0
+South Korea,Hyundai,Kona,KR_DANAWA_DOMESTIC,303:코나|303:코나 electric|303:코나 일렉트릭,sum_lines_absent0,medium,'코나 N' excluded (no Kona N series),2,35930.0
+South Korea,Hyundai,Kona,KR_HMG_PRESS,Hyundai:코나,named_in_release,medium,release names only the top models of each segment; check only,9,35930.0
+South Korea,Genesis,G80,KR_HMC_IR,G80|G80 (RG3)|G80 (RG3 EV),sum_rows,high,,1,35165.0
+South Korea,Genesis,G80,KR_DANAWA_DOMESTIC,304:Electrified G80|304:G80|303:제네시스(DH),sum_lines_absent0,medium,,2,35165.0
+South Korea,Genesis,G80,KR_HMG_PRESS,Hyundai:제네시스는 G80,named_in_release,medium,release names only the top models of each segment; check only,9,35165.0
+South Korea,Kia,K5,KR_DANAWA_DOMESTIC,307:K5|307:K5 플러그인 하이브리드|307:K5 하이브리드,sum_lines_absent0,medium,,1,34408.0
+South Korea,Kia,K5,KR_HMG_PRESS,Kia:K5,named_in_release,medium,release names only the top models of each segment; check only,9,34408.0
+South Korea,Kia,Bongo 3,KR_HMG_PRESS,Kia:봉고Ⅲ,named_in_release,high,Kia release 봉고Ⅲ = definition used in raw since 2026-10-09,1,33890.0
+South Korea,Kia,Bongo 3,KR_DANAWA_DOMESTIC,307:봉고 3|307:봉고 3 EV,sum_lines_absent0,low,Danawa line dropped the special-body (특장차) trim from 2026-05 and differed from the Kia release before; raw follows the Kia release 봉고Ⅲ since the 2026-10-09 fix -> Danawa is fallback only,2,33890.0
+South Korea,Hyundai,Staria,KR_DANAWA_DOMESTIC,303:더 뉴 스타리아|303:스타리아|303:스타리아 일렉트릭,sum_lines_absent0,medium,'그랜드 스타렉스'/'스타렉스' excluded,1,31179.0
+South Korea,Hyundai,Staria,KR_HMG_PRESS,Hyundai:스타리아,named_in_release,medium,release names only the top models of each segment; check only,9,31179.0
+South Korea,Genesis,GV70,KR_HMC_IR,GV70 (JK)|GV70 (JK EV),sum_rows,high,,1,30916.0
+South Korea,Genesis,GV70,KR_DANAWA_DOMESTIC,304:Electrified GV70|304:GV70,sum_lines_absent0,medium,,2,30916.0
+South Korea,Genesis,GV70,KR_HMG_PRESS,Hyundai:GV70,named_in_release,medium,release names only the top models of each segment; check only,9,30916.0
+South Korea,Kia,EV3,KR_DANAWA_DOMESTIC,307:EV3,sum_lines_absent0,medium,,1,28386.0
+South Korea,Mercedes-Benz,E-Class,KR_DANAWA_IMPORT,349:E-Class|349:The New E-Class,sum_lines_absent0,medium,,1,27148.0
+South Korea,Genesis,GV80,KR_HMC_IR,GV80 (JX)|GV80 Coupe (JX Coupe),sum_rows,high,,1,26752.0
+South Korea,Genesis,GV80,KR_DANAWA_DOMESTIC,304:GV80,sum_lines_absent0,medium,,2,26752.0
+South Korea,Genesis,GV80,KR_HMG_PRESS,Hyundai:GV80,named_in_release,medium,release names only the top models of each segment; check only,9,26752.0
+South Korea,Kia,Picanto,KR_DANAWA_DOMESTIC,307:모닝,sum_lines_absent0,medium,,1,24275.0
+South Korea,Kia,Picanto,KR_HMG_PRESS,Kia:모닝,named_in_release,medium,release names only the top models of each segment; check only,9,24275.0
+South Korea,Renault Korea,Grand Koleos,KR_DANAWA_DOMESTIC,321:그랑 콜레오스,sum_lines_absent0,medium,,1,23985.0
+South Korea,BMW,5 Series,KR_DANAWA_IMPORT,362:5 Series,sum_lines_absent0,medium,,1,23615.0
+South Korea,Kia,K8,KR_DANAWA_DOMESTIC,307:K8,sum_lines_absent0,medium,'K7' lines excluded,1,23214.0
+South Korea,Kia,K8,KR_HMG_PRESS,Kia:K8,named_in_release,medium,release names only the top models of each segment; check only,9,23214.0
+South Korea,Kia,EV5,KR_DANAWA_DOMESTIC,307:EV5,sum_lines_absent0,medium,,1,21592.0
+South Korea,Kia,PV5,KR_DANAWA_DOMESTIC,307:PV5,sum_lines_absent0,medium,,1,21308.0
+South Korea,Kia,PV5,KR_HMG_PRESS,Kia:PV5,named_in_release,medium,release names only the top models of each segment; check only,9,21308.0
+South Korea,Hyundai,Ioniq 5,KR_HMC_IR,IONIQ 5 (NE),sum_rows,high,IONIQ 5 N excluded (separate series Ioniq 5 N),1,19419.0
+South Korea,Hyundai,Ioniq 5,KR_DANAWA_DOMESTIC,303:아이오닉 5,sum_lines_absent0,medium,,2,19419.0
+South Korea,Hyundai,Ioniq 5,KR_HMG_PRESS,Hyundai:아이오닉 5,named_in_release,medium,release names only the top models of each segment; check only,9,19419.0
+South Korea,KG Mobility,Musso,KR_KGM_IR,Musso|Musso EV,sum_rows,high,2025 sheet rows 'Musso sports'/'Musso Khan' (ex Rexton Sports pickups) are NOT in our series (KR-06); from 2026 the ICE pickup row is 'Musso' and is included,1,16334.0
+South Korea,KG Mobility,Musso,KR_DANAWA_DOMESTIC,326:무쏘|326:무쏘 EV,sum_lines_absent0,medium,'무쏘 스포츠'/'무쏘 칸' (2025) are not in our series; listed names keep 2026 definition,2,16334.0
+South Korea,Kia,Niro,KR_DANAWA_DOMESTIC,307:니로|307:니로 EV|307:니로 플러그인 하이브리드,sum_lines_absent0,medium,니로 플러스 (taxi/PBV EV) excluded; '니로' line already contains the EV trim (KR-03: do not add the EV trim again),1,15699.0
+South Korea,Kia,Niro,KR_HMG_PRESS,Kia:니로,named_in_release,medium,press figure includes Niro Plus (not in our series),9,15699.0
+South Korea,Tesla,Model 3,KR_DANAWA_IMPORT,611:Model 3,sum_lines_absent0,medium,,1,14788.0
+South Korea,Hyundai,Venue,KR_HMC_IR,Venue|Venue (QX),sum_rows,high,,1,12447.0
+South Korea,Hyundai,Venue,KR_DANAWA_DOMESTIC,303:베뉴,sum_lines_absent0,medium,,2,12447.0
+South Korea,Hyundai,Ioniq 9,KR_HMC_IR,IONIQ 9 (ME EV),sum_rows,high,,1,11936.0
+South Korea,Hyundai,Ioniq 9,KR_DANAWA_DOMESTIC,303:아이오닉 9,sum_lines_absent0,medium,,2,11936.0
+South Korea,Kia,EV4,KR_DANAWA_DOMESTIC,307:EV4,sum_lines_absent0,medium,,1,11923.0
+South Korea,Renault Korea,Filante,KR_DANAWA_DOMESTIC,321:필랑트,sum_lines_absent0,medium,,1,10161.0
+South Korea,Hyundai,Casper,KR_HMC_IR,Casper (AX),sum_rows,high,Casper (AX EV) excluded (our series Inster),1,10152.0
+South Korea,Hyundai,Casper,KR_DANAWA_DOMESTIC,303:캐스퍼,sum_lines_absent0,medium,'캐스퍼 일렉트릭' = our Inster,2,10152.0
+South Korea,Kia,EV6,KR_DANAWA_DOMESTIC,307:EV6,sum_lines_absent0,medium,,1,9991.0
+South Korea,Mercedes-Benz,GLC,KR_DANAWA_IMPORT,349:GLC-Class,sum_lines_absent0,medium,,1,9580.0
+South Korea,Chevrolet,Trax,KR_DANAWA_DOMESTIC,312:트랙스|312:트랙스 크로스오버,sum_lines_absent0,medium,,1,9523.0
+South Korea,Hyundai,Inster,KR_HMC_IR,Casper (AX EV),sum_rows,high,,1,8271.0
+South Korea,Hyundai,Inster,KR_DANAWA_DOMESTIC,303:캐스퍼 일렉트릭,sum_lines_absent0,medium,,2,8271.0
+South Korea,BYD,Sealion 7,KR_DANAWA_IMPORT,380:SEALION 7,sum_lines_absent0,medium,,1,8199.0
+South Korea,KG Mobility,Actyon,KR_KGM_IR,Actyon|Actyon HEV,sum_rows,high,,1,7978.0
+South Korea,KG Mobility,Actyon,KR_DANAWA_DOMESTIC,326:액티언,sum_lines_absent0,medium,,2,7978.0
+South Korea,Hyundai,Nexo,KR_HMC_IR,NEXO(FE)|NEXO (FE)|NEXO  (NH2),sum_rows,high,,1,7727.0
+South Korea,Hyundai,Nexo,KR_DANAWA_DOMESTIC,303:넥쏘|303:디 올 뉴 넥쏘,sum_lines_absent0,medium,,2,7727.0
+South Korea,Mercedes-Benz,GLE,KR_DANAWA_IMPORT,349:GLE-Class,sum_lines_absent0,medium,,1,7723.0
+South Korea,BMW,X3,KR_DANAWA_IMPORT,362:X3,sum_lines_absent0,medium,lines not counted: X3 M,1,7576.0
+South Korea,Hyundai,Ioniq 6,KR_HMC_IR,IONIQ 6 (CE)|IONIQ 6 N (CE N),sum_rows,high,,1,7077.0
+South Korea,Hyundai,Ioniq 6,KR_DANAWA_DOMESTIC,303:더 뉴 아이오닉 6|303:아이오닉 6|303:아이오닉 6 N,sum_lines_absent0,medium,,2,7077.0
+South Korea,BMW,X5,KR_DANAWA_IMPORT,362:X5,sum_lines_absent0,medium,,1,6749.0
+South Korea,BMW,3 Series,KR_DANAWA_IMPORT,362:3 Series,sum_lines_absent0,medium,,1,6647.0
+South Korea,KG Mobility,Torres,KR_KGM_IR,Torres|Torres HEV,sum_rows,high,,1,6331.0
+South Korea,KG Mobility,Torres,KR_DANAWA_DOMESTIC,326:뉴 토레스|326:토레스,sum_lines_absent0,medium,,2,6331.0
+South Korea,Lexus,ES,KR_DANAWA_IMPORT,486:ES,sum_lines_absent0,medium,,1,6173.0
+South Korea,Genesis,G90,KR_HMC_IR,Equus (VI)|EQ900|G90|G90 (HI)|G90 (RS4),sum_rows,high,,1,5923.0
+South Korea,Genesis,G90,KR_DANAWA_DOMESTIC,304:EQ900|304:G90|303:에쿠스,sum_lines_absent0,medium,,2,5923.0
+South Korea,Volvo,XC60,KR_DANAWA_IMPORT,459:XC60,sum_lines_absent0,medium,,1,5909.0
+South Korea,Renault Korea,Arkana,KR_DANAWA_DOMESTIC,321:XM3|321:아르카나,sum_lines_absent0,medium,,1,5888.0
+South Korea,BYD,Dolphin,KR_DANAWA_IMPORT,380:Dolphin,sum_lines_absent0,medium,,1,5775.0
+South Korea,KG Mobility,Tivoli,KR_KGM_IR,Tivoli,sum_rows,high,'Korando'/'Korando EV' rows are not our series,1,5659.0
+South Korea,KG Mobility,Tivoli,KR_DANAWA_DOMESTIC,326:티볼리,sum_lines_absent0,medium,'티볼리 에어' excluded (KR-07),2,5659.0
+South Korea,Kia,Tasman,KR_DANAWA_DOMESTIC,307:타스만,sum_lines_absent0,medium,,1,5637.0
+South Korea,BMW,7 Series,KR_DANAWA_IMPORT,362:7 Series,sum_lines_absent0,medium,,1,5245.0
+South Korea,Mercedes-Benz,S-Class,KR_DANAWA_IMPORT,349:S-Class,sum_lines_absent0,medium,,1,4629.0
+South Korea,Lexus,NX,KR_DANAWA_IMPORT,486:NX,sum_lines_absent0,medium,,1,4344.0
+South Korea,BMW,X7,KR_DANAWA_IMPORT,362:X7,sum_lines_absent0,medium,,1,4337.0
+South Korea,Mini,Cooper,KR_DANAWA_IMPORT,367:Cooper|367:Hatch,sum_lines_absent0,medium,,1,4155.0
+South Korea,Polestar,4,KR_DANAWA_IMPORT,458:Polestar 4,sum_lines_absent0,medium,,1,4001.0
+South Korea,BYD,Atto 3,KR_DANAWA_IMPORT,380:ATTO 3|380:New ATTO 3,sum_lines_absent0,medium,,1,3656.0
+South Korea,BMW,X6,KR_DANAWA_IMPORT,362:X6,sum_lines_absent0,medium,,1,3219.0
+South Korea,Mercedes-Benz,CLE,KR_DANAWA_IMPORT,349:CLE,sum_lines_absent0,medium,,1,3092.0
+South Korea,Audi,Q4 e-tron,KR_DANAWA_IMPORT,371:Q4 e-tron,sum_lines_absent0,medium,,1,3019.0
+South Korea,BMW,i5,KR_DANAWA_IMPORT,362:i5,sum_lines_absent0,medium,,1,2921.0
+South Korea,Mercedes-Benz,G-Class,KR_DANAWA_IMPORT,349:Electric G-Class|349:G-Class,sum_lines_absent0,medium,,1,2822.0
+South Korea,BMW,X4,KR_DANAWA_IMPORT,362:X4,sum_lines_absent0,medium,lines not counted: X4 M,1,2817.0
+South Korea,Toyota,RAV4,KR_DANAWA_IMPORT,491:All New RAV4|491:RAV4,sum_lines_absent0,medium,,1,2798.0
+South Korea,Tesla,Model X,KR_DANAWA_IMPORT,611:Model X,sum_lines_absent0,medium,,1,2790.0
+South Korea,Kia,EV9,KR_DANAWA_DOMESTIC,307:EV9,sum_lines_absent0,medium,,1,2647.0
+South Korea,Audi,Q5,KR_DANAWA_IMPORT,371:Q5|371:The new Q5,sum_lines_absent0,medium,,1,2633.0
+South Korea,Porsche,Cayenne,KR_DANAWA_IMPORT,381:Cayenne,sum_lines_absent0,medium,,1,2536.0
+South Korea,Lexus,RX,KR_DANAWA_IMPORT,486:RX,sum_lines_absent0,medium,,1,2484.0
+South Korea,Toyota,Camry,KR_DANAWA_IMPORT,491:Camry,sum_lines_absent0,medium,,1,2430.0
+South Korea,Volvo,XC40,KR_DANAWA_IMPORT,459:EX40|459:XC40|459:XC40 Recharge,sum_lines_absent0,medium,,1,2421.0
+South Korea,BMW,X1,KR_DANAWA_IMPORT,362:X1,sum_lines_absent0,medium,,1,2262.0
+South Korea,Porsche,Taycan,KR_DANAWA_IMPORT,381:Taycan,sum_lines_absent0,medium,,1,2226.0
+South Korea,Volvo,XC90,KR_DANAWA_IMPORT,459:XC90,sum_lines_absent0,medium,,1,2101.0
+South Korea,BMW,4 Series,KR_DANAWA_IMPORT,362:4 Series,sum_lines_absent0,medium,,1,2017.0
+South Korea,Volvo,S90,KR_DANAWA_IMPORT,459:S90,sum_lines_absent0,medium,,1,2013.0
+South Korea,Chevrolet,TrailBlazer,KR_DANAWA_DOMESTIC,312:트레일블레이저,sum_lines_absent0,medium,,1,1931.0
+South Korea,Toyota,Alphard,KR_DANAWA_IMPORT,491:Alphard,sum_lines_absent0,medium,,1,1789.0
+South Korea,Mercedes-Benz,GLS,KR_DANAWA_IMPORT,349:GLS-Class,sum_lines_absent0,medium,,1,1764.0
+South Korea,Genesis,G70,KR_HMC_IR,G70|G70 (IK)|G70 S/B (IK S/B),sum_rows,high,,1,1660.0
+South Korea,Genesis,G70,KR_DANAWA_DOMESTIC,304:G70,sum_lines_absent0,medium,,2,1660.0
+South Korea,Hyundai,Solati,KR_DANAWA_DOMESTIC,303:쏠라티,sum_lines_absent0,medium,,1,1649.0
+South Korea,Hyundai,ST1,KR_DANAWA_DOMESTIC,303:ST1,sum_lines_absent0,medium,,1,1643.0
+South Korea,Volvo,EX30,KR_DANAWA_IMPORT,459:EX30,sum_lines_absent0,medium,,1,1629.0
+South Korea,Audi,A6,KR_DANAWA_IMPORT,371:A6|371:The new A6,sum_lines_absent0,medium,,1,1621.0
+South Korea,Mini,Countryman,KR_DANAWA_IMPORT,367:Countryman|367:Countryman Electric,sum_lines_absent0,medium,,1,1612.0
+South Korea,Volkswagen,Golf,KR_DANAWA_IMPORT,376:Golf,sum_lines_absent0,medium,,1,1547.0
+South Korea,Porsche,Panamera,KR_DANAWA_IMPORT,381:Panamera,sum_lines_absent0,medium,,1,1512.0
+South Korea,Porsche,Macan,KR_DANAWA_IMPORT,381:Macan|381:Macan Electric,sum_lines_absent0,medium,,1,1498.0
+South Korea,Volkswagen,ID.4,KR_DANAWA_IMPORT,376:ID.4,sum_lines_absent0,medium,,1,1477.0
+South Korea,Mercedes-Benz,C-Class,KR_DANAWA_IMPORT,349:C-Class,sum_lines_absent0,medium,,1,1447.0
+South Korea,Land Rover,Range Rover,KR_DANAWA_IMPORT,399:Range Rover,sum_lines_absent0,medium,,1,1445.0
+South Korea,Audi,A5,KR_DANAWA_IMPORT,371:A5|371:A5 40 TDI quattro|371:The new A5,sum_lines_absent0,medium,,1,1443.0
+South Korea,Mini,Electric,KR_DANAWA_IMPORT,367:Electric|367:Mini Electric,sum_lines_absent0,medium,,1,1441.0
+South Korea,Hyundai,Elantra N,KR_HMC_IR,Avante (CN7 N),sum_rows,high,,1,1427.0
+South Korea,Hyundai,Elantra N,KR_DANAWA_DOMESTIC,303:아반떼 N,sum_lines_absent0,medium,,2,1427.0
+South Korea,Kia,K900,KR_DANAWA_DOMESTIC,307:K9,sum_lines_absent0,medium,,1,1398.0
+South Korea,Land Rover,Range Rover Sport,KR_DANAWA_IMPORT,399:Range Rover Sport,sum_lines_absent0,medium,,1,1398.0
+South Korea,BYD,Seal,KR_DANAWA_IMPORT,380:SEAL,sum_lines_absent0,medium,,1,1363.0
+South Korea,Land Rover,Defender,KR_DANAWA_IMPORT,399:Defender,sum_lines_absent0,medium,,1,1285.0
+South Korea,BMW,iX,KR_DANAWA_IMPORT,362:iX,sum_lines_absent0,medium,,1,1256.0
+South Korea,Toyota,Prius,KR_DANAWA_IMPORT,491:Prius|491:Prius Prime,sum_lines_absent0,medium,"lines not counted: Prius C, Prius C Crossover, Prius V",1,1254.0
+South Korea,KG Mobility,Rexton,KR_KGM_IR,Rexton,sum_rows,high,,1,1219.0
+South Korea,KG Mobility,Rexton,KR_DANAWA_DOMESTIC,326:G4 렉스턴|326:렉스턴|326:렉스턴 W|326:렉스턴 뉴 아레나,sum_lines_absent0,medium,,2,1219.0
+South Korea,Mercedes-Benz,EQB,KR_DANAWA_IMPORT,349:EQB,sum_lines_absent0,medium,,1,1197.0
+South Korea,KG Mobility,Torres EVX,KR_KGM_IR,Torres EVX,sum_rows,high,,1,1181.0
+South Korea,KG Mobility,Torres EVX,KR_DANAWA_DOMESTIC,326:토레스 EVX,sum_lines_absent0,medium,,2,1181.0
+South Korea,Toyota,Crown,KR_DANAWA_IMPORT,491:Crown,sum_lines_absent0,medium,,1,1173.0
+South Korea,Porsche,911,KR_DANAWA_IMPORT,381:911|381:The New 911,sum_lines_absent0,medium,,1,1148.0
+South Korea,Audi,A3,KR_DANAWA_IMPORT,371:A3|371:A3 e-tron,sum_lines_absent0,medium,,1,1145.0
+South Korea,Volkswagen,Atlas,KR_DANAWA_IMPORT,376:Atlas,sum_lines_absent0,medium,,1,1134.0
+South Korea,Jeep,Wrangler,KR_DANAWA_IMPORT,587:Wrangler,sum_lines_absent0,medium,,1,1092.0
+South Korea,Lexus,UX,KR_DANAWA_IMPORT,486:UX|486:UX 300e,sum_lines_absent0,medium,,1,1074.0
+South Korea,Tesla,Model S,KR_DANAWA_IMPORT,611:Model S,sum_lines_absent0,medium,,1,1047.0
+South Korea,Genesis,GV60,KR_DANAWA_DOMESTIC,304:GV60,sum_lines_absent0,medium,IR has no MAGMA split -> Danawa primary for GV60 and GV60 MAGMA,1,1004.0
+South Korea,Genesis,GV60,KR_HMC_IR,GV60 (JW)|GV60 (JW EV),sum_rows,high,; check only (definition differs),9,1004.0
+South Korea,Renault Korea,Scenic E-Tech Electric,KR_DANAWA_DOMESTIC,321:세닉 E-테크 일렉트릭,sum_lines_absent0,medium,,1,990.0
+South Korea,Toyota,Sienna,KR_DANAWA_IMPORT,491:Sienna,sum_lines_absent0,medium,,1,931.0
+South Korea,BMW,X2,KR_DANAWA_IMPORT,362:X2,sum_lines_absent0,medium,,1,907.0
+South Korea,Audi,Q6 e-tron,KR_DANAWA_IMPORT,371:Q6 e-tron,sum_lines_absent0,medium,,1,873.0
+South Korea,BMW,2 Series Active Tourer,KR_DANAWA_IMPORT,362:2 Series Active Tourer,sum_lines_absent0,medium,,1,828.0
+South Korea,BMW,iX1,KR_DANAWA_IMPORT,362:iX1,sum_lines_absent0,medium,,1,822.0
+South Korea,BMW,1 Series,KR_DANAWA_IMPORT,362:1 Series,sum_lines_absent0,medium,,1,813.0
+South Korea,Mercedes-Benz,CLA,KR_DANAWA_IMPORT,349:CLA-Class,sum_lines_absent0,medium,,1,798.0
+South Korea,Mercedes-Benz,GLB,KR_DANAWA_IMPORT,349:GLB-Class,sum_lines_absent0,medium,,1,797.0
+South Korea,BMW,i4,KR_DANAWA_IMPORT,362:i4,sum_lines_absent0,medium,,1,789.0
+South Korea,Mercedes-Benz,A-Class,KR_DANAWA_IMPORT,349:A-Class,sum_lines_absent0,medium,,1,786.0
+South Korea,Volvo,EX30 CC,KR_DANAWA_IMPORT,459:EX30 CC,sum_lines_absent0,medium,,1,784.0
+South Korea,BMW,i7,KR_DANAWA_IMPORT,362:i7,sum_lines_absent0,medium,,1,770.0
+South Korea,Mini,Aceman,KR_DANAWA_IMPORT,367:Aceman,sum_lines_absent0,medium,,1,766.0
+South Korea,Ford,Explorer,KR_DANAWA_IMPORT,569:Explorer,sum_lines_absent0,medium,,1,741.0
+South Korea,Lexus,LM,KR_DANAWA_IMPORT,486:LM,sum_lines_absent0,medium,,1,665.0
+South Korea,Audi,Q3,KR_DANAWA_IMPORT,371:New Q3|371:Q3|371:The new Q3,sum_lines_absent0,medium,,1,661.0
+South Korea,Mercedes-Benz,EQA,KR_DANAWA_IMPORT,349:EQA,sum_lines_absent0,medium,,1,628.0
+South Korea,BMW,2 Series Gran Coupe,KR_DANAWA_IMPORT,362:2 Series Gran Coupe,sum_lines_absent0,medium,,1,627.0
+South Korea,Tesla,Cybertruck,KR_DANAWA_IMPORT,611:Cybertruck,sum_lines_absent0,medium,,1,620.0
+South Korea,Volkswagen,Touareg,KR_DANAWA_IMPORT,376:Touareg|376:Touareg 3.0 TDI (출시예정),sum_lines_absent0,medium,,1,619.0
+South Korea,Mini,Convertible,KR_DANAWA_IMPORT,367:Convertible,sum_lines_absent0,medium,,1,597.0
+South Korea,Volvo,V60 Cross Country,KR_DANAWA_IMPORT,459:V60 Cross Country,sum_lines_absent0,medium,,1,592.0
+South Korea,Mercedes-Benz,Maybach S-Class,KR_DANAWA_IMPORT,349:Maybach S-Class,sum_lines_absent0,medium,,1,584.0
+South Korea,Audi,Q8,KR_DANAWA_IMPORT,371:Q8,sum_lines_absent0,medium,,1,581.0
+South Korea,Cadillac,Escalade,KR_DANAWA_IMPORT,546:Escalade,sum_lines_absent0,medium,,1,580.0
+South Korea,BMW,8 Series,KR_DANAWA_IMPORT,362:8 Series,sum_lines_absent0,medium,,1,533.0
+South Korea,Audi,Q7,KR_DANAWA_IMPORT,371:Q7,sum_lines_absent0,medium,,1,525.0
+South Korea,BMW,Z4,KR_DANAWA_IMPORT,362:Z4,sum_lines_absent0,medium,,1,514.0
+South Korea,BMW,iX3,KR_DANAWA_IMPORT,362:iX3,sum_lines_absent0,medium,,1,507.0
+South Korea,BMW,M2,KR_DANAWA_IMPORT,362:M2,sum_lines_absent0,medium,,1,499.0
+South Korea,Honda,CR-V,KR_DANAWA_IMPORT,500:CR-V|500:CR-V Turbo,sum_lines_absent0,medium,,1,494.0
+South Korea,Mercedes-Benz,AMG GT,KR_DANAWA_IMPORT,349:AMG GT|349:The New AMG GT,sum_lines_absent0,medium,,1,474.0
+South Korea,Land Rover,Range Rover Velar,KR_DANAWA_IMPORT,399:Range Rover Velar,sum_lines_absent0,medium,,1,459.0
+South Korea,BMW,iX2,KR_DANAWA_IMPORT,362:iX2,sum_lines_absent0,medium,,1,433.0
+South Korea,BMW,M5,KR_DANAWA_IMPORT,362:M5,sum_lines_absent0,medium,,1,412.0
+South Korea,Mercedes-Benz,Maybach GLS,KR_DANAWA_IMPORT,349:Maybach GLS,sum_lines_absent0,medium,,1,408.0
+South Korea,Mercedes-Benz,GLA,KR_DANAWA_IMPORT,349:GLA-Class,sum_lines_absent0,medium,,1,390.0
+South Korea,Lexus,LX,KR_DANAWA_IMPORT,486:LX,sum_lines_absent0,medium,,1,387.0
+South Korea,Toyota,Highlander,KR_DANAWA_IMPORT,491:Highlander,sum_lines_absent0,medium,,1,382.0
+South Korea,Peugeot,5008,KR_DANAWA_IMPORT,413:5008|413:5008 Smart Hybrid,sum_lines_absent0,medium,,1,366.0
+South Korea,Mercedes-Benz,EQE SUV,KR_DANAWA_IMPORT,349:EQE SUV,sum_lines_absent0,medium,,1,358.0
+South Korea,Lincoln,Nautilus,KR_DANAWA_IMPORT,573:MKX|573:Nautilus,sum_lines_absent0,medium,,1,355.0
+South Korea,Volkswagen,ID.5,KR_DANAWA_IMPORT,376:ID.5,sum_lines_absent0,medium,,1,339.0
+South Korea,Honda,Accord,KR_DANAWA_IMPORT,500:Accord,sum_lines_absent0,medium,,1,320.0
+South Korea,Ford,Mustang,KR_DANAWA_IMPORT,569:Mustang,sum_lines_absent0,medium,,1,317.0
+South Korea,Peugeot,3008,KR_DANAWA_IMPORT,413:3008,sum_lines_absent0,medium,,1,308.0
+South Korea,BMW,XM,KR_DANAWA_IMPORT,362:XM,sum_lines_absent0,medium,,1,300.0
+South Korea,Lincoln,Aviator,KR_DANAWA_IMPORT,569:All New Aviator|573:Aviator,sum_lines_absent0,medium,,1,297.0
+South Korea,Land Rover,Range Rover Evoque,KR_DANAWA_IMPORT,399:Range Rover Evoque,sum_lines_absent0,medium,,1,272.0
+South Korea,Audi,A6 e-tron,KR_DANAWA_IMPORT,371:A6 e-tron,sum_lines_absent0,medium,,1,267.0
+South Korea,Toyota,GR86,KR_DANAWA_IMPORT,491:86|491:GR 86,sum_lines_absent0,medium,,1,255.0
+South Korea,GMC,Sierra,KR_DANAWA_IMPORT,602:Sierra,sum_lines_absent0,medium,,1,217.0
+South Korea,GMC,Acadia,KR_DANAWA_IMPORT,602:Acadia,sum_lines_absent0,medium,,1,216.0
+South Korea,Hyundai,County Electric,KR_DANAWA_DOMESTIC,303:카운티 일렉트릭,sum_lines_absent0,medium,,1,210.0
+South Korea,Jeep,Gladiator,KR_DANAWA_IMPORT,587:Gladiator,sum_lines_absent0,medium,,1,209.0
+South Korea,Ford,Ranger,KR_DANAWA_IMPORT,569:Ranger,sum_lines_absent0,medium,,1,204.0
+South Korea,BMW,M3,KR_DANAWA_IMPORT,362:M3,sum_lines_absent0,medium,,1,202.0
+South Korea,Audi,A7,KR_DANAWA_IMPORT,371:A7,sum_lines_absent0,medium,,1,198.0
+South Korea,Bentley,Flying Spur,KR_DANAWA_IMPORT,390:Flying Spur,sum_lines_absent0,medium,,1,188.0
+South Korea,Bentley,Bentayga,KR_DANAWA_IMPORT,390:Bentayga,sum_lines_absent0,medium,,1,187.0
+South Korea,Lamborghini,Urus,KR_DANAWA_IMPORT,440:Urus,sum_lines_absent0,medium,lines not counted: Urus S,1,187.0
+South Korea,Ford,Bronco,KR_DANAWA_IMPORT,569:Bronco,sum_lines_absent0,medium,,1,181.0
+South Korea,Honda,Odyssey,KR_DANAWA_IMPORT,500:Odyssey,sum_lines_absent0,medium,,1,169.0
+South Korea,Land Rover,Discovery Sport,KR_DANAWA_IMPORT,399:Discovery Sport,sum_lines_absent0,medium,,1,169.0
+South Korea,BMW,M4,KR_DANAWA_IMPORT,362:M4,sum_lines_absent0,medium,,1,168.0
+South Korea,Mercedes-Benz,SL,KR_DANAWA_IMPORT,349:SL-Class,sum_lines_absent0,medium,,1,160.0
+South Korea,GMC,Canyon,KR_DANAWA_IMPORT,602:Canyon,sum_lines_absent0,medium,,1,148.0
+South Korea,Jeep,Grand Cherokee,KR_DANAWA_IMPORT,587:Grand Cherokee,sum_lines_absent0,medium,,1,147.0
+South Korea,Hyundai,Ioniq 5 N,KR_HMC_IR,IONIQ 5 N (NE N),sum_rows,high,,1,140.0
+South Korea,Hyundai,Ioniq 5 N,KR_DANAWA_DOMESTIC,303:아이오닉 5 N,sum_lines_absent0,medium,,2,140.0
+South Korea,Bentley,Continental,KR_DANAWA_IMPORT,390:Continental|390:Continental GT|390:New Continental|390:The new Continental,sum_lines_absent0,medium,,1,139.0
+South Korea,Mercedes-Benz,EQS SUV,KR_DANAWA_IMPORT,349:EQS SUV,sum_lines_absent0,medium,,1,120.0
+South Korea,Ferrari,Roma Spider,KR_DANAWA_IMPORT,436:Roma Spider,sum_lines_absent0,medium,,1,115.0
+South Korea,Ferrari,Purosangue,KR_DANAWA_IMPORT,436:Purosangue,sum_lines_absent0,medium,,1,104.0
+South Korea,Peugeot,408,KR_DANAWA_IMPORT,413:408,sum_lines_absent0,medium,,1,102.0
+South Korea,Land Rover,Discovery,KR_DANAWA_IMPORT,399:Discovery,sum_lines_absent0,medium,lines not counted: Discovery 4,1,98.0
+South Korea,Mercedes-Benz,EQE,KR_DANAWA_IMPORT,349:EQE,sum_lines_absent0,medium,,1,98.0
+South Korea,Lexus,LS,KR_DANAWA_IMPORT,486:LS,sum_lines_absent0,medium,,1,94.0
+South Korea,Genesis,GV60 MAGMA,KR_DANAWA_DOMESTIC,304:GV60 MAGMA,sum_lines_absent0,medium,,1,88.0
+South Korea,Mercedes-Benz,Maybach EQS SUV,KR_DANAWA_IMPORT,349:Maybach EQS SUV,sum_lines_absent0,medium,,1,85.0
+South Korea,Honda,Pilot,KR_DANAWA_IMPORT,500:New Pilot|500:Pilot,sum_lines_absent0,medium,,1,82.0
+South Korea,Chevrolet,Colorado,KR_DANAWA_DOMESTIC,312:콜로라도,sum_lines_absent0,medium,,1,80.0
+South Korea,BMW,2 Series,KR_DANAWA_IMPORT,362:2 Series,sum_lines_absent0,medium,,1,79.0
+South Korea,Audi,A8,KR_DANAWA_IMPORT,371:A8,sum_lines_absent0,medium,,1,78.0
+South Korea,Rolls-Royce,Cullinan Series2,KR_DANAWA_IMPORT,385:Cullinan|385:Cullinan Series2,sum_lines_absent0,medium,,1,75.0
+South Korea,BMW,X6 M,KR_DANAWA_IMPORT,362:X6 M,sum_lines_absent0,medium,,1,67.0
+South Korea,BMW,X5 M,KR_DANAWA_IMPORT,362:X5 M,sum_lines_absent0,medium,,1,66.0
+South Korea,BYD,Sealion 6 DM-i,KR_DANAWA_IMPORT,380:SEALION 6 DM-i,sum_lines_absent0,medium,,1,57.0
+South Korea,Rolls-Royce,Ghost Series II,KR_DANAWA_IMPORT,385:Ghost|385:Ghost Series II,sum_lines_absent0,medium,,1,43.0
+South Korea,Cadillac,Escalade IQ,KR_DANAWA_IMPORT,546:Escalade IQ,sum_lines_absent0,medium,,1,42.0
+South Korea,Lamborghini,Revuelto,KR_DANAWA_IMPORT,440:Revuelto,sum_lines_absent0,medium,,1,42.0
+South Korea,Mercedes-Benz,Maybach SL,KR_DANAWA_IMPORT,349:Maybach SL,sum_lines_absent0,medium,,1,40.0
+South Korea,Peugeot,308,KR_DANAWA_IMPORT,413:308,sum_lines_absent0,medium,,1,39.0
+South Korea,GMC,Hummer EV,KR_DANAWA_IMPORT,602:Hummer EV,sum_lines_absent0,medium,,1,36.0
+South Korea,Mercedes-Benz,EQS,KR_DANAWA_IMPORT,349:EQS,sum_lines_absent0,medium,,1,27.0
+South Korea,Audi,Q8 e-tron,KR_DANAWA_IMPORT,371:Q8 e-tron|371:e-tron,sum_lines_absent0,medium,,1,24.0
+South Korea,Audi,e-tron GT,KR_DANAWA_IMPORT,371:The new e-tron GT|371:e-tron GT,sum_lines_absent0,medium,,1,22.0
+South Korea,Ford,Expedition,KR_DANAWA_IMPORT,569:Expedition,sum_lines_absent0,medium,,1,21.0
+South Korea,Ferrari,12Cilindri,KR_DANAWA_IMPORT,436:12Cilindri,sum_lines_absent0,medium,,1,18.0
+South Korea,Lamborghini,Temerario,KR_DANAWA_IMPORT,440:Temerario,sum_lines_absent0,medium,,1,18.0
+South Korea,Rolls-Royce,Phantom Series II,KR_DANAWA_IMPORT,385:Phantom|385:Phantom Series II,sum_lines_absent0,medium,,1,16.0
+South Korea,Rolls-Royce,Spectre,KR_DANAWA_IMPORT,385:Spectre,sum_lines_absent0,medium,,1,16.0
+South Korea,Audi,A4,KR_DANAWA_IMPORT,371:A4,sum_lines_absent0,medium,,1,14.0
+South Korea,Ferrari,12Cilindri Spider,KR_DANAWA_IMPORT,436:12Cilindri Spider,sum_lines_absent0,medium,,1,14.0
+South Korea,Chevrolet,Tahoe,KR_DANAWA_DOMESTIC,312:타호,sum_lines_absent0,medium,,1,12.0
+South Korea,Ferrari,296 GTS,KR_DANAWA_IMPORT,436:296 GTS,sum_lines_absent0,medium,,1,12.0
+South Korea,Lincoln,Navigator,KR_DANAWA_IMPORT,573:All New Navigator|573:Navigator,sum_lines_absent0,medium,,1,11.0
+South Korea,Chevrolet,Traverse,KR_DANAWA_DOMESTIC,312:트래버스,sum_lines_absent0,medium,,1,10.0
+South Korea,Ferrari,SF90 Stradale,KR_DANAWA_IMPORT,436:SF90 Stradale,sum_lines_absent0,medium,,1,9.0
+South Korea,BMW,M8,KR_DANAWA_IMPORT,362:M8,sum_lines_absent0,medium,,1,7.0
+South Korea,Polestar,2,KR_DANAWA_IMPORT,458:Polestar 2,sum_lines_absent0,medium,,1,7.0
+South Korea,Ferrari,Amalfi,KR_DANAWA_IMPORT,436:Amalfi,sum_lines_absent0,medium,,1,3.0
+South Korea,Chevrolet,Equinox,KR_DANAWA_DOMESTIC,312:이쿼녹스,sum_lines_absent0,medium,,1,2.0

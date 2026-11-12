@@ -1,0 +1,780 @@
+{
+  "tft_a": {
+    "run_id": "tft_a_20261010T122422_537390Z_d53b60",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "China": {
+        "hidden_size": 16,
+        "epochs": 100
+      },
+      "Europe": {
+        "hidden_size": 16,
+        "epochs": 50
+      },
+      "Germany": {
+        "hidden_size": 16,
+        "epochs": 100
+      },
+      "United States": {
+        "hidden_size": 16,
+        "epochs": 20
+      },
+      "Canada": {
+        "hidden_size": 32,
+        "epochs": 100
+      },
+      "South Korea": {
+        "hidden_size": 32,
+        "epochs": 100
+      },
+      "Japan": {
+        "hidden_size": 32,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_a_s43": {
+    "run_id": "tft_a_s43_20261010T122624_668603Z_3cfbce",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_variant",
+    "reload_check": "PASS",
+    "parameters": {
+      "China": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 43
+      },
+      "Europe": {
+        "hidden_size": 16,
+        "epochs": 50,
+        "seed": 43
+      },
+      "Germany": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 43
+      },
+      "United States": {
+        "hidden_size": 16,
+        "epochs": 20,
+        "seed": 43
+      },
+      "Canada": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 43
+      },
+      "South Korea": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 43
+      },
+      "Japan": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 43
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_a_s44": {
+    "run_id": "tft_a_s44_20261010T140515_699028Z_04718c",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_variant",
+    "reload_check": "PASS",
+    "parameters": {
+      "China": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 44
+      },
+      "Europe": {
+        "hidden_size": 16,
+        "epochs": 50,
+        "seed": 44
+      },
+      "Germany": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 44
+      },
+      "United States": {
+        "hidden_size": 16,
+        "epochs": 20,
+        "seed": 44
+      },
+      "Canada": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 44
+      },
+      "South Korea": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 44
+      },
+      "Japan": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 44
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_a_s45": {
+    "run_id": "tft_a_s45_20261010T141136_945463Z_f3734d",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_variant",
+    "reload_check": "PASS",
+    "parameters": {
+      "China": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 45
+      },
+      "Europe": {
+        "hidden_size": 16,
+        "epochs": 50,
+        "seed": 45
+      },
+      "Germany": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 45
+      },
+      "United States": {
+        "hidden_size": 16,
+        "epochs": 20,
+        "seed": 45
+      },
+      "Canada": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 45
+      },
+      "South Korea": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 45
+      },
+      "Japan": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 45
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_a_s46": {
+    "run_id": "tft_a_s46_20261010T165008_203173Z_4594c3",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_variant",
+    "reload_check": "PASS",
+    "parameters": {
+      "China": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 46
+      },
+      "Europe": {
+        "hidden_size": 16,
+        "epochs": 50,
+        "seed": 46
+      },
+      "Germany": {
+        "hidden_size": 16,
+        "epochs": 100,
+        "seed": 46
+      },
+      "United States": {
+        "hidden_size": 16,
+        "epochs": 20,
+        "seed": 46
+      },
+      "Canada": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 46
+      },
+      "South Korea": {
+        "hidden_size": 32,
+        "epochs": 100,
+        "seed": 46
+      },
+      "Japan": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 46
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_global_pt": {
+    "run_id": "tft_global_pt_20261010T192653_605292Z_320bfc",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_global_pt",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 32,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_global_pt_s43": {
+    "run_id": "tft_global_pt_s43_20261010T195045_304811Z_78749f",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_global_pt",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 43
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "tft_global_pt_s44": {
+    "run_id": "tft_global_pt_s44_20261010T213626_757168Z_005116",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "tft_core_global_pt",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 32,
+        "epochs": 50,
+        "seed": 44
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "deepar_global": {
+    "run_id": "deepar_global_20261010T222355_927981Z_ef8ec3",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "deepar_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 32,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_global": {
+    "run_id": "nhits_global_20261010T230347_664886Z_d93fb0",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 64,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_global_s43": {
+    "run_id": "nhits_global_s43_20261010T234439_554055Z_07f68c",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_global_s44": {
+    "run_id": "nhits_global_s44_20261011T001525_559310Z_3eb393",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_vw": {
+    "run_id": "nhits_vw_20261011T005416_342575Z_b299ba",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_vw_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "ALL": {
+        "hidden_size": 64,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_pm": {
+    "run_id": "nhits_pm_20261011T012534_484472Z_cc122e",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_pm_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "Canada": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "China": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "Europe": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "Germany": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "Japan": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "South Korea": {
+        "hidden_size": 64,
+        "epochs": 50
+      },
+      "United States": {
+        "hidden_size": 64,
+        "epochs": 50
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_pm_s43": {
+    "run_id": "nhits_pm_s43_20261011T020458_054714Z_422c9c",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_pm_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "Canada": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "China": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "Europe": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "Germany": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "Japan": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "South Korea": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      },
+      "United States": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 43
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "nhits_pm_s44": {
+    "run_id": "nhits_pm_s44_20261011T021335_810741Z_3175bb",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "nhits_pm_core",
+    "reload_check": "PASS",
+    "parameters": {
+      "Canada": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "China": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "Europe": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "Germany": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "Japan": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "South Korea": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      },
+      "United States": {
+        "hidden_size": 64,
+        "epochs": 50,
+        "seed": 44
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "ets": {
+    "run_id": "ets_20261011T024234_948764Z_83d822",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": null,
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "timesfm": {
+    "run_id": "timesfm_20261011T024747_696332Z_e7cb5a",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "experiments/timesfm_v1/timesfm_core.py",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "chronos2_ft": {
+    "run_id": "chronos2_ft_20261010T122339_131057Z_3116ed",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cuda",
+    "core": "experiments/chronos_v1/chronos_core.py",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "chronos2_ft_lc": {
+    "run_id": "chronos2_ft_lc_20261010T122954_994886Z_f66be5",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cpu",
+    "core": "experiments/chronos_v1/chronos_core.py",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "chronos2_ft_cnlc": {
+    "run_id": "chronos2_ft_cnlc_20261010T125428_177254Z_dfbca8",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": null,
+    "reload_check": null,
+    "parameters": null,
+    "origins": [
+      "2022-07",
+      "2023-01",
+      "2023-07",
+      "2024-01",
+      "2024-07"
+    ],
+    "check_origin": "2025-07"
+  },
+  "short_chronos": {
+    "run_id": "short_chronos_20261010T125531_435115Z_7b3c6e",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": "cuda",
+    "core": null,
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "basic_xgboost_blvw": {
+    "run_id": "basic_xgboost_blvw_20261011T025313_294191Z_ea88a7",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": null,
+    "reload_check": "PASS",
+    "parameters": {
+      "Canada": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 200
+      },
+      "China": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "Europe": {
+        "max_depth": 5,
+        "learning_rate": 0.1,
+        "n_estimators": 200
+      },
+      "Germany": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "Japan": {
+        "max_depth": 5,
+        "learning_rate": 0.03,
+        "n_estimators": 500
+      },
+      "South Korea": {
+        "max_depth": 3,
+        "learning_rate": 0.1,
+        "n_estimators": 500
+      },
+      "United States": {
+        "max_depth": 3,
+        "learning_rate": 0.1,
+        "n_estimators": 200
+      }
+    },
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cal": {
+    "run_id": "rich_cal_20261011T040621_897685Z_c71402",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "calendar_l2",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cal_vw": {
+    "run_id": "rich_cal_vw_20261011T040853_315423Z_38566a",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "calendar_vw",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cal_vw_all": {
+    "run_id": "rich_cal_vw_all_20261011T041124_912964Z_92da08",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "calendar_vw_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_tw_all": {
+    "run_id": "rich_tw_all_20261011T043334_245134Z_2b3ab3",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "tweedie_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_tw_pm_all": {
+    "run_id": "rich_tw_pm_all_20261011T043435_069051Z_91f8a6",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "tweedie_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_all": {
+    "run_id": "rich_cb_all_20261011T043536_422594Z_135c1b",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_pm_all": {
+    "run_id": "rich_cb_pm_all_20261011T045546_990483Z_0e65fd",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_rel": {
+    "run_id": "rich_cb_rel_20261011T043637_335383Z_0fe3f4",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_rel_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_yoy_lcg": {
+    "run_id": "rich_cb_yoy_lcg_20261011T043908_605891Z_c54d94",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_yoy_lcg",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_yoy_lcg_s43": {
+    "run_id": "rich_cb_yoy_lcg_s43_20261011T044009_656821Z_77b680",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_yoy_lcg_s43",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_yoy_lcg_s44": {
+    "run_id": "rich_cb_yoy_lcg_s44_20261011T045014_376056Z_399f8a",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_yoy_lcg_s44",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  },
+  "rich_cb_yoy_pm": {
+    "run_id": "rich_cb_yoy_pm_20261011T045748_340695Z_3a0014",
+    "input_sha256": "99341ce7568e1aa2aaf5690b92798b2d52311645f80f72f8058f9819f4b1eaf8",
+    "device": null,
+    "core": "catboost_yoy_all",
+    "reload_check": "PASS",
+    "parameters": null,
+    "origins": [
+      "2026-07"
+    ],
+    "check_origin": null
+  }
+}

@@ -1,0 +1,604 @@
+{
+  "current": {
+    "model": "ic_champ",
+    "run_dir": "experiments\\horizon_eval_v1\\reports\\ic_champ_20261013T035359_216658Z_c21c26",
+    "decided_at": "2026-10-13T03:55:36.861940+00:00",
+    "main": 25.860787483831473,
+    "reason": "beat hq3_events"
+  },
+  "history": [
+    {
+      "model": "tft_a",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\tft_a_20260930T140652_768712Z_400506",
+      "decided_at": "2026-09-30T16:26:19.233107+00:00",
+      "main": 29.17301760932388,
+      "reason": "initial"
+    },
+    {
+      "model": "ens_tft_combo",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens_tft_combo_20260930T163022_598232Z_cee6ae",
+      "decided_at": "2026-09-30T16:31:06.865548+00:00",
+      "main": 27.78355478212016,
+      "reason": "beat tft_a"
+    },
+    {
+      "model": "ens3",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens3_20260930T163437_351897Z_2dfd48",
+      "decided_at": "2026-09-30T16:35:15.339627+00:00",
+      "main": 27.549459161054784,
+      "reason": "beat ens_tft_combo"
+    },
+    {
+      "model": "ens4",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens4_20260930T170711_643416Z_fc8c80",
+      "decided_at": "2026-09-30T17:07:33.727059+00:00",
+      "main": 27.279416922900918,
+      "reason": "beat ens3"
+    },
+    {
+      "model": "ens4_median",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens4_median_20260930T173240_432165Z_6d3919",
+      "decided_at": "2026-09-30T17:33:00.782272+00:00",
+      "main": 27.09197619800543,
+      "reason": "beat ens4"
+    },
+    {
+      "model": "ens4_median_cal",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens4_median_cal_20260930T180532_878323Z_14ca84",
+      "decided_at": "2026-09-30T18:06:02.935877+00:00",
+      "main": 27.02221251603903,
+      "reason": "beat ens4_median"
+    },
+    {
+      "model": "ens5_tftgp",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tftgp_20261001T100951_513610Z_2dca64",
+      "decided_at": "2026-10-01T10:10:33.701204+00:00",
+      "main": 26.907388615833458,
+      "reason": "beat ens4_median_cal"
+    },
+    {
+      "model": "ens5_tftgp_a3",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tftgp_a3_20261001T102945_429148Z_36717c",
+      "decided_at": "2026-10-01T10:30:10.836604+00:00",
+      "main": 26.74747347582628,
+      "reason": "beat ens5_tftgp"
+    },
+    {
+      "model": "ens6_tw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens6_tw_20261001T185544_940865Z_6d4fac",
+      "decided_at": "2026-10-01T19:00:10.473502+00:00",
+      "main": 26.68454298670569,
+      "reason": "beat ens5_tftgp_a3"
+    },
+    {
+      "model": "ens8_dn",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens8_dn_20261002T051324_808760Z_393ff3",
+      "decided_at": "2026-10-02T05:13:51.216804+00:00",
+      "main": 26.54261719511001,
+      "reason": "beat ens6_tw"
+    },
+    {
+      "model": "ens9_vw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens9_vw_20261002T141055_238224Z_762622",
+      "decided_at": "2026-10-02T14:11:27.711571+00:00",
+      "main": 26.512702808039382,
+      "reason": "beat ens8_dn"
+    },
+    {
+      "model": "ens10_rvw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens10_rvw_20261002T155704_480857Z_c6407c",
+      "decided_at": "2026-10-02T15:57:46.152942+00:00",
+      "main": 26.457739664071266,
+      "reason": "beat ens9_vw"
+    },
+    {
+      "model": "ens10_xlvws",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens10_xlvws_20261002T184452_700071Z_33b2ab",
+      "decided_at": "2026-10-02T18:45:40.812287+00:00",
+      "main": 26.43373793754455,
+      "reason": "beat ens10_rvw"
+    },
+    {
+      "model": "ens11_npm",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens11_npm_20261002T211824_860830Z_a6debb",
+      "decided_at": "2026-10-02T21:19:03.584836+00:00",
+      "main": 26.41442366469624,
+      "reason": "beat ens10_xlvws"
+    },
+    {
+      "model": "ens17_twpm",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens17_twpm_20261003T175840_426815Z_dafcce",
+      "decided_at": "2026-10-04T04:21:01.250153+00:00",
+      "main": 25.84013013588905,
+      "reason": "beat ens11_npm"
+    },
+    {
+      "model": "ens18_yoy",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens18_yoy_20261004T044547_904036Z_b3a3a5",
+      "decided_at": "2026-10-04T04:47:04.715740+00:00",
+      "main": 25.798418402722216,
+      "reason": "beat ens17_twpm"
+    },
+    {
+      "model": "ens18_yoy_nv",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens18_yoy_nv_20261004T045416_135202Z_3b94ba",
+      "decided_at": "2026-10-04T04:55:34.516795+00:00",
+      "main": 25.674660533295025,
+      "reason": "beat ens18_yoy"
+    },
+    {
+      "model": "ens19_ypm_nv",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens19_ypm_nv_20261004T065748_128398Z_c5ac08",
+      "decided_at": "2026-10-04T06:59:25.082584+00:00",
+      "main": 25.61256047826829,
+      "reason": "beat ens18_yoy_nv"
+    },
+    {
+      "model": "ens19_ylcg_nv",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens19_ylcg_nv_20261004T102526_443502Z_34270d",
+      "decided_at": "2026-10-04T10:27:10.781252+00:00",
+      "main": 25.598349815352947,
+      "reason": "beat ens19_ypm_nv"
+    },
+    {
+      "model": "ens20_lrel_nv",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens20_lrel_nv_20261004T102923_611671Z_1906e7",
+      "decided_at": "2026-10-04T10:31:03.577268+00:00",
+      "main": 25.596323349849268,
+      "reason": "beat ens19_ylcg_nv"
+    },
+    {
+      "model": "ens_part_loo",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens_part_loo_20261004T184359_986634Z_fb5f3a",
+      "decided_at": "2026-10-04T18:45:26.931787+00:00",
+      "main": 25.574068045866184,
+      "reason": "beat ens20_lrel_nv"
+    },
+    {
+      "model": "ens_part_front",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens_part_front_20261004T190155_086689Z_84def4",
+      "decided_at": "2026-10-04T19:03:32.842807+00:00",
+      "main": 25.54405717948246,
+      "reason": "beat ens_part_loo"
+    },
+    {
+      "model": "ens_part_front2",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens_part_front2_20261004T191632_863052Z_036e0a",
+      "decided_at": "2026-10-04T19:18:58.529910+00:00",
+      "main": 25.5084875867508,
+      "reason": "beat ens_part_front"
+    },
+    {
+      "model": "el_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\el_champ_20261005T074753_230952Z_e209a4",
+      "decided_at": "2026-10-05T07:49:54.148204+00:00",
+      "main": 25.487949031398276,
+      "reason": "beat ens_part_front2"
+    },
+    {
+      "model": "es_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\es_champ_20261005T092611_787574Z_d721dd",
+      "decided_at": "2026-10-05T09:27:27.362714+00:00",
+      "main": 25.457758438654636,
+      "reason": "beat el_champ"
+    },
+    {
+      "model": "et_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\et_champ_20261005T095830_518882Z_112f4d",
+      "decided_at": "2026-10-05T09:59:48.910652+00:00",
+      "main": 25.41342318602477,
+      "reason": "beat es_champ"
+    },
+    {
+      "model": "fq_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\fq_champ_20261005T205205_396558Z_059117",
+      "decided_at": "2026-10-05T20:53:24.389707+00:00",
+      "main": 25.364612022936825,
+      "reason": "beat et_champ"
+    },
+    {
+      "model": "hl_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\hl_champ_20261008T234838_151352Z_39b92a",
+      "decided_at": "2026-10-08T23:50:59.305162+00:00",
+      "main": 25.384749654942613,
+      "reason": "beat fq_champ"
+    },
+    {
+      "model": "ws_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ws_champ_20261011T194628_173088Z_73783a",
+      "decided_at": "2026-10-11T19:48:10.411241+00:00",
+      "main": 25.957495749073278,
+      "reason": "beat hl_champ"
+    },
+    {
+      "model": "hq3_events",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\hq3_events_20261011T195447_037876Z_44fed8",
+      "decided_at": "2026-10-11T19:55:31.110714+00:00",
+      "main": 25.921459125793387,
+      "reason": "beat ws_champ"
+    },
+    {
+      "model": "ic_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ic_champ_20261013T035359_216658Z_c21c26",
+      "decided_at": "2026-10-13T03:55:36.861940+00:00",
+      "main": 25.860787483831473,
+      "reason": "beat hq3_events"
+    }
+  ],
+  "main_metric": "combined",
+  "tolerances": {
+    "part:front": 1.1189969825215025,
+    "part:middle": 1.6468625338340197,
+    "part:back": 2.445263349826042,
+    "monthly:middle": 1.7075540658768635,
+    "monthly:back": 2.494943272724092,
+    "group:A": 1.7550478275265913,
+    "group:B": 2.9550468227919873,
+    "group:C": 3.015664918244113,
+    "alarm:A": 1.6171565534349213,
+    "alarm:B": 2.256730360172859,
+    "alarm:C": 2.094155865070894,
+    "market:Canada": 3.516526477158926,
+    "market:China": 3.7542520467974643,
+    "market:Europe": 2.344699018319307,
+    "market:Germany": 3.0014453422255603,
+    "market:Japan": 3.121096694719913,
+    "market:South Korea": 4.48912376655039,
+    "market:United States": 2.400885741590454
+  },
+  "tolerance_basis": {
+    "part:front": {
+      "default": 1.0,
+      "bootstrap_std": 0.5594984912607512,
+      "tolerance": 1.1189969825215025
+    },
+    "part:middle": {
+      "default": 1.0,
+      "bootstrap_std": 0.8234312669170099,
+      "tolerance": 1.6468625338340197
+    },
+    "part:back": {
+      "default": 1.0,
+      "bootstrap_std": 1.222631674913021,
+      "tolerance": 2.445263349826042
+    },
+    "monthly:middle": {
+      "default": 1.0,
+      "bootstrap_std": 0.8537770329384318,
+      "tolerance": 1.7075540658768635
+    },
+    "monthly:back": {
+      "default": 1.0,
+      "bootstrap_std": 1.247471636362046,
+      "tolerance": 2.494943272724092
+    },
+    "group:A": {
+      "default": 1.0,
+      "bootstrap_std": 0.8775239137632956,
+      "tolerance": 1.7550478275265913
+    },
+    "group:B": {
+      "default": 1.0,
+      "bootstrap_std": 1.4775234113959936,
+      "tolerance": 2.9550468227919873
+    },
+    "group:C": {
+      "default": 1.0,
+      "bootstrap_std": 1.5078324591220564,
+      "tolerance": 3.015664918244113
+    },
+    "alarm:A": {
+      "default": 1.0,
+      "bootstrap_std": 0.8085782767174606,
+      "tolerance": 1.6171565534349213
+    },
+    "alarm:B": {
+      "default": 1.0,
+      "bootstrap_std": 1.1283651800864296,
+      "tolerance": 2.256730360172859
+    },
+    "alarm:C": {
+      "default": 1.0,
+      "bootstrap_std": 1.047077932535447,
+      "tolerance": 2.094155865070894
+    },
+    "market:Canada": {
+      "default": 2.0,
+      "bootstrap_std": 1.758263238579463,
+      "tolerance": 3.516526477158926
+    },
+    "market:China": {
+      "default": 2.0,
+      "bootstrap_std": 1.8771260233987321,
+      "tolerance": 3.7542520467974643
+    },
+    "market:Europe": {
+      "default": 2.0,
+      "bootstrap_std": 1.1723495091596534,
+      "tolerance": 2.344699018319307
+    },
+    "market:Germany": {
+      "default": 2.0,
+      "bootstrap_std": 1.5007226711127801,
+      "tolerance": 3.0014453422255603
+    },
+    "market:Japan": {
+      "default": 2.0,
+      "bootstrap_std": 1.5605483473599564,
+      "tolerance": 3.121096694719913
+    },
+    "market:South Korea": {
+      "default": 2.0,
+      "bootstrap_std": 2.244561883275195,
+      "tolerance": 4.48912376655039
+    },
+    "market:United States": {
+      "default": 2.0,
+      "bootstrap_std": 1.200442870795227,
+      "tolerance": 2.400885741590454
+    }
+  },
+  "rejected": [
+    {
+      "model": "ens4_median_cal2",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens4_median_cal2_20260930T181503_866550Z_ee8a3f",
+      "decided_at": "2026-09-30T18:15:33.902843+00:00",
+      "main": 26.959978499407928,
+      "reason": "beat ens4_median_cal",
+      "rejected_at": "2026-10-01T02:52:58.240687+00:00",
+      "rejection_reason": "사용자 결정(2026-10-01 오전): 확인용 기준월 7회차에서 이전 챔피언보다 나쁨(중간 31.61 vs 31.21), 달력 XGBoost 재료 단독 악화 → 비채택"
+    },
+    {
+      "model": "ens5_tftgc",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tftgc_20261001T075529_150435Z_ee126e",
+      "decided_at": "2026-10-01T07:56:11.469047+00:00",
+      "main": 26.868337036929223,
+      "reason": "beat ens4_median_cal",
+      "rejected_at": "2026-10-01T07:57:25.281859+00:00",
+      "rejection_reason": "자율 판단(사용자가 판단 위임, 2026-10-01 오후): 확인용 기준월 8회차 중간 31.61 vs 31.21 악화, 재료 tft_global_cal 단독 30.33으로 tft_global 28.95보다 나쁨(결합에서만 개선) → cal2와 같은 근거로 비채택"
+    },
+    {
+      "model": "ens5_tftgp_a5",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tftgp_a5_20261001T150203_723851Z_9f2920",
+      "decided_at": "2026-10-01T15:02:36.315142+00:00",
+      "main": 26.7337081866679,
+      "reason": "beat ens5_tftgp_a3",
+      "rejected_at": "2026-10-01T15:03:27.924705+00:00",
+      "rejection_reason": "위임 판단(사용자 부재, '판단 기다리지 말고 진행' 지시): 백테스트 개선 −0.014%p(26.733 vs 26.747)로 잡음 수준이고 확인용 기준월 11회차가 앞 18.573 vs 18.554, 중간 30.176 vs 30.144로 두 부분 모두 나쁨. ens5_tftgc 때와 같은 기준으로 비채택. 시드 3개 → 5개 평균은 추가 이득 없음."
+    },
+    {
+      "model": "ens5_tftgp_a3_tw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tftgp_a3_tw_20261001T185306_498388Z_af8190",
+      "decided_at": "2026-10-01T18:53:30.157155+00:00",
+      "main": 26.687103669822964,
+      "reason": "beat ens5_tftgp_a3",
+      "rejected_at": "2026-10-01T18:54:03.538341+00:00",
+      "rejection_reason": "위임 판단(사용자 취침 중 '판단도 임의로'): 백테스트 26.687 vs 26.747(−0.06%p, 기준월 3/5, 중국 +0.26)로 규칙 통과했지만 확인용 기준월 12회차에서 중간 부분(4~12개월)이 30.454 vs 30.144로 나쁨(앞 부분은 18.546 vs 18.554로 조금 좋음). 결과 보기 전 progress.md에 적은 기준(두 부분 중 하나라도 나쁘면 비채택)대로 비채택. rich_tw 단독은 31.64 → 29.78로 크게 좋아 다음 실험 재료로 남김."
+    },
+    {
+      "model": "ens5_tw2",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens5_tw2_20261001T185849_264638Z_ebd2d2",
+      "decided_at": "2026-10-01T18:59:16.376772+00:00",
+      "main": 26.676197222473576,
+      "reason": "beat ens5_tftgp_a3",
+      "rejected_at": "2026-10-01T18:59:49.531998+00:00",
+      "rejection_reason": "위임 판단(사용자 취침 중): 백테스트 26.676 vs 26.747(−0.07%p, 기준월 3/5)로 규칙 통과했지만 확인용 기준월 13회차에서 중간(4~12개월) 30.355 vs 30.144로 나쁨(앞 18.447 vs 18.554는 좋음). 사전 기준(한 부분이라도 나쁘면 비채택)대로 비채택. rich_tw와 같은 패턴(중국을 더 높임)."
+    },
+    {
+      "model": "ens6_ptw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens6_ptw_20261001T191322_747034Z_10969e",
+      "decided_at": "2026-10-01T19:13:49.238344+00:00",
+      "main": 26.645895693934847,
+      "reason": "beat ens6_tw",
+      "rejected_at": "2026-10-01T19:14:24.596100+00:00",
+      "rejection_reason": "위임 판단(사용자 취침 중): 백테스트 26.646 vs 26.685(−0.04%p, 기준월 4/5, 중국 −0.12)로 규칙 통과, 확인용 기준월 15회차 앞 18.403 vs 18.418(좋음)·중간 30.044 vs 30.028(+0.016 나쁨). 차이는 아주 작지만 사전 기준(한 부분이라도 나쁘면 비채택)을 그대로 적용."
+    },
+    {
+      "model": "ens6_lc",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens6_lc_20261002T041513_733146Z_599bf3",
+      "decided_at": "2026-10-02T04:15:42.629947+00:00",
+      "main": 26.664200376691085,
+      "reason": "beat ens6_tw",
+      "rejected_at": "2026-10-02T04:16:27.509657+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.660 vs 26.685(−0.02%p, 기준월 3/5, 중국 −0.16)로 규칙 통과했지만 확인용 기준월 16회차 중간 30.041 vs 30.028(+0.013 나쁨), 앞 18.377 vs 18.418(좋음). 사전 기준(한 부분이라도 나쁘면 비채택)대로 비채택."
+    },
+    {
+      "model": "ens8_dn3",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens8_dn3_20261002T070743_365494Z_9a72cd",
+      "decided_at": "2026-10-02T07:08:13.475891+00:00",
+      "main": 26.523986080371206,
+      "reason": "beat ens8_dn",
+      "rejected_at": "2026-10-02T07:08:49.208758+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.52 vs 26.54(−0.02%p)로 규칙 통과했지만 확인용 기준월 18회차 앞 18.237 vs 18.226·중간 29.953 vs 29.841로 두 부분 모두 나쁨 → 사전 기준대로 비채택. TFT A·공동 TFT와 같은 결론: 시드 평균은 단독은 좋게 하지만 중앙값 앙상블에는 추가 이득 없음."
+    },
+    {
+      "model": "ens9_ntw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens9_ntw_20261002T102637_958260Z_1aeb30",
+      "decided_at": "2026-10-02T10:27:41.179585+00:00",
+      "main": 26.491086411781577,
+      "reason": "beat ens8_dn",
+      "rejected_at": "2026-10-02T10:28:27.775037+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.49 vs 26.54로 규칙 통과, 확인용 기준월 19회차 앞 18.367 vs 18.226·중간 29.919 vs 29.841 두 부분 모두 나쁨 → 사전 기준대로 비채택."
+    },
+    {
+      "model": "ens8_dn_ntw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens8_dn_ntw_20261002T102616_201146Z_e4f658",
+      "decided_at": "2026-10-02T10:29:02.726275+00:00",
+      "main": 26.50887475734496,
+      "reason": "beat ens8_dn",
+      "rejected_at": "2026-10-02T10:29:45.268148+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.51 vs 26.54로 규칙 통과, 확인용 기준월 20회차 앞 18.451 vs 18.226·중간 30.066 vs 29.841 두 부분 모두 나쁨 → 비채택."
+    },
+    {
+      "model": "ens10_e24",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens10_e24_20261002T141619_658927Z_724614",
+      "decided_at": "2026-10-02T14:16:52.815654+00:00",
+      "main": 26.461790906302486,
+      "reason": "beat ens9_vw",
+      "rejected_at": "2026-10-02T14:17:30.808270+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.46 vs 26.51(−0.05%p, 기준월 4/5, 중국 −0.13)로 규칙 통과, 확인용 기준월 22회차 중간 29.665 vs 29.748(좋음)이나 앞 18.205 vs 18.183(+0.022 나쁨) → 사전 기준(한 부분이라도 나쁘면 비채택)대로 비채택."
+    },
+    {
+      "model": "ens10_dswap",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens10_dswap_20261002T161840_543853Z_2f8ba7",
+      "decided_at": "2026-10-02T16:19:36.938309+00:00",
+      "main": 26.440520284512615,
+      "reason": "beat ens10_rvw",
+      "rejected_at": "2026-10-02T16:20:16.270978+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.44 vs 26.46(−0.02%p, 기준월 3/5)로 규칙 통과, 확인용 기준월 24회차 앞 18.160 vs 18.099·중간 29.837 vs 29.553 두 부분 모두 나쁨 → 비채택."
+    },
+    {
+      "model": "ens11_theta",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens11_theta_20261002T163605_274474Z_e51088",
+      "decided_at": "2026-10-02T16:36:42.984915+00:00",
+      "main": 26.45625012446631,
+      "reason": "beat ens10_rvw",
+      "rejected_at": "2026-10-02T16:37:24.527981+00:00",
+      "rejection_reason": "위임 판단: 백테스트 개선 −0.0015%p(26.4562 vs 26.4577, 기준월 3/5)로 잡음 수준, 확인용 기준월 25회차 중간 29.488 vs 29.553(좋음)이나 앞 18.125 vs 18.099(+0.026 나쁨) → 사전 기준대로 비채택."
+    },
+    {
+      "model": "ens10_xclvws",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens10_xclvws_20261002T185511_811293Z_f058d1",
+      "decided_at": "2026-10-02T18:55:55.913565+00:00",
+      "main": 26.410001474405394,
+      "reason": "beat ens10_xlvws",
+      "rejected_at": "2026-10-02T18:56:43.219801+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.410 vs 26.434(−0.024%p, 기준월 4/5)로 규칙 통과, 확인용 기준월 27회차 앞 18.056 vs 18.061(좋음)이나 중간 29.554 vs 29.412(+0.14 나쁨) → 사전 기준대로 비채택."
+    },
+    {
+      "model": "ens11_nlvw",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens11_nlvw_20261002T203843_588892Z_4d6f73",
+      "decided_at": "2026-10-02T20:39:24.595413+00:00",
+      "main": 26.407961753647868,
+      "reason": "beat ens10_xlvws",
+      "rejected_at": "2026-10-02T20:40:08.179414+00:00",
+      "rejection_reason": "위임 판단: 백테스트 26.408 vs 26.434(−0.026%p, 기준월 3/5)로 규칙 통과, 확인용 기준월 28회차 앞 18.148 vs 18.061·중간 29.534 vs 29.412 두 부분 모두 나쁨 → 비채택."
+    },
+    {
+      "model": "ens12_npm2",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_npm2_20261002T215410_054628Z_9e61ab",
+      "decided_at": "2026-10-02T21:55:22.645045+00:00",
+      "main": 26.402475778618925,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T21:56:16.363951+00:00",
+      "rejection_reason": "확인용 30회차: 앞 18.03 vs 17.97, 중간 27.91 vs 27.79 둘 다 나쁨 — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_chr",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_chr_20261002T221140_603643Z_1b199f",
+      "decided_at": "2026-10-02T22:12:23.613410+00:00",
+      "main": 26.34821858301341,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T22:13:23.320484+00:00",
+      "rejection_reason": "확인용 31회차: 앞 17.98 vs 17.97, 중간 27.84 vs 27.79 둘 다 나쁨 — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_chrxl",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_chrxl_20261002T223941_522494Z_5f05c2",
+      "decided_at": "2026-10-02T22:40:43.745243+00:00",
+      "main": 26.305441545952306,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T22:41:56.447750+00:00",
+      "rejection_reason": "확인용 32회차: 앞 17.99 vs 17.97, 중간 27.83 vs 27.79 둘 다 나쁨 — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_tfm",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_tfm_20261002T230122_487693Z_ea1b48",
+      "decided_at": "2026-10-02T23:02:26.782907+00:00",
+      "main": 26.317768157647418,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T23:03:14.166041+00:00",
+      "rejection_reason": "확인용 33회차: 앞 18.06 vs 17.97, 중간 27.88 vs 27.79 둘 다 나쁨 — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_coh",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_coh_20261002T233619_315662Z_947b5c",
+      "decided_at": "2026-10-02T23:36:52.374706+00:00",
+      "main": 26.407350750049602,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T23:37:36.497682+00:00",
+      "rejection_reason": "확인용 34회차: 앞 18.05 vs 17.97 나쁨(중간 27.69 vs 27.79는 좋음) — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_chrxl_xcn",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_chrxl_xcn_20261002T234619_117898Z_f706bf",
+      "decided_at": "2026-10-02T23:46:49.899427+00:00",
+      "main": 26.280873803088753,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-02T23:47:49.646425+00:00",
+      "rejection_reason": "확인용 35회차: 앞 17.9774 vs 17.9723(+0.005 나쁨), 중간 29.336 vs 29.412(좋음) — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절. 사실상 동점이라 사용자 판단용 대안으로 보고서에 올림"
+    },
+    {
+      "model": "ens12_chrft",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_chrft_20261002T235930_121075Z_b43856",
+      "decided_at": "2026-10-03T00:00:01.605360+00:00",
+      "main": 26.293167659001643,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T00:00:41.320222+00:00",
+      "rejection_reason": "확인용 36회차: 앞 18.003 vs 17.972 나쁨(중간 29.33 vs 29.41 좋음) — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_ent",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_ent_20261003T003938_178305Z_3fdfc0",
+      "decided_at": "2026-10-03T00:40:05.775988+00:00",
+      "main": 26.390921804816543,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T00:40:49.291821+00:00",
+      "rejection_reason": "확인용 37회차: 앞 18.014 vs 17.972 나쁨(중간 29.247 vs 29.412 좋음) — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens13_entft",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens13_entft_20261003T005903_862067Z_f89d9d",
+      "decided_at": "2026-10-03T00:59:28.916200+00:00",
+      "main": 26.333677162391556,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T01:00:01.385549+00:00",
+      "rejection_reason": "확인용 38회차: 앞 18.000 vs 17.972 나쁨(중간 29.216 vs 29.412 좋음) — 사전 규칙(부분 하나라도 나쁘면 거절)에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_chrxlent",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_chrxlent_20261003T012540_404864Z_81724a",
+      "decided_at": "2026-10-03T01:26:10.143491+00:00",
+      "main": 26.320258921640672,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T01:27:47.717773+00:00",
+      "rejection_reason": "확인용 39회차: 앞 18.032 vs 17.972, 중간 29.455 vs 29.412 둘 다 나쁨 — 사전 규칙에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens12_brand",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens12_brand_20261003T013914_328761Z_3962d2",
+      "decided_at": "2026-10-03T01:39:43.582760+00:00",
+      "main": 26.39700810278062,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T01:40:21.664560+00:00",
+      "rejection_reason": "확인용 40회차: 앞 18.000 vs 17.972 나쁨(중간 29.242 vs 29.412 좋음) — 사전 규칙에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens11_brand",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens11_brand_20261003T014956_588489Z_aa5542",
+      "decided_at": "2026-10-03T01:50:24.192037+00:00",
+      "main": 26.40768677304671,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T01:51:04.039875+00:00",
+      "rejection_reason": "확인용 41회차: 앞 17.990 vs 17.972 나쁨(중간 29.385 vs 29.412 좋음) — 사전 규칙에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ens13_ftboth",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ens13_ftboth_20261003T040148_560402Z_860add",
+      "decided_at": "2026-10-03T04:02:29.844334+00:00",
+      "main": 26.283010982152337,
+      "reason": "beat ens11_npm",
+      "rejected_at": "2026-10-03T04:03:12.977339+00:00",
+      "rejection_reason": "확인용 42회차: 앞 18.057 vs 17.972 나쁨(중간 29.241 vs 29.412 좋음) — 사전 규칙에 따라 위임 판단으로 거절"
+    },
+    {
+      "model": "ws_nvcn_champ",
+      "run_dir": "experiments\\horizon_eval_v1\\reports\\ws_nvcn_champ_20261011T195107_344736Z_edd533",
+      "decided_at": "2026-10-11T19:51:52.778338+00:00",
+      "main": 25.884361947214543,
+      "reason": "beat ws_champ",
+      "rejected_at": "2026-10-11T19:53:24.451955+00:00",
+      "rejection_reason": "확인용 기준월(2025-07) 중간 29.88 vs ws_champ 29.23(+0.65, 잡음 기준 초과); 5개 기준월 이득 −0.07·나빠진 기준월 2/5로 작아 확인용 악화를 상쇄 못 함 — 메인 결정(사용자 수면 중, 아침 보고)"
+    }
+  ]
+}
